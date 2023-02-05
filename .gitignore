@@ -10,6 +10,9 @@
 *.index
 *.ffindex
 *.torrent
+*.autosave
+*.mocha
+*.jpg
 
 .gradle
 .vspreview
