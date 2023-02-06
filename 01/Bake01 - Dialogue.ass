@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 397
-Active Line: 619
-Video Position: 33626
+Scroll Position: 348
+Active Line: 558
+Video Position: 29756
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,7 +133,7 @@ Dialogue: 12,0:08:50.42,0:08:52.01,Main,,0,0,0,,À phải quên mất.
 Dialogue: 12,0:08:52.01,0:08:54.14,Main,,0,0,0,,Oshino có kêu tớ qua.
 Dialogue: 12,0:08:54.14,0:08:55.64,Main,,0,0,0,,Oshino-san á?
 Dialogue: 12,0:08:55.64,0:08:56.70,Main,,0,0,0,,Sao thế?
-Dialogue: 12,0:08:56.70,0:08:58.80,Main,,0,0,0,,À thì giúp chút việc ấy mà.
+Dialogue: 12,0:08:56.70,0:08:58.80,Main,,0,0,0,,À thì có vài việc ấy mà.
 Dialogue: 12,0:09:00.16,0:09:02.48,Main,,0,0,0,,Hanekawa, cậu làm nốt nhé?
 Dialogue: 12,0:09:02.48,0:09:04.85,Main,,0,0,0,,Nếu cậu hứa bù lần sau thì...
 Dialogue: 12,0:09:04.85,0:09:06.23,Main,,0,0,0,,nay tới đây là được rồi.
@@ -432,8 +432,8 @@ Dialogue: 12,0:13:39.38,0:13:40.98,Main,,0,0,0,,Không có chiến với tranh g
 Dialogue: 12,0:13:40.98,0:13:43.57,Main,,0,0,0,,Không sao? Tưởng gì~
 Dialogue: 12,0:13:44.87,0:13:46.80,Main,,0,0,0,,Thế... cậu muốn gì?
 Dialogue: 12,0:13:46.80,0:13:48.70,Main,,0,0,0,,Cũng chưa biết thế nào cơ mà...
-Dialogue: 12,0:13:48.70,0:13:51.68,Main,,0,0,0,,có khả năng là tôi đủ sức giúp cậu.
-Dialogue: 12,0:13:51.68,0:13:52.70,Main,,0,0,0,,Đủ sức?
+Dialogue: 12,0:13:48.70,0:13:51.68,Main,,0,0,0,,có khả năng là tôi {\u1}giúp{\u0} được cậu.
+Dialogue: 12,0:13:51.68,0:13:52.70,Main,,0,0,0,,{\u1}Giúp{\u0}?
 Dialogue: 12,0:13:53.94,0:13:57.64,Main,,0,0,0,,Bớt vớ vẩn đi!\NCậu thì có thể làm được gì cơ chứ.
 Dialogue: 12,0:13:58.00,0:14:01.02,Main,,0,0,0,,Cứ bơ đi và im lặng là được rồi.
 Dialogue: 12,0:14:01.02,0:14:02.30,Main,,0,0,0,,Cả lòng tốt...
@@ -589,10 +589,10 @@ Dialogue: 12,0:20:31.12,0:20:33.87,Main,,0,0,0,,{\i1}Cơ mà nói ra thì có í
 Dialogue: 12,0:20:33.87,0:20:34.98,Main,,0,0,0,,Vậy à.
 Dialogue: 12,0:20:34.98,0:20:36.46,Main,,0,0,0,,Không là gì cả.
 Dialogue: 12,0:20:36.46,0:20:37.51,Main,,0,0,0,,Vậy được thôi.
-Dialogue: 12,0:20:37.95,0:20:41.09,Main,,0,0,0,,Tôi được nghe là chú có thể giúp tôi.
-Dialogue: 12,0:20:41.09,0:20:42.38,Main,,0,0,0,,Giúp á?
+Dialogue: 12,0:20:37.95,0:20:41.09,Main,,0,0,0,,Tôi được nghe là chú có thể {\u1}cứu{\u0} tôi.
+Dialogue: 12,0:20:41.09,0:20:42.38,Main,,0,0,0,,{\u1}Cứu{\u0} á?
 Dialogue: 12,0:20:42.38,0:20:43.93,Main,,0,0,0,,Đào đâu ra.
-Dialogue: 12,0:20:43.93,0:20:46.76,Main,,0,0,0,,Tự cô sẽ cứu chính mình, tiểu thư à.
+Dialogue: 12,0:20:43.93,0:20:46.76,Main,,0,0,0,,Chỉ có cô mới {\u1}cứu{\u0} được cô thôi, tiểu thư à.
 Dialogue: 12,0:20:48.01,0:20:51.60,Main,,0,0,0,,Đã có 5 kẻ từng phun ra câu đó với tôi.
 Dialogue: 12,0:20:51.60,0:20:53.50,Main,,0,0,0,,Tất cả họ đều là dân lừa đảo.
 Dialogue: 12,0:20:53.98,0:20:56.77,Main,,0,0,0,,Liệu chú cũng cùng một giuộc chứ, Oshino-san?
@@ -655,9 +655,9 @@ Dialogue: 12,0:23:25.42,0:23:27.23,Main,,0,0,0,,Nó đơn giản là ở đó th
 Dialogue: 12,0:23:27.23,0:23:30.34,Main,,0,0,0,,Chỉ khi tiểu thư cầu mong gì đó, \Ncòn không thì không xuất hiện.
 Dialogue: 12,0:23:30.84,0:23:35.22,Main,,0,0,0,,À không, dù là thế \Nnhưng sẽ không đào sâu đâu mà lo.
 Dialogue: 12,0:23:35.22,0:23:38.01,Main,,0,0,0,,Nói chung được rồi, ta đã rõ.
-Dialogue: 12,0:23:38.01,0:23:41.16,Main,,0,0,0,,Nếu cô muốn lấy lại cân nặng, ta sẽ giúp.
+Dialogue: 12,0:23:38.01,0:23:41.16,Main,,0,0,0,,Nếu muốn lấy lại cân nặng, ta sẽ {\u1}giúp{\u0}.
 Dialogue: 12,0:23:41.69,0:23:43.56,Main,,600,0,0,,Được Araragi-kun giới thiệu cơ mà.
-Dialogue: 12,0:23:45.73,0:23:47.69,Main,,0,0,0,,Chú sẽ giúp tôi sao?
+Dialogue: 12,0:23:45.73,0:23:47.69,Main,,0,0,0,,Chú sẽ {\u1}cứu{\u0} tôi sao?
 Dialogue: 12,0:25:25.25,0:25:26.06,Main,,0,0,0,,{\i0}Karen đây!
 Dialogue: 12,0:25:26.06,0:25:26.87,Main,,0,0,0,,{\i0}Tsukihi có!
 Dialogue: 12,0:25:26.87,0:25:28.18,Main,,0,0,0,,{\i0}Người ta nói kiến thợ ấy.
