@@ -15,10 +15,9 @@ Audio File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 3
-Active Line: 9
-Video Position: 7460
+Video Zoom Percent: 0.500000
+Active Line: 7
+Video Position: 7400
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,8 +38,8 @@ Dialogue: 0,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur3\
 Dialogue: 1,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur1\bord0\shad0\c&HFFFFFF&\b1\4c&H000000&\4a&H9D&\pos(596.91,569.22)\fscx45\fscy45}HÀNH LANG SẠCH SẼ
 Dialogue: 0,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur3\bord0\shad0\c&HFFFFFF&\b1\1a&H92&\pos(1048.91,569.22)\fscx45\fscy45}KHUÔN VIÊN NĂNG ĐỘNG
 Dialogue: 1,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur1\bord0\shad0\c&HFFFFFF&\b1\4c&H000000&\4a&H9D&\pos(1048.91,569.22)\fscx45\fscy45}KHUÔN VIÊN NĂNG ĐỘNG
-Dialogue: 0,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur3\bord0\shad0\c&H9FAAFA&\b1\1a&H89&\fscx53\fscy53\pos(1386.51,907.5)}CỔNG TRONG
-Dialogue: 1,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur1\bord0\shad0\c&HC7CCFF&\b1\4c&H000000&\4a&H9D&\fscx53\fscy53\pos(1386.51,907.5)}CỔNG TRONG
+Dialogue: 0,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur3\bord0\shad0\c&H9FAAFA&\b1\1a&H89&\pos(1386.51,907.5)\fscx43\fscy43}CỔNG TRONG
+Dialogue: 1,0:05:08.62,0:05:11.12,Signs,,0,0,0,,{\an8\fnVL DellaRobbia BT\blur1\bord0\shad0\c&HC7CCFF&\b1\4c&H000000&\4a&H9D&\pos(1386.51,907.5)\fscx43\fscy43}CỔNG TRONG
 Dialogue: 0,0:05:11.12,0:05:12.12,Signs,,0,0,0,,{\an5\fnVL DellaRobbia BT\blur3\bord0\shad0\c&HECEEE7&\b1\1a&H9B&\pos(362.45,775.47)\fscx56\fscy56}MA LẢNG VẢNG
 Dialogue: 1,0:05:11.12,0:05:12.12,Signs,,0,0,0,,{\an5\fnVL DellaRobbia BT\blur1.1\bord0\shad0.5\c&HECEEE7&\b1\4c&H000000&\4a&HB1&\pos(362.45,775.47)\fscx56\fscy56}MA LẢNG VẢNG
 Dialogue: 0,0:05:11.12,0:05:12.12,Signs,,0,0,0,,{\an5\fnVL DellaRobbia BT\blur3\bord0\shad0\c&HECEEE7&\b1\1a&H9B&\pos(815.31,775.47)\fscx56\fscy56}LỐI RA VÀO
@@ -59,129 +58,129 @@ Dialogue: 0,0:07:16.83,0:07:20.29,Signs,,0,0,0,,{=0}{\clip()\an5\fnGentium Basic
 Dialogue: 1,0:00:00.00,0:00:01.48,Signs,,0,0,0,,{\fs25\an4\blur1\fnVL DellaRobbia BT\c&H656662&\b0\fscx89\fscy97\pos(1018.12,196.19)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
 Dialogue: 1,0:00:00.00,0:00:01.48,Signs,,0,0,0,,{\fs25\an4\blur1\fnVL DellaRobbia BT\c&H656662&\b0\fscx89\fscy97\pos(1019.12,196.19)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
 Dialogue: 0,0:00:01.48,0:00:03.90,Signs,,0,0,0,,{\q2\shad1\fn000 LetterOMatic!\fs24\fsp3\c&H5B657D&\blur1\move(953.05,333.52,933.84,333.51,21,2399)\4c&H2B2F34&\fscx63\fscy52}TRƯỜNG THPT TƯ THỤC NAOETSU
-Dialogue: 0,0:00:15.95,0:00:15.99,Signs,TS01,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.36,721.5)\alpha&HB0&}Nụ
-Dialogue: 1,0:00:15.95,0:00:15.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)}Nụ
+Dialogue: 0,0:00:15.95,0:00:15.99,Signs,TS01,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.36,721.5)\alpha&HB0&}Ki
+Dialogue: 1,0:00:15.95,0:00:15.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)}Ki
 Dialogue: 0,0:00:15.95,0:00:15.99,Signs,,0,0,0,,{\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542,867.05)\fscx100\fscy100}Hoạt Cảnh số      008
-Dialogue: 0,0:00:15.99,0:00:16.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.98,722)\alpha&HB0&}Nụ
-Dialogue: 1,0:00:15.99,0:00:16.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.98,722)}Nụ
+Dialogue: 0,0:00:15.99,0:00:16.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.98,722)\alpha&HB0&}Ki
+Dialogue: 1,0:00:15.99,0:00:16.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.98,722)}Ki
 Dialogue: 0,0:00:15.99,0:00:16.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542.62,867.54)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.03,0:00:16.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.31,721.46)\alpha&HB0&}Nụ
-Dialogue: 1,0:00:16.03,0:00:16.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.31,721.46)}Nụ
+Dialogue: 0,0:00:16.03,0:00:16.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.31,721.46)\alpha&HB0&}Ki
+Dialogue: 1,0:00:16.03,0:00:16.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.31,721.46)}Ki
 Dialogue: 0,0:00:16.03,0:00:16.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1541.95,867.01)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.07,0:00:16.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.34,722)\alpha&HB0&}Nụ
-Dialogue: 1,0:00:16.07,0:00:16.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.34,722)}Nụ
+Dialogue: 0,0:00:16.07,0:00:16.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.34,722)\alpha&HB0&}Ki
+Dialogue: 1,0:00:16.07,0:00:16.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.34,722)}Ki
 Dialogue: 0,0:00:16.07,0:00:16.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1541.98,867.55)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.12,0:00:16.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)\c&H724543&}Hôn
+Dialogue: 0,0:00:16.12,0:00:16.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)\c&H724543&}Kiss
 Dialogue: 0,0:00:16.12,0:00:16.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.33,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.16,0:00:16.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.9,722.05)\c&H724543&}Hôn
+Dialogue: 0,0:00:16.16,0:00:16.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.9,722.05)\c&H724543&}Kiss
 Dialogue: 0,0:00:16.16,0:00:16.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1543.87,867.6)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.20,0:00:16.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.14,721.31)\c&H724543&}Hôn
+Dialogue: 0,0:00:16.20,0:00:16.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.14,721.31)\c&H724543&}Kiss
 Dialogue: 0,0:00:16.20,0:00:16.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.12,866.86)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.24,0:00:16.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.39,722.04)\c&H724543&}Hôn
+Dialogue: 0,0:00:16.24,0:00:16.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.39,722.04)\c&H724543&}Kiss
 Dialogue: 0,0:00:16.24,0:00:16.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.36,867.59)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.28,0:00:16.32,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.36,721.5)\alpha&HB0&}Nụ-Hô
-Dialogue: 1,0:00:16.28,0:00:16.32,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)}Nụ-Hô
+Dialogue: 0,0:00:16.28,0:00:16.32,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.36,721.5)\alpha&HB0&}Kiss-sh
+Dialogue: 1,0:00:16.28,0:00:16.32,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)}Kiss-sh
 Dialogue: 0,0:00:16.28,0:00:16.32,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.32,0:00:16.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.94,722.08)\alpha&HB0&}Nụ-Hô
-Dialogue: 1,0:00:16.32,0:00:16.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.94,722.08)}Nụ-Hô
+Dialogue: 0,0:00:16.32,0:00:16.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.94,722.08)\alpha&HB0&}Kiss-sh
+Dialogue: 1,0:00:16.32,0:00:16.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.94,722.08)}Kiss-sh
 Dialogue: 0,0:00:16.32,0:00:16.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542.59,867.63)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.37,0:00:16.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.68,721.64)\alpha&HB0&}Nụ-Hô
-Dialogue: 1,0:00:16.37,0:00:16.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.68,721.64)}Nụ-Hô
+Dialogue: 0,0:00:16.37,0:00:16.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.68,721.64)\alpha&HB0&}Kiss-sh
+Dialogue: 1,0:00:16.37,0:00:16.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.68,721.64)}Kiss-sh
 Dialogue: 0,0:00:16.37,0:00:16.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542.32,867.19)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.41,0:00:16.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.86,722)\alpha&HB0&}Nụ-Hô
-Dialogue: 1,0:00:16.41,0:00:16.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.86,722)}Nụ-Hô
+Dialogue: 0,0:00:16.41,0:00:16.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs150\blur4\pos(961.86,722)\alpha&HB0&}Kiss-sh
+Dialogue: 1,0:00:16.41,0:00:16.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.86,722)}Kiss-sh
 Dialogue: 0,0:00:16.41,0:00:16.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542.5,867.55)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.45,0:00:16.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.45,0:00:16.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.5)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.45,0:00:16.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.33,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.49,0:00:16.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.03,722.13)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.49,0:00:16.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.03,722.13)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.49,0:00:16.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.01,867.68)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.53,0:00:16.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.54)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.53,0:00:16.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.36,721.54)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.53,0:00:16.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.33,867.09)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.57,0:00:16.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.26,722)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.57,0:00:16.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.26,722)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.57,0:00:16.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.23,867.55)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.62,0:00:16.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.81,721.55)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.62,0:00:16.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.81,721.55)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.62,0:00:16.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1543.78,867.1)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.66,0:00:16.70,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.74,721.98)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.66,0:00:16.70,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.74,721.98)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.66,0:00:16.70,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1543.72,867.53)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.70,0:00:16.74,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.23,721.45)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.70,0:00:16.74,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(961.23,721.45)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.70,0:00:16.74,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.21,867)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.74,0:00:16.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.75,721.95)\c&H724543&}Nụ-Hôn
+Dialogue: 0,0:00:16.74,0:00:16.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs150\blur1\pos(960.75,721.95)\c&H724543&}Kiss-shot
 Dialogue: 0,0:00:16.74,0:00:16.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1543.72,867.5)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.78,0:00:16.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(960,550.07)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:16.78,0:00:16.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(960,550.07)}Nụ-Hôn
+Dialogue: 0,0:00:16.78,0:00:16.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(960,550.07)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:16.78,0:00:16.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(960,550.07)}Kiss-shot
 Dialogue: 0,0:00:16.78,0:00:16.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(955.43,744)\alpha&HB0&}Acerola-orio
 Dialogue: 1,0:00:16.78,0:00:16.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(955.43,744)}Acerola-orio
 Dialogue: 0,0:00:16.78,0:00:16.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.82,0:00:16.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(960.28,550.76)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:16.82,0:00:16.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(960.28,550.76)}Nụ-Hôn
+Dialogue: 0,0:00:16.82,0:00:16.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(960.28,550.76)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:16.82,0:00:16.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(960.28,550.76)}Kiss-shot
 Dialogue: 0,0:00:16.82,0:00:16.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(955.71,744.69)\alpha&HB0&}Acerola-orio
 Dialogue: 1,0:00:16.82,0:00:16.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(955.71,744.69)}Acerola-orio
 Dialogue: 0,0:00:16.82,0:00:16.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1542.28,867.74)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.87,0:00:16.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.99,550.07)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:16.87,0:00:16.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.99,550.07)}Nụ-Hôn
+Dialogue: 0,0:00:16.87,0:00:16.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.99,550.07)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:16.87,0:00:16.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.99,550.07)}Kiss-shot
 Dialogue: 0,0:00:16.87,0:00:16.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(955.42,744)\alpha&HB0&}Acerola-orio
 Dialogue: 1,0:00:16.87,0:00:16.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(955.42,744)}Acerola-orio
 Dialogue: 0,0:00:16.87,0:00:16.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1541.99,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.91,0:00:16.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.75,550.6)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:16.91,0:00:16.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.75,550.6)}Nụ-Hôn
+Dialogue: 0,0:00:16.91,0:00:16.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.75,550.6)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:16.91,0:00:16.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.75,550.6)}Kiss-shot
 Dialogue: 0,0:00:16.91,0:00:16.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(955.18,744.53)\alpha&HB0&}Acerola-orio
 Dialogue: 1,0:00:16.91,0:00:16.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(955.18,744.53)}Acerola-orio
 Dialogue: 0,0:00:16.91,0:00:16.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFAF6F3&\pos(1541.75,867.58)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.95,0:00:16.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(960,550.07)}Nụ-Hôn
+Dialogue: 0,0:00:16.95,0:00:16.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(960,550.07)}Kiss-shot
 Dialogue: 0,0:00:16.95,0:00:16.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(955.43,744)}Acerola-orion
 Dialogue: 0,0:00:16.95,0:00:16.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.33,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:16.99,0:00:17.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(960.3,550.61)}Nụ-Hôn
+Dialogue: 0,0:00:16.99,0:00:17.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(960.3,550.61)}Kiss-shot
 Dialogue: 0,0:00:16.99,0:00:17.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(955.73,744.54)}Acerola-orion
 Dialogue: 0,0:00:16.99,0:00:17.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.63,867.59)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.03,0:00:17.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(959.65,550.11)}Nụ-Hôn
+Dialogue: 0,0:00:17.03,0:00:17.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(959.65,550.11)}Kiss-shot
 Dialogue: 0,0:00:17.03,0:00:17.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(955.08,744.04)}Acerola-orion
 Dialogue: 0,0:00:17.03,0:00:17.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1543.98,867.09)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.08,0:00:17.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(959.75,550.52)}Nụ-Hôn
+Dialogue: 0,0:00:17.08,0:00:17.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(959.75,550.52)}Kiss-shot
 Dialogue: 0,0:00:17.08,0:00:17.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&H7A4C4B&\pos(955.18,744.45)}Acerola-orion
 Dialogue: 0,0:00:17.08,0:00:17.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.08,867.49)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(961.14,446.86)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(961.14,446.86)}Nụ-Hôn
+Dialogue: 0,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(961.14,446.86)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(961.14,446.86)}Kiss-shot
 Dialogue: 0,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(956.57,628.57)\alpha&HB0&}Acerola-orion
 Dialogue: 1,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(956.57,628.57)}Acerola-orion
-Dialogue: 0,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(960,813.71)\alpha&HB0&}Tim-dưới-Kiếm
-Dialogue: 1,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(960,813.71)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(960,813.71)\alpha&HB0&}Heart-under-Blade
+Dialogue: 1,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(960,813.71)}Heart-under-Blade
 Dialogue: 0,0:00:17.12,0:00:17.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HF9F5F3&\pos(1541.33,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(961.13,447.35)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(961.13,447.35)}Nụ-Hôn
+Dialogue: 0,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(961.13,447.35)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(961.13,447.35)}Kiss-shot
 Dialogue: 0,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(956.56,629.07)\alpha&HB0&}Acerola-orion
 Dialogue: 1,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(956.56,629.07)}Acerola-orion
-Dialogue: 0,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.98,814.21)\alpha&HB0&}Tim-dưới-Kiếm
-Dialogue: 1,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.98,814.21)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.98,814.21)\alpha&HB0&}Heart-under-Blade
+Dialogue: 1,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.98,814.21)}Heart-under-Blade
 Dialogue: 0,0:00:17.16,0:00:17.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HF9F5F3&\pos(1541.32,867.55)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(961.09,446.85)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(961.09,446.85)}Nụ-Hôn
+Dialogue: 0,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(961.09,446.85)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(961.09,446.85)}Kiss-shot
 Dialogue: 0,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(956.52,628.57)\alpha&HB0&}Acerola-orion
 Dialogue: 1,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(956.52,628.57)}Acerola-orion
-Dialogue: 0,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.95,813.71)\alpha&HB0&}Tim-dưới-Kiếm
-Dialogue: 1,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.95,813.71)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.95,813.71)\alpha&HB0&}Heart-under-Blade
+Dialogue: 1,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.95,813.71)}Heart-under-Blade
 Dialogue: 0,0:00:17.20,0:00:17.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HF9F5F3&\pos(1541.28,867.04)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(960.58,447.35)\alpha&HB0&}Nụ-Hôn
-Dialogue: 1,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(960.58,447.35)}Nụ-Hôn
+Dialogue: 0,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\c&HFDFFFE&\pos(960.58,447.35)\alpha&HB0&}Kiss-shot
+Dialogue: 1,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1\c&HFDFFFE&\pos(960.58,447.35)}Kiss-shot
 Dialogue: 0,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(956.01,629.06)\alpha&HB0&}Acerola-orion
 Dialogue: 1,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(956.01,629.06)}Acerola-orion
-Dialogue: 0,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.44,814.21)\alpha&HB0&}Tim-dưới-Kiếm
-Dialogue: 1,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.44,814.21)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs80\blur4\c&HFDFFFE&\pos(959.44,814.21)\alpha&HB0&}Heart-under-Blade
+Dialogue: 1,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1\c&HFDFFFE&\pos(959.44,814.21)}Heart-under-Blade
 Dialogue: 0,0:00:17.24,0:00:17.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HF9F5F3&\pos(1540.77,867.54)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.28,0:00:17.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(961.14,446.86)}Nụ-Hôn
+Dialogue: 0,0:00:17.28,0:00:17.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(961.14,446.86)}Kiss-shot
 Dialogue: 0,0:00:17.28,0:00:17.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(956.57,628.57)}Acerola-orion
-Dialogue: 0,0:00:17.28,0:00:17.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(960,813.71)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.28,0:00:17.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(960,813.71)}Heart-under-Blade
 Dialogue: 0,0:00:17.28,0:00:17.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.33,0:00:17.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(961.31,447.52)}Nụ-Hôn
+Dialogue: 0,0:00:17.33,0:00:17.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(961.31,447.52)}Kiss-shot
 Dialogue: 0,0:00:17.33,0:00:17.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(956.74,629.23)}Acerola-orion
-Dialogue: 0,0:00:17.33,0:00:17.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(960.17,814.38)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.33,0:00:17.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(960.17,814.38)}Heart-under-Blade
 Dialogue: 0,0:00:17.33,0:00:17.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.17,867.71)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.37,0:00:17.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(960.98,447)}Nụ-Hôn
+Dialogue: 0,0:00:17.37,0:00:17.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(960.98,447)}Kiss-shot
 Dialogue: 0,0:00:17.37,0:00:17.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(956.41,628.72)}Acerola-orion
-Dialogue: 0,0:00:17.37,0:00:17.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(959.84,813.86)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.37,0:00:17.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(959.84,813.86)}Heart-under-Blade
 Dialogue: 0,0:00:17.37,0:00:17.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1543.84,867.19)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.41,0:00:17.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(961.36,447.39)}Nụ-Hôn
+Dialogue: 0,0:00:17.41,0:00:17.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs70\blur1.1\c&H7B4F4F&\pos(961.36,447.39)}Kiss-shot
 Dialogue: 0,0:00:17.41,0:00:17.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(956.79,629.1)}Acerola-orion
-Dialogue: 0,0:00:17.41,0:00:17.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(960.22,814.24)}Tim-dưới-Kiếm
+Dialogue: 0,0:00:17.41,0:00:17.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs80\blur1.1\c&H7B4F4F&\pos(960.22,814.24)}Heart-under-Blade
 Dialogue: 0,0:00:17.41,0:00:17.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1544.22,867.58)}Hoạt Cảnh số      008
 Dialogue: 0,0:00:17.45,0:00:17.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs100\blur4\fnVL DellaRobbia BT\pos(965.57,716.43)\alpha&HB0&}Nghĩa
 Dialogue: 1,0:00:17.45,0:00:17.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs100\blur1\fnVL DellaRobbia BT\pos(965.57,716.43)}Nghĩa
@@ -207,45 +206,45 @@ Dialogue: 0,0:00:17.70,0:00:17.74,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 0,0:00:17.74,0:00:17.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs100\blur2\fnVL DellaRobbia BT\pos(965.63,716.92)\c&H6C3F3B&\alpha&HD0&}Nghĩa Vụ
 Dialogue: 1,0:00:17.74,0:00:17.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs100\blur1\fnVL DellaRobbia BT\pos(965.63,716.92)\c&H6C3F3B&}Nghĩa Vụ
 Dialogue: 0,0:00:17.74,0:00:17.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1543.06,867.54)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.78,0:00:17.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(956,286.83)\alpha&HB0&\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
-Dialogue: 1,0:00:17.78,0:00:17.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(956,286.83)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:17.78,0:00:17.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(956,286.83)\alpha&HB0&\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 1,0:00:17.78,0:00:17.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(956,286.83)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:17.78,0:00:17.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFDFAF7&\pos(1541.33,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.83,0:00:17.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(955.77,287.21)\alpha&HB0&\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
-Dialogue: 1,0:00:17.83,0:00:17.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(955.77,287.21)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:17.83,0:00:17.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(955.77,287.21)\alpha&HB0&\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 1,0:00:17.83,0:00:17.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(955.77,287.21)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:17.83,0:00:17.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFDFAF7&\pos(1541.1,867.42)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.87,0:00:17.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(955.98,286.82)\alpha&HB0&\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
-Dialogue: 1,0:00:17.87,0:00:17.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(955.98,286.82)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:17.87,0:00:17.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(955.98,286.82)\alpha&HB0&\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 1,0:00:17.87,0:00:17.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(955.98,286.82)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:17.87,0:00:17.91,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFDFAF7&\pos(1541.31,867.03)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.91,0:00:17.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(955.95,287.17)\alpha&HB0&\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
-Dialogue: 1,0:00:17.91,0:00:17.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(955.95,287.17)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:17.91,0:00:17.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs53\fnGentium Basic\blur4\c&HF8F7F5&\pos(955.95,287.17)\alpha&HB0&\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 1,0:00:17.91,0:00:17.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&HF8F7F5&\pos(955.95,287.17)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:17.91,0:00:17.95,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFDFAF7&\pos(1541.29,867.38)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.95,0:00:17.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956,286.83)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:17.95,0:00:17.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956,286.83)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:17.95,0:00:17.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.33,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:17.99,0:00:18.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.54,287.44)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:17.99,0:00:18.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.54,287.44)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:17.99,0:00:18.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.87,867.65)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.03,0:00:18.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956,286.84)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.03,0:00:18.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956,286.84)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.03,0:00:18.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.33,867.05)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.08,0:00:18.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.27,287.36)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.08,0:00:18.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.27,287.36)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.08,0:00:18.12,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.61,867.58)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.12,0:00:18.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.27,286.81)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.12,0:00:18.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.27,286.81)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.12,0:00:18.16,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.6,867.03)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.16,0:00:18.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(955.95,287.39)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.16,0:00:18.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(955.95,287.39)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.16,0:00:18.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.28,867.6)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.20,0:00:18.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.51,286.8)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.20,0:00:18.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.51,286.8)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.20,0:00:18.24,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.84,867.01)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.24,0:00:18.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.27,287.36)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.24,0:00:18.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.27,287.36)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.24,0:00:18.28,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.6,867.58)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.28,0:00:18.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(955.99,286.82)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.28,0:00:18.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(955.99,286.82)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.28,0:00:18.33,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.32,867.03)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.33,0:00:18.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(955.98,287.41)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.33,0:00:18.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(955.98,287.41)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.33,0:00:18.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.31,867.63)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.37,0:00:18.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.51,286.82)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.37,0:00:18.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.51,286.82)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.37,0:00:18.41,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.85,867.03)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.41,0:00:18.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.26,287.32)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.41,0:00:18.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.26,287.32)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.41,0:00:18.45,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.59,867.54)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.45,0:00:18.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.26,286.81)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.45,0:00:18.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.26,286.81)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.45,0:00:18.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.6,867.02)}Hoạt Cảnh số      008
-Dialogue: 0,0:00:18.49,0:00:18.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.06,287.37)\an8}Chuyện về Nụ-Hôn-Acerola-orion-Tim-dưới-Kiếm\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
+Dialogue: 0,0:00:18.49,0:00:18.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs53\fnGentium Basic\blur1.1\c&H835F5D&\pos(956.06,287.37)\an8}Chuyện về Kiss-shot Acerola-orion Heart-under-Blade\N\N\N\N\N\NTôi cho là tôi cần phải nói ra sớm.\N\N\N\N\N\NĐây là trách nhiệm, là nghĩa vụ phải nói ra
 Dialogue: 0,0:00:18.49,0:00:18.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&H937373&\pos(1541.4,867.58)}Hoạt Cảnh số      008
 Dialogue: 1,0:00:20.54,0:00:24.67,Signs,,0,0,0,,{\fs25\an4\blur1\fnVL DellaRobbia BT\c&H656662&\b0\fscx89\fscy97\pos(1018.12,196.19)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
 Dialogue: 1,0:00:20.54,0:00:24.67,Signs,,0,0,0,,{\fs25\an4\blur1\fnVL DellaRobbia BT\c&H656662&\b0\fscx89\fscy97\pos(1019.12,196.19)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
@@ -276,62 +275,62 @@ Dialogue: 0,0:00:47.94,0:00:47.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 1,0:00:49.57,0:00:49.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1148.81,460.74)}Đèn đường
 Dialogue: 1,0:00:49.57,0:00:49.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1316.81,379.41)}Đèn đường
 Dialogue: 1,0:00:49.57,0:00:49.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.14,288.74)}Đèn đường
-Dialogue: 1,0:00:49.57,0:00:49.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,682.64)}Nụ-Hôn
+Dialogue: 1,0:00:49.57,0:00:49.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,682.64)}Kiss-shot
 Dialogue: 1,0:00:49.57,0:00:49.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.67,865.33)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.61,0:00:49.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1149.14,461.21)}Đèn đường
 Dialogue: 1,0:00:49.61,0:00:49.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1317.14,379.88)}Đèn đường
 Dialogue: 1,0:00:49.61,0:00:49.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.47,289.21)}Đèn đường
-Dialogue: 1,0:00:49.61,0:00:49.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.26,683.11)}Nụ-Hôn
+Dialogue: 1,0:00:49.61,0:00:49.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.26,683.11)}Kiss-shot
 Dialogue: 1,0:00:49.61,0:00:49.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.97,865.77)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.65,0:00:49.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1148.81,460.74)}Đèn đường
 Dialogue: 1,0:00:49.65,0:00:49.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1316.81,379.41)}Đèn đường
 Dialogue: 1,0:00:49.65,0:00:49.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.14,288.74)}Đèn đường
-Dialogue: 1,0:00:49.65,0:00:49.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,682.65)}Nụ-Hôn
+Dialogue: 1,0:00:49.65,0:00:49.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,682.65)}Kiss-shot
 Dialogue: 1,0:00:49.65,0:00:49.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.66,865.33)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.69,0:00:49.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1148.81,461.26)}Đèn đường
 Dialogue: 1,0:00:49.69,0:00:49.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1316.81,379.92)}Đèn đường
 Dialogue: 1,0:00:49.69,0:00:49.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.14,289.26)}Đèn đường
-Dialogue: 1,0:00:49.69,0:00:49.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,683.16)}Nụ-Hôn
+Dialogue: 1,0:00:49.69,0:00:49.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,683.16)}Kiss-shot
 Dialogue: 1,0:00:49.69,0:00:49.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.66,865.82)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.73,0:00:49.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1148.81,460.74)}Đèn đường
 Dialogue: 1,0:00:49.73,0:00:49.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1316.81,379.41)}Đèn đường
 Dialogue: 1,0:00:49.73,0:00:49.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.14,288.74)}Đèn đường
-Dialogue: 1,0:00:49.73,0:00:49.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,682.65)}Nụ-Hôn
+Dialogue: 1,0:00:49.73,0:00:49.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.93,682.65)}Kiss-shot
 Dialogue: 1,0:00:49.73,0:00:49.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.67,865.33)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.77,0:00:49.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1148.65,461.19)}Đèn đường
 Dialogue: 1,0:00:49.77,0:00:49.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1316.65,379.85)}Đèn đường
 Dialogue: 1,0:00:49.77,0:00:49.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1481.98,289.19)}Đèn đường
-Dialogue: 1,0:00:49.77,0:00:49.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.77,683.09)}Nụ-Hôn
+Dialogue: 1,0:00:49.77,0:00:49.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.77,683.09)}Kiss-shot
 Dialogue: 1,0:00:49.77,0:00:49.82,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.47,865.74)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.82,0:00:49.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1149.1,460.73)}Đèn đường
 Dialogue: 1,0:00:49.82,0:00:49.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1317.1,379.4)}Đèn đường
 Dialogue: 1,0:00:49.82,0:00:49.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.43,288.73)}Đèn đường
-Dialogue: 1,0:00:49.82,0:00:49.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.22,682.64)}Nụ-Hôn
+Dialogue: 1,0:00:49.82,0:00:49.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.22,682.64)}Kiss-shot
 Dialogue: 1,0:00:49.82,0:00:49.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.97,865.32)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.86,0:00:49.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1149.15,461.22)}Đèn đường
 Dialogue: 1,0:00:49.86,0:00:49.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1317.15,379.88)}Đèn đường
 Dialogue: 1,0:00:49.86,0:00:49.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.48,289.22)}Đèn đường
-Dialogue: 1,0:00:49.86,0:00:49.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.27,683.12)}Nụ-Hôn
+Dialogue: 1,0:00:49.86,0:00:49.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.27,683.12)}Kiss-shot
 Dialogue: 1,0:00:49.86,0:00:49.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.98,865.79)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.90,0:00:49.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1148.5,460.72)}Đèn đường
 Dialogue: 1,0:00:49.90,0:00:49.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1316.5,379.39)}Đèn đường
 Dialogue: 1,0:00:49.90,0:00:49.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1481.83,288.72)}Đèn đường
-Dialogue: 1,0:00:49.90,0:00:49.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.62,682.63)}Nụ-Hôn
+Dialogue: 1,0:00:49.90,0:00:49.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.62,682.63)}Kiss-shot
 Dialogue: 1,0:00:49.90,0:00:49.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.36,865.31)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.94,0:00:49.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1149.04,461.2)}Đèn đường
 Dialogue: 1,0:00:49.94,0:00:49.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1317.04,379.86)}Đèn đường
 Dialogue: 1,0:00:49.94,0:00:49.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.37,289.2)}Đèn đường
-Dialogue: 1,0:00:49.94,0:00:49.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.16,683.1)}Nụ-Hôn
+Dialogue: 1,0:00:49.94,0:00:49.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.16,683.1)}Kiss-shot
 Dialogue: 1,0:00:49.94,0:00:49.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.87,865.78)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:49.98,0:00:50.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1148.82,460.75)}Đèn đường
 Dialogue: 1,0:00:49.98,0:00:50.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1316.82,379.41)}Đèn đường
 Dialogue: 1,0:00:49.98,0:00:50.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.15,288.75)}Đèn đường
-Dialogue: 1,0:00:49.98,0:00:50.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.94,682.65)}Nụ-Hôn
+Dialogue: 1,0:00:49.98,0:00:50.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1342.94,682.65)}Kiss-shot
 Dialogue: 1,0:00:49.98,0:00:50.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.69,865.34)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:50.02,0:00:50.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1149.09,461.17)}Đèn đường
 Dialogue: 1,0:00:50.02,0:00:50.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1317.09,379.83)}Đèn đường
 Dialogue: 1,0:00:50.02,0:00:50.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs40\fnVL DellaRobbia BT\blur1\c&HFFFFF7&\pos(1482.42,289.17)}Đèn đường
-Dialogue: 1,0:00:50.02,0:00:50.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.21,683.07)}Nụ-Hôn
+Dialogue: 1,0:00:50.02,0:00:50.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs35\fnGentium Basic\blur1\3c&H1427C3&\c&HFEFFFA&\pos(1343.21,683.07)}Kiss-shot
 Dialogue: 1,0:00:50.02,0:00:50.07,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(322.96,865.72)}Hoạt Cảnh số      021
 Dialogue: 1,0:00:53.99,0:00:54.20,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs46\fnVL DellaRobbia BT\an7\blur1\pos(106.14,403.79)}Vào giữa kỳ nghỉ xuân giữa năm 2 và năm 3 cấp 3\N\N\N\NTôi đã gặp cô ấy.
 Dialogue: 1,0:00:53.99,0:00:54.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs34\blur1\c&HFFFFFF&\pos(1584,853.72)}Hoạt Cảnh số      24-1
