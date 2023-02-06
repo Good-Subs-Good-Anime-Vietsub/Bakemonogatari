@@ -14,10 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 135
-Active Line: 360
-Video Position: 16618
+Video Zoom Percent: 0.500000
+Scroll Position: 397
+Active Line: 619
+Video Position: 33626
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -649,8 +649,8 @@ Dialogue: 12,0:23:06.60,0:23:08.11,Main,,0,0,0,,Khá quá nhở!
 Dialogue: 12,0:23:08.11,0:23:10.99,Main,,0,0,0,,Tưởng đâu chỉ là một tiểu thư ích kỷ\N cơ mà không.
 Dialogue: 12,0:23:10.99,0:23:13.52,Main,,0,0,0,,Tại sao chú nghĩ thế?
 Dialogue: 12,0:23:13.52,0:23:17.69,Main,,0,0,0,,Tại đa phần ai đụng phải Cua Trọng Lượng\N đều thế cả.
-Dialogue: 12,0:23:17.69,0:23:21.42,Main,,0,0,0,,Không phải tự nhiên mà gặp được,\N cũng thường không phải do Chúa phạt cả.
-Dialogue: 12,0:23:22.46,0:23:24.17,Main,,0,0,0,,Phạt gì cả?
+Dialogue: 12,0:23:17.69,0:23:21.42,Main,,0,0,0,,Không phải tự nhiên mà gặp được,\N cũng thường không phải do Chúa phạt.
+Dialogue: 12,0:23:22.46,0:23:24.17,Main,,0,0,0,,Không phải phạt?
 Dialogue: 12,0:23:25.42,0:23:27.23,Main,,0,0,0,,Nó đơn giản là ở đó thôi.
 Dialogue: 12,0:23:27.23,0:23:30.34,Main,,0,0,0,,Chỉ khi tiểu thư cầu mong gì đó, \Ncòn không thì không xuất hiện.
 Dialogue: 12,0:23:30.84,0:23:35.22,Main,,0,0,0,,À không, dù là thế \Nnhưng sẽ không đào sâu đâu mà lo.
