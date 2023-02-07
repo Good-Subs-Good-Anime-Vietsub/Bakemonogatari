@@ -14,10 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 417
-Active Line: 642
-Video Position: 37061
+Video Zoom Percent: 0.375000
+Scroll Position: 387
+Active Line: 619
+Video Position: 33666
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -622,7 +622,7 @@ Dialogue: 12,0:21:41.65,0:21:44.74,Main,,0,0,0,,Nhưng mà Kyūshū thì... sao 
 Dialogue: 12,0:21:45.02,0:21:47.99,Main,,0,0,0,,Ở đâu không mấy quan trọng.
 Dialogue: 12,0:21:47.99,0:21:51.37,Main,,0,0,0,,Cứ đủ điều kiện đúng tình huống thì xảy ra,\N có vậy thôi.
 Dialogue: 12,0:21:52.66,0:21:55.46,Main,,0,0,0,,Và tùy trường hợp, \Nkhông nhất thiết cứ phải là Cua.
-Dialogue: 12,0:21:55.46,0:22:01.60,Main,,0,0,0,,Một số truyện thì kể là Thỏ, rồi còn có cả Gái đẹp nữa,\N tuy là không phải Shinobu-chan.
+Dialogue: 12,0:21:55.46,0:22:01.60,Main,,0,0,0,,Một số truyện thì kể là Thỏ, rồi còn có cả Mỹ Nhân nữa,\N tuy là không phải Shinobu-chan.
 Dialogue: 12,0:22:02.76,0:22:04.34,Main,,0,0,0,,Kiểu như mặt trăng có hình gì ấy nhở?
 Dialogue: 12,0:22:04.34,0:22:09.22,Main,,0,0,0,,Mà, tiểu thư đây đã nói là Cua, \Nthì vụ này là Cua rồi.
 Dialogue: 12,0:22:09.80,0:22:11.20,Main,,0,0,0,,Thế rốt cuộc là sao?
@@ -649,8 +649,8 @@ Dialogue: 12,0:23:06.60,0:23:08.11,Main,,0,0,0,,Khá quá nhở!
 Dialogue: 12,0:23:08.11,0:23:10.99,Main,,0,0,0,,Tưởng đâu chỉ là một tiểu thư ích kỷ\N cơ mà không.
 Dialogue: 12,0:23:10.99,0:23:13.52,Main,,0,0,0,,Tại sao chú nghĩ thế?
 Dialogue: 12,0:23:13.52,0:23:17.69,Main,,0,0,0,,Tại đa phần ai đụng phải Cua Trọng Lượng\N đều thế cả.
-Dialogue: 12,0:23:17.69,0:23:21.42,Main,,0,0,0,,Không phải tự nhiên mà gặp được,\N cũng thường không phải do Chúa phạt.
-Dialogue: 12,0:23:22.46,0:23:24.17,Main,,0,0,0,,Không phải phạt?
+Dialogue: 12,0:23:17.69,0:23:21.42,Main,,0,0,0,,Không phải tự nhiên mà gặp được,\N cũng thường không phải ôn Chúa hại người.
+Dialogue: 12,0:23:22.46,0:23:24.17,Main,,0,0,0,,Không phải hại người?
 Dialogue: 12,0:23:25.42,0:23:27.23,Main,,0,0,0,,Nó đơn giản là ở đó thôi.
 Dialogue: 12,0:23:27.23,0:23:30.34,Main,,0,0,0,,Chỉ khi tiểu thư cầu mong gì đó, \Ncòn không thì không xuất hiện.
 Dialogue: 12,0:23:30.84,0:23:35.22,Main,,0,0,0,,À không, dù là thế \Nnhưng sẽ không đào sâu đâu mà lo.
@@ -679,7 +679,8 @@ Dialogue: 12,0:25:49.94,0:25:51.20,Main,,0,0,0,,{\i0}Nghe sao sao ấy nhở.
 Dialogue: 12,0:25:51.19,0:25:52.95,Main,,0,0,150,,{\i0}Kỳ tới: Cua Hitagi phần 2
 Dialogue: 12,0:25:52.95,0:25:54.45,Main,,0,0,0,,{\i0}Giải được câu đố, thì mới được xem!
 Dialogue: 12,0:25:54.45,0:25:55.95,Main,,0,0,0,,{\i0}Thế thì chả có người xem đâu.
-Dialogue: 9,0:02:51.19,0:02:54.77,OPvie,,0,0,40,,{=599}{\c&H0801FE&\blur0.67\an2\fs72\b1}Vẫn chưa quá muộn,
+Comment: 0,0:02:43.01,0:02:43.02,Main,sync.OP,0,0,0,,{OP}
+Dialogue: 9,0:02:51.19,0:02:54.77,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}Vẫn chưa quá muộn,
 Dialogue: 9,0:02:54.77,0:02:58.62,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}em nên mau chóng rút lui thôi,
 Dialogue: 9,0:02:58.62,0:03:03.71,OPvie,,0,0,40,,{\c&H00CAF5&\blur0.67\an2\fs72\b1}trước khi sự hiểu nhầm tồi tệ hơn.
 Dialogue: 9,0:03:03.71,0:03:04.21,OPvie,,0,0,40,,{\c&HEA890C&\blur0.67\an2\fs72\b1}~ghim bấm bầm tím~
@@ -1454,8 +1455,9 @@ Dialogue: 1,0:04:12.85,0:04:12.89,Signs,,0,0,0,,{=364}{\fscx90.57\fscy90.57\frz0
 Dialogue: 1,0:04:12.89,0:04:12.94,Signs,,0,0,0,,{=364}{\fscx90.53\fscy90.53\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.01,608.19)\fsp6} QUÁIVẬTRUYỆN
 Dialogue: 1,0:04:12.94,0:04:12.98,Signs,,0,0,0,,{=364}{\fscx90.49\fscy90.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(957.99,608.16)\fsp6} QUÁIVẬTRUYỆN
 Dialogue: 0,0:04:02.13,0:04:02.59,Signs,,0,0,0,,{\pos(960,623)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&HFFFFFF&\3cHFFFFFF&\fsp6\t(-13,487,\c&H7469F1&\3c&H8983F3&)} QUÁIVẬTRUYỆN
-Dialogue: 1,0:04:02.13,0:04:02.59,Signs,,0,0,0,,{=600}{\fnVL TelingaterDisplay\blur0.8\fs90\pos(960,623)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:24:13.03,0:24:15.80,EDvie,,0,0,0,,{=605}{\fad(0,200)\blur0.6\c&HFFFFFF&\4c&H0000FB&}"Kia là Deneb, Altair và Vega đấy"
+Dialogue: 1,0:04:02.13,0:04:02.59,Signs,,0,0,0,,{=615}{\fnVL TelingaterDisplay\blur0.8\fs90\pos(960,623)\fsp6} QUÁIVẬTRUYỆN
+Comment: 0,0:23:54.95,0:23:54.96,Main,sync.ED,0,0,0,,{ED}
+Dialogue: 0,0:24:13.03,0:24:15.80,EDvie,,0,0,0,,{=605}{\fad(0,200)\blur0.6\c&HFFFFFF&\4c&H0000FB&}""Kia là Sao Thiên Tân, Sao Ngưu Lang và Sao Chức Nữ đấy""
 Dialogue: 1,0:24:15.80,0:24:18.88,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&}Chàng vừa nói vừa chỉ vào Tam Giác Mùa Hè.
 Dialogue: 2,0:24:18.88,0:24:24.65,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&}Còn Em nhìn lên bầu trời và khắc ghi.
 Dialogue: 4,0:24:24.65,0:24:24.90,EDvie,,0,0,0,,{\fad(0,0)\blur0.6\c&HFFFFFF&}Cuối cùng Em cũng tìm thấy Chức Nữ,
@@ -1468,7 +1470,7 @@ Dialogue: 2,0:24:51.96,0:24:54.86,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\3c&H3F4392&
 Dialogue: 3,0:24:54.86,0:25:03.59,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\3c&H3F4392&\c&HDDE6EC&}mà Em đã theo đuổi Chàng.
 Dialogue: 1,0:25:03.59,0:25:09.46,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HE3E5E6&}Em cầu xin Chàng, xin Chàng đừng ngạc nhiên,
 Dialogue: 3,0:25:09.46,0:25:12.35,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HE3E5E6&}Hãy lắng nghe...
-Dialogue: 4,0:25:12.35,0:25:21.99,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HE3E5E6&}cảm xúc của Em này.
+Dialogue: 4,0:25:12.35,0:25:21.99,EDvie,,0,0,0,,{=617}{\fad(0,200)\blur0.6\c&HE3E5E6&}cảm xúc của Em này.
 
 [Aegisub Extradata]
 Data: 364,a-mo,e{"uuid"#3A"81bb52f1-4aaa-44f0-bc69-e72bbe4c126f"#2C"originalText"#3A"{\\fnReswysokr\\blur0.8\\fs120\\pos(960#2C623)\\fsp6}Monstory"}
@@ -1483,6 +1485,6 @@ Data: 470,_aegi_folddata,e0;1;21
 Data: 471,_aegi_folddata,e1;1;21
 Data: 472,_aegi_folddata,e0;1;22
 Data: 473,_aegi_folddata,e1;1;22
-Data: 599,_aegi_folddata,e0;1;1
-Data: 600,_aegi_folddata,e1;1;1
 Data: 605,_aegi_folddata,e0;0;2
+Data: 615,_aegi_folddata,e1;0;23
+Data: 617,_aegi_folddata,e1;0;24
