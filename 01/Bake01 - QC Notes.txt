@@ -1,17 +1,26 @@
+======================
 Dia:
+======================
 Mà cũng không sao cả,\N học sinh gương mẫu cả mà.
 {FIX: Mà cũng chả sao đâu, - hoặc anh sửa kiểu khác cũng được, dùng ''không sao cả'' không ổn lắm ~moca}
+(không sao cả --> không sao hết ~KiOZ)
+
 
 Cơ mà, khi còn nhỏ hẳn ông ấy là kiểu \N"kiểu nhân vật moe" ha.
 {FIX: lặp từ "kiểu" ~moca}
+(Done ~KiOZ)
 
 Nếu hai tay không được tự do,\N thì sẽ rất bất tiện cho những lúc cần chiến đâu.
 {FIX: "chiến đấu" ~moca}
+(Done ~KiOZ)
 
 {\i0}Câu đố thì dễ, \Nnhưng cách đưa ra câu đó thì khó.
 {FIX: câu đố hay câu đó - cái này e không chắc nhưng vẫn note lại ~moca}
+(Done ~KiOZ)
 
+======================
 TS:
+======================
 Tôi đang lao
 lên cầu thang,
 trễ như thường lệ,
@@ -20,18 +29,29 @@ thấy một
 cô gái
 đang rơi từ 
 trên trời xuống. 
+(Done ~KiOZ)
 
 Hội trợ --> Hội chợ
+(Done ~KiOZ)
 
 Như thế cô ấy ở đó là lẽ tự nhiên.
 --> Như thể cô ấy ở đó là lẽ tự nhiên.
+(Done ~KiOZ)
 
 Senjougahara --> Senjōgahara - có 3 sign bị lỗi này (sau đấy e mới biết là do cái font VL DellaRobbia BT :))))
+(Okay ~KiOZ)
 
 
-0:05:01.61: Hội chợ và Hợp xướng bị lệch.
+0:05:01.61: Hội chợ và Hợp xướng bị lệch. 
+(Done ~KiOZ)
+
 0:07:01.37: Hội chợ, Hợp xướng, Nhà ma bị lệch.
+(Done ~KiOZ)
+
 0:08:20.22: Lệch nhiều cái quá nên khỏi liệt kê :)))
+(Done ~KiOZ)
+
 0:17:15.44: ''Không phận sự miễn vào, nếu vi phạm sẽ bị trừng phạt theo pháp luật'' dòng này hơi bị chờm ra ngoài.
+(Done ~KiOZ)
 
-
+======================

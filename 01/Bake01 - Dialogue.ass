@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 348
-Active Line: 558
-Video Position: 29756
+Scroll Position: 417
+Active Line: 642
+Video Position: 37061
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +97,7 @@ Dialogue: 12,0:06:47.97,0:06:50.02,Main,,0,0,0,,Nếu là về Senjōgahara-san 
 Dialogue: 12,0:06:50.02,0:06:52.89,Main,,0,0,0,,lẽ ra Araragi-kun phải biết rõ hơn chứ.
 Dialogue: 12,0:06:52.89,0:06:55.85,Main,,0,0,0,,3 năm liền các cậu học chung còn gì.
 Dialogue: 12,0:06:56.17,0:06:59.35,Main,,0,0,0,,Cậu đã nói vậy thì chắc là vậy.
-Dialogue: 12,0:07:05.03,0:07:08.24,Main,,0,0,0,,Mà cũng không sao cả,\N học sinh gương mẫu cả mà.
+Dialogue: 12,0:07:05.03,0:07:08.24,Main,,0,0,0,,Mà cũng không sao hết,\N học sinh gương mẫu cả mà.
 Dialogue: 12,0:07:08.24,0:07:10.28,Main,,0,0,0,,Thành tích học tập tốt lắm.
 Dialogue: 12,0:07:10.28,0:07:11.47,Main,,0,0,0,,Hẳn rồi.
 Dialogue: 12,0:07:11.47,0:07:15.62,Main,,0,0,0,,Cơ mà cũng chỉ mới học chung tầm 1 tháng.
@@ -450,7 +450,7 @@ Dialogue: 12,0:14:41.11,0:14:44.15,Main,,0,0,0,,Cái tên không hiểu sao nghe
 Dialogue: 12,0:14:44.15,0:14:46.99,Main,,0,0,0,,Kỳ vọng thế thì chỉ tổ thất vọng thôi.
 Dialogue: 12,0:14:46.99,0:14:49.61,Main,,0,0,0,,Là ông chú trung niên ngoài 30 đấy.
 Dialogue: 12,0:14:49.61,0:14:50.85,Main,,0,0,0,,À, thế à.
-Dialogue: 12,0:14:50.85,0:14:54.37,Main,,0,0,0,,Cơ mà, khi còn nhỏ hẳn ông ấy là kiểu \N"kiểu nhân vật moe" ha.
+Dialogue: 12,0:14:50.85,0:14:54.37,Main,,0,0,0,,Cơ mà, khi còn nhỏ hẳn ông ấy là\N"kiểu nhân vật moe" ha.
 Dialogue: 12,0:14:54.37,0:14:57.54,Main,,0,0,0,,Đừng có đánh giá người thật như thế chứ.
 Dialogue: 12,0:14:57.54,0:15:00.62,Main,,0,0,0,,Cơ mà cậu... \Nbiết về moe rồi kiểu nhân vật này nọ à?
 Dialogue: 12,0:15:01.04,0:15:03.59,Main,,0,0,0,,Kiến thức bậc phổ thông cả đấy.
@@ -467,7 +467,7 @@ Dialogue: 12,0:15:41.83,0:15:43.00,Main,,0,0,0,,Không thấy mang theo.
 Dialogue: 12,0:15:43.00,0:15:45.71,Main,,0,0,0,,Sách giáo khoa tôi để trong tủ ở trường rồi.
 Dialogue: 12,0:15:45.71,0:15:50.04,Main,,0,0,0,,Với cả, mang dụng cụ học tập trong người rồi\N thì khỏi cần cặp.
 Dialogue: 12,0:15:50.04,0:15:51.72,Main,,0,0,0,,Ồ, ra vậy.
-Dialogue: 12,0:15:51.72,0:15:56.35,Main,,0,0,0,,Nếu hai tay không được tự do,\N thì sẽ rất bất tiện cho những lúc cần chiến đâu.
+Dialogue: 12,0:15:51.72,0:15:56.35,Main,,0,0,0,,Nếu hai tay không được tự do,\N thì sẽ rất bất tiện cho những lúc cần chiến đấu.
 Dialogue: 12,0:15:57.81,0:15:59.23,Main,,0,0,0,,Đống văn phòng phẩm đó...
 Dialogue: 12,0:15:59.23,0:16:00.31,Main,,0,0,0,,mang đây tôi giữ.
 Dialogue: 12,0:16:01.10,0:16:02.36,Main,,0,0,0,,Tôi sẽ giữ chúng, đưa đây.
@@ -673,7 +673,7 @@ Dialogue: 12,0:25:40.60,0:25:41.38,Main,,0,0,0,,{\i0}Câu đố!
 Dialogue: 12,0:25:41.38,0:25:42.76,Main,,0,0,0,,{\i0}"Nhiệt độ & Nhịp độ" là để chỉ mình cơ mà...
 Dialogue: 12,0:25:42.76,0:25:43.66,Main,,0,0,0,,{\i0}Chỉ Karen-chan cơ mà...
 Dialogue: 12,0:25:43.66,0:25:45.75,Main,,0,0,0,,{\i0}Cơ mà cái dấu "&" là chỉ cái gì?
-Dialogue: 12,0:25:45.75,0:25:47.53,Main,,0,0,0,,{\i0}Câu đố thì dễ, \Nnhưng cách đưa ra câu đó thì khó.
+Dialogue: 12,0:25:45.75,0:25:47.53,Main,,0,0,0,,{\i0}Câu đố thì dễ, \Nnhưng cách đưa ra câu đố thì khó.
 Dialogue: 12,0:25:47.53,0:25:49.94,Main,,0,0,0,,{\i0}Đáp án là... "ampersand" chứ còn gì nữa!
 Dialogue: 12,0:25:49.94,0:25:51.20,Main,,0,0,0,,{\i0}Nghe sao sao ấy nhở.
 Dialogue: 12,0:25:51.19,0:25:52.95,Main,,0,0,150,,{\i0}Kỳ tới: Cua Hitagi phần 2
