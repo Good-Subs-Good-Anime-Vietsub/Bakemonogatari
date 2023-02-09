@@ -14,10 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1198
-Active Line: 1247
-Video Position: 35663
+Video Zoom Percent: 0.500000
+Scroll Position: 375
+Active Line: 422
+Video Position: 33263
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -423,7 +423,8 @@ Dialogue: 12,0:21:26.50,0:21:29.35,Main,,0,0,0,,Cua Trọng Lượng đấy, Ara
 Dialogue: 12,0:21:26.50,0:21:29.35,GT 2,,0,0,0,,{\pos(716,948)}(Omoshi-Kani)
 Dialogue: 12,0:21:29.35,0:21:32.72,Main,,0,0,0,,Vì thế còn gọi là... Chúa Trọng Tình.
 Dialogue: 12,0:21:29.35,0:21:32.72,GT 2,,0,0,0,,{\pos(1184,948)}(Omoishi-Kami)
-Dialogue: 12,0:21:32.72,0:21:37.23,Main,@@@,0,0,0,,Bonds are made up of both memories and emotions. {original line: Also, a bond is formed through a combination of feelings and protection.} {ksp: kanji wordplay. Omoi (thoughts) and Shigami (clinging) becomes Shigarami (a bond).}{ksp: maybe include "nostalgia" here?}
+Dialogue: 12,0:21:32.72,0:21:37.23,GT 2,pun.kanji.de-to,0,0,0,,(omoi to shigami --> shiragami)
+Dialogue: 12,0:21:32.72,0:21:37.23,Main,pun.kanji.de-to,0,0,0,,Ngoài ra, còn là cả "cảm xúc và đeo bám", \Nhay có thể nói... "mối ràng buộc".
 Dialogue: 12,0:21:37.90,0:21:42.73,Main,,0,0,0,,{\i1}Nói cách khác, khi gặp Cua,\N Senjōgahara đã cắt bỏ mối ràng buộc với mẹ mình.
 Dialogue: 12,0:21:43.54,0:21:46.64,Main,,0,0,0,,{\i1}Cậu ấy ngừng lo lắng cho mẹ mình.
 Dialogue: 12,0:21:46.64,0:21:49.52,Main,,0,0,0,,{\i1}Ngừng "trọng tình", rũ bỏ "trọng lượng".
@@ -446,13 +447,13 @@ Dialogue: 12,0:22:37.12,0:22:39.40,Main,,0,0,0,,Cảm ơn cậu, Araragi-kun.
 Dialogue: 12,0:22:39.40,0:22:42.16,Main,,0,0,0,,Tôi vô cùng biết ơn cậu.
 Dialogue: 12,0:22:42.16,0:22:44.63,Main,,0,0,0,,Những chuyện từ trước đến nay cho tôi xin lỗi.
 Dialogue: 12,0:22:45.90,0:22:51.89,Main,,0,0,0,,Có thể là hơi trơ trẽn,\N nhưng nếu được tiếp tục làm bạn với cậu, thì tốt biết mấy.
-Dialogue: 12,0:22:56.93,0:22:58.94,GT 2,,0,0,0,,(Bộ này mà ko để nguyên Nii-chan nó mất chất :3)
-Dialogue: 12,0:22:56.93,0:22:58.94,Main,,0,0,0,,Nii-chan! Sáng bảnh mắt rồi đấy!
+Dialogue: 12,0:22:56.93,0:22:58.94,GT 2,,0,0,0,,(Bộ này mà ko để nguyên Nī-chan nó mất chất :3)
+Dialogue: 12,0:22:56.93,0:22:58.94,Main,,0,0,0,,Nī-chan! Sáng bảnh mắt rồi đấy!
 Dialogue: 12,0:22:58.94,0:23:01.24,Main,,0,0,0,,Còn ngủ nữa là hỏng đấy.
 Dialogue: 12,0:23:01.24,0:23:03.44,Main,,0,0,0,,Anh mới ngủ có tý thôi mà.
 Dialogue: 12,0:23:03.44,0:23:06.44,Main,,0,0,0,,Hả? Thế là anh lại thâu đêm à!
 Comment: 12,0:23:06.44,0:23:07.32,Main,,0,0,0,,Thôi nào!
-Dialogue: 12,0:23:07.32,0:23:10.24,Main,,0,0,0,,- Còn mỗi Onii-chan là chưa ăn sáng thôi đấy!\N- Phải rồi đấy, Nii—
+Dialogue: 12,0:23:07.32,0:23:10.24,Main,,0,0,0,,- Còn mỗi Onī-chan là chưa ăn sáng thôi đấy!\N- Phải rồi đấy, Nī—
 Dialogue: 12,0:23:12.35,0:23:14.69,Main,,0,0,0,,{\i1}Sao người oải thế nhở!
 Dialogue: 12,0:23:14.69,0:23:15.99,Main,,0,0,0,,{\i1}Cứ như bị ốm ấy.
 Dialogue: 12,0:23:17.25,0:23:20.41,Main,,0,0,0,,{\i1}Nhân tiện, tôi nặng 55kg.
