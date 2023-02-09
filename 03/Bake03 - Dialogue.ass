@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 586
-Active Line: 587
-Video Position: 34838
+Scroll Position: 56
+Active Line: 62
+Video Position: 6796
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,14 +40,15 @@ Dialogue: 0,0:25:24.91,0:25:24.92,Main,chptr,0,0,0,,{Preview}
 Dialogue: 4,0:00:02.23,0:00:05.23,Main,,0,0,0,,{\i1}Hôm nay là ngày của Mẹ tại Nhật Bản.
 Dialogue: 4,0:00:05.77,0:00:08.23,Main,,0,0,0,,{\i1}Dù có yêu mẹ hay không...
 Dialogue: 4,0:00:08.23,0:00:11.21,Main,,0,0,0,,{\i1}Dù có thân với mẹ hay không...
-Dialogue: 4,0:00:11.21,0:00:16.17,Main,,0,0,0,,{\i1}Miễn là công dân Nhật, thì đều được đối xử như nhau.\N Ngày của Mẹ.
-Dialogue: 4,0:00:17.83,0:00:22.71,Main,,0,0,0,,{\i1}Tôi đến công viên này \Nkhông phải là bởi có mục đích gì cụ thể.
-Dialogue: 4,0:00:22.71,0:00:26.91,Main,,0,0,0,,{\i1}Hoàn toàn ngẫu nhiên, tinh thần thoải mái, \Nchân cứ thế đạp, đến đâu thì đến...
+Dialogue: 4,0:00:11.21,0:00:14.99,Main,,0,0,0,,{\i1}Miễn là công dân Nhật, thì đều được đối xử như nhau...
+Dialogue: 4,0:00:14.99,0:00:16.17,Main,,0,0,0,,{\i1}vào Ngày của Mẹ.
+Dialogue: 4,0:00:17.83,0:00:22.71,Main,,0,0,0,,{\i1}Tôi đến công viên này \Nkhông phải vì có mục đích gì cụ thể.
+Dialogue: 4,0:00:22.71,0:00:26.91,Main,,0,0,0,,{\i1}Chỉ là ngẫu nhiên, tinh thần thoải mái, \Nchân cứ thế đạp, đến đâu thì đến...
 Dialogue: 4,0:00:26.91,0:00:28.42,Main,,0,0,0,,{\i1}trên con xe đạp địa hình.
 Dialogue: 4,0:00:28.80,0:00:30.84,Main,,0,0,0,,{\i1}Và rồi dừng lại ở công viên này.
 Dialogue: 4,0:00:31.78,0:00:32.59,Main,,0,0,0,,{\i1}Có điều...
 Dialogue: 4,0:00:32.59,0:00:39.39,Main,,0,0,0,,{\i1}vào Chủ nhật mà lẻ loi một mình ở công viên,\N cảm giác như cả thế giới chỉ còn có mình tôi vậy.
-Dialogue: 4,0:00:40.60,0:00:43.48,Main,,0,0,0,,{\i1}Tuy nói thế cũng hơi quá nhưng...
+Dialogue: 4,0:00:40.60,0:00:43.48,Main,,0,0,0,,{\i1}Nói vậy thì cũng hơi ảo quá cơ mà...
 Dialogue: 4,0:00:43.48,0:00:47.57,Main,,0,0,0,,{\i1}cảm giác như... tôi sở hữu cả công viên này vậy.
 Dialogue: 4,0:00:48.46,0:00:51.28,Main,,0,0,0,,{\i1}Kiểu như khỏi cần về nhà nữa ấy.
 Dialogue: 4,0:00:51.30,0:00:52.90,Main,,0,0,0,,{\i1}Với tôi thì là vậy.
@@ -57,8 +58,8 @@ Dialogue: 4,0:01:09.29,0:01:10.62,Main,,0,0,0,,{\i1}Lại còn một mình à?
 Dialogue: 4,0:01:11.17,0:01:12.67,Main,,0,0,0,,{\i1}Tôi đã nghĩ {\u1}như thế{\u0}.
 Dialogue: 4,0:01:13.14,0:01:14.63,Main,,0,0,0,,{\i1}Chính vì {\u1}như thế{\u0}...
 Dialogue: 4,0:01:14.63,0:01:16.51,Main,,0,0,0,,{\i1}Nī-chan, chính vì {\u1}như thế{\u0}....
-Dialogue: 4,0:03:04.00,0:03:06.32,Main,,0,0,0,,Ái chà~ Ái chà~ Gì đây~ Gì đây~
-Dialogue: 4,0:03:06.32,0:03:11.00,Main,,0,0,0,,Tưởng đâu là con chó nào chết bị vứt trên băng ghế công viên,\N hóa ra là Araragi-kun à.
+Dialogue: 4,0:03:04.00,0:03:06.32,Main,,0,0,0,,Ái chà ái chà~ Gì đây gì đây~
+Dialogue: 4,0:03:06.32,0:03:11.00,Main,,0,0,0,,Tưởng đâu con chó nào chết bị vứt trên băng ghế công viên,\N hóa ra là Araragi-kun à.
 Dialogue: 4,0:03:12.92,0:03:15.42,Main,,0,0,0,,Sao vậy? Không biết đường chào hỏi à?
 Dialogue: 4,0:03:15.82,0:03:16.75,Main,,0,0,0,,Đùa thôi mà.
 Dialogue: 4,0:03:16.75,0:03:18.60,Main,,0,0,360,,À... không...
@@ -75,17 +76,16 @@ Dialogue: 4,0:03:36.02,0:03:38.24,Main,,0,0,0,,Nó được đánh vần là m�
 Dialogue: 4,0:03:38.94,0:03:40.19,Main,,0,0,0,,Theo lập trường của tôi...
 Dialogue: 4,0:03:40.19,0:03:43.53,Main,,0,0,0,,Nếu viết không dấu thì sẽ thành "mo-e", \Ntức còn hơn cả "moe".
 Dialogue: 4,0:03:43.53,0:03:48.07,Main,,0,0,0,,Có rất nhiều kỳ vọng nó sẽ trở thành từ lóng \Ncho thế hệ sau này.
-Dialogue: 4,0:03:48.08,0:03:50.25,GT 2,,0,0,0,,{\pos(870,940)}(thế giới ngầm)
-Dialogue: 4,0:03:48.08,0:03:50.25,Main,pun.tore,0,0,0,,Như "hầu gái" chẳng hạn.
-Comment: 4,0:03:50.25,0:03:52.79,GT 2,,0,0,0,,{\pos(948,940)}(tai con mèo)
-Dialogue: 4,0:03:50.25,0:03:52.79,Main,pun.tore,0,0,0,,hay "tai mèo" nữa.
+Dialogue: 4,0:03:48.08,0:03:50.25,GT 2,,0,0,0,,{\pos(870,940)}(thế giới ngầm/hầu gái)
+Dialogue: 4,0:03:48.08,0:03:50.25,Main,pun.tore,0,0,0,,Như "{\u1}me{\u0}ido" chẳng hạn.
+Dialogue: 4,0:03:50.25,0:03:52.79,Main,pun.tore,0,0,0,,hay "tai {\u1}mề{\u0}u" nữa.
 Dialogue: 4,0:03:52.79,0:03:54.97,Main,,0,0,0,,Nói chung là thế đấy.
 Dialogue: 4,0:03:57.13,0:04:01.22,Main,,0,0,0,,Tôi chỉ ngạc nhiên vì bộ này trông khá khác\N bộ lần trước.
 Dialogue: 4,0:04:01.22,0:04:02.43,Main,,0,0,0,,Có vậy thôi.
 Dialogue: 4,0:04:02.43,0:04:04.29,Main,,0,0,0,,Ồ, đúng rồi.
 Dialogue: 4,0:04:04.29,0:04:07.09,Main,,0,0,0,,Lúc đó phải mặc đồ sao cho người lớn một tý mà.
 Dialogue: 4,0:04:07.38,0:04:08.43,Main,,0,0,0,,Vậy sao?
-Dialogue: 4,0:04:09.85,0:04:14.16,Main,,0,0,0,,Mà tiện nói, \Ncả trên lẫn dưới đều mới mua hôm qua.
+Dialogue: 4,0:04:09.85,0:04:14.16,Main,,0,0,0,,Mà tiện nói, \Ncả áo trên quần dưới đều mới mua hôm qua.
 Dialogue: 4,0:04:14.98,0:04:16.54,Main,,0,0,0,,Được cái cũng may.
 Dialogue: 4,0:04:16.54,0:04:20.02,Main,,0,0,0,,Bởi nếu có thể \Nthì tôi {\u1}muốn Araragi-kun xem nó{\u0} đầu tiên.
 Dialogue: 4,0:04:22.45,0:04:27.45,Main,,0,0,0,,Mà, được cậu {\u1}cho xem{\u0} đầu tiên... nói sao nhở...
@@ -95,7 +95,7 @@ Dialogue: 4,0:04:33.21,0:04:34.92,Main,,0,0,0,,Mà là "muốn cậu xem".
 Dialogue: 4,0:04:35.28,0:04:38.80,Main,,0,0,0,,Sắc thái khác nhau hoàn toàn đúng chứ.{chia động từ miseru/miru ~ cho xem/xem}
 Dialogue: 4,0:04:41.73,0:04:43.43,Main,,0,0,0,,Mà này, Araragi-kun!
 Dialogue: 4,0:04:43.43,0:04:46.09,Main,,0,0,0,,Rốt cuộc cậu làm cái gì ở đây vậy?
-Dialogue: 4,0:04:46.09,0:04:48.56,Main,,0,0,0,,À thì, làm một chuyến đi nho nhỏ thôi.
+Dialogue: 4,0:04:46.09,0:04:48.56,Main,,0,0,0,,À thì, đi dạo một chuyến thôi.
 Dialogue: 4,0:04:48.56,0:04:52.02,Main,,0,0,0,,Cứ đạp xe vu vơ hóng mát,\N rồi tự dưng thấy cái công viên,
 Dialogue: 4,0:04:52.02,0:04:54.35,Main,,0,0,0,,thế là nhân tiện ngồi nghỉ luôn.
 Dialogue: 4,0:04:54.35,0:04:55.73,Main,,0,0,0,,Senjōgahara thì sao?
@@ -104,10 +104,10 @@ Dialogue: 4,0:04:57.27,0:05:00.53,Main,,0,0,0,,Khu vực này trước kia...\N 
 Dialogue: 4,0:05:00.53,0:05:01.98,Main,,0,0,0,,Lãnh địa là sao?
 Dialogue: 4,0:05:01.98,0:05:05.40,Main,,0,0,0,,À, tức là trước kia cậu sống ở đây à.
 Dialogue: 4,0:05:05.40,0:05:06.99,Main,,0,0,0,,Đại loại thế.
-Dialogue: 4,0:05:08.20,0:05:10.57,Main,,0,0,0,,{\an8}Nhưng khác xa hồi xưa rồi.
-Dialogue: 4,0:05:11.04,0:05:14.84,Main,,0,0,0,,{\an8}Tuy không hẳn là đa sầu đa cảm gì...
-Dialogue: 4,0:05:15.49,0:05:22.04,Main,,0,0,0,,{\an8}nhưng nơi mình từng sống lại thay đổi nhiều tới thế,\Nkhiến tôi có cảm giác hơi mất động lực.
-Dialogue: 4,0:05:23.29,0:05:24.92,Main,,0,900,0,,Thì phải khác chứ\N sao như cũ được.
+Dialogue: 4,0:05:08.20,0:05:10.57,Main,,0,0,0,,{\an8}Nhưng khác xưa quá rồi.
+Dialogue: 4,0:05:11.04,0:05:14.84,Main,,0,0,800,,{\an2}Tuy không hẳn là đa sầu đa cảm gì...
+Dialogue: 4,0:05:15.49,0:05:22.04,Main,,0,0,800,,{\an2}nhưng nơi mình từng sống lại thay đổi nhiều tới thế,\Nkhiến tôi có cảm giác hơi mất động lực.
+Dialogue: 4,0:05:23.29,0:05:24.92,Main,,0,900,0,,Thì sao mà như cũ được.
 Dialogue: 4,0:05:26.21,0:05:28.72,Main,,0,900,0,,Phải ha. \NSao mà như cũ được.
 Dialogue: 4,0:05:30.48,0:05:33.72,Main,,0,800,0,,Nè Araragi-kun, \Ntôi ngồi cạnh được chứ?
 Dialogue: 4,0:05:34.38,0:05:35.18,Main,,800,0,0,,Ngồi cạnh?
@@ -118,10 +118,10 @@ Dialogue: 4,0:05:44.91,0:05:45.82,Main,,0,0,0,,Thế à.
 Dialogue: 4,0:05:45.82,0:05:47.07,Main,,0,0,0,,Vậy tôi không khách sáo.
 Dialogue: 4,0:05:53.37,0:05:55.08,Main,,0,0,0,,Về chuyện hôm trước...
 Dialogue: 4,0:05:55.08,0:05:57.88,Main,,0,0,0,,tôi muốn tỏ lòng biết ơn cậu.
-Dialogue: 4,0:05:57.88,0:06:02.12,Main,,0,0,0,,Ơ không, tôi thì biết ơn biết ủng gì chứ.
+Dialogue: 4,0:05:57.88,0:06:02.12,Main,,0,0,0,,Ơ không, tôi thì ơn ủng gì.
 Dialogue: 4,0:06:02.12,0:06:05.59,Main,,0,0,0,,Biết ơn Oshino ấy, vậy thôi là đủ rồi.
 Dialogue: 4,0:06:06.80,0:06:10.76,Main,,0,0,0,,Về phía Oshino-san \Nthì tôi sẽ phải trả một khoản phí rồi.
-Dialogue: 4,0:06:10.76,0:06:15.30,Main,,0,0,0,,Còn giữa tôi với Araragi-kun,\N thì tôi muốn cảm ơn theo cách khác.
+Dialogue: 4,0:06:10.76,0:06:15.30,Main,,0,0,0,,Còn giữa tôi với Araragi-kun,\N tôi muốn cảm ơn theo cách khác.
 Dialogue: 4,0:06:15.30,0:06:16.69,Main,,900,0,0,,À, à thì...
 Dialogue: 4,0:06:16.69,0:06:19.08,Main,,900,0,0,,Nếu cậu thấy mang ơn tôi thì...
 Dialogue: 4,0:06:19.08,0:06:20.73,Main,,900,0,0,,cậu nên ngừng lại đi.
@@ -136,14 +136,14 @@ Dialogue: 4,0:06:36.41,0:06:38.00,Main,,0,0,0,,Được chứ sao không.
 Dialogue: 4,0:06:38.00,0:06:43.06,Main,,0,0,0,,Nhưng mà Araragi-kun ấy...\N không phải kiểu người hay kết bạn nhở.
 Dialogue: 4,0:06:43.06,0:06:45.10,Main,,0,0,0,,Tới năm ngoái thì khác rồi.
 Dialogue: 4,0:06:45.10,0:06:49.07,Main,,0,0,0,,Chỉ là trong kỳ nghỉ xuân \Ncó chút thay đổi ấy mà.
-Dialogue: 4,0:06:50.05,0:06:51.84,Main,,0,0,0,,{\an8}Thế Senjōgahara thì sao?
+Dialogue: 4,0:06:50.05,0:06:51.84,Main,,0,1100,0,,Thế Senjōgahara thì sao?
 Dialogue: 4,0:06:52.41,0:06:54.22,Main,,0,0,0,,Tôi thì mới gần đây thôi.
 Dialogue: 4,0:06:55.04,0:06:57.97,Main,,0,0,0,,Nói đúng hơn, là từ lúc gặp Araragi-kun.
 Dialogue: 4,0:06:58.70,0:07:00.20,Main,,0,0,0,,{\i1}Cậu ta bị sao vậy?
 Dialogue: 4,0:07:00.20,0:07:01.86,Main,,0,0,0,,{\i1}Còn cả cái tình huống này nữa?!
 Dialogue: 4,0:07:01.86,0:07:05.60,Main,,0,0,0,,{\i1}Cứ như sắp được tỏ tình vậy...
 Dialogue: 4,0:07:06.61,0:07:08.62,Main,,0,0,0,,Tức là ấy, Araragi-kun...
-Dialogue: 4,0:07:08.62,0:07:13.74,Main,,0,0,0,,Cho dù Araragi-kun có nói gì đi nữa,\N tôi vẫn muốn trả ơn cậu.
+Dialogue: 4,0:07:08.62,0:07:13.74,Main,,0,0,0,,Cho dù Araragi-kun có nói gì đi nữa,\N tôi vẫn muốn trả ơn.
 Dialogue: 4,0:07:14.12,0:07:16.66,Main,,0,0,0,,Chỉ khi trả ơn xong \Nthì chúng ta mới bắt đầu—
 Dialogue: 4,0:07:16.66,0:07:19.74,Main,,0,800,0,,trở thành đôi bạn bình đẳng được.
 Dialogue: 4,0:07:21.71,0:07:23.21,Main,,0,0,0,,Bạn?
@@ -151,44 +151,44 @@ Dialogue: 4,0:07:23.46,0:07:25.17,Main,,0,0,0,,{\i1}Bạn!
 Dialogue: 4,0:07:25.17,0:07:29.79,Main,,0,0,0,,Nên là Araragin-kun! \NCậu có muốn tôi làm gì cho cậu không?
 Dialogue: 4,0:07:30.17,0:07:32.63,Main,,0,0,0,,Một điều thôi, gì cũng nghe hết.
 Dialogue: 4,0:07:32.64,0:07:34.09,Main,,0,0,0,,G-Gì cũng nghe?
-Dialogue: 4,0:07:34.41,0:07:36.39,Main,,0,0,0,,Không đùa, gì cũng được hết.
-Dialogue: 4,0:07:36.39,0:07:39.23,Main,,0,0,0,,Bất kể cậu có muốn gì, một điều duy nhất.
-Dialogue: 4,0:07:39.23,0:07:41.32,Main,,0,0,0,,Kể cả có là \NBá chủ thế giới, Trường sinh bất tử...
-Dialogue: 4,0:07:41.32,0:07:44.21,Main,,0,0,0,,hay đánh bại người Saiyan xâm lược Trái Đất.
-Dialogue: 4,0:07:44.21,0:07:47.35,Main,,0,0,0,,Cậu... chả lẽ lại mạnh hơn cả Rồng Thần à?
+Dialogue: 4,0:07:34.41,0:07:36.39,Main,,0,0,820,,Không đùa, gì cũng được hết.
+Dialogue: 4,0:07:36.39,0:07:39.23,Main,,0,0,820,,Một điều duy nhất, bất kể là gì.
+Dialogue: 4,0:07:39.23,0:07:41.32,Main,,0,0,820,,Bá chủ thế giới, Trường sinh bất tử...
+Dialogue: 4,0:07:41.32,0:07:44.21,Main,,0,0,820,,hay đánh bại người Saiyan xâm lược Trái Đất\N đều được hết.
+Dialogue: 4,0:07:44.21,0:07:47.35,Main,,0,0,820,,Cậu... chả lẽ lại mạnh hơn cả Rồng Thần à?
 Dialogue: 4,0:07:47.36,0:07:48.57,Main,,0,0,0,,Dĩ nhiên.
 Dialogue: 4,0:07:48.57,0:07:50.02,Main,,0,0,0,,{\i1}Tự tin vãi chưởng!
 Dialogue: 4,0:07:50.49,0:07:56.31,Main,,0,0,0,,Nhưng mà đúng là tôi muốn nghe một ước muốn\N mang tính cá nhân hơn.
 Dialogue: 4,0:07:56.31,0:07:57.33,Main,,0,0,0,,Thế dễ hơn mà.
 Dialogue: 4,0:07:57.33,0:07:58.41,Main,,0,0,0,,Đồng ý.
-Dialogue: 4,0:07:59.50,0:08:01.45,Main,,0,0,0,,{\an8}Thật đấy, gì cũng được.
-Dialogue: 4,0:08:01.45,0:08:05.05,Main,,0,0,0,,{\an8}Ví dụ như trong vòng 1 tuần\N thêm "nyu" vào cuối câu khi nói.
-Dialogue: 4,0:08:05.05,0:08:08.33,Main,,0,0,0,,{\an8}Hay trong vòng 1 tuần\N đi học mà không mặc quần lót.
+Dialogue: 4,0:07:59.50,0:08:01.45,Main,,0,0,720,,{\an2}Thật đấy, gì cũng được.
+Dialogue: 4,0:08:01.45,0:08:05.05,Main,,0,0,720,,{\an2}Ví dụ như trong vòng 1 tuần\N thêm "nyu" vào cuối câu khi nói.
+Dialogue: 4,0:08:05.05,0:08:08.33,Main,,0,0,720,,{\an2}Hay trong vòng 1 tuần\N đi học mà không mặc quần lót.
 Dialogue: 4,0:08:09.36,0:08:13.47,Main,,0,0,0,,Hay trong vòng 1 tuần\N mặc tạp dề khỏa thân đánh thức cậu.
 Dialogue: 4,0:08:13.47,0:08:17.18,Main,,0,0,0,,Hay trong vòng 1 tuần\Ncùng cậu "ăn kiêng thụt tháo làm sạch ruột".
 Dialogue: 4,0:08:17.18,0:08:19.68,Main,,0,0,0,,Dám cá là Araragi-kun \Ncũng có sở thích này nọ đúng không?
 Dialogue: 4,0:08:19.68,0:08:20.80,Main,,0,0,0,,Cậu...
-Dialogue: 4,0:08:20.80,0:08:23.77,Main,,0,0,0,,coi tôi là thằng biến thái bệnh hoạn à?
+Dialogue: 4,0:08:20.80,0:08:23.77,Main,,0,0,0,,coi tôi là thằng biến thái bệnh hoạn thế à?
 Dialogue: 4,0:08:24.19,0:08:26.35,Main,,0,0,0,,Bất kể hoàn cảnh nào!\NThế là quá thô lỗ!
-Dialogue: 4,0:08:26.36,0:08:29.10,Main,,0,0,0,,À thì, cho tôn xin lỗi nhá.
+Dialogue: 4,0:08:26.36,0:08:29.10,Main,,0,0,0,,À nhầm, cho tôi xin lỗi nhá.
 Dialogue: 4,0:08:29.10,0:08:34.36,Main,,0,0,0,,Đúng là tôi có nói "gì cũng được"\N nhưng mấy việc vừa rồi thì cả đời này e là không thể.
 Dialogue: 4,0:08:34.36,0:08:36.50,Main,,0,0,0,,Không! Không nhá! Không nhá!
-Dialogue: 4,0:08:36.50,0:08:39.52,Main,,0,0,0,,Độ hưng cảm của tôi \Nkhông hề cùi bắp như cậu đánh giá đâu nhá!
+Dialogue: 4,0:08:36.50,0:08:39.52,Main,,0,0,0,,Độ "hưng cảm" của tôi \Nkhông hề cùi bắp như cậu đánh giá đâu nhá!
 Dialogue: 4,0:08:39.52,0:08:41.21,Main,,0,0,0,,Đây không thèm bực!
 Dialogue: 4,0:08:41.64,0:08:42.53,Main,,0,0,0,,Ồ vậy sao?
-Dialogue: 4,0:08:43.25,0:08:46.72,Main,,0,0,0,,Thế để tôi gợi ý... ý kiến cá nhân thôi.
+Dialogue: 4,0:08:43.25,0:08:46.72,Main,,0,0,0,,Thế để tôi gợi ý, là ý kiến cá nhân thôi.
 Dialogue: 4,0:08:46.72,0:08:50.01,Main,,0,0,0,,Hay là mỗi sáng mặc tạp dề khỏa thân\N đánh thức cậu nhé.
 Dialogue: 4,0:08:50.01,0:08:53.28,Main,,0,0,0,,Nếu được thì tôi vừa mặc vừa làm bữa sáng cho luôn.
-Dialogue: 4,0:08:53.28,0:08:57.09,Main,,0,0,0,,Ngắm nhìn khung cảnh đó từ phía sau,\N con trai chả thích thế còn gì?
+Dialogue: 4,0:08:53.28,0:08:57.09,Main,,0,0,0,,Ngắm nhìn khung cảnh đó từ phía sau,\N con trai chả mơ thế còn gì?
 Dialogue: 4,0:08:57.09,0:08:59.58,Main,,0,0,0,,Nghe này, Senjōgahara...
 Dialogue: 4,0:08:59.58,0:09:02.27,Main,,0,0,0,,Kể cả có đồng ý với mấy vụ đó đi nữa...
-Dialogue: 4,0:09:02.93,0:09:07.10,Main,,0,0,0,,thì tôi cho là sau đó giữa chúng ta \Nsẽ chả còn tình bạn nào đâu.
-Dialogue: 4,0:09:07.10,0:09:11.61,Main,,0,0,0,,Ôi chà~ Cậu nói vậy mới thấy đúng thế thật.
-Dialogue: 4,0:09:11.61,0:09:14.40,Main,,0,0,0,,Vậy thì, cấm những vụ liên quan khiêu dâm.
-Dialogue: 4,0:09:14.79,0:09:20.35,Main,,0,0,0,,Cơ mà, tôi tin là Araragi-kun\N sẽ không đưa ra bất kỳ mong muốn nào khiêu dâm đâu ha.
+Dialogue: 4,0:09:02.93,0:09:07.10,Main,,0,0,0,,thì tôi cho là sau đó, \Ngiữa chúng ta sẽ chả còn tình bạn nào đâu.
+Dialogue: 4,0:09:07.10,0:09:11.61,Main,,0,0,0,,Ôi chà~ Cậu nói thế mới thấy đúng thật.
+Dialogue: 4,0:09:11.61,0:09:14.40,Main,,0,0,0,,Vậy thì, cấm mấy vụ dâm dục.
+Dialogue: 4,0:09:14.79,0:09:20.35,Main,,0,0,0,,Cơ mà, tôi tin là Araragi-kun\N sẽ không đưa ra bất kỳ mong muốn nào dâm dục đâu ha.
 Dialogue: 4,0:09:20.35,0:09:22.57,Main,,0,0,0,,Ồ, tin tưởng tôi thế à?
 Dialogue: 4,0:09:23.33,0:09:24.41,Main,,0,0,0,,Thì trai tân mà.
-Dialogue: 4,0:09:25.00,0:09:26.87,Main,,0,0,0,,{\i1}Vụ này bàn một lần rồi.
+Dialogue: 4,0:09:25.00,0:09:26.87,Main,,0,0,0,,{\i1}Vụ này hình như bàn một lần rồi.
 Dialogue: 4,0:09:27.25,0:09:30.33,Main,,0,0,0,,Trai tân thì không đòi hỏi nhiều nên dễ đối phó.
 Dialogue: 4,0:09:30.34,0:09:32.79,Main,,0,0,0,,Này, Senjōgahara!
 Dialogue: 4,0:09:32.80,0:09:35.21,Main,,0,0,0,,Cậu cũng không có kinh nghiệm đúng không?
@@ -196,39 +196,39 @@ Dialogue: 4,0:09:35.22,0:09:37.88,Main,,0,0,0,,Nói cái gì cơ? Tôi có kinh 
 Dialogue: 4,0:09:37.89,0:09:39.10,Main,,0,0,0,,Thật sao?
 Dialogue: 4,0:09:39.10,0:09:41.13,Main,,0,0,0,,"Kinh nghiệm đầy mình" đấy.{やりまくり (yari makuri) ~ phang phập nhiều, từ lóng}
 Dialogue: 4,0:09:42.43,0:09:45.68,Main,,0,0,0,,À thì ấy, cứ cho là cậu nói thật đi.
-Dialogue: 4,0:09:45.68,0:09:49.04,Main,,0,0,0,,Nhưng kể ra với tôi như thế không hay tý đâu,\N Senjōgahara.
-Dialogue: 4,0:09:49.04,0:09:51.35,Main,,0,0,0,,Nó đâu có mang lại lợi ích gì cho cậu.
+Dialogue: 4,0:09:45.68,0:09:49.04,Main,,0,0,0,,Nhưng kể ra với tôi như thế không hay tý nào đâu,\N Senjōgahara.
+Dialogue: 4,0:09:49.04,0:09:51.35,Main,,0,0,0,,Có mang lại lợi ích gì cho cậu đâu.
 Dialogue: 4,0:09:52.61,0:09:55.03,Main,,0,400,0,,Hiểu rồi... Để sửa!
 Dialogue: 4,0:09:56.24,0:09:59.07,Main,,800,0,0,,Không hề có kinh nghiệm!\NTrinh nữ!
 Dialogue: 4,0:09:59.07,0:10:00.05,Main,,0,0,0,,Ờ...
 Dialogue: 4,0:10:00.28,0:10:01.12,Main,,0,0,0,,Tức là!
 Dialogue: 4,0:10:01.12,0:10:05.33,Main,,0,0,0,,Loại con gái chịu nói chuyện với một thằng trai tân thất bại\N như Araragi-kun...
 Dialogue: 4,0:10:05.33,0:10:10.25,Main,,0,0,0,,...chỉ có thể là con trinh nữ chậm lớn ngáo ngơ\N như tôi thôi.
-Dialogue: 4,0:10:12.48,0:10:14.17,Main,,0,0,0,,Bàn đi xa quá rồi.
-Dialogue: 4,0:10:14.17,0:10:17.63,Main,,0,0,0,,Thực sự là không muốn gì cả sao, Araragi-kun?
-Dialogue: 4,0:10:17.63,0:10:19.89,Main,,0,0,0,,Hay để cho đơn giản hơn,\N có gì phiền não không?
+Dialogue: 4,0:10:12.48,0:10:14.17,Main,,0,0,0,,Lạc đề mất rồi.
+Dialogue: 4,0:10:14.17,0:10:17.63,Main,,0,0,0,,Thực sự không muốn gì cả sao, Araragi-kun?
+Dialogue: 4,0:10:17.63,0:10:19.89,Main,,0,0,0,,Để cho đơn giản thì có gì phiền não không?
 Dialogue: 4,0:10:19.89,0:10:22.20,Main,,0,0,0,,Phiền não ấy à?
 Dialogue: 4,0:10:22.20,0:10:25.04,Main,,0,0,0,,Tôi không khéo ăn nói nên diễn đạt không tốt...
 Dialogue: 4,0:10:25.04,0:10:28.52,Main,,0,0,0,,nhưng thật lòng tôi rất muốn {\u1}giúp{\u0} Araragi-kun.
 Dialogue: 4,0:10:30.44,0:10:33.35,Main,,0,0,0,,Cũng phải, để mà nói thì...
 Dialogue: 4,0:10:33.35,0:10:36.41,Main,,0,0,0,,Ôi chà, là gì thế? Nói ra đi nào!
-Dialogue: 4,0:10:36.41,0:10:39.25,Main,,0,0,0,,Chỉ cần nói ra thôi là đã dễ chịu hơn đó.
+Dialogue: 4,0:10:36.41,0:10:39.25,Main,,0,0,0,,Chỉ cần nói ra thôi là đã dễ chịu hơn rồi đó.
 Dialogue: 4,0:10:40.15,0:10:41.78,Main,,0,0,0,,Xem nào...
-Dialogue: 4,0:10:41.78,0:10:44.03,Main,,0,0,0,,Tôi với em gái cãi nhau.
+Dialogue: 4,0:10:41.78,0:10:44.03,Main,,0,0,0,,Tôi cãi nhau với em gái.
 Dialogue: 4,0:10:44.03,0:10:47.00,Main,,0,0,0,,Vụ đó thì xem ra không giúp được gì nhiều.
 Dialogue: 4,0:10:48.50,0:10:51.27,Main,,0,0,0,,Nhưng mà sao cũng được, \Ncứ kể ra hết đi.
 Dialogue: 4,0:10:51.27,0:10:52.59,Main,,0,0,0,,"Sao cũng được" luôn?
-Dialogue: 4,0:10:53.79,0:10:56.90,Main,,0,0,0,,Thế, cãi nhau với cô em gái nào?
-Dialogue: 4,0:10:56.90,0:11:00.22,Main,,0,0,0,,Bởi nhớ không nhầm thì \N Araragi-kun có tới 2 cô em mà.
+Dialogue: 4,0:10:53.79,0:10:56.90,Main,,0,0,0,,Thế, cãi nhau với cô em nào?
+Dialogue: 4,0:10:56.90,0:11:00.22,Main,,0,0,0,,Bởi nhớ không nhầm thì \N Araragi-kun có tới 2 cô em lận mà.
 Dialogue: 4,0:11:00.22,0:11:02.22,Main,,0,0,0,,À ờ, cậu biết mà nhở.
 Dialogue: 4,0:11:02.91,0:11:05.18,Main,,0,0,0,,Hỏi là đứa nào thì là đứa lớn.
-Dialogue: 4,0:11:05.18,0:11:07.31,Main,,0,0,0,,Nhưng cơ bản thì... là cả 2.
+Dialogue: 4,0:11:05.18,0:11:07.31,Main,,0,0,0,,Nhưng cơ bản thì là cả 2.
 Dialogue: 4,0:11:07.87,0:11:11.85,Main,,0,0,0,,Hai đứa nó dù làm gì, ở đâu, khi nào, \Nnói chung 5W1H...
-Dialogue: 4,0:11:11.85,0:11:14.57,Main,,0,900,0,,luôn luôn dính nhau như sam.
+Dialogue: 4,0:11:11.85,0:11:14.57,Main,,0,900,0,,dính nhau như sam luôn.
 Dialogue: 4,0:11:14.57,0:11:17.57,Main,,720,0,0,,Hỏa Tỷ Muội \Ncủa trường cấp 2 Tsuganoki ha.
 Dialogue: 4,0:11:17.89,0:11:19.78,Main,,0,900,0,,Còn biết cả biệt danh cơ à.
 Dialogue: 4,0:11:19.78,0:11:21.99,Main,,0,0,0,,Thì đấy, nay Ngày của Mẹ đúng không?
-Dialogue: 4,0:11:22.83,0:11:24.95,Main,,720,0,0,,Ờ, nhắc mới nhớ ra là đúng thật.
+Dialogue: 4,0:11:22.83,0:11:24.95,Main,,720,0,0,,Ờ, nhắc mới nhớ là đúng thật.
 Dialogue: 4,0:11:25.91,0:11:29.04,Main,,0,0,560,,{\an5}Hai đứa nó quấn quýt với mẹ lắm.
 Dialogue: 4,0:11:29.04,0:11:33.50,Main,,0,0,560,,{\an5}Rồi... \NMẹ cũng quý hai đứa nó như kiểu mèo cưng ấy... \NRồi...
 Dialogue: 4,0:11:33.50,0:11:34.46,Main,,0,0,0,,Hiểu rồi.
@@ -236,22 +236,22 @@ Dialogue: 4,0:11:35.01,0:11:37.23,Main,,0,0,560,,{\an5}Và cậu, thằng con c�
 Dialogue: 4,0:11:37.23,0:11:42.74,Main,,0,0,560,,{\an5}vào cái Ngày của Mẹ hôm nay, \Ncảm thấy ở nhà không có chỗ dành cho mình ha.
 Dialogue: 4,0:11:43.25,0:11:44.56,Main,,0,0,560,,{\an5}Chuẩn rồi.
 Dialogue: 4,0:11:46.02,0:11:49.42,Main,,0,0,0,,Sáng sớm nay tôi cố lẻn ra ngoài...
-Dialogue: 4,0:11:49.42,0:11:53.46,Main,,0,0,0,,Nhưng vừa leo lên cái xe đạp địa hình \Nthì bị em gái bắt quả tang.
+Dialogue: 4,0:11:49.42,0:11:53.46,Main,,0,0,0,,nhưng vừa leo được lên cái xe đạp địa hình \Nthì bị em gái bắt quả tang.
 Dialogue: 4,0:11:53.46,0:11:54.84,Main,,0,0,0,,Rồi... cãi nhau.
 Dialogue: 4,0:11:54.84,0:11:55.75,Main,,0,0,0,,Cãi nhau?
 Dialogue: 4,0:11:55.75,0:12:00.12,Main,,0,0,0,,Là em gái, \Nnó muốn tôi cùng gia đình chúc mừng Ngày của Mẹ.
 Dialogue: 4,0:12:00.12,0:12:01.21,Main,,0,0,0,,Nói sao nhở...
 Dialogue: 4,0:12:01.21,0:12:03.58,Main,,0,0,0,,Thì đó... sao mà tôi làm được.
 Dialogue: 4,0:12:03.58,0:12:05.73,Main,,0,0,0,,{\i1}Nī-chan, chính vì {\u1}như thế{\u0}...
-Dialogue: 4,0:12:05.73,0:12:08.21,Main,,0,0,0,,{\i1}Chính vì {\u1}như thế{\u0} mà không bao giờ...
-Dialogue: 4,0:12:11.96,0:12:16.33,Main,,0,0,0,,Nói cách khác...\N cái Ngày của Mẹ này với người như tôi là chịu.
-Dialogue: 4,0:12:16.33,0:12:21.39,Main,,0,0,0,,Và trước những lời của đứa em gái nhỏ hơn 4 tuổi,\N tôi đang tự bực với chính mình.
+Dialogue: 4,0:12:05.73,0:12:08.21,Main,,0,0,0,,{\i1}Chính vì {\u1}như thế{\u0} mà đến bao giờ...
+Dialogue: 4,0:12:11.96,0:12:16.33,Main,,0,0,0,,Tức là...\N cái Ngày của Mẹ này với người như tôi là chịu.
+Dialogue: 4,0:12:16.33,0:12:21.39,Main,,0,0,0,,Và trước những lời của đứa em gái nhỏ hơn 4 tuổi,\N tôi tự bực chính mình.
 Dialogue: 4,0:12:21.39,0:12:22.86,Main,,0,0,0,,Biết nói thế nào nhở...
 Dialogue: 4,0:12:22.86,0:12:25.06,Main,,0,0,0,,Kiểu như vì {\u1}con người nhỏ bé của tôi{\u0}...
 Dialogue: 4,0:12:25.06,0:12:27.84,Main,,0,0,0,,nên tự cáu giận, tự bực mình, \Nbất lực không làm được gì.
 Dialogue: 4,0:12:29.05,0:12:30.80,Main,,0,0,0,,Phức tạp đấy nhỉ.
 Dialogue: 4,0:12:30.80,0:12:33.80,Main,,0,0,0,,Phức tạp cái gì! Hẹp hòi nó thế.
-Dialogue: 4,0:12:33.80,0:12:36.72,Main,,0,0,0,,{\u1}Con người tôi nhỏ bé{\u0} kiểu vậy.
+Dialogue: 4,0:12:33.80,0:12:36.72,Main,,0,0,0,,{\u1}Con người tôi nhỏ bé{\u0}, kiểu vậy.
 Dialogue: 4,0:12:36.72,0:12:37.76,Main,,0,0,0,,Cơ mà, kể cả thế...
 Dialogue: 4,0:12:37.76,0:12:42.86,Main,,0,0,0,,càng nghĩ tới việc phải xin lỗi em gái,\N lại càng không muốn về nhà.
 Dialogue: 4,0:12:42.86,0:12:45.23,Main,,0,0,0,,Không muốn về nhà... à?
@@ -269,8 +269,8 @@ Dialogue: 4,0:13:18.85,0:13:21.70,Main,,0,0,0,,Đừng phàn nàn về điểm q
 Dialogue: 4,0:13:21.70,0:13:22.87,Main,,0,0,0,,Quyến rũ?
 Dialogue: 4,0:13:22.87,0:13:25.95,Main,,0,0,0,,Điểm quyến rũ của tôi \Nlà rút Omikuji toàn ra Tiểu Cát sao?
 Dialogue: 4,0:13:26.22,0:13:27.47,Main,,0,0,0,,Đùa thôi.
-Dialogue: 4,0:13:27.47,0:13:32.16,Main,,0,0,0,,Và ngoài ra thì sự "chán" của Araragi-kun\N không giống với việc rút Omikuji toàn ra Tiểu Cát.
-Dialogue: 4,0:13:33.12,0:13:35.33,Main,,0,0,0,,Ý cậu phải là toàn ra Đại Hung sao?
+Dialogue: 4,0:13:27.47,0:13:32.16,Main,,0,0,0,,Sự "chán" của Araragi-kun\N không giống với việc rút Omikuji toàn ra Tiểu Cát.
+Dialogue: 4,0:13:33.12,0:13:35.33,Main,,0,0,0,,Thế phải là toàn ra Đại Hung à?
 Dialogue: 4,0:13:35.33,0:13:36.64,Main,,0,0,0,,Đương nhiên không.
 Dialogue: 4,0:13:36.64,0:13:40.66,Main,,0,0,0,,Nhưng như thế ấn tượng mà, \Nhay có thể nói hấp dẫn đấy chứ.
 Dialogue: 4,0:13:40.66,0:13:42.80,Main,,0,0,0,,Sự "chán" của Araragi-kun ấy.
@@ -279,49 +279,50 @@ Dialogue: 4,0:13:48.01,0:13:53.19,Main,,0,0,0,,nhưng khi đọc kỹ thì lại
 Dialogue: 4,0:13:53.89,0:13:55.10,Main,,0,0,0,,{\i1}"Chán"?
 Dialogue: 4,0:13:55.45,0:13:59.74,Main,,0,0,0,,{\an5}Cơ mà Araragi-kun, \Ncậu có vẻ rất yêu quý em gái mình.
 Dialogue: 4,0:13:59.74,0:14:01.07,Main,,0,0,0,,{\an5}Chảnh chọe suốt ngày thôi.
-Dialogue: 4,0:14:02.19,0:14:07.28,GT,,0,0,0,,{\fs45}({\c&H28FF34&}Nói lái{\c} từ thành ngữ, thơ: "{\c&H28FF34&}Me ni iretemo itakunai{\c} ~ {\c&H28FF34&}Có nhét vào mắt cũng không thấy đau{\c}")\N(ám chỉ {\c&H28FF34&}yêu mến{\c} ai đó nhiều đến mức {\c&H28FF34&}không nhận ra sai trái{\c} của họ, trước câu này còn có câu nói về sự {\c&H28FF34&}dễ thương{\c})
+Dialogue: 4,0:14:02.19,0:14:07.28,GT,,0,0,0,,{\fs45}({\c&H28FF34&}Nói lái{\c} từ thành ngữ, thơ: "{\c&H28FF34&}Me ni iretemo itakunai{\c} ~ {\c&H28FF34&}Có nhét vào mắt cũng không thấy đau{\c}")\N(ám chỉ độ {\c&H28FF34&}dễ thương vô bờ bến{\c}, bỏ qua hết mọi {\c&H28FF34&}sai trái{\c})
 Dialogue: 4,0:14:02.19,0:14:05.19,Main,,0,0,0,,{\an5}Dí mắt vào cũng không thấy dễ thương\Nmà đau đớn thay cô em gái.
-Dialogue: 4,0:14:02.19,0:14:05.19,GT 2,,0,0,0,,{\an5}("me ni iretemo kawaikunai" itai imōto na no ne)
+Comment: 4,0:14:02.19,0:14:05.19,GT 2,,0,0,0,,{\an5}("me ni iretemo kawaikunai" itai imōto na no ne)
 Dialogue: 4,0:14:05.19,0:14:07.28,Main,,0,0,0,,{\an5}Em gái tôi thì đau đớn quái gì chứ!
-Dialogue: 4,0:14:07.28,0:14:10.50,Main,,0,0,0,,Mà nhỡ đâu đấy\N chỉ là hai mặt của tình yêu?
-Dialogue: 4,0:14:10.50,0:14:13.58,Main,,0,0,0,,Bất ngờ thay Araragi-kun, lại là siscon cơ đấy.
+Dialogue: 4,0:14:07.28,0:14:10.50,Main,,0,0,0,,Mà nhỡ đâu đấy lại là \N"yêu cho roi cho vọt" thì sao.
+Dialogue: 4,0:14:10.50,0:14:13.58,Main,,0,0,0,,Hóa ra Araragi-kun, lại là siscon cơ đấy.
 Dialogue: 4,0:14:13.58,0:14:15.04,Main,,0,0,0,,Làm gì có.
 Dialogue: 4,0:14:15.04,0:14:19.34,Main,,0,0,0,,{\an5}Chuyện yêu em gái \Nchỉ là mớ ảo tưởng của mấy đứa không có em gái thôi.
-Dialogue: 4,0:14:19.34,0:14:22.50,Main,,0,0,0,,{\an5}Thế à, Araragi-kun không phải siscon~
+Dialogue: 4,0:14:19.34,0:14:22.50,Main,,0,0,0,,{\an5}Thế à... Araragi-kun không phải siscon~
 Dialogue: 4,0:14:22.50,0:14:25.01,Main,,0,0,0,,{\an5}Sẽ không bao giờ yêu em gái mình~
 Dialogue: 4,0:14:25.47,0:14:26.55,Main,,0,0,0,,Điên mà yêu!
-Dialogue: 4,0:14:26.55,0:14:29.74,Main,,0,0,0,,{\an5}Phải ha! Araragi-kun sorocon cơ mà.
+Dialogue: 4,0:14:26.55,0:14:29.74,Main,,0,0,0,,{\an5}Phải ha! Araragi-kun là sorocon cơ mà.
 Dialogue: 4,0:14:29.74,0:14:30.78,Main,,0,0,0,,{\an5}Sorocon?
 Dialogue: 4,0:14:30.78,0:14:32.51,Main,,0,0,0,,{\an5}Là "Hôn nhân Sororate".
-Dialogue: 4,0:14:32.51,0:14:39.39,Main,,0,0,0,,{\an5}Được gọi là "tục nối dây",\N nghĩa là sau khi vợ chết, thì phải cưới em gái hoặc chị gái nhà vợ.
+Dialogue: 4,0:14:32.51,0:14:39.39,Main,,0,0,0,,{\an5}Được gọi là "tục nối dây",\N nghĩa là sau khi vợ chết, thì phải cưới em dâu hoặc chị dâu.
 Dialogue: 4,0:14:40.80,0:14:43.85,Main,,0,0,0,,{\an5}Thế tại sao tôi lại là sorocon?
 Dialogue: 4,0:14:43.85,0:14:47.06,Main,,0,0,0,,{\an5}Trong trường hợp Araragi-kun\N thì là em chứ không phải chị ha.
-Dialogue: 4,0:14:47.06,0:14:48.95,Main,,0,0,0,,Trước hết là để em gái của vợ cậu...
-Dialogue: 4,0:14:48.95,0:14:53.58,Main,,0,0,0,,...gọi cậu là "Onī-chan",\N sau đó thì cưới nhau.{chữ 義兄 trong signs là "anh rể", nhưng lại được đọc là "nii" thay vì "gikei", đâm ra thành Onī-chan}
+Dialogue: 4,0:14:47.06,0:14:48.95,Main,,0,0,0,,Tức là trước hết để em dâu...
+Dialogue: 4,0:14:48.95,0:14:53.58,Main,,0,0,0,,...gọi cậu là "Onī-chan", sau đó thì cưới nhau.{chữ 義兄 trong signs là "anh rể", nhưng lại được đọc là "nii" thay vì "gikei", đâm ra thành Onī-chan}
 Dialogue: 4,0:14:53.58,0:14:56.91,Main,,0,0,0,,Rồi kể cả sau khi thành vợ chồng,\N vẫn gọi là "Onī-chan".
 Dialogue: 4,0:14:56.91,0:14:59.92,Main,,0,0,0,,Đây là lối hiểu chính xác nhất có thể của từ này.
 Dialogue: 4,0:14:59.92,0:15:02.55,Main,,0,0,0,,Thế thì khác nào tôi tự tay giết vợ!
 Dialogue: 4,0:15:02.55,0:15:04.78,Main,,0,0,0,,Thế... Sorocon Araragi-kun...
-Dialogue: 4,0:15:04.78,0:15:07.14,Main,,0,0,0,,Thôi xin cậu đấy,\N cứ gọi tôi là sison đi!
+Dialogue: 4,0:15:04.78,0:15:07.14,Main,,0,0,0,,Thôi xin cậu đấy, cứ gọi tôi là siscon đi!
 Dialogue: 4,0:15:07.14,0:15:10.44,Main,,0,0,0,,Nhưng bởi cậu sẽ không bao giờ yêu em gái...
-Dialogue: 4,0:15:10.44,0:15:12.52,Main,,0,0,0,,Và cũng chẳng yêu em dâu!
-Dialogue: 4,0:15:12.52,0:15:15.71,Main,,0,0,0,,{\an5}Vậy thì yêu "bạn-gái-dâu" thì sao?
+Dialogue: 4,0:15:10.44,0:15:12.52,Main,,0,0,0,,Và cũng cóc có yêu em dâu!
+Dialogue: 4,0:15:12.52,0:15:15.71,Main,,0,0,0,,{\an5}Vậy thì yêu "bạn gái dâu" thì sao?
 Dialogue: 4,0:15:15.71,0:15:16.44,Main,,0,0,0,,{\an5}Đã bảo là!
-Dialogue: 4,0:15:17.14,0:15:19.98,Main,,0,0,0,,{\an5}Hả?! Yêu bạn-gái-dâu được à?
+Dialogue: 4,0:15:17.14,0:15:19.98,Main,,0,0,0,,{\an5}Hả?! Yêu bạn gái dâu được à?
 Dialogue: 4,0:15:20.90,0:15:24.90,Main,,0,0,0,,Đúng là {\u1}nhỏ bé{\u0} thật đấy,\N mới có mấy câu bông đùa mà xoắn hết cả lên.
 Dialogue: 4,0:15:24.90,0:15:26.95,Main,,0,0,0,,Nói câu nào chí câu đấy,\N bông đùa nỗi gì!
-Dialogue: 4,0:15:27.22,0:15:29.48,Main,,0,0,0,,Nãy giờ tôi thử cậu đấy.
+Dialogue: 4,0:15:26.95,0:15:29.48,Main,,0,0,0,,Nãy giờ tôi thử cậu đấy.
 Dialogue: 4,0:15:29.48,0:15:31.77,Main,,0,0,0,,Sao lại đi thử tôi?
 Dialogue: 4,0:15:31.77,0:15:35.16,Main,,0,0,0,,Ở thế là cậu... vẫn chưa bung hết sức à?
 Dialogue: 4,0:15:35.16,0:15:37.62,Main,,0,0,0,,Bung hết sức là biến hình đấy.
 Dialogue: 4,0:15:38.22,0:15:39.21,Main,,0,0,0,,Biến hình?!
 Dialogue: 4,0:15:39.21,0:15:40.54,Main,,0,0,0,,Ghê thế, xem với!
 Dialogue: 4,0:15:41.58,0:15:45.38,Main,,0,0,0,,Phản ứng thì lớn mà {\u1}con người thì nhỏ bé{\u0}.
-Dialogue: 4,0:15:45.38,0:15:50.98,Main,,0,0,0,,Nhưng dù con người Araragi-kun có nhỏ bé thế nào,\N tôi cũng sẽ không bỏ rơi cậu đâu.
+Dialogue: 4,0:15:45.38,0:15:50.98,Main,,0,0,0,,Nhưng dù con người Araragi-kun có nhỏ bé thế nào,\N tôi cũng không bỏ rơi cậu đâu.
 Dialogue: 4,0:15:50.98,0:15:54.06,Main,,0,0,0,,Tôi sẽ dìu dắt con người nhỏ bé đó của Araragi-kun\N một cách đàng hoàng.
-Dialogue: 4,0:15:54.42,0:15:56.43,Main,,0,0,0,,Vẫn cứ cái kiểu nói tinh tế quá mức nhở.
-Dialogue: 4,0:15:56.43,0:16:01.82,Main,,0,0,0,,Vậy ngoài con người nhỏ bé đó ra\N thì Araragi-kun có còn phiền não gì nữa không?
+Dialogue: 4,0:15:54.42,0:15:56.43,Main,,0,0,0,,Vẫn cái kiểu nói tinh tế quá mức đó.
+Dialogue: 4,0:15:56.43,0:16:01.82,Main,,0,0,0,,Vậy ngoài con người nhỏ bé đó ra\N thì Araragi-kun có còn phiền não nào khác không?
 Dialogue: 4,0:16:01.82,0:16:04.94,Main,,0,0,0,,Liệu lần này tôi sẽ bị sỉ nhục \Ntheo cách nào đây.
+Dialogue: 4,0:16:04.94,0:16:07.32,GT,,0,0,0,,({\c&H3EFF35&}器が大きく - Tầm cỡ lớn{\c} , từ nãy đến giờ kêu Araragi là {\c&H3EFF35&}nhỏ bé{\c}, và giờ dùng từ có chữ {\c&H3EFF35&}lớn{\c} để khen)
 Dialogue: 4,0:16:04.94,0:16:07.32,Main,,0,0,0,,Ôi "cao thượng" quá!
 Dialogue: 4,0:16:07.32,0:16:09.20,Main,,0,0,0,,Thích khen đểu không!
 Dialogue: 4,0:16:09.61,0:16:11.41,Main,,0,0,0,,Thực sự không có gì sao?
@@ -330,7 +331,7 @@ Dialogue: 4,0:16:13.45,0:16:17.20,Main,,0,0,0,,Tôi từ bỏ vụ đó rồi,\N
 Dialogue: 4,0:16:17.56,0:16:19.19,Main,,0,0,0,,Vậy "muốn được tốt nghiệp" chẳng hạn.
 Dialogue: 4,0:16:19.19,0:16:20.96,Main,,0,0,0,,Cứ bình thường là tốt nghiệp rồi nhá!
 Dialogue: 4,0:16:21.37,0:16:23.08,Main,,0,0,0,,Vậy "muốn được bình thường" chẳng hạn?
-Dialogue: 4,0:16:23.08,0:16:25.54,Main,,0,0,0,,Thích gây sự đúng không! Đúng không hả!
+Dialogue: 4,0:16:23.08,0:16:25.54,Main,,0,0,0,,Thích gây sự đúng không! Đúng không!
 Dialogue: 4,0:16:25.54,0:16:27.13,Main,,0,0,0,,Vậy, phải rồi...
 Dialogue: 4,0:16:29.22,0:16:31.01,Main,,0,0,0,,Muốn có bạn gái chẳng hạn?
 Dialogue: 4,0:16:35.59,0:16:37.18,Main,,0,0,0,,Nếu tôi nói "muốn"...
@@ -340,33 +341,33 @@ Dialogue: 4,0:16:42.97,0:16:44.06,Main,,0,0,0,,Có vậy thôi.
 Dialogue: 4,0:16:47.52,0:16:48.23,Main,,0,0,0,,Không.
 Dialogue: 4,0:16:48.69,0:16:50.86,Main,,0,0,0,,Mấy vụ này... chắc là không rồi.
 Dialogue: 4,0:16:52.53,0:16:54.64,Main,,0,0,660,,{\an2}Hửm? Vậy sao?
-Dialogue: 4,0:16:54.64,0:16:59.33,Main,,0,0,660,,{\an2}Mà, lần này thì mua tôi lon nước đi.\NRồi coi như hòa.
+Dialogue: 4,0:16:54.64,0:16:59.33,Main,,0,0,660,,{\an2}Mà thôi, lần này mua tôi lon nước đi.\NThế là không còn ai nợ ai.
 Dialogue: 4,0:16:59.81,0:17:02.62,Main,,0,0,660,,{\an2}Vậy à... rộng lượng nhở.
 Dialogue: 4,0:17:02.62,0:17:04.84,Main,,0,0,0,,Quả thật rất cao thượng.
 Dialogue: 4,0:17:11.71,0:17:14.30,Main,,0,0,0,,{\i1}Là con bé ban nãy đúng không nhở?
 Dialogue: 4,0:17:15.38,0:17:16.93,Main,,0,0,0,,Này, Senjōgahara!
 Dialogue: 4,0:17:16.93,0:17:22.08,Main,,0,0,0,,Tên được ghi trên ba lô học sinh tiểu học đằng kia,\N đọc là gì thế nhở?
 Dialogue: 4,0:17:22.96,0:17:24.35,Main,,0,0,0,,Có nhìn thấy gì đâu.
-Dialogue: 4,0:17:24.35,0:17:27.94,Main,,0,0,0,,{\i1}À ờ, người thường không nhìn được xa vậy.
-Dialogue: 4,0:17:27.94,0:17:30.00,Main,,0,0,0,,Ờ thì, chữ số Hán tự ấy...
-Dialogue: 4,0:17:30.00,0:17:34.80,GT 2,,0,0,0,,(十中八九, tách ta 八九 + 寺 = 八九寺)
-Dialogue: 4,0:17:30.00,0:17:34.80,Main,,0,0,0,,Lấy chữ số "Tám Chín" trong từ "Mười phần thì Tám Chín phần"\N rồi ghép thêm chữ "Đền" đằng sau.
+Dialogue: 4,0:17:25.23,0:17:27.94,Main,,0,0,0,,{\i1}Người thường không nhìn được xa vậy.
+Dialogue: 4,0:17:27.94,0:17:30.00,Main,,0,0,0,,Ờ thì, là chữ số Hán tự.
+Dialogue: 4,0:17:30.00,0:17:34.80,GT 2,,0,0,0,,(十中八九, lấy 2 chữ cuối là "八九" + "寺" = "八九寺")
+Dialogue: 4,0:17:30.00,0:17:34.80,Main,,0,0,0,,Lấy "Tám Chín" trong câu "Mười phần thì Tám Chín phần"\N rồi ghép thêm chữ "Đền" đằng sau.
 Dialogue: 4,0:17:34.80,0:17:36.66,Main,,0,0,0,,À, thế thì là Hachikuji.
 Dialogue: 4,0:17:36.66,0:17:38.17,Main,,0,0,0,,Hachikuji?
 Dialogue: 4,0:17:38.17,0:17:41.27,Main,,0,0,0,,Vậy ra tên là Hachikuji Mayoi à.
-Dialogue: 4,0:17:43.64,0:17:47.46,Main,,0,0,0,,{\i1}Cậu ta dù nhìn thế nào \Nthì cũng không phải kiểu ưa con nít ha.
+Dialogue: 4,0:17:43.64,0:17:47.46,Main,,0,0,0,,{\i1}Cậu ta nhìn kiểu gì \Ncũng không phải kiểu ưa con nít ha.
 Dialogue: 4,0:17:48.43,0:17:51.36,Main,,0,0,0,,Này, cậu chờ ở đây một xíu nhé?
-Dialogue: 4,0:17:51.36,0:17:54.51,Main,,0,0,0,,Được chứ... mà Araragi-kun định đi đâu à?
+Dialogue: 4,0:17:51.36,0:17:54.51,Main,,0,0,0,,Được chứ... mà Araragi-kun định đi đâu thế?
 Dialogue: 4,0:17:54.51,0:17:56.72,Main,,0,0,0,,Tán gẫu với học sinh tiểu học.
 Dialogue: 4,0:17:57.03,0:17:59.68,Main,,0,0,0,,{\an8}Thôi bỏ đi!\N Chỉ khiến cậu tổn thương thôi.
-Dialogue: 4,0:18:00.63,0:18:04.14,Main,,0,0,0,,{\i1\an8}Đúng thật là! \NCậu ta cứ mở mồm ra là nói gở không!
+Dialogue: 4,0:18:00.63,0:18:04.14,Main,,0,0,0,,{\i1\an8}Sợ luôn! \NCậu ta cứ mở mồm ra là nói gở không!
 Dialogue: 4,0:18:05.10,0:18:06.98,Main,,900,0,0,,Chào em! Sao thế?
 Dialogue: 4,0:18:06.98,0:18:08.52,Main,,900,0,0,,Em bị lạc à?
 Dialogue: 4,0:18:13.44,0:18:17.78,Main,,0,0,0,,Làm ơn đừng bắt chuyện với em!\NEm ghét cái loại như anh ạ.
 Dialogue: 4,0:18:19.41,0:18:22.23,Main,,0,0,560,,Sao thế? Có chuyện gì à?
 Dialogue: 4,0:18:22.23,0:18:25.00,Main,,0,0,560,,Tổn thương! Bị tổn thương thật rồi.
 Dialogue: 4,0:18:26.54,0:18:28.20,Main,,0,0,560,,Để thử lại lần nữa.
-Dialogue: 4,0:18:28.20,0:18:30.81,Main,,0,0,560,,Đã kêu là cậu định đi đâu hả?
+Dialogue: 4,0:18:28.20,0:18:30.81,Main,,0,0,560,,Đã bảo là cậu định đi đâu thế?
 Dialogue: 4,0:18:30.81,0:18:32.55,Main,,0,0,560,,Hiển nhiên thế còn gì!
 Dialogue: 4,0:18:38.05,0:18:39.21,Main,,0,0,560,,Ây em ơi!
 Dialogue: 4,0:18:40.26,0:18:41.68,Main,,0,0,560,,Em bị lạc đúng không nào?
@@ -377,7 +378,7 @@ Dialogue: 0,0:18:49.29,0:18:49.98,Main,,0,0,560,,Ây~
 Dialogue: 4,0:18:52.76,0:18:55.33,Main,,0,0,560,,Sao thế? Có chuyện gì à?
 Dialogue: 4,0:18:55.33,0:18:58.87,Main,,0,0,560,,Bị ăn bơ... \Nnữ sinh tiểu học không thèm đếm xỉa tới tôi.
 Dialogue: 4,0:18:59.82,0:19:02.53,Main,,0,0,560,,Lần này sẽ khác! Lên!
-Dialogue: 4,0:19:02.53,0:19:07.95,Main,,0,0,560,,Araragi-kun muốn làm gì, đang làm gì...\N nói thật tôi không biết gì luôn.
+Dialogue: 4,0:19:02.53,0:19:07.95,Main,,0,0,560,,Araragi-kun muốn làm gì, đang làm gì...\N nói thật tôi không hiểu luôn.
 Dialogue: 4,0:19:07.95,0:19:08.67,Main,,0,0,560,,Cứ kệ tôi!
 Dialogue: 4,0:19:16.86,0:19:18.60,Main,,0,0,0,,Anh làm cái gì thế hả?!
 Dialogue: 4,0:19:18.60,0:19:20.30,Main,,0,0,0,,Cuối cùng cũng chịu quay lại à.
@@ -387,31 +388,31 @@ Dialogue: 4,0:19:26.82,0:19:28.68,Main,,0,0,0,,Nên anh nghĩ biết đâu đấ
 Dialogue: 4,0:19:28.68,0:19:33.30,Main,,0,0,0,,Cái loại người ngang nhiên đánh vào đầu học sinh tiểu học \Nrồi lại đi kêu muốn {\u1}giúp{\u0}.
 Dialogue: 4,0:19:33.30,0:19:35.09,Main,,0,0,0,,Trần đời có một!
 Dialogue: 4,0:19:35.09,0:19:36.57,Main,,0,0,0,,Tuyệt đối không có gì tốt đẹp!
-Dialogue: 4,0:19:36.57,0:19:39.25,Main,,0,0,0,,À thì cho anh xin lỗi mà!
+Dialogue: 4,0:19:36.57,0:19:39.25,Main,,0,0,0,,Thôi cho anh xin lỗi mà!
 Dialogue: 4,0:19:39.25,0:19:42.87,Main,,0,0,0,,À ờ... tên anh là Araragi Koyomi.
 Dialogue: 4,0:19:42.87,0:19:46.29,Main,,0,0,0,,Koyomi cơ à, tên con gái thế nhở.
 Dialogue: 4,0:19:46.74,0:19:49.58,Main,,0,0,0,,Quá nữ tính! Làm ơn tránh xa ra!
 Dialogue: 4,0:19:50.54,0:19:53.00,Main,,0,0,0,,Thế em tên là gì?
 Dialogue: 4,0:19:53.00,0:19:55.29,Main,,0,720,0,,Em tên là Hachikuji Mayoi ạ!
 Dialogue: 4,0:19:55.29,0:19:57.84,Main,,0,720,0,,Thưa Hachikuji Mayoi đấy ạ!
-Dialogue: 4,0:19:57.84,0:20:00.97,Main,,0,720,0,,Là cái tên quý giá \Nđược bố mẹ trao cho.
+Dialogue: 4,0:19:57.84,0:20:00.97,Main,,0,720,0,,Là cái tên quý giá \Nmà bố mẹ trao cho.
 Dialogue: 4,0:20:00.97,0:20:05.86,Main,,0,0,0,,Tóm lại, làm ơn đừng bắt chuyện với em!\NEm ghét cái loại như anh ạ.
 Dialogue: 4,0:20:05.86,0:20:10.14,Main,,0,0,0,,Em sao thế? \NAnh có làm gì em đâu mà lo.
-Dialogue: 4,0:20:10.14,0:20:15.07,Main,,0,0,0,,Ở cái thành phố này, \Nkhông có người nào vô hại hơn anh đâu.
+Dialogue: 4,0:20:10.14,0:20:15.07,Main,,0,0,0,,Ở cái thành phố này, \Nkhông có người nào lành tính hơn anh đâu.
 Dialogue: 4,0:20:16.90,0:20:19.53,Main,,0,0,0,,Thôi được rồi! \NTạm thời giảm bớt cảnh giác với anh.
 Dialogue: 4,0:20:19.53,0:20:21.11,Main,,0,0,0,,Được thế thì tốt.
-Dialogue: 4,0:20:21.11,0:20:22.58,Main,,0,0,0,,Vậy thì thưa anh Cầm Thú!
+Dialogue: 4,0:20:21.11,0:20:22.58,Main,,0,0,0,,Vậy thưa anh Cầm Thú!
 Dialogue: 4,0:20:22.58,0:20:23.58,Main,,0,0,0,,Anh Cầm Thú?!
 Dialogue: 4,0:20:23.58,0:20:25.50,Main,,0,0,0,,Dám gọi anh mày thế à?!
 Dialogue: 4,0:20:25.50,0:20:27.95,Main,,0,0,0,,Anh mắng em! Em sợ lắm!
-Dialogue: 4,0:20:27.95,0:20:32.58,Main,,0,0,0,,À thì, cho anh xin lỗi đã hét vào mặt em... \Ncơ mà Cầm Thú thì hơi quá rồi đấy.
-Dialogue: 4,0:20:32.58,0:20:34.04,Main,,0,0,0,,Ai bị gọi thế cũng nổi đóa lên thôi.
+Dialogue: 4,0:20:27.95,0:20:32.58,Main,,0,0,0,,Ấy! Anh xin lỗi đã hét vào mặt em cơ mà...\N Cầm Thú thì hơi quá rồi đấy.
+Dialogue: 4,0:20:32.58,0:20:34.04,Main,,0,0,0,,Ai bị gọi thế cũng cáu hết.
 Dialogue: 4,0:20:35.02,0:20:37.00,Main,,0,0,0,,Thế gọi là gì bây giờ?
 Dialogue: 4,0:20:37.00,0:20:39.22,Main,,0,0,0,,Thì cứ bình thường là được rồi.
 Dialogue: 4,0:20:39.51,0:20:41.30,Main,,0,0,0,,Vậy Araragi-san nhở?
 Dialogue: 4,0:20:41.30,0:20:44.14,Main,,0,0,0,,Phải! Bình thường là được! Bình thường là nhất!
 Dialogue: 4,0:20:44.73,0:20:47.47,Main,,0,0,0,,Em ghét Araragi-san ạ!
-Dialogue: 4,0:20:48.68,0:20:51.48,Main,,0,0,0,,Làm ơn rời khỏi đây ngay lập tức đi ạ!
+Dialogue: 4,0:20:48.68,0:20:51.48,Main,,0,0,0,,Làm ơn mau mau biến khỏi đây đi ạ!
 Dialogue: 4,0:20:51.48,0:20:54.14,Main,,0,0,0,,Cơ mà em đang bị lạc đúng không?
 Dialogue: 4,0:20:54.14,0:20:57.35,Main,,0,0,0,,Chuyện cỏn con cỡ này em lo được.
 Dialogue: 4,0:20:57.35,0:20:58.99,Main,,0,0,0,,Thôi đừng bướng.
@@ -421,17 +422,18 @@ Dialogue: 4,0:21:01.86,0:21:03.07,Main,,0,0,0,,Chết này!
 Dialogue: 4,0:21:08.49,0:21:10.09,Main,,0,0,0,,Thôi xong rồi!
 Dialogue: 4,0:21:23.22,0:21:25.65,Main,,0,0,0,,Ngu thật sự!
 Dialogue: 4,0:21:25.65,0:21:28.56,Main,,0,0,0,,Cấp 1 đòi đánh nhau với cấp 3.
-Dialogue: 4,0:21:32.52,0:21:34.36,Main,,0,0,0,,{\i1}Choảng nhau với nữ sinh cấp 1.
-Dialogue: 4,0:21:34.36,0:21:37.67,Main,,0,0,0,,{\i1}Choảng một cách nghiêm túc.\N Tung đòn Vật Một Tay một cách nghiêm túc.
+Dialogue: 4,0:21:32.52,0:21:34.36,Main,,0,0,0,,{\i1}Oánh nhau với nữ sinh cấp 1.
+Dialogue: 4,0:21:34.36,0:21:35.60,Main,,0,0,0,,{\i1}Oánh một cách nghiêm túc.
+Dialogue: 4,0:21:35.60,0:21:37.67,Main,,0,0,0,,{\i1}Tung đòn Vật Một Tay một cách nghiêm túc.
 Dialogue: 4,0:21:37.67,0:21:40.40,Main,,0,0,0,,{\i1}Nghiêm túc ăn mừng chiến thắng.
 Dialogue: 4,0:21:40.40,0:21:42.20,Main,,0,0,0,,{\i1}Chuyện kể nam sinh cấp 3.
-Dialogue: 4,0:21:42.90,0:21:44.83,Main,,0,0,560,,{\i1}Mà đó là... Tôi!
+Dialogue: 4,0:21:42.90,0:21:44.83,Main,,0,0,560,,{\i1}Mà nam sinh đó... là tôi!
 Dialogue: 4,0:21:49.03,0:21:50.12,Main,,0,0,0,,Araragi-kun...
 Dialogue: 4,0:21:53.29,0:21:55.44,Main,,0,0,0,,Để tôi giải thích.
 Dialogue: 4,0:21:55.91,0:21:57.25,Main,,0,0,0,,Mời.
 Dialogue: 4,0:21:57.96,0:22:01.37,Main,,0,0,0,,Mà thôi, chuyện qua rồi bỏ qua đi.
 Dialogue: 4,0:22:01.37,0:22:03.55,Main,,0,0,0,,Con bé này... hình như bị lạc đường.
-Dialogue: 4,0:22:04.05,0:22:06.90,Main,,0,0,0,,Tôi nghĩ là mình có thể {\u1}giúp{\u0} được gì đó.
+Dialogue: 4,0:22:04.05,0:22:06.90,Main,,0,0,0,,Nên nghĩ là có thể {\u1}giúp{\u0} được gì đó.
 Dialogue: 4,0:22:09.93,0:22:10.68,Main,,0,0,0,,Vậy sao?
 Dialogue: 4,0:22:11.75,0:22:13.76,Main,,0,0,0,,Mà thôi, hiểu rồi.
 Dialogue: 4,0:22:13.76,0:22:15.15,Main,,0,0,0,,Nắm được tình hình rồi.
@@ -440,7 +442,7 @@ Dialogue: 4,0:22:18.60,0:22:22.55,Main,,0,0,0,,Nhờ cậu tìm đường quanh 
 Dialogue: 4,0:22:23.00,0:22:26.20,Main,,0,0,0,,Cũng tạm, như bao người.
 Dialogue: 4,0:22:26.20,0:22:28.21,Main,,900,0,0,,Ầy, Hachikuji!
 Dialogue: 4,0:22:28.21,0:22:31.04,Main,,900,0,0,,Cái ghi chú ban nãy ấy,\N đưa cho chị gái này xem đi.
-Dialogue: 4,0:22:32.78,0:22:37.50,Main,,900,0,0,,Chả hiểu sao mơ là\N bị một nam sinh cấp 3 bạo hành.
+Dialogue: 4,0:22:32.78,0:22:37.50,Main,,900,0,0,,Chả hiểu sao mơ thấy\N bị một nam sinh cấp 3 bạo hành.
 Dialogue: 4,0:22:38.25,0:22:40.28,Main,,0,0,0,,Mơ không có thật đâu em.
 Dialogue: 4,0:22:40.28,0:22:41.31,Main,,0,0,0,,Ra vậy.
 Dialogue: 4,0:22:41.31,0:22:42.71,Main,,0,0,0,,Mơ không có thật.
@@ -455,13 +457,13 @@ Dialogue: 4,0:23:07.00,0:23:08.46,Main,,0,0,0,,Có biết ở đâu không?
 Dialogue: 4,0:23:08.46,0:23:10.71,Main,,0,0,0,,Ừm, chỗ đó thì biết.
 Dialogue: 4,0:23:10.71,0:23:11.99,Main,,0,0,0,,Vậy thì tốt.
 Dialogue: 4,0:23:12.53,0:23:15.32,Main,,0,0,0,,Tôi không thể nói một cách chi tiết được nhưng...
-Dialogue: 4,0:23:15.32,0:23:18.24,Main,,0,0,0,,nhưng khi đến đó chỗ đó\N thì sẽ cảm giác được mà đúng không?
+Dialogue: 4,0:23:15.32,0:23:18.24,Main,,0,0,0,,khi đến đó\N thì sẽ cảm giác được mà đúng không?
 Dialogue: 4,0:23:18.24,0:23:19.58,Main,,0,0,0,,Nào đi thôi!
 Dialogue: 4,0:23:20.63,0:23:21.88,Main,,0,0,0,,Đi thôi nào! Hachikuji.
 Dialogue: 4,0:23:23.47,0:23:25.03,Main,,0,0,0,,Đi đâu thế ạ?
-Dialogue: 4,0:23:25.03,0:23:27.08,Main,,0,0,0,,Thì địa chỉ trên tờ ghi chú đó.
+Dialogue: 4,0:23:25.03,0:23:27.08,Main,,0,0,0,,Thì địa chỉ trên tờ ghi chú.
 Dialogue: 4,0:23:27.08,0:23:30.51,Main,,0,0,0,,Chị gái kia biết nên sẽ chỉ đường cho.
-Dialogue: 4,0:23:30.51,0:23:31.18,Main,,0,0,0,,Tốt rồi ha?
+Dialogue: 4,0:23:30.51,0:23:31.18,Main,,0,0,0,,Tốt rồi ha!
 Dialogue: 4,0:23:31.86,0:23:34.89,Main,,0,900,0,,À... chỉ đường à?
 Dialogue: 4,0:23:35.93,0:23:37.85,Main,,0,0,0,,Em... không phải bị lạc sao?
 Dialogue: 4,0:23:39.14,0:23:41.44,Main,,0,900,0,,À thì, bị lạc ạ.
