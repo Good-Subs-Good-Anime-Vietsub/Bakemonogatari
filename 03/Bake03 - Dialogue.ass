@@ -14,10 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 580
-Active Line: 587
-Video Position: 36261
+Video Zoom Percent: 0.500000
+Scroll Position: 341
+Active Line: 348
+Video Position: 27394
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,17 +77,17 @@ Dialogue: 4,0:03:38.94,0:03:40.19,Main,,0,0,0,,Theo lập trường của tôi..
 Dialogue: 4,0:03:40.19,0:03:43.53,Main,,0,0,0,,Nếu viết không dấu thì sẽ thành "mo-e", \Ntức còn hơn cả "moe".
 Dialogue: 4,0:03:43.53,0:03:48.07,Main,,0,0,0,,Có rất nhiều kỳ vọng nó sẽ trở thành từ lóng \Ncho thế hệ sau này.
 Dialogue: 4,0:03:48.08,0:03:50.25,GT 2,,0,0,0,,{\pos(870,940)}(thế giới ngầm/hầu gái)
-Dialogue: 4,0:03:48.08,0:03:50.25,Main,pun.tore,0,0,0,,Như "{\u1}me{\u0}ido" chẳng hạn.
-Dialogue: 4,0:03:50.25,0:03:52.79,Main,pun.tore,0,0,0,,hay "tai {\u1}mề{\u0}u" nữa.
+Dialogue: 4,0:03:48.08,0:03:50.25,Main,pun.tore,0,0,0,,Như "hầu gái mê" chẳng hạn.
+Dialogue: 4,0:03:50.25,0:03:52.79,Main,pun.tore,0,0,0,,hay "tai mèo mê" nữa.
 Dialogue: 4,0:03:52.79,0:03:54.97,Main,,0,0,0,,Nói chung là thế đấy.
 Dialogue: 4,0:03:57.13,0:04:01.22,Main,,0,0,0,,Tôi chỉ ngạc nhiên vì bộ này trông khá khác\N bộ lần trước.
 Dialogue: 4,0:04:01.22,0:04:02.43,Main,,0,0,0,,Có vậy thôi.
-Dialogue: 4,0:04:02.43,0:04:04.29,Main,,0,0,0,,Ồ, đúng rồi.
+Dialogue: 4,0:04:02.43,0:04:04.29,Main,,0,0,0,,À~ Đúng rồi.
 Dialogue: 4,0:04:04.29,0:04:07.09,Main,,0,0,0,,Lúc đó phải mặc đồ sao cho người lớn một tý mà.
 Dialogue: 4,0:04:07.38,0:04:08.43,Main,,0,0,0,,Vậy sao?
 Dialogue: 4,0:04:09.85,0:04:14.16,Main,,0,0,0,,Mà tiện nói, \Ncả áo trên quần dưới đều mới mua hôm qua.
 Dialogue: 4,0:04:14.98,0:04:16.54,Main,,0,0,0,,Được cái cũng may.
-Dialogue: 4,0:04:16.54,0:04:20.02,Main,,0,0,0,,Bởi nếu có thể \Nthì tôi {\u1}muốn Araragi-kun xem nó{\u0} đầu tiên.
+Dialogue: 4,0:04:16.54,0:04:20.02,Main,,0,0,0,,Bởi nếu có thể \Nthì tôi {\u1}muốn Araragi-kun xem{\u0} nó đầu tiên.
 Dialogue: 4,0:04:22.45,0:04:27.45,Main,,0,0,0,,Mà, được cậu {\u1}cho xem{\u0} đầu tiên... nói sao nhở...
 Dialogue: 4,0:04:27.45,0:04:30.62,Main,,0,0,0,,đúng là may thật, rất vinh dự.
 Dialogue: 4,0:04:30.62,0:04:33.20,Main,,0,0,0,,Không phải "cho xem" nhé, Araragi-kun.
@@ -151,7 +151,7 @@ Dialogue: 4,0:07:23.46,0:07:25.17,Main,,0,0,0,,{\i1}Bạn!
 Dialogue: 4,0:07:25.17,0:07:29.79,Main,,0,0,0,,Nên là Araragin-kun! \NCậu có muốn tôi làm gì cho cậu không?
 Dialogue: 4,0:07:30.17,0:07:32.63,Main,,0,0,0,,Một điều thôi, gì cũng nghe hết.
 Dialogue: 4,0:07:32.64,0:07:34.09,Main,,0,0,0,,G-Gì cũng nghe?
-Dialogue: 4,0:07:34.41,0:07:36.39,Main,,0,0,820,,Ừ gì cũng được hết.
+Dialogue: 4,0:07:34.41,0:07:36.39,Main,,0,0,820,,Thật, gì cũng được hết.
 Dialogue: 4,0:07:36.39,0:07:39.23,Main,,0,0,820,,Một điều duy nhất, bất kể là gì.
 Dialogue: 4,0:07:39.23,0:07:41.32,Main,,0,0,820,,Bá chủ thế giới, Trường sinh bất tử...
 Dialogue: 4,0:07:41.32,0:07:44.21,Main,,0,0,820,,hay đánh bại người Saiyan xâm lược Trái Đất\N đều được hết.
@@ -228,13 +228,13 @@ Dialogue: 4,0:11:11.85,0:11:14.57,Main,,0,900,0,,dính nhau như sam luôn.
 Dialogue: 4,0:11:14.57,0:11:17.57,Main,,720,0,0,,Hỏa Tỷ Muội \Ncủa trường cấp 2 Tsuganoki ha.
 Dialogue: 4,0:11:17.89,0:11:19.78,Main,,0,900,0,,Còn biết cả biệt danh cơ à.
 Dialogue: 4,0:11:19.78,0:11:21.99,Main,,0,0,0,,Thì đấy, nay Ngày của Mẹ đúng không?
-Dialogue: 4,0:11:22.83,0:11:24.95,Main,,720,0,0,,Ờ, nhắc mới nhớ là đúng thật.
+Dialogue: 4,0:11:22.83,0:11:24.95,Main,,720,0,0,,Ờ, nhắc mới nhớ đúng thật.
 Dialogue: 4,0:11:25.91,0:11:29.04,Main,,0,0,560,,{\an5}Hai đứa nó quấn quýt với mẹ lắm.
 Dialogue: 4,0:11:29.04,0:11:33.50,Main,,0,0,560,,{\an5}Rồi... \NMẹ cũng quý hai đứa nó như kiểu mèo cưng ấy... \NRồi...
 Dialogue: 4,0:11:33.50,0:11:34.46,Main,,0,0,0,,Hiểu rồi.
 Dialogue: 4,0:11:35.01,0:11:37.23,Main,,0,0,560,,{\an5}Và cậu, thằng con cả kém cỏi,
 Dialogue: 4,0:11:37.23,0:11:42.74,Main,,0,0,560,,{\an5}vào cái Ngày của Mẹ hôm nay, \Ncảm thấy ở nhà không có chỗ dành cho mình ha.
-Dialogue: 4,0:11:43.25,0:11:44.56,Main,,0,0,560,,{\an5}Chuẩn rồi.
+Dialogue: 4,0:11:43.25,0:11:44.56,Main,,0,0,560,,{\an5}Kiểu vậy.
 Dialogue: 4,0:11:46.02,0:11:49.42,Main,,0,0,0,,Sáng sớm nay tôi cố lẻn ra ngoài...
 Dialogue: 4,0:11:49.42,0:11:53.46,Main,,0,0,0,,nhưng vừa leo được lên cái xe đạp địa hình \Nthì bị em gái bắt quả tang.
 Dialogue: 4,0:11:53.46,0:11:54.84,Main,,0,0,0,,Rồi... cãi nhau.
@@ -247,7 +247,7 @@ Dialogue: 4,0:12:05.73,0:12:08.21,Main,,0,0,0,,{\i1}Chính vì {\u1}như thế{\
 Dialogue: 4,0:12:11.96,0:12:16.33,Main,,0,0,0,,Tức là...\N cái Ngày của Mẹ này với người như tôi là chịu.
 Dialogue: 4,0:12:16.33,0:12:21.39,Main,,0,0,0,,Và trước những lời của đứa em gái nhỏ hơn 4 tuổi,\N tôi tự bực chính mình.
 Dialogue: 4,0:12:21.39,0:12:22.86,Main,,0,0,0,,Biết nói thế nào nhở...
-Dialogue: 4,0:12:22.86,0:12:25.06,Main,,0,0,0,,Kiểu như vì {\u1}con người nhỏ bé của tôi{\u0}...
+Dialogue: 4,0:12:22.86,0:12:25.06,Main,,0,0,0,,Kiểu như vì {\u1}con người nhỏ bé{\u0} của tôi...
 Dialogue: 4,0:12:25.06,0:12:27.84,Main,,0,0,0,,nên tự cáu giận, tự bực mình, \Nbất lực không làm được gì.
 Dialogue: 4,0:12:29.05,0:12:30.80,Main,,0,0,0,,Phức tạp đấy nhỉ.
 Dialogue: 4,0:12:30.80,0:12:33.80,Main,,0,0,0,,Phức tạp cái gì! Hẹp hòi nó thế.
@@ -279,7 +279,9 @@ Dialogue: 4,0:13:48.01,0:13:53.19,Main,,0,0,0,,nhưng khi đọc kỹ thì chẳ
 Dialogue: 4,0:13:53.89,0:13:55.10,Main,,0,0,0,,{\i1}"Chán"?
 Dialogue: 4,0:13:55.45,0:13:59.74,Main,,0,0,0,,{\an5}Cơ mà Araragi-kun, \Ncậu có vẻ rất yêu quý em gái mình.
 Dialogue: 4,0:13:59.74,0:14:01.07,Main,,0,0,0,,{\an5}Chảnh chọe suốt ngày thôi.
-Dialogue: 4,0:14:02.19,0:14:07.28,GT,,0,0,0,,{\fs45}({\c&H28FF34&}Nói lái{\c} từ thành ngữ, thơ: "{\c&H28FF34&}Me ni iretemo itakunai{\c} ~ {\c&H28FF34&}Có nhét vào mắt cũng không thấy đau{\c}")\N(ám chỉ độ {\c&H28FF34&}dễ thương vô bờ bến{\c}, bỏ qua hết mọi {\c&H28FF34&}sai trái{\c})
+Dialogue: 2,0:14:02.19,0:14:07.28,GT,,0,0,0,,{\an7\pos(0,0)\blur0.6\shad0\1a&H00&\p1\bord0\c&H222222&}m 1595 145 l 331 145 l 331 15 l 1595 15 m 334 18 l 334 142 l 1592 142 l 1592 18 
+Dialogue: 2,0:14:02.19,0:14:07.28,GT,,0,0,0,,{\an7\pos(0,0)\blur0.6\shad0\1a&H92&\p1\bord0\c&H000000&}m 1592 142 l 334 142 l 334 18 l 1592 18 
+Dialogue: 4,0:14:02.19,0:14:07.28,GT,,0,0,0,,{\fs45\bord0\shad0\blur0.6}({\c&H28FF34&}Nói lái{\c} câu: "{\c&H28FF34&}Me ni iretemo itakunai{\c} ~ {\c&H28FF34&}Có nhét vào mắt cũng không thấy đau{\c}")\N(ám chỉ độ {\c&H28FF34&}dễ thương vô bờ bến{\c}, bỏ qua hết mọi {\c&H28FF34&}sai trái{\c})
 Dialogue: 4,0:14:02.19,0:14:05.19,Main,,0,0,0,,{\an5}Dí mắt vào cũng không thấy dễ thương\Nmà đau đớn thay cô em gái.
 Comment: 4,0:14:02.19,0:14:05.19,GT 2,,0,0,0,,{\an5}("me ni iretemo kawaikunai" itai imōto na no ne)
 Dialogue: 4,0:14:05.19,0:14:07.28,Main,,0,0,0,,{\an5}Em gái tôi thì đau đớn quái gì chứ!
@@ -294,7 +296,7 @@ Dialogue: 4,0:14:26.55,0:14:29.74,Main,,0,0,0,,{\an5}Phải ha! Araragi-kun là 
 Dialogue: 4,0:14:29.74,0:14:30.78,Main,,0,0,0,,{\an5}Sorocon?
 Dialogue: 4,0:14:30.78,0:14:32.51,Main,,0,0,0,,{\an5}Là "Hôn nhân Sororate".
 Dialogue: 4,0:14:32.51,0:14:39.39,Main,,0,0,0,,{\an5}Được gọi là "tục nối dây",\N nghĩa là sau khi vợ chết, thì phải cưới em dâu hoặc chị dâu.
-Dialogue: 4,0:14:40.80,0:14:43.85,Main,,0,0,0,,{\an5}Thế tại sao tôi lại là sorocon?
+Dialogue: 4,0:14:40.80,0:14:43.85,Main,,0,0,0,,{\an5}Thế tại sao tôi lại là sororate đấy?
 Dialogue: 4,0:14:43.85,0:14:47.06,Main,,0,0,0,,{\an5}Trong trường hợp Araragi-kun\N thì là em chứ không phải chị ha.
 Dialogue: 4,0:14:47.06,0:14:48.95,Main,,0,0,0,,Tức là trước hết để em dâu...
 Dialogue: 4,0:14:48.95,0:14:53.58,Main,,0,0,0,,...gọi cậu là "Onī-chan", sau đó thì cưới nhau.{chữ 義兄 trong signs là "anh rể", nhưng lại được đọc là "nii" thay vì "gikei", đâm ra thành Onī-chan}
@@ -357,7 +359,7 @@ Dialogue: 4,0:17:36.66,0:17:38.17,Main,,0,0,0,,Hachikuji?
 Dialogue: 4,0:17:38.17,0:17:41.27,Main,,0,0,0,,Vậy ra tên là Hachikuji Mayoi à.
 Dialogue: 4,0:17:43.64,0:17:47.46,Main,,0,0,0,,{\i1}Cậu ta nhìn kiểu gì \Ncũng không phải kiểu ưa con nít ha.
 Dialogue: 4,0:17:48.43,0:17:51.36,Main,,0,0,0,,Này, cậu chờ ở đây một xíu nhé?
-Dialogue: 4,0:17:51.36,0:17:54.51,Main,,0,0,0,,Được chứ... mà Araragi-kun định đi đâu thế?
+Dialogue: 4,0:17:51.36,0:17:54.51,Main,,0,0,0,,Được chứ... nhưng Araragi-kun định đi đâu thế?
 Dialogue: 4,0:17:54.51,0:17:56.72,Main,,0,0,0,,Tán gẫu với học sinh tiểu học.
 Dialogue: 4,0:17:57.03,0:17:59.68,Main,,0,0,0,,{\an8}Thôi bỏ đi!\N Chỉ khiến cậu tổn thương thôi.
 Dialogue: 4,0:18:00.63,0:18:04.14,Main,,0,0,0,,{\i1\an8}Sợ luôn! \NCậu ta cứ mở mồm ra là nói gở không!
@@ -378,7 +380,7 @@ Dialogue: 0,0:18:49.29,0:18:49.98,Main,,0,0,560,,Ây~
 Dialogue: 4,0:18:52.76,0:18:55.33,Main,,0,0,560,,Sao thế? Có chuyện gì à?
 Dialogue: 4,0:18:55.33,0:18:58.87,Main,,0,0,560,,Bị ăn bơ... \Nnữ sinh tiểu học không thèm đếm xỉa tới tôi.
 Dialogue: 4,0:18:59.82,0:19:02.53,Main,,0,0,560,,Lần này sẽ khác! Lên!
-Dialogue: 4,0:19:02.53,0:19:07.95,Main,,0,0,560,,Araragi-kun muốn làm gì, đang làm gì...\N nói thật tôi không hiểu luôn.
+Dialogue: 4,0:19:02.53,0:19:07.95,Main,,0,0,560,,Araragi-kun muốn làm gì, đang làm gì...\N nói thật tôi không hiểu nổi luôn.
 Dialogue: 4,0:19:07.95,0:19:08.67,Main,,0,0,560,,Cứ kệ tôi!
 Dialogue: 4,0:19:16.86,0:19:18.60,Main,,0,0,0,,Anh làm cái gì thế hả?!
 Dialogue: 4,0:19:18.60,0:19:20.30,Main,,0,0,0,,Cuối cùng cũng chịu quay lại à.
@@ -595,16 +597,16 @@ Dialogue: 0,0:02:46.60,0:02:46.64,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alph
 Dialogue: 0,0:02:46.64,0:02:46.68,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,528.48)}Mayoi Ốc Sên
 Dialogue: 0,0:02:46.68,0:02:46.72,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.29,528.5)}Mayoi Ốc Sên
 Dialogue: 0,0:02:46.72,0:02:48.98,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,528.48)}Mayoi Ốc Sên
-Dialogue: 0,0:02:42.76,0:02:43.26,Signs,,0,0,0,,{=113}{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\fs150\blur12\bord15\fsp1\c&H8684F4&\3c&H9184F4&\pos(907.81,90.28)}QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:43.26,0:02:43.30,Signs,,0,0,0,,{=113}{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL TelingaterDisplay\fs150\blur12\bord15\fsp1\c&H8684F4&\3c&H9184F4&\pos(915,161.03)}QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:43.30,0:02:43.35,Signs,,0,0,0,,{=113}{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur12\bord14.99\fsp1\c&H8684F4&\3c&H9184F4&\pos(1002.47,66.21)}QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:43.35,0:02:43.39,Signs,,0,0,0,,{=113}{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur12\bord14.99\fsp1\c&H8684F4&\3c&H9184F4&\pos(1089.83,-25.61)}QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:43.39,0:02:43.43,Signs,,0,0,0,,{=113}{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL TelingaterDisplay\fs150\blur12\bord14.99\fsp1\c&H8684F4&\3c&H9184F4&\pos(1176.55,-114.39)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:42.76,0:02:43.26,Signs,,0,0,0,,{=112}{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(907.81,90.28)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:43.26,0:02:43.30,Signs,,0,0,0,,{=112}{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(915,161.03)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:43.30,0:02:43.35,Signs,,0,0,0,,{=112}{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1002.47,66.21)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:43.35,0:02:43.39,Signs,,0,0,0,,{=112}{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1089.83,-25.61)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:43.39,0:02:43.43,Signs,,0,0,0,,{=112}{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1176.55,-114.39)}QUÁIVẬTRUYỆN
+Dialogue: 0,0:02:42.76,0:02:43.26,Signs,,0,0,0,,{=113}{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(907.81,90.28)}Yêu Ma Quái Truyện
+Dialogue: 0,0:02:43.26,0:02:43.30,Signs,,0,0,0,,{=113}{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(915,161.03)}Yêu Ma Quái Truyện
+Dialogue: 0,0:02:43.30,0:02:43.35,Signs,,0,0,0,,{=113}{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(1002.47,66.21)}Yêu Ma Quái Truyện
+Dialogue: 0,0:02:43.35,0:02:43.39,Signs,,0,0,0,,{=113}{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(1089.83,-25.61)}Yêu Ma Quái Truyện
+Dialogue: 0,0:02:43.39,0:02:43.43,Signs,,0,0,0,,{=113}{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(1176.55,-114.39)}Yêu Ma Quái Truyện
+Dialogue: 1,0:02:42.76,0:02:43.26,Signs,,0,0,0,,{=112}{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(907.81,90.28)}Yêu Ma Quái Truyện
+Dialogue: 1,0:02:43.26,0:02:43.30,Signs,,0,0,0,,{=112}{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(915,161.03)}Yêu Ma Quái Truyện
+Dialogue: 1,0:02:43.30,0:02:43.35,Signs,,0,0,0,,{=112}{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1002.47,66.21)}Yêu Ma Quái Truyện
+Dialogue: 1,0:02:43.35,0:02:43.39,Signs,,0,0,0,,{=112}{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1089.83,-25.61)}Yêu Ma Quái Truyện
+Dialogue: 1,0:02:43.39,0:02:43.43,Signs,,0,0,0,,{=112}{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1176.55,-114.39)}Yêu Ma Quái Truyện
 Comment: 0,0:24:07.26,0:24:07.30,EDvie,,0,0,0,,=================================================
 Dialogue: 0,0:24:13.03,0:24:15.80,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&\4c&H0000FB&}"Kia là Sao Thiên Tân, Sao Ngưu Lang và Sao Chức Nữ đấy"
 Dialogue: 1,0:24:15.80,0:24:18.88,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&}Chàng vừa nói vừa chỉ vào Tam Giác Mùa Hè.

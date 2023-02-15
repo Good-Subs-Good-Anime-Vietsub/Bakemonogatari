@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 739
-Active Line: 749
-Video Position: 2242
+Video Zoom Percent: 0.750000
+Scroll Position: 3827
+Active Line: 3830
+Video Position: 25627
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,7 +55,8 @@ Dialogue: 0,0:05:12.12,0:05:13.25,Signs,,0,0,0,,{\an5\fnVL DellaRobbia BT\blur2\
 Dialogue: 1,0:05:12.12,0:05:13.25,Signs,,0,0,0,,{\an5\fnVL DellaRobbia BT\blur0.9\bord0\shad0\c&HFFFFFF&\b1\4c&H000000&\4a&HB1&\pos(1221.25,941.87)\fscx44\fscy52}THIẾT BỊ ĐỒ DÙNG TINH XẢO
 Dialogue: 0,0:05:12.12,0:05:13.25,Signs,,0,0,0,,{\an5\fnVL DellaRobbia BT\blur2\bord0\shad0\c&HF4FDFF&\b1\4c&H000000&\4a&HB1&\1a&HA9&\pos(853.25,609.07)\fscx44\fscy52}ĐĂNG ÁP PHÍCH THÔNG BÁO
 Dialogue: 1,0:05:12.12,0:05:13.25,Signs,,0,0,0,,{\an5\fnVL DellaRobbia BT\blur0.9\bord0\shad0\c&HFFFFFF&\b1\4c&H000000&\4a&HB1&\pos(853.25,609.07)\fscx44\fscy52}ĐĂNG ÁP PHÍCH THÔNG BÁO
-Dialogue: 0,0:07:16.83,0:07:20.29,Signs,,0,0,0,,{=0}{\clip()\an5\fnGentium Basic\blur1\bord0\shad0\c&H0909F4&\b1\fscx141\fscy141\move(943.32,-47.06,947.2,598.27,23,3443)}LỄ HỘI VĂN HÓA TRƯỜNG THPT NAOETSU
+Dialogue: 0,0:07:16.83,0:07:20.29,Signs,,0,0,0,,{=0}{\clip()\an5\fnGentium Basic\blur4\bord0\shad0\c&H0909F4&\b1\fscx141\fscy141\move(943.32,-47.06,947.2,598.27,23,3443)\alpha&HB0&}LỄ HỘI VĂN HÓA TRƯỜNG THPT NAOETSU
+Dialogue: 1,0:07:16.83,0:07:20.29,Signs,,0,0,0,,{=0}{\clip()\an5\fnGentium Basic\blur1\bord0\shad0\c&H0909F4&\b1\fscx141\fscy141\move(943.32,-47.06,947.2,598.27,23,3443)}LỄ HỘI VĂN HÓA TRƯỜNG THPT NAOETSU
 Dialogue: 1,0:00:00.00,0:00:01.48,Signs,,0,0,0,,{\fs25\an4\blur1\fnVL DellaRobbia BT\c&H656662&\b0\fscx89\fscy97\pos(1018.12,196.19)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
 Dialogue: 1,0:00:00.00,0:00:01.48,Signs,,0,0,0,,{\fs25\an4\blur1\fnVL DellaRobbia BT\c&H656662&\b0\fscx89\fscy97\pos(1019.12,196.19)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
 Dialogue: 0,0:00:01.48,0:00:03.90,Signs,,0,0,0,,{\q2\shad1\fn000 LetterOMatic!\fs24\fsp3\c&H5B657D&\blur1\move(953.05,333.52,933.84,333.51,21,2399)\4c&H2B2F34&\fscx63\fscy52}TRƯỜNG THPT TƯ THỤC NAOETSU
@@ -612,15 +613,15 @@ Dialogue: 1,0:01:21.60,0:01:21.64,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 1,0:01:21.60,0:01:21.64,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs48\blur1\c&HF6FBFE&\pos(1678.29,809.56)}Hoạt Cảnh số      61-1
 Dialogue: 1,0:01:21.64,0:01:21.68,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&HF6FDFF&\blur1\fs50\fnVL DellaRobbia BT\pos(489.98,541.07)}Như thể cô ấy ở đó là lẽ tự nhiên.
 Dialogue: 1,0:01:21.64,0:01:21.68,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs48\blur1\c&HF6FBFE&\pos(1678.02,809.14)}Hoạt Cảnh số      61-1
-Dialogue: 1,0:01:21.68,0:01:21.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.27,541.21)}Rồi không ở đây cũng là lẽ tự nhiên.
+Dialogue: 1,0:01:21.68,0:01:21.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.27,541.21)}Rồi không ở cũng là lẽ tự nhiên.
 Dialogue: 1,0:01:21.68,0:01:21.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs48\blur1\c&H95A8AB&\pos(1661.14,811.43)}Hoạt Cảnh số      61-2
-Dialogue: 1,0:01:21.72,0:01:21.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.98,541.72)}Rồi không ở đây cũng là lẽ tự nhiên.
+Dialogue: 1,0:01:21.72,0:01:21.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.98,541.72)}Rồi không ở cũng là lẽ tự nhiên.
 Dialogue: 1,0:01:21.72,0:01:21.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs48\blur1\c&H95A8AB&\pos(1661.14,811.92)}Hoạt Cảnh số      61-2
-Dialogue: 1,0:01:21.76,0:01:21.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.63,541.26)}Rồi không ở đây cũng là lẽ tự nhiên.
+Dialogue: 1,0:01:21.76,0:01:21.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.63,541.26)}Rồi không ở cũng là lẽ tự nhiên.
 Dialogue: 1,0:01:21.76,0:01:21.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs48\blur1\c&H95A8AB&\pos(1661.14,811.43)}Hoạt Cảnh số      61-2
-Dialogue: 1,0:01:21.81,0:01:21.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.96,541.72)}Rồi không ở đây cũng là lẽ tự nhiên.
+Dialogue: 1,0:01:21.81,0:01:21.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.96,541.72)}Rồi không ở cũng là lẽ tự nhiên.
 Dialogue: 1,0:01:21.81,0:01:21.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs48\blur1\c&H95A8AB&\pos(1661.39,811.94)}Hoạt Cảnh số      61-2
-Dialogue: 1,0:01:21.85,0:01:21.89,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.96,541.21)}Rồi không ở đây cũng là lẽ tự nhiên.
+Dialogue: 1,0:01:21.85,0:01:21.89,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H8FA2A9&\blur1\fs50\fnVL DellaRobbia BT\pos(490.96,541.21)}Rồi không ở cũng là lẽ tự nhiên.
 Dialogue: 1,0:01:21.85,0:01:21.89,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs48\blur1\c&H95A8AB&\pos(1661.39,811.44)}Hoạt Cảnh số      61-2
 Dialogue: 1,0:01:22.89,0:01:22.93,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\blur1.2\fs60\an5\pos(958.5,487.67)}Mà, như thế cũng chả sao.
 Dialogue: 1,0:01:22.89,0:01:22.93,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&HFFFFFF&\pos(1588.57,857.14)}Hoạt Cảnh số      64-1
@@ -636,15 +637,15 @@ Dialogue: 1,0:01:23.10,0:01:23.14,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 1,0:01:23.10,0:01:23.14,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&HFFFFFF&\pos(1589,857.65)}Hoạt Cảnh số      64-1
 Dialogue: 1,0:01:23.14,0:01:23.18,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\blur1.2\fs60\an5\pos(958.52,487.68)}Mà, như thế cũng chả sao.
 Dialogue: 1,0:01:23.14,0:01:23.18,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&HFFFFFF&\pos(1588.82,857.13)}Hoạt Cảnh số      64-1
-Dialogue: 1,0:01:23.18,0:01:23.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(110,245.59)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, tôi không có cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
+Dialogue: 1,0:01:23.18,0:01:23.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(110,245.59)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, không phải là tôi cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
 Dialogue: 1,0:01:23.18,0:01:23.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&H7AC1DC&\pos(1594.29,857.14)}Hoạt Cảnh số      64-2
-Dialogue: 1,0:01:23.22,0:01:23.27,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(109.76,245.93)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, tôi không có cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
+Dialogue: 1,0:01:23.22,0:01:23.27,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(109.76,245.93)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, không phải là tôi cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
 Dialogue: 1,0:01:23.22,0:01:23.27,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&H7AC1DC&\pos(1593.8,857.53)}Hoạt Cảnh số      64-2
-Dialogue: 1,0:01:23.27,0:01:23.31,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(110.02,245.45)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, tôi không có cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
+Dialogue: 1,0:01:23.27,0:01:23.31,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(110.02,245.45)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, không phải là tôi cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
 Dialogue: 1,0:01:23.27,0:01:23.31,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&H7AC1DC&\pos(1594.26,857.14)}Hoạt Cảnh số      64-2
-Dialogue: 1,0:01:23.31,0:01:23.35,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(109.49,245.99)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, tôi không có cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
+Dialogue: 1,0:01:23.31,0:01:23.35,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(109.49,245.99)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, không phải là tôi cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
 Dialogue: 1,0:01:23.31,0:01:23.35,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&H7AC1DC&\pos(1594.27,857.53)}Hoạt Cảnh số      64-2
-Dialogue: 1,0:01:23.35,0:01:23.39,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(110,245.59)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, tôi không có cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
+Dialogue: 1,0:01:23.35,0:01:23.39,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\an7\fnVL DellaRobbia BT\c&H8FCCDE&\fs50\pos(110,245.59)}Chả hiểu kiểu gì mà học chung lớp với nhau tận 3 năm mới tài,\N\N\N\N có điều dù là thế thì tôi cũng chưa nói chuyện với cô ấy bao giờ cả.\N\N\N\N À mà, không phải là tôi cô đơn gì đâu, mọi thứ đều ổn,\N\N\N\N dám cá là Senjougahara cũng vậy.
 Dialogue: 1,0:01:23.35,0:01:23.39,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs32\blur1\c&H7AC1DC&\pos(1593.79,857.14)}Hoạt Cảnh số      64-2
 Dialogue: 1,0:01:24.39,0:01:24.43,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fs70\fnVL DellaRobbia BT\blur4\pos(957.43,458.71)\alpha&HB0&}Đấy là tôi nghĩ thế.
 Dialogue: 2,0:01:24.39,0:01:24.43,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs70\fnVL DellaRobbia BT\blur1\pos(957.43,458.71)}Đấy là tôi nghĩ thế.
@@ -771,11 +772,11 @@ Dialogue: 0,0:01:29.65,0:01:29.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 0,0:01:29.69,0:01:29.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1\fs125\1c&H618090&\pos(964.27,545.63)}Đạo Diễn - Shinbou Akiyuki
 Dialogue: 0,0:01:29.73,0:01:29.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1\fs125\1c&H618090&\pos(964.62,545.19)}Đạo Diễn - Shinbou Akiyuki
 Dialogue: 0,0:01:29.77,0:01:29.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1\fs125\1c&H618090&\pos(964.27,545.64)}Đạo Diễn - Shinbou Akiyuki
-Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an8\move(959,256,958.04,273.12,30,2157)\fscx92\t(30,2157,\fscx86.89)\fscy141\t(30,2157,\fscy133.16)}QUÁIVẬTRUYỆN
+Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an8\move(959,256,958.04,273.12,30,2157)\fscx92\t(30,2157,\fscx86.89)\fscy141\t(30,2157,\fscy133.16)}Yêu Ma Quái Truyện
 Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an1\move(1147.54,925.47,1136.11,905.39,30,2157)\fscx58\t(30,2157,\fscx54.78)\fscy101\t(30,2157,\fscy95.39)}Thanks to MTBB {\fs48}(Typeset,Timing)
 Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an3\fscx58\t(30,2157,\fscx54.78)\fscy101\t(30,2157,\fscy95.39)\move(781.14,925.47,790.07,905.39,30,2157)}Good Subs Good Anime
 Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an2\move(959.5,778.67,958.52,766.75,30,2157)\fscx52\t(30,2157,\fscx49.11)\fscy92\t(30,2157,\fscy86.89)}{\fs48}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH
-Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an8\move(960,256,958.99,273.12,30,2157)\fscx92\t(30,2157,\fscx86.89)\fscy141\t(30,2157,\fscy133.16)}QUÁIVẬTRUYỆN
+Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an8\move(960,256,958.99,273.12,30,2157)\fscx92\t(30,2157,\fscx86.89)\fscy141\t(30,2157,\fscy133.16)}Yêu Ma Quái Truyện
 Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an1\move(1148.54,925.47,1137.05,905.39,30,2157)\fscx58\t(30,2157,\fscx54.78)\fscy101\t(30,2157,\fscy95.39)}Thanks to MTBB {\fs48}(Typeset,Timing)
 Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\fs72\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an3\fscx58\t(30,2157,\fscx54.78)\fscy101\t(30,2157,\fscy95.39)\move(782.14,925.47,791.01,905.39,30,2157)}Good Subs Good Anime
 Dialogue: 1,0:01:29.81,0:01:31.98,Signs,title.credit,0,0,0,,{\clip()\frz0\alpha&H00&\blur0.8\fsp6\fnVL TelingaterDisplay\c&H747DE9&\b0\an2\move(960.5,778.67,959.46,766.75,30,2157)\fscx52\t(30,2157,\fscx49.11)\fscy92\t(30,2157,\fscy86.89)}{\fs48}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH
@@ -2366,40 +2367,40 @@ Dialogue: 0,0:05:01.61,0:05:03.74,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Note
 Dialogue: 1,0:07:01.37,0:07:03.44,Signs,TS-Ex01,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H5A666F&\3c&H596B77&\frz179.8\pos(869.197,848.001)}Danh sách ý tưởng cho lễ hội văn hóa
 Dialogue: 0,0:07:01.37,0:07:03.44,Signs,,0,0,0,,{\blur5\alpha&HB0&\fsp0.5\fnHL-Noteworthy\fs42\c&H596B77&\3c&H596B77&\frz179.8\pos(869.197,848.001)}Danh sách ý tưởng cho lễ hội văn hóa
 Dialogue: 0,0:07:01.37,0:07:02.52,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H556977&\3c&H556977&\frz179.8\pos(951.74,645)}Hội chợ
-Dialogue: 0,0:07:02.52,0:07:02.61,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H556977&\3c&H556977&\frz179.8\pos(951.74,645)\clip(m 987 645 l 910 629 898 692 1023 726)}Hội chợ
-Dialogue: 0,0:07:02.61,0:07:03.44,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H556977&\3c&H556977&\frz179.8\pos(951.74,645)\clip(m 947 661 l 940 658 934 656 927 651 912 652 878 681 983 728)}Hội chợ
+Dialogue: 0,0:07:02.52,0:07:02.61,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H556977&\3c&H556977&\frz179.8\pos(951.74,645)\clip(m 957 645 l 880 629 868 692 983.22 723.33 1013.33 689.78 1010.67 663.11 1013.33 627.56 987.56 648 975.11 648.89)}Hội chợ
+Dialogue: 0,0:07:02.61,0:07:03.44,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H556977&\3c&H556977&\frz179.8\pos(951.74,645)\clip(m 917 661 l 910 658 904 656 897 651 882 652 848 681 953 728)}Hội chợ
 Dialogue: 0,0:07:01.37,0:07:02.10,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)}Cà phê Crepe
-Dialogue: 0,0:07:02.10,0:07:02.19,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 997 560 l 991 558 985 555 979 548 975 545 975 541 964 538 942 512 747 528 824 620 1037 614)}Cà phê Crepe
-Dialogue: 0,0:07:02.19,0:07:02.27,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 974 564 l 971 558 966 550 965 543 963 536 961 528 958 518 952 518 942 532 935 540 929 544 922 546 912 546 900 544 889 539 875 529 776 523 786 616 1038 641)}Cà phê Crepe
-Dialogue: 1,0:07:02.19,0:07:02.27,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H404B53&\3c&H404B53&\frz179.8\pos(907.95,550)\clip(m 974 564 l 971 558 966 550 965 543 963 536 961 528 958 518 952 518 943 532 962 556 967 561)}Cà phê Crepe
-Dialogue: 0,0:07:02.27,0:07:02.36,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 946 557 l 940 561 933 564 881 558 873 550 862 541 854 532 849 528 731 523 707 648 1014 652)}Cà phê Crepe
-Dialogue: 1,0:07:02.27,0:07:02.36,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H404B53&\3c&H404B53&\frz179.8\pos(907.95,550)\clip(m 964 566 l 962 558 958 548 950 553 946 557 955 570 963 574)}Cà phê Crepe
-Dialogue: 0,0:07:02.36,0:07:02.44,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 858 564 l 846 545 840 534 835 528 726 528 731 605 907 628)}Cà phê Crepe
-Dialogue: 0,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 858 566 l 854 557 844 555 838 553 830 546 817 534 804 523 733 533 773 606 915 605)}Cà phê Crepe
-Dialogue: 1,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(907.95,550)\clip(2,m 1646 1078 l 1672 1104 1702 1108 1710 1122 1672 1114 1658 1116 1636 1102 1576 1072 1620 1058)}Cà phê Crepe
-Dialogue: 1,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(907.95,550)\clip(2,m 1646 1078 l 1672 1104 1702 1108 1712 1124 1672 1116 1658 1118 1636 1102 1574 1072 1620 1056 m 1620 1058 l 1576 1072 1636 1102 1658 1116 1672 1114 1710 1122 1702 1108 1672 1104 1646 1078)}Cà phê Crepe
-Dialogue: 1,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(907.95,550)\clip(2,m 1648 1076 l 1672 1102 1704 1106 1714 1124 1672 1116 1658 1118 1636 1104 1570 1072 1620 1056 m 1620 1056 l 1574 1072 1636 1102 1658 1118 1672 1116 1712 1124 1702 1108 1672 1104 1646 1078)}Cà phê Crepe
+Dialogue: 0,0:07:02.10,0:07:02.19,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 947 560 l 941 558 935 555 929 548 925 545 925 541 914 538 892 512 697 528 774 620 987 614)}Cà phê Crepe
+Dialogue: 0,0:07:02.19,0:07:02.27,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 924 564 l 921 558 916 550 915 543 913 536 911 528 908 518 902 518 892 532 885 540 879 544 872 546 862 546 850 544 839 539 825 529 726 523 736 616 988 641)}Cà phê Crepe
+Dialogue: 1,0:07:02.19,0:07:02.27,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H404B53&\3c&H404B53&\frz179.8\pos(907.95,550)\clip(m 924 564 l 921 558 916 550 915 543 913 536 911 528 908 518 902 518 893 532 912 556 917 561)}Cà phê Crepe
+Dialogue: 0,0:07:02.27,0:07:02.36,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 896 557 l 890 561 883 564 831 558 823 550 812 541 804 532 799 528 681 523 657 648 964 652)}Cà phê Crepe
+Dialogue: 1,0:07:02.27,0:07:02.36,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H404B53&\3c&H404B53&\frz179.8\pos(907.95,550)\clip(m 914 566 l 912 558 908 548 900 553 896 557 905 570 913 574)}Cà phê Crepe
+Dialogue: 0,0:07:02.36,0:07:02.44,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(m 808 564 l 796 545 790 534 785 528 676 528 681 605 857 628)}Cà phê Crepe
+Dialogue: 0,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H526776&\3c&H526776&\frz179.8\pos(907.95,550)\clip(2,m 1546 1078 l 1572 1104 1602 1108 1610 1122 1572 1114 1558 1116 1536 1102 1476 1072 1520 1058 )}Cà phê Crepe
+Dialogue: 1,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(907.95,550)\clip(2,m 1546 1078 l 1572 1104 1602 1108 1610 1122 1572 1114 1558 1116 1536 1102 1476 1072 1520 1058 )}Cà phê Crepe
+Dialogue: 1,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(907.95,550)\clip(2,m 1548 1076 l 1572 1102 1604 1106 1614 1124 1572 1116 1558 1118 1536 1104 1470 1072 1520 1056 m 1520 1056 l 1474 1072 1536 1102 1558 1118 1572 1116 1612 1124 1602 1108 1572 1104 1546 1078 )}Cà phê Crepe
+Dialogue: 1,0:07:02.44,0:07:02.52,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(907.95,550)\clip(2,m 1548 1076 l 1572 1102 1604 1106 1614 1124 1572 1116 1558 1118 1536 1104 1470 1072 1520 1056 m 1520 1056 l 1474 1072 1536 1102 1558 1118 1572 1116 1612 1124 1602 1108 1572 1104 1546 1078 )}Cà phê Crepe
 Dialogue: 0,0:07:01.37,0:07:02.02,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H536A7B&\3c&H536A7B&\frz179.8\pos(917.16,448)}Mini Games
-Dialogue: 0,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H536A7B&\3c&H536A7B&\frz179.8\pos(917.16,448)\clip(m 994 471 l 990 466 985 463 978 454 970 438 964 422 946 422 940 429 935 434 926 438 918 441 909 440 902 436 893 429 887 425 702 420 719 497 983 509)}Mini Games
-Dialogue: 1,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(2,m 1982 936 l 1974 918 1962 888 1958 872 1932 868 1942 894 1956 926 1970 934)}Mini Games
-Dialogue: 1,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(2,m 1984 938 l 1974 918 1962 888 1958 872 1930 866 1942 894 1956 926 1970 934 m 1970 934 l 1956 926 1942 894 1932 868 1958 872 1962 888 1974 918 1982 936)}Mini Games
-Dialogue: 1,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(2,m 1986 938 l 1976 918 1964 888 1960 870 1928 866 1940 894 1954 928 1970 936 m 1970 934 l 1956 926 1942 894 1930 866 1958 872 1962 888 1974 918 1984 938)}Mini Games
-Dialogue: 0,0:07:02.10,0:07:02.19,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H536A7B&\3c&H536A7B&\frz179.8\pos(917.16,448)\clip(m 834 460 l 833 430 819 432 821 472)}Mini Games
-Dialogue: 1,0:07:02.10,0:07:02.19,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(m 848 462 l 844 430 831 430 833 459 844 470)}Mini Games
-Dialogue: 0,0:07:02.19,0:07:02.27,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(m 847 462 l 846 453 842 455 826 451 827 501 865 514)}Mini Games
+Dialogue: 0,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H536A7B&\3c&H536A7B&\frz179.8\pos(917.16,448)\clip(m 929 471 l 925 466 920 463 913 454 905 438 899 422 881 422 875 429 870 434 861 438 853 441 844 440 837 436 828 429 822 425 637 420 654 497 918 509)}Mini Games
+Dialogue: 1,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(2,m 1852 936 l 1844 918 1832 888 1828 872 1802 868 1812 894 1826 926 1840 934 )}Mini Games
+Dialogue: 1,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(2,m 1854 938 l 1844 918 1832 888 1828 872 1800 866 1812 894 1826 926 1840 934 m 1840 934 l 1826 926 1812 894 1802 868 1828 872 1832 888 1844 918 1852 936 )}Mini Games
+Dialogue: 1,0:07:02.02,0:07:02.10,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(2,m 1854 938 l 1844 918 1832 888 1828 872 1800 866 1812 894 1826 926 1840 934 m 1840 934 l 1826 926 1812 894 1802 868 1828 872 1832 888 1844 918 1852 936 )}Mini Games
+Dialogue: 0,0:07:02.10,0:07:02.19,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H536A7B&\3c&H536A7B&\frz179.8\pos(917.16,448)\clip(m 769 460 l 768 430 754 432 756 472)}Mini Games
+Dialogue: 1,0:07:02.10,0:07:02.19,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(m 783 462 l 779 430 766 430 768 459 779 470)}Mini Games
+Dialogue: 0,0:07:02.19,0:07:02.27,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(917.16,448)\clip(m 782 462 l 781 453 777 455 761 451 762 501 800 514)}Mini Games
 Dialogue: 0,0:07:01.37,0:07:01.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(953.37,347)}Kịch
-Dialogue: 0,0:07:01.94,0:07:02.02,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(953.37,347)\clip(m 977 377 l 968 368 955 336 946 321 937 334 928 346 920 352 915 368 952 404)}Kịch
-Dialogue: 1,0:07:01.94,0:07:02.02,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(953.37,347)\clip(m 973 365 l 966 338 964 322 945 319 968 372)}Kịch
+Dialogue: 0,0:07:01.94,0:07:02.02,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(953.37,347)\clip(m 922 377 l 913 368 900 336 891 321 882 334 873 346 865 352 860 368 897 404)}Kịch
+Dialogue: 1,0:07:01.94,0:07:02.02,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(953.37,347)\clip(m 918 365 l 911 338 909 322 890 319 913 372)}Kịch
 Dialogue: 0,0:07:01.36,0:07:01.85,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(912.58,246)}Hợp xướng
-Dialogue: 0,0:07:01.36,0:07:01.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(912.58,246)\clip(m 930 276 l 911 229 905 240 895 253 889 261 879 266 871 267 866 295 941 304)}Hợp xướng
-Dialogue: 1,0:07:01.36,0:07:01.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(912.58,246)\clip(m 934 272 l 928 250 925 237 922 224 915 224 912 231 926 274)}Hợp xướng
+Dialogue: 0,0:07:01.36,0:07:01.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(912.58,246)\clip(m 905 276 l 886 229 880 240 870 253 864 261 854 266 846 267 841 295 916 304)}Hợp xướng
+Dialogue: 1,0:07:01.36,0:07:01.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H2F4251&\3c&H2F4251&\frz179.8\pos(912.58,246)\clip(m 909 272 l 903 250 900 237 897 224 890 224 887 231 901 274)}Hợp xướng
 Dialogue: 0,0:07:01.37,0:07:01.77,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(935.79,147)}Nhà ma
-Dialogue: 0,0:07:01.77,0:07:01.85,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(935.79,147)\clip(m 1025 196 l 1010 170 1002 149 993 163 982 176 940 175 918 162 897 145 888 142 880 136 877 130 748 132 768 206)}Nhà ma
-Dialogue: 0,0:07:01.77,0:07:01.85,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H1A2E45&\3c&H1A2E45&\frz179.8\pos(935.79,147)\clip(m 1018 168 l 1013 145 1010 135 1001 150 1012 180)}Nhà ma
+Dialogue: 0,0:07:01.77,0:07:01.85,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H4F697B&\3c&H4F697B&\frz179.8\pos(935.79,147)\clip(m 905 196 l 890 170 882 149 873 163 862 176 820 175 798 162 777 145 768 142 760 136 757 130 628 132 648 206)}Nhà ma
+Dialogue: 0,0:07:01.77,0:07:01.85,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H1A2E45&\3c&H1A2E45&\frz179.8\pos(935.79,147)\clip(m 898 168 l 893 145 890 135 881 150 892 180)}Nhà ma
 Dialogue: 0,0:07:01.37,0:07:01.60,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H405C72&\3c&H415665&\frz179.8\pos(912,46)}Quán cà phê
-Dialogue: 0,0:07:01.60,0:07:01.69,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H405C72&\3c&H415665&\frz179.8\pos(912,46)\clip(m 1010 52 l 996 51 987 49 982 43 966 32 960 27 782 29 770 112 1042 145)}Quán cà phê
-Dialogue: 0,0:07:01.69,0:07:01.77,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H405C72&\3c&H405C72&\frz179.8\pos(912,46)\clip(m 828 25 l 828 41 834 49 846 56 854 64 854 91 766 78 771 -8)}Quán cà phê
-Dialogue: 1,0:07:01.69,0:07:01.77,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H20334D&\3c&H20334D&\frz179.8\pos(912,46)\clip(m 972 79 l 968 61 965 48 960 56 954 67 937 87 904 94 867 70 847 55 843 45 841 32 840 23 825 24 827 36 831 51 840 57 847 61 853 63 907 102)}Quán cà phê
+Dialogue: 0,0:07:01.60,0:07:01.69,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H405C72&\3c&H415665&\frz179.8\pos(912,46)\clip(m 930 52 l 916 51 907 49 902 43 886 32 880 27 702 29 690 112 962 145)}Quán cà phê
+Dialogue: 0,0:07:01.69,0:07:01.77,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H405C72&\3c&H405C72&\frz179.8\pos(912,46)\clip(m 748 25 l 748 41 754 49 766 56 774 64 774 91 686 78 691 -8)}Quán cà phê
+Dialogue: 1,0:07:01.69,0:07:01.77,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord1\fnHL-Noteworthy\fs42\c&H20334D&\3c&H20334D&\frz179.8\pos(912,46)\clip(m 892 79 l 888 61 885 48 880 56 874 67 857 87 824 94 787 70 767 55 763 45 761 32 760 23 745 24 747 36 751 51 760 57 767 61 773 63 827 102)}Quán cà phê
 Dialogue: 0,0:08:20.22,0:08:23.94,Signs,TS09,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\pos(825.142,1062.857)\frz179.3}Danh sách ý tưởng cho lễ hội văn hóa
 Dialogue: 0,0:08:20.22,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(817.37,925.71)}Hội chợ
 Dialogue: 0,0:08:20.22,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.92,859.92)}Cà phê Crepe
@@ -2409,7 +2410,7 @@ Dialogue: 0,0:08:20.22,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-No
 Dialogue: 0,0:08:20.22,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(827.49,584.94)}Nhà ma
 Dialogue: 0,0:08:20.22,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(796.26,520.06)}Quán cà phê
 Dialogue: 0,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(818.364,446.29)\clip(m 880 468 l 835 429 710 428 718 477)}Yakisoba
-Dialogue: 0,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.467,374.3)\clip(m 820 397 l 811 358 694 356 702 419)}Nhà bóng bay
+Dialogue: 0,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.467,374.3)\clip(m 820 397 l 811 358 694 321.09 702 419)}Nhà bóng bay
 Dialogue: 0,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(811.904,305.865)\clip(m 807 326 l 803 288 709 278 727 354)}Bỏng ngô
 Dialogue: 0,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(830.23,239.21)\clip(m 798 256 l 793 217 682 210 697 254 744 296)}Kem
 Dialogue: 0,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(804.555,168.108)\clip(m 792 187 l 790 144 697 144 709 195)}Xúc xích
@@ -2437,7 +2438,7 @@ Dialogue: 1,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-No
 Dialogue: 1,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.762,35.683)\clip(2,m 1688 104 l 1676 80 1664 60 1652 42 1642 22 1576 12 1400 24 1412 42 1426 62 1438 84 1450 106 1670 128 m 1670 128 l 1452 104 1440 84 1428 60 1414 40 1402 26 1576 12 1640 24 1650 44 1662 62 1674 82 1688 104)}Gắp bóng nước
 Dialogue: 1,0:08:20.22,0:08:21.81,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.762,35.683)\clip(2,m 1690 104 l 1676 80 1664 60 1652 42 1642 22 1576 10 1398 24 1412 42 1426 62 1438 84 1450 106 1670 130 m 1670 128 l 1450 106 1438 84 1426 62 1412 42 1400 24 1576 12 1642 22 1652 42 1664 60 1676 80 1688 104)}Gắp bóng nước
 Dialogue: 0,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(818.364,446.29)\clip(m 880 468 l 835 429 710 428 718 477)}Yakisoba
-Dialogue: 0,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 823 397 l 814 358 697 356 705 419)}Nhà bóng bay
+Dialogue: 0,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 823 397 l 814 358 689 314 705 419)}Nhà bóng bay
 Dialogue: 0,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(811.9,305.87)\clip(m 810 326 l 806 288 712 278 730 354)}Bỏng ngô
 Dialogue: 0,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(830.23,239.21)\clip(m 801 256 l 796 217 685 210 700 254 747 296)}Kem
 Dialogue: 0,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(804.56,168.11)\clip(m 795 187 l 793 144 700 144 712 195)}Xúc xích
@@ -2465,7 +2466,7 @@ Dialogue: 1,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-No
 Dialogue: 1,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.762,35.683)\clip(2,m 1688 104 l 1676 80 1664 60 1652 42 1642 22 1576 12 1400 24 1412 42 1426 62 1438 84 1450 106 1670 128 m 1670 128 l 1452 104 1440 84 1428 60 1414 40 1402 26 1576 12 1640 24 1650 44 1662 62 1674 82 1688 104)}Gắp bóng nước
 Dialogue: 1,0:08:21.81,0:08:21.89,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.762,35.683)\clip(2,m 1690 104 l 1676 80 1664 60 1652 42 1642 22 1576 10 1398 24 1412 42 1426 62 1438 84 1450 106 1670 130 m 1670 128 l 1450 106 1438 84 1426 62 1412 42 1400 24 1576 12 1642 22 1652 42 1664 60 1676 80 1688 104)}Gắp bóng nước
 Dialogue: 0,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(818.36,446.29)\clip(m 883 468 l 838 429 713 428 721 477)}Yakisoba
-Dialogue: 0,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 827 397 l 818 358 701 356 709 419)}Nhà bóng bay
+Dialogue: 0,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 827 397 l 818 358 675.22 306.22 709 419)}Nhà bóng bay
 Dialogue: 0,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(811.9,305.87)\clip(m 812 326 l 808 288 714 278 732 354)}Bỏng ngô
 Dialogue: 0,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(830.23,239.21)\clip(m 803 256 l 798 217 687 210 702 254 749 296)}Kem
 Dialogue: 0,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(804.56,168.11)\clip(m 797 187 l 795 144 702 144 714 195)}Xúc xích
@@ -2493,7 +2494,7 @@ Dialogue: 1,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-No
 Dialogue: 1,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.762,35.683)\clip(2,m 1688 104 l 1676 80 1664 60 1652 42 1642 22 1576 12 1400 24 1412 42 1426 62 1438 84 1450 106 1670 128 m 1670 128 l 1452 104 1440 84 1428 60 1414 40 1402 26 1576 12 1640 24 1650 44 1662 62 1674 82 1688 104)}Gắp bóng nước
 Dialogue: 1,0:08:21.89,0:08:21.98,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.762,35.683)\clip(2,m 1690 104 l 1676 80 1664 60 1652 42 1642 22 1576 10 1398 24 1412 42 1426 62 1438 84 1450 106 1670 130 m 1670 128 l 1450 106 1438 84 1426 62 1412 42 1400 24 1576 12 1642 22 1652 42 1664 60 1676 80 1688 104)}Gắp bóng nước
 Dialogue: 0,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(818.36,446.29)\clip(m 890 468 l 845 429 720 428 728 477)}Yakisoba
-Dialogue: 0,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 834 397 l 825 358 668 353 684 418)}Nhà bóng bay
+Dialogue: 0,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 834 397 l 825 358 648.8 276.2 684 418)}Nhà bóng bay
 Dialogue: 0,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(811.9,305.87)\clip(m 816 326 l 812 288 718 278 736 354)}Bỏng ngô
 Dialogue: 0,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(830.23,239.21)\clip(m 807 256 l 802 217 691 210 706 254 753 296)}Kem
 Dialogue: 0,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(804.56,168.11)\clip(m 801 187 l 799 144 706 144 718 195)}Xúc xích
@@ -2520,7 +2521,7 @@ Dialogue: 1,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord
 Dialogue: 1,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1696 104 l 1682 82 1670 62 1658 44 1648 24 1584 12 1410 26 1422 40 1436 60 1448 84 1460 104 1678 128)}Gắp bóng nước
 Dialogue: 1,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1696 104 l 1684 80 1672 60 1660 42 1650 22 1584 12 1408 24 1420 42 1434 62 1446 84 1458 106 1678 128 m 1678 128 l 1460 104 1448 84 1436 60 1422 40 1410 26 1584 12 1648 24 1658 44 1670 62 1682 82 1696 104)}Gắp bóng nước
 Dialogue: 1,0:08:21.98,0:08:22.06,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1698 104 l 1684 80 1672 60 1660 42 1650 22 1584 10 1406 24 1420 42 1434 62 1446 84 1458 106 1678 130 m 1678 128 l 1458 106 1446 84 1434 62 1420 42 1408 24 1584 12 1650 22 1660 42 1672 60 1684 80 1696 104)}Gắp bóng nước
-Dialogue: 0,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 840 397 l 831 358 674 353 690 418)}Nhà bóng bay
+Dialogue: 0,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 840 397 l 831 358 667 294 690 418)}Nhà bóng bay
 Dialogue: 0,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(811.9,305.87)\clip(m 820 326 l 816 288 722 278 740 354)}Bỏng ngô
 Dialogue: 0,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(830.23,239.21)\clip(m 811 256 l 806 217 695 210 710 254 757 296)}Kem
 Dialogue: 0,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(804.56,168.11)\clip(m 805 187 l 803 144 710 144 722 195)}Xúc xích
@@ -2544,7 +2545,7 @@ Dialogue: 1,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord
 Dialogue: 1,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1704 104 l 1690 82 1678 62 1666 44 1656 24 1592 12 1418 26 1430 40 1444 60 1456 84 1468 104 1686 128)}Gắp bóng nước
 Dialogue: 1,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1704 104 l 1692 80 1680 60 1668 42 1658 22 1592 12 1416 24 1428 42 1442 62 1454 84 1466 106 1686 128 m 1686 128 l 1468 104 1456 84 1444 60 1430 40 1418 26 1592 12 1656 24 1666 44 1678 62 1690 82 1704 104)}Gắp bóng nước
 Dialogue: 1,0:08:22.06,0:08:22.14,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1706 104 l 1692 80 1680 60 1668 42 1658 22 1592 10 1414 24 1428 42 1442 62 1454 84 1466 106 1686 130 m 1686 128 l 1466 106 1454 84 1442 62 1428 42 1416 24 1592 12 1658 22 1668 42 1680 60 1692 80 1704 104)}Gắp bóng nước
-Dialogue: 0,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 842 397 l 833 358 676 353 692 418)}Nhà bóng bay
+Dialogue: 0,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 842 397 l 833 358 667.11 290.78 692 418)}Nhà bóng bay
 Dialogue: 0,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(811.9,305.87)\clip(m 822 326 l 818 288 724 278 742 354)}Bỏng ngô
 Dialogue: 0,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(830.23,239.21)\clip(m 811 256 l 806 217 695 210 710 254 757 296)}Kem
 Dialogue: 0,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(804.56,168.11)\clip(m 805 187 l 803 144 710 144 722 195)}Xúc xích
@@ -2568,7 +2569,7 @@ Dialogue: 1,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord
 Dialogue: 1,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1704 104 l 1690 82 1678 62 1666 44 1656 24 1592 12 1418 26 1430 40 1444 60 1456 84 1468 104 1686 128)}Gắp bóng nước
 Dialogue: 1,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\alpha&H55&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1704 104 l 1692 80 1680 60 1668 42 1658 22 1592 12 1416 24 1428 42 1442 62 1454 84 1466 106 1686 128 m 1686 128 l 1468 104 1456 84 1444 60 1430 40 1418 26 1592 12 1656 24 1666 44 1678 62 1690 82 1704 104)}Gắp bóng nước
 Dialogue: 1,0:08:22.14,0:08:22.23,Signs,,0,0,0,,{\alpha&HAA&\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H34444C&\3c&H34444C&\frz178.9\pos(768.76,35.68)\clip(2,m 1706 104 l 1692 80 1680 60 1668 42 1658 22 1592 10 1414 24 1428 42 1442 62 1454 84 1466 106 1686 130 m 1686 128 l 1466 106 1454 84 1442 62 1428 42 1416 24 1592 12 1658 22 1668 42 1680 60 1692 80 1704 104)}Gắp bóng nước
-Dialogue: 0,0:08:22.23,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 847 397 l 838 358 681 353 697 418)}Nhà bóng bay
+Dialogue: 0,0:08:22.23,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(784.47,374.3)\clip(m 847 397 l 838 358 681 265 697 418)}Nhà bóng bay
 Dialogue: 0,0:08:22.23,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(811.9,305.87)\clip(m 829 326 l 825 288 731 278 749 354)}Bỏng ngô
 Dialogue: 0,0:08:22.23,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(830.23,239.21)\clip(m 820 256 l 815 217 704 210 719 254 766 296)}Kem
 Dialogue: 0,0:08:22.23,0:08:23.94,Signs,,0,0,0,,{\blur1.5\fsp0.5\bord0.7\fnHL-Noteworthy\fs40\c&H59727C&\3c&H59727C&\frz178.9\pos(804.56,168.11)\clip(m 814 187 l 812 144 719 144 731 195)}Xúc xích
@@ -2811,136 +2812,136 @@ Dialogue: 1,0:10:56.57,0:10:57.44,Signs,,0,0,0,fullframe,{\q2\c&H000000&\an\fs12
 Dialogue: 1,0:10:56.57,0:10:57.44,Signs,,0,0,0,fullframe,{\q2\c&H000000&\an\fs120\fsp-9\blur1.2\fnGentium Basic\b1\fscx3074\fscy83\1a&HFB&\pos(960,570)}—\N—\N—\N—\N—\N—\N—\N—\N—\N—\N—\N—
 Dialogue: 1,0:10:56.57,0:10:57.44,Signs,,0,0,0,fullframe,{\q2\c&H000000&\an\fs120\fsp-9\blur1.2\fnGentium Basic\b1\fscx3074\fscy83\1a&HFB&\pos(960,620)}—\N—\N—\N—\N—\N—\N—\N—\N—\N—\N—\N—
 Dialogue: 2,0:10:56.57,0:10:57.44,Signs,,0,0,0,fullframe,{\q2\c&H31342A&\an\fs200\fsp3\blur1.2\fnGentium Basic\b1\fscx79\fscy103}"Nó lấy sạch trọng lượng của tôi"\N "-------------------------------------------" \N"Mà cậu không cần hiểu đâu. Sẽ rất khó chịu nếu có kẻ cứ đánh hơi vớ vẩn\N xung quanh, Araragi-kun. Araragi-kun. Nha, Araragi Koyomi-kun."\N Senjōgahara gọi tên mình, gọi đi gọi lại.\N "Không có trọng lượng, không có trọng lượng. Không có thứ gọi là trọng lượng"
-Dialogue: 0,0:10:57.42,0:10:57.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.41,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.42,0:10:57.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.41,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.42,0:10:57.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.41,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.42,0:10:57.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.41,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.42,0:10:57.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.35,66.17)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.42,0:10:57.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.35,66.17)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.46,0:10:57.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.06,267.24)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.46,0:10:57.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.06,267.24)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.46,0:10:57.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.06,267.24)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.46,0:10:57.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.06,267.24)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.46,0:10:57.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459,66.81)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.46,0:10:57.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459,66.81)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.51,0:10:57.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.06,266.67)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.51,0:10:57.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.06,266.67)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.51,0:10:57.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.06,266.67)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.51,0:10:57.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.06,266.67)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.51,0:10:57.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459,66.25)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.51,0:10:57.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459,66.25)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.55,0:10:57.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.06,267.14)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.55,0:10:57.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.06,267.14)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.55,0:10:57.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.06,267.14)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.55,0:10:57.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.06,267.14)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.55,0:10:57.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459,66.71)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.55,0:10:57.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459,66.71)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.59,0:10:57.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.38,266.71)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.59,0:10:57.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.38,266.71)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.59,0:10:57.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.38,266.71)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.59,0:10:57.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.38,266.71)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.59,0:10:57.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.32,66.29)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.59,0:10:57.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.32,66.29)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.63,0:10:57.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.75,267.12)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.63,0:10:57.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.75,267.12)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.63,0:10:57.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.75,267.12)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.63,0:10:57.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.75,267.12)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.63,0:10:57.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.69,66.7)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.63,0:10:57.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.69,66.7)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.67,0:10:57.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,266.56)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.67,0:10:57.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,266.56)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.67,0:10:57.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,266.56)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.67,0:10:57.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,266.56)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.67,0:10:57.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.99,66.13)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.67,0:10:57.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.99,66.13)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.72,0:10:57.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.84,267.23)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.72,0:10:57.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.84,267.23)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.72,0:10:57.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.84,267.23)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.72,0:10:57.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.84,267.23)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.72,0:10:57.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.78,66.8)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.72,0:10:57.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.78,66.8)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.76,0:10:57.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.75,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.76,0:10:57.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.75,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.76,0:10:57.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.75,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.76,0:10:57.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.75,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.76,0:10:57.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.69,66.18)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.76,0:10:57.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.69,66.18)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.80,0:10:57.84,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,267.26)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.80,0:10:57.84,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,267.26)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.80,0:10:57.84,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,267.26)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.80,0:10:57.84,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,267.26)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.80,0:10:57.84,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459,66.83)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.80,0:10:57.84,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459,66.83)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.84,0:10:57.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.29,266.61)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.84,0:10:57.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.29,266.61)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.84,0:10:57.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.29,266.61)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.84,0:10:57.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.29,266.61)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.84,0:10:57.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.24,66.18)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.84,0:10:57.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.24,66.18)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.88,0:10:57.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.8,267.1)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.88,0:10:57.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.8,267.1)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.88,0:10:57.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.8,267.1)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.88,0:10:57.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.8,267.1)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.88,0:10:57.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.74,66.67)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.88,0:10:57.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.74,66.67)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.92,0:10:57.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.32,266.58)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.92,0:10:57.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.32,266.58)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.92,0:10:57.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.32,266.58)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.92,0:10:57.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.32,266.58)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.92,0:10:57.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.26,66.15)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.92,0:10:57.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.26,66.15)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:57.97,0:10:58.01,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,267.18)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:57.97,0:10:58.01,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,267.18)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:57.97,0:10:58.01,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,267.18)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:57.97,0:10:58.01,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,267.18)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:57.97,0:10:58.01,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.99,66.75)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:57.97,0:10:58.01,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.99,66.75)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.01,0:10:58.05,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.29,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.01,0:10:58.05,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.29,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.01,0:10:58.05,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.29,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.01,0:10:58.05,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.29,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.01,0:10:58.05,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.23,66.17)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.01,0:10:58.05,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.23,66.17)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.05,0:10:58.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,267.12)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.05,0:10:58.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,267.12)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.05,0:10:58.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,267.12)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.05,0:10:58.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,267.12)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.05,0:10:58.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.99,66.69)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.05,0:10:58.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.99,66.69)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.09,0:10:58.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,266.62)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.09,0:10:58.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,266.62)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.09,0:10:58.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,266.62)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.09,0:10:58.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,266.62)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.09,0:10:58.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.99,66.19)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.09,0:10:58.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.99,66.19)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.13,0:10:58.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.39,267.22)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.13,0:10:58.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.39,267.22)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.13,0:10:58.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.39,267.22)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.13,0:10:58.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.39,267.22)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.13,0:10:58.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.33,66.8)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.13,0:10:58.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.33,66.8)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.17,0:10:58.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.32,266.68)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.17,0:10:58.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.32,266.68)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.17,0:10:58.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.32,266.68)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.17,0:10:58.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.32,266.68)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.17,0:10:58.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.27,66.26)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.17,0:10:58.22,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.27,66.26)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.67,267.13)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.67,267.13)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.67,267.13)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.67,267.13)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.62,66.71)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.22,0:10:58.26,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.62,66.71)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.83,266.68)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.83,266.68)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.83,266.68)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.83,266.68)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.77,66.26)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.26,0:10:58.30,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.77,66.26)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.30,0:10:58.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.79,267.12)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.30,0:10:58.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.79,267.12)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.30,0:10:58.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.79,267.12)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.30,0:10:58.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.79,267.12)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.30,0:10:58.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.73,66.69)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.30,0:10:58.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.73,66.69)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.34,0:10:58.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.79,266.68)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.34,0:10:58.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.79,266.68)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.34,0:10:58.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.79,266.68)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.34,0:10:58.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.79,266.68)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.34,0:10:58.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.73,66.25)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.34,0:10:58.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.73,66.25)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.38,0:10:58.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.81,267.17)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.38,0:10:58.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.81,267.17)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.38,0:10:58.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.81,267.17)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.38,0:10:58.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.81,267.17)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.38,0:10:58.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.75,66.74)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.38,0:10:58.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.75,66.74)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.42,0:10:58.47,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.79,266.62)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.42,0:10:58.47,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.79,266.62)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.42,0:10:58.47,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.79,266.62)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.42,0:10:58.47,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.79,266.62)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.42,0:10:58.47,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.73,66.19)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.42,0:10:58.47,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.73,66.19)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.47,0:10:58.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.77,267.26)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.47,0:10:58.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.77,267.26)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.47,0:10:58.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.77,267.26)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.47,0:10:58.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.77,267.26)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.47,0:10:58.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.71,66.83)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.47,0:10:58.51,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.71,66.83)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.51,0:10:58.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.31,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.51,0:10:58.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.31,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.51,0:10:58.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.31,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.51,0:10:58.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.31,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.51,0:10:58.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.25,66.17)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.51,0:10:58.55,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.25,66.17)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.55,0:10:58.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.29,267.28)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.55,0:10:58.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.29,267.28)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.55,0:10:58.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.29,267.28)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.55,0:10:58.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.29,267.28)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.55,0:10:58.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.23,66.85)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.55,0:10:58.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.23,66.85)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.59,0:10:58.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.78,266.62)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.59,0:10:58.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.78,266.62)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.59,0:10:58.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.78,266.62)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.59,0:10:58.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.78,266.62)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.59,0:10:58.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.73,66.19)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.59,0:10:58.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.73,66.19)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.63,0:10:58.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.78,267.19)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.63,0:10:58.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.78,267.19)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.63,0:10:58.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.78,267.19)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.63,0:10:58.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.78,267.19)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.63,0:10:58.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.73,66.76)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.63,0:10:58.67,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.73,66.76)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.67,0:10:58.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,266.65)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.67,0:10:58.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,266.65)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.67,0:10:58.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.05,266.65)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.67,0:10:58.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.05,266.65)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.67,0:10:58.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.99,66.23)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.67,0:10:58.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.99,66.23)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.72,0:10:58.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.78,267.18)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.72,0:10:58.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.78,267.18)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.72,0:10:58.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1403.78,267.18)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.72,0:10:58.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1403.78,267.18)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.72,0:10:58.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(458.72,66.76)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.72,0:10:58.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(458.72,66.76)}Hoạt Cảnh số      251-B3
-Dialogue: 0,0:10:58.76,0:10:58.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.32,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
-Dialogue: 1,0:10:58.76,0:10:58.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.32,266.6)}không cần hiểu\Nđánh hơi vớ vẩn\Nkhó chịu
+Dialogue: 0,0:10:58.76,0:10:58.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an7\fnVL DellaRobbia BT\blur4\fs70\fsp4\alpha&H90&\pos(1404.32,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
+Dialogue: 1,0:10:58.76,0:10:58.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an7\fnVL DellaRobbia BT\blur1\fs70\fsp4\c&HFEFDFF&\pos(1404.32,266.6)}không cần hiểu\N\Nđánh hơi vớ vẩn\N\Nkhó chịu
 Dialogue: 0,0:10:58.76,0:10:58.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an5\fnVL DellaRobbia BT\fs42\blur4\c&HF4F5F2&\pos(459.26,66.17)\alpha&HB0&}Hoạt Cảnh số      251-B3
 Dialogue: 1,0:10:58.76,0:10:58.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an5\fnVL DellaRobbia BT\fs42\blur1\c&HF4F5F2&\pos(459.26,66.17)}Hoạt Cảnh số      251-B3
 Dialogue: 0,0:11:44.93,0:11:44.97,Signs,TS12,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\fs70\blur4\pos(958.21,341.07)\c&HFDFEFF&\alpha&HB0&}Khung Hình Đen
@@ -3150,54 +3151,54 @@ Dialogue: 0,0:17:05.71,0:17:05.75,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 0,0:17:05.75,0:17:05.79,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs45\an4\blur1.2\fnVL DellaRobbia BT\c&HACB8D1&\pos(1067.09,611.4)}về
 Dialogue: 0,0:17:05.79,0:17:05.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs45\an4\blur1.2\fnVL DellaRobbia BT\c&HACB8D1&\pos(1066.89,612.42)}về
 Dialogue: 0,0:17:05.83,0:17:05.87,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs45\an4\blur1.2\fnVL DellaRobbia BT\c&HACB8D1&\pos(1066.93,611.11)}về
-Dialogue: 0,0:17:05.87,0:17:05.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.95,395.34)\frz354.3}gia đình
-Dialogue: 0,0:17:05.92,0:17:05.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.56,393.97)\frz354.3}gia đình
-Dialogue: 0,0:17:05.96,0:17:06.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.56,395.24)\frz354.3}gia đình
-Dialogue: 0,0:17:06.00,0:17:06.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.55,394.27)\frz354.3}gia đình
-Dialogue: 0,0:17:06.04,0:17:06.08,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.31,395.45)\frz354.3}gia đình
-Dialogue: 0,0:17:06.08,0:17:06.12,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.8,394.18)\frz354.3}gia đình
-Dialogue: 0,0:17:06.12,0:17:06.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.55,395.43)\frz354.3}gia đình
-Dialogue: 0,0:17:06.17,0:17:06.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.78,394.15)\frz354.3}gia đình
-Dialogue: 0,0:17:06.21,0:17:06.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.55,395.41)\frz354.3}gia đình
-Dialogue: 0,0:17:06.25,0:17:06.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.84,394.07)\frz354.3}gia đình
-Dialogue: 0,0:17:06.29,0:17:06.33,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.54,395.61)\frz354.3}gia đình
-Dialogue: 0,0:17:06.33,0:17:06.38,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.93,394.18)\frz354.3}gia đình
-Dialogue: 0,0:17:06.38,0:17:06.42,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.07,395.52)\frz354.3}gia đình
-Dialogue: 0,0:17:06.42,0:17:06.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.92,394.29)\frz354.3}gia đình
-Dialogue: 0,0:17:06.46,0:17:06.50,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.9,395.55)\frz354.3}gia đình
-Dialogue: 0,0:17:06.50,0:17:06.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.87,394.32)\frz354.3}gia đình
-Dialogue: 0,0:17:06.54,0:17:06.58,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.83,395.59)\frz354.3}gia đình
-Dialogue: 0,0:17:06.58,0:17:06.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.51,394.02)\frz354.3}gia đình
-Dialogue: 0,0:17:06.63,0:17:06.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.51,395.52)\frz354.3}gia đình
-Dialogue: 0,0:17:06.67,0:17:06.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.12,394.01)\frz354.3}gia đình
-Dialogue: 0,0:17:06.71,0:17:06.75,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.77,395.46)\frz354.3}gia đình
-Dialogue: 0,0:17:06.75,0:17:06.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.51,394.03)\frz354.3}gia đình
-Dialogue: 0,0:17:06.79,0:17:06.83,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.25,395.36)\frz354.3}gia đình
-Dialogue: 0,0:17:06.83,0:17:06.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.23,394.29)\frz354.3}gia đình
-Dialogue: 0,0:17:06.88,0:17:06.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.24,395.61)\frz354.3}gia đình
-Dialogue: 0,0:17:06.92,0:17:06.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.88,394.11)\frz354.3}gia đình
-Dialogue: 0,0:17:06.96,0:17:07.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.89,395.25)\frz354.3}gia đình
-Dialogue: 0,0:17:07.00,0:17:07.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,394.28)\frz354.3}gia đình
-Dialogue: 0,0:17:07.04,0:17:07.08,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,395.3)\frz354.3}gia đình
-Dialogue: 0,0:17:07.08,0:17:07.13,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.93,394.04)\frz354.3}gia đình
-Dialogue: 0,0:17:07.13,0:17:07.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.3)\frz354.3}gia đình
-Dialogue: 0,0:17:07.17,0:17:07.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.1,394.29)\frz354.3}gia đình
-Dialogue: 0,0:17:07.21,0:17:07.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.3)\frz354.3}gia đình
-Dialogue: 0,0:17:07.25,0:17:07.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,394.31)\frz354.3}gia đình
-Dialogue: 0,0:17:07.29,0:17:07.33,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.25,395.43)\frz354.3}gia đình
-Dialogue: 0,0:17:07.33,0:17:07.38,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.94,394.15)\frz354.3}gia đình
-Dialogue: 0,0:17:07.38,0:17:07.42,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.51)\frz354.3}gia đình
-Dialogue: 0,0:17:07.42,0:17:07.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,394.02)\frz354.3}gia đình
-Dialogue: 0,0:17:07.46,0:17:07.50,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,395.53)\frz354.3}gia đình
-Dialogue: 0,0:17:07.50,0:17:07.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,394.02)\frz354.3}gia đình
-Dialogue: 0,0:17:07.54,0:17:07.58,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.24,395.62)\frz354.3}gia đình
-Dialogue: 0,0:17:07.58,0:17:07.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.22,394.15)\frz354.3}gia đình
-Dialogue: 0,0:17:07.63,0:17:07.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.98,395.44)\frz354.3}gia đình
-Dialogue: 0,0:17:07.67,0:17:07.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.26,394.36)\frz354.3}gia đình
-Dialogue: 0,0:17:07.71,0:17:07.75,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.54,395.51)\frz354.3}gia đình
-Dialogue: 0,0:17:07.75,0:17:07.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.87,394.23)\frz354.3}gia đình
-Dialogue: 0,0:17:07.79,0:17:07.83,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.52)\frz354.3}gia đình
-Dialogue: 0,0:17:07.83,0:17:07.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.95,394.19)\frz354.3}gia đình
+Dialogue: 0,0:17:05.87,0:17:05.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.95,395.34)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:05.92,0:17:05.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.56,393.97)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:05.96,0:17:06.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.56,395.24)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.00,0:17:06.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.55,394.27)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.04,0:17:06.08,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.31,395.45)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.08,0:17:06.12,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.8,394.18)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.12,0:17:06.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.55,395.43)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.17,0:17:06.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.78,394.15)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.21,0:17:06.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.55,395.41)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.25,0:17:06.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.84,394.07)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.29,0:17:06.33,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.54,395.61)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.33,0:17:06.38,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.93,394.18)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.38,0:17:06.42,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.07,395.52)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.42,0:17:06.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.92,394.29)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.46,0:17:06.50,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.9,395.55)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.50,0:17:06.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.87,394.32)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.54,0:17:06.58,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.83,395.59)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.58,0:17:06.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.51,394.02)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.63,0:17:06.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.51,395.52)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.67,0:17:06.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.12,394.01)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.71,0:17:06.75,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.77,395.46)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.75,0:17:06.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.51,394.03)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.79,0:17:06.83,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.25,395.36)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.83,0:17:06.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.23,394.29)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.88,0:17:06.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.24,395.61)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.92,0:17:06.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.88,394.11)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:06.96,0:17:07.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.89,395.25)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.00,0:17:07.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,394.28)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.04,0:17:07.08,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,395.3)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.08,0:17:07.13,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.93,394.04)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.13,0:17:07.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.3)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.17,0:17:07.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.1,394.29)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.21,0:17:07.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.3)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.25,0:17:07.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,394.31)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.29,0:17:07.33,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.25,395.43)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.33,0:17:07.38,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.94,394.15)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.38,0:17:07.42,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.51)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.42,0:17:07.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,394.02)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.46,0:17:07.50,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,395.53)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.50,0:17:07.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.52,394.02)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.54,0:17:07.58,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.24,395.62)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.58,0:17:07.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.22,394.15)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.63,0:17:07.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.98,395.44)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.67,0:17:07.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.26,394.36)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.71,0:17:07.75,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.54,395.51)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.75,0:17:07.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.87,394.23)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.79,0:17:07.83,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.53,395.52)\frz354.3}gia \Nđình
+Dialogue: 0,0:17:07.83,0:17:07.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fs35\fax-0.05\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\pos(827.95,394.19)\frz354.3}gia \Nđình
 Dialogue: 0,0:17:05.87,0:17:05.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fax-0.05\fs35\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\frz352\pos(813.91,448.22)}mình
 Dialogue: 0,0:17:05.92,0:17:05.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fax-0.05\fs35\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\frz352\pos(813.53,446.85)}mình
 Dialogue: 0,0:17:05.96,0:17:06.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\fax-0.05\fs35\blur1.2\fnVL DellaRobbia BT\c&HA2A7B8&\frz352\pos(813.53,448.12)}mình
@@ -3842,16 +3843,16 @@ Dialogue: 0,0:17:38.74,0:17:38.78,Signs,,0,0,0,,{\fscy100\alpha&HC7&\blur1.4\fsc
 Dialogue: 0,0:17:38.78,0:17:38.82,Signs,,0,0,0,,{\fscy100\alpha&HD4&\blur1.4\fscx90\fs64\fn000 ActionFigure [TeddyBear]\c&HA0A9AA&\pos(413.18,643.05)\frz2.52}Vết thương
 Dialogue: 0,0:17:38.82,0:17:38.87,Signs,,0,0,0,,{\fscy100\alpha&HE1&\blur1.4\fscx90\fs64\fn000 ActionFigure [TeddyBear]\c&HA0A9AA&\pos(412.85,642.9)\frz2.52}Vết thương
 Dialogue: 0,0:17:38.87,0:17:38.91,Signs,,0,0,0,,{\fscy100\alpha&HF2&\blur1.4\fscx90\fs64\fn000 ActionFigure [TeddyBear]\c&HA0A9AA&\pos(413.74,642.57)\frz2.52}Vết thương
-Dialogue: 0,0:17:40.16,0:17:40.20,Signs,,0,0,0,,{\fscx109.29\fscy109.29\frz0\alpha&H00&\blur6.68\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(945.417,1084.673)}Quái
-Dialogue: 0,0:17:40.20,0:17:40.24,Signs,,0,0,0,,{\fscx109.29\fscy109.29\frz0\alpha&H00&\blur6.68\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(942.75,839.34)}Quái
-Dialogue: 0,0:17:40.24,0:17:40.28,Signs,,0,0,0,,{\fscx106.76\fscy106.76\frz0\alpha&H00&\blur6.63\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(928.89,607.58)}Quái
-Dialogue: 0,0:17:40.28,0:17:40.33,Signs,,0,0,0,,{\fscx103.39\fscy103.39\frz0\alpha&H00&\blur6.57\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(914.87,390.76)}Quái
-Dialogue: 0,0:17:40.33,0:17:40.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur6.5\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(900.83,174)}Quái
-Dialogue: 0,0:17:40.37,0:17:40.41,Signs,,0,0,0,,{\fscx96.61\fscy96.61\frz0\alpha&H00&\blur6.43\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(886.8,-42.71)}Quái
-Dialogue: 0,0:17:40.37,0:17:40.41,Signs,,0,0,0,,{\fscx110\fscy110\frz0\alpha&H00&\c&H0E0E34&\blur6.04\fnUVN Chim Bien Nang\fs140\pos(931.813,904.83)}Vật
-Dialogue: 0,0:17:40.41,0:17:40.45,Signs,,0,0,0,,{\fscx96.49\fscy96.49\frz0\alpha&H00&\c&H0E0E34&\blur5.19\fnUVN Chim Bien Nang\fs140\pos(909.893,654.89)}Vật
-Dialogue: 0,0:17:40.45,0:17:40.49,Signs,,0,0,0,,{\fscx92.97\fscy92.97\frz0\alpha&H00&\c&H0E0E34&\blur4.33\fnUVN Chim Bien Nang\fs140\pos(890.339,404.97)}Vật
-Dialogue: 0,0:17:40.49,0:17:40.53,Signs,,0,0,0,,{\fscx84.08\fscy84.08\frz0\alpha&H00&\c&H0E0E34&\blur3.81\fnUVN Chim Bien Nang\fs140\pos(872.569,159.154)}Vật
+Dialogue: 0,0:17:40.16,0:17:40.20,Signs,,0,0,0,,{\fscx109.29\fscy109.29\frz0\alpha&H00&\blur6.68\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(945.417,1084.673)}Yêu Ma
+Dialogue: 0,0:17:40.20,0:17:40.24,Signs,,0,0,0,,{\fscx109.29\fscy109.29\frz0\alpha&H00&\blur6.68\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(942.75,839.34)}Yêu Ma
+Dialogue: 0,0:17:40.24,0:17:40.28,Signs,,0,0,0,,{\fscx106.76\fscy106.76\frz0\alpha&H00&\blur6.63\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(928.89,607.58)}Yêu Ma
+Dialogue: 0,0:17:40.28,0:17:40.33,Signs,,0,0,0,,{\fscx103.39\fscy103.39\frz0\alpha&H00&\blur6.57\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(914.87,390.76)}Yêu Ma
+Dialogue: 0,0:17:40.33,0:17:40.37,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur6.5\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(900.83,174)}Yêu Ma
+Dialogue: 0,0:17:40.37,0:17:40.41,Signs,,0,0,0,,{\fscx96.61\fscy96.61\frz0\alpha&H00&\blur6.43\fnUVN Chim Bien Nang\1c&H101135&\fs140\pos(886.8,-42.71)}Yêu Ma
+Dialogue: 0,0:17:40.37,0:17:40.41,Signs,,0,0,0,,{\fscx110\fscy110\frz0\alpha&H00&\c&H0E0E34&\blur6.04\fnUVN Chim Bien Nang\fs140\pos(931.813,904.83)}Quái
+Dialogue: 0,0:17:40.41,0:17:40.45,Signs,,0,0,0,,{\fscx96.49\fscy96.49\frz0\alpha&H00&\c&H0E0E34&\blur5.19\fnUVN Chim Bien Nang\fs140\pos(909.893,654.89)}Quái
+Dialogue: 0,0:17:40.45,0:17:40.49,Signs,,0,0,0,,{\fscx92.97\fscy92.97\frz0\alpha&H00&\c&H0E0E34&\blur4.33\fnUVN Chim Bien Nang\fs140\pos(890.339,404.97)}Quái
+Dialogue: 0,0:17:40.49,0:17:40.53,Signs,,0,0,0,,{\fscx84.08\fscy84.08\frz0\alpha&H00&\c&H0E0E34&\blur3.81\fnUVN Chim Bien Nang\fs140\pos(872.569,159.154)}Quái
 Dialogue: 0,0:17:40.49,0:17:40.53,Signs,,0,0,0,,{\fscx113.19\fscy113.19\frz0.02\alpha&H00&\1c&H0E0E34&\blur3.79\fnUVN Chim Bien Nang\fs100\pos(890.42,1003.11)}Truyện
 Dialogue: 0,0:17:40.53,0:17:40.58,Signs,,0,0,0,,{\fscx108.88\fscy108.88\frz0\alpha&H00&\1c&H0E0E34&\blur3.48\fnUVN Chim Bien Nang\fs100\pos(874.26,719.74)}Truyện
 Dialogue: 0,0:17:40.58,0:17:40.62,Signs,,0,0,0,,{\fscx104.45\fscy104.45\frz0\alpha&H00&\1c&H0E0E34&\blur3.18\fnUVN Chim Bien Nang\fs100\pos(858.46,436.51)}Truyện
@@ -3861,7 +3862,7 @@ Dialogue: 1,0:17:44.71,0:17:49.25,Signs,,0,0,0,,{\fad(1100,0)\fsp1\fs30\blur0.7\
 Dialogue: 1,0:17:48.71,0:17:48.75,Signs,,0,0,0,,{\fnUVN Chim Bien Nang\fscx90\fs10.5\blur0.8\c&HCCCCE1&\pos(273,967.5)}Sau khi dùng xong thì đội ngũ làm anime\N\N\N\N\N\N\N đã ăn chúng một cách ngon lành
 Dialogue: 1,0:17:48.75,0:17:48.79,Signs,,0,0,0,,{\fnUVN Chim Bien Nang\fscx60\fs35\blur0.8\c&HCCCCE1&\pos(273,967.5)}Sau khi dùng xong thì đội ngũ làm anime\N\N\N\N\N\N\N đã ăn chúng một cách ngon lành
 Dialogue: 1,0:17:48.79,0:17:48.83,Signs,,0,0,0,,{\fnUVN Chim Bien Nang\fscx90\fs20\blur0.8\c&HCCCCE1&\pos(273,967.5)}Sau khi dùng xong thì đội ngũ làm anime\N\N\N\N\N\N\N đã ăn chúng một cách ngon lành
-Dialogue: 1,0:17:48.83,0:17:52.67,Signs,,0,0,0,,{\fnUVN Chim Bien Nang\fscx90\fs27\blur0.8\fad(0,1391)\c&HCDCDE0&\pos(273,967.5)}Sau khi dùng xong thì đội ngũ làm anime\N\N\N\N\N\N\N đã ăn chúng một cách ngon lành
+Dialogue: 1,0:17:48.83,0:17:52.67,Signs,,0,0,0,,{\fnUVN Chim Bien Nang\fscx90\fs27\blur0.8\fad(0,1391)\c&HCDCDE0&\pos(273,967.5)\frz359.6}Sau khi dùng xong thì đội ngũ làm anime\N\N\N\N\N\N\N đã ăn chúng một cách ngon lành
 Dialogue: 1,0:17:48.92,0:17:48.96,Signs,,0,0,0,,{\fscx28\fscy28\alpha&H00&\fs40\blur0.63\fn000 Frank Bellamy iCiel\c&H0B0F0E&\frz325.7\pos(696.73,508.8)}Giờ thì không.
 Dialogue: 1,0:17:48.96,0:17:49.00,Signs,,0,0,0,,{\fscx37.5\fscy37.5\alpha&H00&\fs40\blur0.65\fn000 Frank Bellamy iCiel\c&H0B0F0E&\frz325.7\pos(659.59,494.46)}Giờ thì không.
 Dialogue: 1,0:17:49.00,0:17:49.04,Signs,,0,0,0,,{\fscx47.05\fscy47.05\alpha&H00&\fs40\blur0.67\fn000 Frank Bellamy iCiel\c&H0B0F0E&\frz325.7\pos(622.87,480.37)}Giờ thì không.
@@ -4054,32 +4055,32 @@ Dialogue: 0,0:20:29.79,0:20:29.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL Dell
 Dialogue: 1,0:20:29.79,0:20:29.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs74\blur1.2\c&HF6F9F6&\pos(960.67,749.67)}Mỹ Quỷ
 Dialogue: 0,0:20:29.79,0:20:29.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fnVL DellaRobbia BT\fs46\blur4\c&HFFFFFF&\pos(235.49,578.56)\alpha&H80&}Hoạt Cảnh số      382B
 Dialogue: 1,0:20:29.79,0:20:29.83,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fnVL DellaRobbia BT\fs46\blur1\c&HF7F7F7&\pos(235.49,578.56)}Hoạt Cảnh số      382B
-Dialogue: 0,0:23:53.45,0:23:53.49,Signs,TS16,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.39,213.6)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:23:53.45,0:23:53.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.39,213.6)}QUÁIVẬTRUYỆN
+Dialogue: 0,0:23:53.45,0:23:53.49,Signs,TS16,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.39,213.6)}Yêu Ma Quái Truyện
+Dialogue: 1,0:23:53.45,0:23:53.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.39,213.6)}Yêu Ma Quái Truyện
 Dialogue: 0,0:23:53.45,0:23:53.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\fs52.5\c&H5D614C&\pos(961.59,476.57)\alpha&HB0&}Cua
 Dialogue: 1,0:23:53.45,0:23:53.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H5D614C&\pos(961.59,476.57)}Cua
 Dialogue: 0,0:23:53.45,0:23:53.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\c&H5D614C&\fs70\pos(974.4,715.02)\alpha&HB0&}Cua Hitagi, Phần 1
 Dialogue: 1,0:23:53.45,0:23:53.49,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H5D614C&\fs70\pos(974.4,715.02)}Cua Hitagi, Phần 1
-Dialogue: 0,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.06,213.08)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.06,213.08)}QUÁIVẬTRUYỆN
+Dialogue: 0,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.06,213.08)}Yêu Ma Quái Truyện
+Dialogue: 1,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.06,213.08)}Yêu Ma Quái Truyện
 Dialogue: 0,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\fs52.5\c&H5D614C&\pos(961.26,476.05)\alpha&HB0&}Cua
 Dialogue: 1,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H5D614C&\pos(961.26,476.05)}Cua
 Dialogue: 0,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\c&H5D614C&\fs70\pos(974.07,714.5)\alpha&HB0&}Cua Hitagi, Phần 1
 Dialogue: 1,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H5D614C&\fs70\pos(974.07,714.5)}Cua Hitagi, Phần 1
-Dialogue: 0,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.06,213.62)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.06,213.62)}QUÁIVẬTRUYỆN
+Dialogue: 0,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.06,213.62)}Yêu Ma Quái Truyện
+Dialogue: 1,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.06,213.62)}Yêu Ma Quái Truyện
 Dialogue: 0,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\fs52.5\c&H5D614C&\pos(961.26,476.59)\alpha&HB0&}Cua
 Dialogue: 1,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H5D614C&\pos(961.26,476.59)}Cua
 Dialogue: 0,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\c&H5D614C&\fs70\pos(974.07,715.04)\alpha&HB0&}Cua Hitagi, Phần 1
 Dialogue: 1,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H5D614C&\fs70\pos(974.07,715.04)}Cua Hitagi, Phần 1
-Dialogue: 0,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.73,213.02)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.73,213.02)}QUÁIVẬTRUYỆN
+Dialogue: 0,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.73,213.02)}Yêu Ma Quái Truyện
+Dialogue: 1,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.73,213.02)}Yêu Ma Quái Truyện
 Dialogue: 0,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\fs52.5\c&H5D614C&\pos(961.93,475.99)\alpha&HB0&}Cua
 Dialogue: 1,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H5D614C&\pos(961.93,475.99)}Cua
 Dialogue: 0,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\c&H5D614C&\fs70\pos(974.74,714.44)\alpha&HB0&}Cua Hitagi, Phần 1
 Dialogue: 1,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H5D614C&\fs70\pos(974.74,714.44)}Cua Hitagi, Phần 1
-Dialogue: 0,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.15,213.59)}QUÁIVẬTRUYỆN
-Dialogue: 1,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.15,213.59)}QUÁIVẬTRUYỆN
+Dialogue: 0,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\alpha&HB0&\pos(966.15,213.59)}Yêu Ma Quái Truyện
+Dialogue: 1,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H5D614C&\pos(966.15,213.59)}Yêu Ma Quái Truyện
 Dialogue: 0,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\fs52.5\c&H5D614C&\pos(961.35,476.56)\alpha&HB0&}Cua
 Dialogue: 1,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H5D614C&\pos(961.35,476.56)}Cua
 Dialogue: 0,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur4\an5\c&H5D614C&\fs70\pos(974.16,715.01)\alpha&HB0&}Cua Hitagi, Phần 1

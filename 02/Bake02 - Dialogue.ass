@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 375
-Active Line: 422
-Video Position: 33263
+Scroll Position: 435
+Active Line: 479
+Video Position: 2780
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,11 +68,11 @@ Dialogue: 12,0:03:48.22,0:03:49.91,Main,,0,0,0,,Không thành vấn đề.
 Dialogue: 12,0:03:52.25,0:03:53.08,Main,,0,0,0,,Đương nhiên.
 Dialogue: 12,0:04:00.37,0:04:01.84,Main,,0,0,0,,{\i1}Một trăm nghìn yên à...
 Dialogue: 12,0:04:03.85,0:04:05.63,Main,,0,0,0,,Tôi tắm xong rồi đấy.
-Dialogue: 12,0:04:09.19,0:04:10.80,Main,,0,0,0,,Phiền cậu xê chỗ đó ra được không?
+Dialogue: 12,0:04:09.19,0:04:10.80,Main,,0,0,0,,Chỗ đó phiền cậu xê ra được không?
 Dialogue: 12,0:04:10.80,0:04:12.56,Main,,0,0,0,,Để tôi còn lấy quần áo.
 Dialogue: 12,0:04:12.56,0:04:14.48,Main,,0,0,0,,Mặc đồ vào đê!
 Dialogue: 12,0:04:14.48,0:04:16.98,Main,,0,0,0,,Thì đang đi mặc đây còn gì.
-Dialogue: 12,0:04:16.98,0:04:19.85,Main,,0,0,0,,Phải mặc xong rồi mới đi ra chứ!
+Dialogue: 12,0:04:16.98,0:04:19.85,Main,,0,0,0,,Phải mặc xong rồi mới ra chứ!
 Dialogue: 12,0:04:19.86,0:04:22.04,Main,,0,0,0,,Lỡ quên cầm theo mà.
 Dialogue: 12,0:04:22.04,0:04:24.36,Main,,0,0,0,,Thế thì cũng phải quấn khăn chứ.
 Dialogue: 12,0:04:24.36,0:04:26.62,Main,,0,0,0,,Còn lâu! Thế trông phèn lắm.
@@ -83,14 +83,14 @@ Dialogue: 12,0:04:41.99,0:04:42.97,Main,,0,0,0,,Ai mà biết.
 Dialogue: 12,0:04:45.39,0:04:46.89,Main,,0,0,0,,Quần áo lót mà tôi có...
 Dialogue: 12,0:04:48.91,0:04:50.89,Main,,0,0,0,,tất cả đều có hoa văn.
 Dialogue: 12,0:04:50.89,0:04:52.26,Main,,0,0,0,,Biết được à!!
-Dialogue: 12,0:04:54.02,0:04:55.27,Main,,0,0,0,,Araragi{*}-kun{*}.
+Dialogue: 12,0:04:54.02,0:04:55.27,Main,,0,0,0,,Araragi-kun.
 Dialogue: 12,0:04:55.27,0:04:59.27,Main,,0,0,0,,Đừng có bảo là \Ncậu hứng lên khi thấy tôi khỏa thân nhá.
 Dialogue: 12,0:04:59.27,0:05:02.84,Main,,0,0,0,,Kể cả có thế thì cũng không phải tại tôi.
 Dialogue: 12,0:05:02.84,0:05:05.36,Main,,0,0,0,,Xong rồi, cậu có thể quay lại.
 Dialogue: 12,0:05:05.36,0:05:07.28,Main,,0,0,0,,Được rồi. Thật là...
 Dialogue: 12,0:05:10.91,0:05:13.25,Main,,0,0,0,,Rốt cuộc thì cô muốn sao hả!
 Dialogue: 12,0:05:13.25,0:05:14.32,Main,,0,0,0,,Sao là sao?
-Dialogue: 12,0:05:14.32,0:05:17.27,Main,,0,0,0,,Để cảm ơn cậu vì chuyện hôm nay \Nnên tôi mới khuyến mãi đặc biệt.
+Dialogue: 12,0:05:14.32,0:05:17.27,Main,,0,0,0,,Khuyến mãi đặc biệt \Nđể cảm ơn cậu vì hôm nay thôi.
 Dialogue: 12,0:05:17.27,0:05:18.76,Main,,0,0,0,,Tỏ ra sung sướng tý đi chứ.
 Dialogue: 12,0:05:20.46,0:05:22.33,Main,,0,0,0,,Tỏ ra sung sướng tý đi chứ!
 Dialogue: 12,0:05:22.34,0:05:23.96,Main,,0,0,0,,{\i1}Quát ngược lại mình luôn!
@@ -116,7 +116,7 @@ Dialogue: 12,0:06:13.35,0:06:14.85,Main,,0,0,0,,Hanekawa là sao?
 Dialogue: 12,0:06:14.85,0:06:18.28,Main,,0,0,0,,Chả phải Araragi-kun\N đang đơn phương cậu ấy sao?
 Dialogue: 12,0:06:18.28,0:06:19.72,Main,,0,0,0,,Tâm sự nhiều vậy cơ mà.
 Dialogue: 12,0:06:19.72,0:06:21.10,Main,,0,0,0,,Có phải thế đâu.
-Dialogue: 12,0:06:21.10,0:06:24.32,Main,,0,0,0,,Chỉ đơn giản là lòng tốt quan tâm người khác \Ncủa Hanekawa thôi.
+Dialogue: 12,0:06:21.10,0:06:24.32,Main,,0,0,0,,Chỉ đơn giản là Hanekawa\N tốt bụng quan tâm người khác thôi.
 Dialogue: 12,0:06:24.32,0:06:26.83,Main,,0,0,0,,Với cậu ấy, \Nnhững người kém cỏi nhất là đáng thương nhất.
 Dialogue: 12,0:06:26.83,0:06:28.80,Main,,0,0,0,,Bảo là họ phải chịu thiệt thòi.
 Dialogue: 12,0:06:28.80,0:06:30.99,Main,,0,0,0,,Quan điểm tuy sai nhưng tích cực vậy đấy.
@@ -190,7 +190,7 @@ Dialogue: 12,0:09:24.99,0:09:28.48,Main,,0,0,0,,thì phải thừa nhận đó l
 Dialogue: 12,0:09:28.48,0:09:31.80,Main,,0,0,0,,Cậu... coi tôi là thằng đại ngu đúng không?
 Dialogue: 12,0:09:32.74,0:09:33.96,Main,,0,1100,0,,Sao cậu lại biết?
 Dialogue: 12,0:09:34.59,0:09:36.22,Main,,800,0,0,,Sửng sốt luôn mà!
-Dialogue: 12,0:09:37.84,0:09:43.43,Main,,720,0,0,,{\q2}Tại tôi mà Araragi-kun...\N đã ngộ ra cái đầu mình {\i1}ngu{\i0} tới mức nào.
+Dialogue: 12,0:09:37.84,0:09:43.43,Main,,720,0,0,,{\q2}Tại tôi mà Araragi-kun...\N đã ngộ ra cái đầu mình ngu tới mức nào.
 Dialogue: 12,0:09:43.43,0:09:44.72,Main,,720,0,0,,Tôi sẽ lãnh trách nhiệm.
 Dialogue: 12,0:09:44.72,0:09:46.53,Main,,1000,0,0,,Ầy, khoan đã nào!
 Dialogue: 12,0:09:46.53,0:09:49.68,Main,,1000,0,0,,Bộ tôi ngu tới thế cơ à?
@@ -235,7 +235,7 @@ Dialogue: 12,0:10:02.83,0:10:05.36,Main,,0,0,0,,Điểm Hensachi của tôi ai c
 Dialogue: 12,0:10:05.36,0:10:08.44,Main,,0,0,0,,100... phải cách biệt từng đó\N mới đem lại cảm giác chiến thắng.
 Dialogue: 12,0:10:08.44,0:10:10.49,Main,,0,0,0,,Cũng tự làm tròn {hàng chục}cho bản thân luôn.
 Dialogue: 12,0:10:13.12,0:10:14.08,Main,,0,0,0,,Quyết định rồi.
-Dialogue: 12,0:10:15.43,0:10:19.75,Main,,0,0,0,,Nếu mọi chuyện mà suôn sẻ,\N thì tới Hokkaidō ăn cua {\i1}thôi nào{\i0}.
+Dialogue: 12,0:10:15.43,0:10:19.75,Main,,0,0,0,,Nếu mọi chuyện mà suôn sẻ,\N thì tới Hokkaidō ăn cua thôi nào.
 Dialogue: 12,0:10:19.75,0:10:21.75,Main,,0,0,0,,Nghe cũng được đấy.
 Dialogue: 12,0:10:22.16,0:10:23.51,Main,,0,0,0,,Cả cậu cũng đi.
 Dialogue: 12,0:10:23.51,0:10:24.52,Main,,0,0,0,,Tại sao?
@@ -260,7 +260,7 @@ Dialogue: 12,0:11:36.09,0:11:37.96,Main,,0,0,0,,Bớt nói linh tinh đi.
 Dialogue: 12,0:11:41.47,0:11:42.91,Main,,0,0,0,,Mà này, Oshino.
 Dialogue: 12,0:11:42.91,0:11:46.22,Main,,0,0,0,,Cái gì mà Cua ấy, \Ncó dễ mà diệt được không?
 Dialogue: 12,0:11:47.10,0:11:49.85,Main,,0,0,0,,Đầu óc cậu hoang dã quá nhở, Araragi-kun.
-Dialogue: 12,0:11:50.22,0:11:52.76,Main,,0,0,0,,Có gì hay ho xảy ra à?
+Dialogue: 12,0:11:50.22,0:11:52.76,Main,,0,0,0,,Có gì hay ho đã xảy ra sao?
 Dialogue: 12,0:11:52.76,0:11:58.74,Main,,0,0,0,,Mặc dù Shinobu-chan và con mèo dâm dục đó\N đã có ác ý tấn công Araragi-kun và bé lớp trưởng...
 Dialogue: 12,0:11:58.74,0:12:01.15,Main,,0,0,0,,nhưng vụ Cua lần này thì khác.
 Dialogue: 12,0:12:01.15,0:12:02.24,Main,,0,0,0,,Tức là sao?
@@ -321,7 +321,7 @@ Dialogue: 12,0:14:56.41,0:14:57.96,Main,,0,0,0,,Nhạc cổ điển yêu thích?
 Dialogue: 12,0:14:58.37,0:15:00.46,Main,,0,0,0,,Tôi không thích âm nhạc cho lắm.
 Dialogue: 12,0:15:00.46,0:15:03.34,Main,,0,600,0,,Cảm nghĩ khi tốt nghiệp tiểu học?
 Dialogue: 12,0:15:03.67,0:15:07.29,Main,,0,0,0,,Chỉ đơn giản là biết sắp lên cấp 2 thôi.
-Dialogue: 12,0:15:07.29,0:15:09.59,Main,,0,0,0,,Đơn giản là từ trường công này \Nsang trường công khác.
+Dialogue: 12,0:15:07.29,0:15:09.59,Main,,0,0,0,,Đơn giản là\N từ trường công này sang trường công khác.
 Dialogue: 12,0:15:09.59,0:15:11.89,Main,,0,0,0,,Mối tình đầu của tiểu thư là người như thế nào?
 Dialogue: 12,0:15:12.22,0:15:13.39,Main,,0,0,0,,Tôi không muốn kể.
 Dialogue: 12,0:15:13.81,0:15:16.90,Main,,400,0,0,,Kỷ niệm đau buồn nhất từ trước đến giờ?
@@ -375,7 +375,7 @@ Dialogue: 12,0:17:57.04,0:17:59.30,Main,,0,0,0,,Điều muốn nói...
 Dialogue: 12,0:18:09.18,0:18:10.56,Main,,0,0,0,,S-Senjōgahara!
 Dialogue: 12,0:18:19.24,0:18:21.40,Main,,0,0,0,,Hết biết luôn.
 Dialogue: 12,0:18:21.40,0:18:23.89,Main,,0,0,0,,Thật là, thật là!\N Vị Thần thiếu kiên nhẫn này.
-Dialogue: 12,0:18:23.89,0:18:28.00,Main,,0,0,0,,Tăng động thế chứ nị!\N Chắc là có gì hay ho xảy ra ha.
+Dialogue: 12,0:18:23.89,0:18:28.00,Main,,0,0,0,,Tăng động thế chứ nị!\N Chắc là có gì hay ho đã xảy ra ha.
 Dialogue: 12,0:18:28.49,0:18:30.32,Main,,0,0,0,,Này! Oshino!
 Dialogue: 12,0:18:30.32,0:18:33.63,Main,,0,0,0,,Rồi biết rồi! \NThay đổi kế hoạch, hết né tránh được rồi.
 Dialogue: 12,0:18:34.30,0:18:37.38,Main,,0,0,0,,Nào, nhận lấy!
@@ -392,7 +392,7 @@ Dialogue: 12,0:19:12.31,0:19:15.30,Main,,0,0,0,,Xin chú khoan đã, Oshino-san!
 Dialogue: 12,0:19:16.34,0:19:17.91,Main,,0,0,0,,Khoan gì?
 Dialogue: 12,0:19:17.91,0:19:19.84,Main,,0,0,0,,Khoan cái gì nào, tiểu thư?
 Dialogue: 12,0:19:19.84,0:19:23.22,Main,,0,0,0,,Ban nãy... tôi có hơi giật mình.
-Dialogue: 12,0:19:23.69,0:19:26.61,Main,,0,0,0,,Tôi có thể làm một cách đàng hoàng mà.
+Dialogue: 12,0:19:23.69,0:19:26.61,Main,,0,0,0,,Tôi có thể làm đàng hoàng được.
 Dialogue: 12,0:19:26.61,0:19:28.85,Main,,0,0,0,,Tự tôi làm được mà.
 Dialogue: 12,0:19:30.15,0:19:31.91,Main,,0,0,0,,Vậy mời tiểu thư.
 Dialogue: 12,0:19:31.91,0:19:32.72,Main,,0,0,0,,Làm đi.
@@ -406,7 +406,7 @@ Dialogue: 12,0:19:56.80,0:19:59.94,Main,,0,0,0,,Con cầu xin Ngài! \NXin Ngài
 Dialogue: 12,0:19:59.94,0:20:02.18,Main,,0,0,0,,...trả lại trọng lượng cho con.
 Dialogue: 12,0:20:02.72,0:20:06.81,Main,,0,0,0,,Xin Ngài trả lại mẹ cho con.
 Dialogue: 12,0:20:17.36,0:20:24.76,Main,,0,0,0,,{\i1}Thời điểm mẹ của Senjōgahara gia nhập giáo phái mờ ám\N rơi vào tầm Senjōgahara học lớp 5.
-Dialogue: 12,0:20:25.30,0:20:28.95,Main,,0,0,0,,{\i1}Đúng lúc Senjōgahara lâm bệnh nặng.
+Dialogue: 12,0:20:25.30,0:20:28.95,Main,,0,0,0,,{\i1}Đúng vào lúc Senjōgahara lâm bệnh nặng.
 Dialogue: 12,0:20:29.84,0:20:35.21,Main,,0,0,0,,{\i1}Vì bệnh tình của con gái,\N mẹ của Senjougahara đã đi tìm đức tin cho mình.
 Dialogue: 12,0:20:35.68,0:20:36.33,Main,,0,0,0,,{\i1}Và rồi...
 Dialogue: 12,0:20:37.98,0:20:42.30,Main,,0,0,0,,{\i1}Senjōgahara... sau cuộc đại phẫu... \Nđã vượt qua cửa tử một cách thần kỳ.
@@ -429,15 +429,15 @@ Dialogue: 12,0:21:37.90,0:21:42.73,Main,,0,0,0,,{\i1}Nói cách khác, khi gặp
 Dialogue: 12,0:21:43.54,0:21:46.64,Main,,0,0,0,,{\i1}Cậu ấy ngừng lo lắng cho mẹ mình.
 Dialogue: 12,0:21:46.64,0:21:49.52,Main,,0,0,0,,{\i1}Ngừng "trọng tình", rũ bỏ "trọng lượng".
 Dialogue: 12,0:21:50.14,0:21:52.75,Main,,0,0,0,,{\i1}Tự {\u1}lừa đảo{\u0} chính mình.
-Dialogue: 12,0:21:53.49,0:21:56.80,Main,,0,0,0,,Cũng chưa thể gọi là tồi tệ ha.
-Dialogue: 12,0:21:56.80,0:22:00.65,Main,,0,0,0,,Cụ thể trong vụ này, lấy lại được cảm xúc rồi đấy.
-Dialogue: 12,0:22:00.65,0:22:05.26,Main,,0,0,0,,Nhưng không thể đưa mẹ trở lại\N cũng như cứu vãn gia đình tan vỡ.
+Dialogue: 12,0:21:53.50,0:21:56.80,Main,,0,0,0,,Cũng chưa thể gọi đây là quá tồi tệ ha.
+Dialogue: 12,0:21:56.80,0:22:00.65,Main,,0,0,0,,Cụ thể trong vụ này, \Nđược cái là lấy lại được cảm xúc.
+Dialogue: 12,0:22:00.65,0:22:05.26,Main,,0,0,0,,Nhưng không thể đưa mẹ trở lại\N cũng như hàn gắn gia đình.
 Dialogue: 12,0:22:05.67,0:22:07.51,Main,,0,0,0,,{\i1}Tuy là thế... Kể cả thế...
 Dialogue: 12,0:22:07.80,0:22:11.51,Main,,600,0,0,,{\i1}Cũng chính vì thế, \NSenjōgahara Hitagi muốn lấy lại.
 Dialogue: 12,0:22:11.51,0:22:13.16,Main,,600,0,0,,{\i1}Xin được lấy lại...
 Dialogue: 12,0:22:13.16,0:22:14.31,Main,,600,0,0,,{\i1}dù là không thể...
 Dialogue: 12,0:22:14.31,0:22:17.19,Main,,600,0,0,,{\i1}những hồi ức về mẹ... cả kỉ niệm lẫn dày vò.
-Dialogue: 12,0:22:17.77,0:22:21.16,Main,,600,0,0,,{\i1}Như Oshino đã nói,\N tuy là sẽ chẳng có gì thay đổi.
+Dialogue: 12,0:22:17.77,0:22:21.16,Main,,600,0,0,,{\i1}Như Oshino đã nói,\N sẽ chẳng có gì thay đổi...
 Dialogue: 12,0:22:22.52,0:22:25.03,Main,,600,0,0,,Không phải không có gì thay đổi đâu.
 Dialogue: 12,0:22:25.33,0:22:28.42,Main,,0,0,0,,Hơn nữa, không có gì là phí công vô ích hết.
 Dialogue: 12,0:22:28.42,0:22:31.91,Main,,0,0,0,,Ít nhất, tôi đã có được một người bạn trân quý.
@@ -447,7 +447,6 @@ Dialogue: 12,0:22:37.12,0:22:39.40,Main,,0,0,0,,Cảm ơn cậu, Araragi-kun.
 Dialogue: 12,0:22:39.40,0:22:42.16,Main,,0,0,0,,Tôi vô cùng biết ơn cậu.
 Dialogue: 12,0:22:42.16,0:22:44.63,Main,,0,0,0,,Những chuyện từ trước đến nay cho tôi xin lỗi.
 Dialogue: 12,0:22:45.90,0:22:51.89,Main,,0,0,0,,Có thể là hơi trơ trẽn,\N nhưng nếu được tiếp tục làm bạn với cậu, thì tốt biết mấy.
-Dialogue: 12,0:22:56.93,0:22:58.94,GT 2,,0,0,0,,(Bộ này mà ko để nguyên Nī-chan nó mất chất :3)
 Dialogue: 12,0:22:56.93,0:22:58.94,Main,,0,0,0,,Nī-chan! Sáng bảnh mắt rồi đấy!
 Dialogue: 12,0:22:58.94,0:23:01.24,Main,,0,0,0,,Còn ngủ nữa là hỏng đấy.
 Dialogue: 12,0:23:01.24,0:23:03.44,Main,,0,0,0,,Anh mới ngủ có tý thôi mà.
@@ -465,25 +464,25 @@ Dialogue: 12,0:25:00.93,0:25:01.44,Main,,0,0,0,,Karen đây!
 Dialogue: 12,0:25:01.44,0:25:02.29,Main,,0,0,0,,Tsukihi có!
 Dialogue: 12,0:25:02.29,0:25:03.37,Main,,0,0,0,,Nói là Jungle-Gym nhờ.
 Dialogue: 12,0:25:03.37,0:25:04.52,Main,,0,0,0,,Chị cũng nói thế.
-Dialogue: 12,0:25:04.52,0:25:05.44,Main,,0,0,0,,Chả phải nói nhiều quá sao.
-Dialogue: 12,0:25:05.44,0:25:05.95,Main,,0,0,0,,Nói nhiều?
-Dialogue: 12,0:25:05.95,0:25:06.77,Main,,0,0,0,,"Jungle" là sao?
+Dialogue: 12,0:25:04.52,0:25:05.44,Main,,0,0,0,,Chả phải nói quá sao.
+Dialogue: 12,0:25:05.44,0:25:05.95,Main,,0,0,0,,Nói quá?
 Dialogue: 12,0:25:05.95,0:25:06.77,GT 2,,0,0,0,,(Rừng)
-Dialogue: 12,0:25:06.77,0:25:07.89,Main,,0,0,0,,Cũng không phải Rừng.
+Dialogue: 12,0:25:05.95,0:25:06.77,Main,,0,0,0,,"Jungle" là sao?
+Dialogue: 12,0:25:06.77,0:25:07.89,Main,,0,0,0,,Không phải Rừng.
 Dialogue: 12,0:25:07.89,0:25:08.47,Main,,0,0,0,,Lại còn Gym nữa.
-Dialogue: 12,0:25:08.47,0:25:09.32,Main,,0,0,0,,Cũng phải phải tập gym.
+Dialogue: 12,0:25:08.47,0:25:09.32,Main,,0,0,0,,Cũng chả phải tập gym.
 Dialogue: 12,0:25:09.32,0:25:10.11,Main,,0,0,0,,Trá hình nhau à!
 Dialogue: 12,0:25:10.11,0:25:11.59,Main,,0,0,0,,Thế tên là gì mới đúng?
 Dialogue: 12,0:25:11.59,0:25:13.25,Main,,0,0,0,,Kiểu như "Thể Thao Thép" chẳng hạn.
 Dialogue: 12,0:25:13.25,0:25:14.14,Main,,0,0,0,,Ơ ghê nhở!
-Dialogue: 12,0:25:14.14,0:25:15.41,Main,,0,0,0,,Vậy tới phần câu đố cho mục xem trước nào.
+Dialogue: 12,0:25:14.14,0:25:15.41,Main,,0,0,0,,Vậy tới câu đố cho phần xem trước nào.
 Dialogue: 12,0:25:15.41,0:25:16.11,Main,,0,0,0,,Câu đố!
 Dialogue: 12,0:25:16.11,0:25:17.40,Main,,0,0,0,,Bạn là tài xế xe buýt.
 Dialogue: 12,0:25:17.40,0:25:19.12,Main,,0,0,0,,Chị chưa bao giờ nghĩ mình là tài xế xe buýt.
 Dialogue: 12,0:25:19.12,0:25:20.63,Main,,0,0,0,,3 người lên ở trạm đầu tiên.
 Dialogue: 12,0:25:20.63,0:25:21.46,Main,,0,0,0,,Phấn kha phấn khích!
 Dialogue: 12,0:25:21.46,0:25:23.54,Main,,0,0,0,,Vậy, tên của tài xế xe buýt là gì?
-Dialogue: 12,0:25:23.54,0:25:24.83,Main,,0,0,0,,Lược bớt nhiều thế!
+Dialogue: 12,0:25:23.54,0:25:24.83,Main,,0,0,0,,Lược bớt nhiều thế!{câu đó chuẩn còn rất dài}
 Dialogue: 12,0:25:24.83,0:25:26.88,Main,,0,0,150,,Kỳ tới : Ốc Sên Mayoi, Phần 1.
 Dialogue: 12,0:25:26.88,0:25:28.01,Main,,0,0,150,,À vâng, là tên bạn đó.
 Dialogue: 12,0:25:28.01,0:25:28.40,Main,,0,0,0,,À vâng, là tên bạn đó.
@@ -511,7 +510,7 @@ Dialogue: 9,0:01:41.54,0:01:45.34,OPvie,,0,0,40,,{\c&H0304D4&\blur0.67\an2\fs72\
 Dialogue: 9,0:01:45.34,0:01:48.63,OPvie,,0,0,40,,{\c&H0304D4&\blur0.67\an2\fs72\b1}hãy thề với em rằng sẽ kéo dài mãi mãi về sau.
 Dialogue: 9,0:01:48.96,0:01:52.68,OPvie,,0,0,40,,{\c&H2380F8&\blur0.67\an2\fs72\b1}Giống như đại dương vừa sóng gió vừa hiền hòa,
 Dialogue: 9,0:01:52.68,0:01:55.93,OPvie,,0,0,40,,{\c&H2380F8&\blur0.67\an2\fs72\b1}hãy tóm lấy em khi em nhảy vào trái tim chàng.
-Dialogue: 9,0:01:55.93,0:01:56.18,OPvie,,0,0,40,,{\c&H011AE3&\blur0.67\an2\fs72\b1}nếu em nhảy nơi trái tim chàng, xin chàng tóm lấy em.
+Dialogue: 9,0:01:55.93,0:01:56.18,OPvie,,0,0,40,,{\c&H011AE3&\blur0.67\an2\fs72\b1}hãy tóm lấy em khi em nhảy vào trái tim chàng.
 Dialogue: 9,0:01:56.18,0:02:05.02,OPvie,,0,0,40,,{\an2\c&H0001FD&\blur0.67\fs72\b1}Sức nặng của thứ cảm xúc này là chẳng thể cân đo.
 Dialogue: 9,0:02:05.02,0:02:11.24,OPvie,,0,0,40,,{\fad(0,300)\an2\blur0.67\fs72\b1}Bởi chỉ mình chàng thôi, em tới nói ngay đây mà.
 Dialogue: 9,0:02:11.90,0:02:17.99,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs72\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
@@ -765,506 +764,506 @@ Dialogue: 0,0:02:17.83,0:02:17.87,Signs,,0,0,0,,{\fscx90.6\fscy90.6\frz0\alpha&H
 Dialogue: 0,0:02:17.87,0:02:17.91,Signs,,0,0,0,,{\fscx90.57\fscy90.57\frz0\alpha&H00&\fnVL FertigoPro\blur0.97\fsp4\fs40\c&H090AF3&\pos(958.02,684.03)}Cua Hitagi
 Dialogue: 0,0:02:17.91,0:02:17.95,Signs,,0,0,0,,{\fscx90.53\fscy90.53\frz0\alpha&H00&\fnVL FertigoPro\blur0.97\fsp4\fs40\c&H090AF3&\pos(958.01,683.94)}Cua Hitagi
 Dialogue: 0,0:02:17.95,0:02:17.99,Signs,,0,0,0,,{\fscx90.49\fscy90.49\frz0\alpha&H00&\fnVL FertigoPro\blur0.97\fsp4\fs40\c&H090AF3&\pos(957.99,683.87)}Cua Hitagi
-Dialogue: 0,0:02:07.61,0:02:07.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\pos(960,623)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.65,0:02:07.69,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz0\alpha&H00&\pos(959.99,622.94)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.69,0:02:07.73,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz0\alpha&H00&\pos(959.99,622.88)\fnVL TelingaterDisplay\blur8\bord7.99\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.73,0:02:07.77,Signs,,0,0,0,,{\fscx99.89\fscy99.89\frz0\alpha&H00&\pos(959.98,622.82)\fnVL TelingaterDisplay\blur8\bord7.99\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.77,0:02:07.82,Signs,,0,0,0,,{\fscx99.84\fscy99.84\frz0\alpha&H00&\pos(959.97,622.76)\fnVL TelingaterDisplay\blur8\bord7.99\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.82,0:02:07.86,Signs,,0,0,0,,{\fscx99.8\fscy99.8\frz0\alpha&H00&\pos(959.96,622.69)\fnVL TelingaterDisplay\blur8\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.86,0:02:07.90,Signs,,0,0,0,,{\fscx99.76\fscy99.76\frz0\alpha&H00&\pos(959.95,622.63)\fnVL TelingaterDisplay\blur7.99\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.90,0:02:07.94,Signs,,0,0,0,,{\fscx99.73\fscy99.73\frz0\alpha&H00&\pos(959.95,622.57)\fnVL TelingaterDisplay\blur7.99\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.94,0:02:07.98,Signs,,0,0,0,,{\fscx99.69\fscy99.69\frz0\alpha&H00&\pos(959.94,622.51)\fnVL TelingaterDisplay\blur7.99\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.98,0:02:08.02,Signs,,0,0,0,,{\fscx99.65\fscy99.65\frz0\alpha&H00&\pos(959.94,622.45)\fnVL TelingaterDisplay\blur7.99\bord7.97\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.02,0:02:08.07,Signs,,0,0,0,,{\fscx99.61\fscy99.61\frz0\alpha&H00&\pos(959.93,622.39)\fnVL TelingaterDisplay\blur7.99\bord7.97\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.07,0:02:08.11,Signs,,0,0,0,,{\fscx99.58\fscy99.58\frz0\alpha&H00&\pos(959.92,622.33)\fnVL TelingaterDisplay\blur7.99\bord7.97\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.11,0:02:08.15,Signs,,0,0,0,,{\fscx99.54\fscy99.54\frz0\alpha&H00&\pos(959.9,622.27)\fnVL TelingaterDisplay\blur7.99\bord7.96\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.15,0:02:08.19,Signs,,0,0,0,,{\fscx99.5\fscy99.5\frz0\alpha&H00&\pos(959.89,622.21)\fnVL TelingaterDisplay\blur7.99\bord7.96\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.19,0:02:08.23,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha&H00&\pos(959.88,622.15)\fnVL TelingaterDisplay\blur7.99\bord7.96\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.23,0:02:08.27,Signs,,0,0,0,,{\fscx99.42\fscy99.42\frz0\alpha&H00&\pos(959.87,622.08)\fnVL TelingaterDisplay\blur7.99\bord7.95\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.27,0:02:08.32,Signs,,0,0,0,,{\fscx99.38\fscy99.38\frz0\alpha&H00&\pos(959.86,622.02)\fnVL TelingaterDisplay\blur7.99\bord7.95\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.32,0:02:08.36,Signs,,0,0,0,,{\fscx99.34\fscy99.34\frz0\alpha&H00&\pos(959.86,621.96)\fnVL TelingaterDisplay\blur7.98\bord7.95\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.36,0:02:08.40,Signs,,0,0,0,,{\fscx99.3\fscy99.3\frz0\alpha&H00&\pos(959.85,621.9)\fnVL TelingaterDisplay\blur7.98\bord7.94\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.40,0:02:08.44,Signs,,0,0,0,,{\fscx99.26\fscy99.26\frz0\alpha&H00&\pos(959.85,621.84)\fnVL TelingaterDisplay\blur7.98\bord7.94\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.44,0:02:08.48,Signs,,0,0,0,,{\fscx99.22\fscy99.22\frz0\alpha&H00&\pos(959.85,621.78)\fnVL TelingaterDisplay\blur7.98\bord7.94\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.48,0:02:08.52,Signs,,0,0,0,,{\fscx99.19\fscy99.19\frz0\alpha&H00&\pos(959.84,621.72)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.52,0:02:08.57,Signs,,0,0,0,,{\fscx99.15\fscy99.15\frz0\alpha&H00&\pos(959.83,621.66)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.57,0:02:08.61,Signs,,0,0,0,,{\fscx99.11\fscy99.11\frz0\alpha&H00&\pos(959.82,621.59)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.61,0:02:08.65,Signs,,0,0,0,,{\fscx99.07\fscy99.07\frz0\alpha&H00&\pos(959.81,621.54)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.65,0:02:08.69,Signs,,0,0,0,,{\fscx99.04\fscy99.04\frz0\alpha&H00&\pos(959.8,621.48)\fnVL TelingaterDisplay\blur7.98\bord7.92\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.69,0:02:08.73,Signs,,0,0,0,,{\fscx99\fscy99\frz0\alpha&H00&\pos(959.79,621.42)\fnVL TelingaterDisplay\blur7.98\bord7.92\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.73,0:02:08.78,Signs,,0,0,0,,{\fscx98.96\fscy98.96\frz0\alpha&H00&\pos(959.78,621.36)\fnVL TelingaterDisplay\blur7.98\bord7.92\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.78,0:02:08.82,Signs,,0,0,0,,{\fscx98.92\fscy98.92\frz0\alpha&H00&\pos(959.78,621.3)\fnVL TelingaterDisplay\blur7.97\bord7.91\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.82,0:02:08.86,Signs,,0,0,0,,{\fscx98.88\fscy98.88\frz0\alpha&H00&\pos(959.77,621.24)\fnVL TelingaterDisplay\blur7.97\bord7.91\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.86,0:02:08.90,Signs,,0,0,0,,{\fscx98.84\fscy98.84\frz0\alpha&H00&\pos(959.77,621.18)\fnVL TelingaterDisplay\blur7.97\bord7.91\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.90,0:02:08.94,Signs,,0,0,0,,{\fscx98.8\fscy98.8\frz0\alpha&H00&\pos(959.76,621.12)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.94,0:02:08.98,Signs,,0,0,0,,{\fscx98.77\fscy98.77\frz0\alpha&H00&\pos(959.75,621.06)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:08.98,0:02:09.03,Signs,,0,0,0,,{\fscx98.73\fscy98.73\frz0\alpha&H00&\pos(959.75,621)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.03,0:02:09.07,Signs,,0,0,0,,{\fscx98.69\fscy98.69\frz0\alpha&H00&\pos(959.74,620.94)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.07,0:02:09.11,Signs,,0,0,0,,{\fscx98.65\fscy98.65\frz0\alpha&H00&\pos(959.73,620.88)\fnVL TelingaterDisplay\blur7.97\bord7.89\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.11,0:02:09.15,Signs,,0,0,0,,{\fscx98.61\fscy98.61\frz0\alpha&H00&\pos(959.72,620.83)\fnVL TelingaterDisplay\blur7.97\bord7.89\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.15,0:02:09.19,Signs,,0,0,0,,{\fscx98.58\fscy98.58\frz0\alpha&H00&\pos(959.71,620.76)\fnVL TelingaterDisplay\blur7.97\bord7.89\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.19,0:02:09.23,Signs,,0,0,0,,{\fscx98.54\fscy98.54\frz0\alpha&H00&\pos(959.71,620.71)\fnVL TelingaterDisplay\blur7.96\bord7.88\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.23,0:02:09.28,Signs,,0,0,0,,{\fscx98.5\fscy98.5\frz0\alpha&H00&\pos(959.71,620.64)\fnVL TelingaterDisplay\blur7.96\bord7.88\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.28,0:02:09.32,Signs,,0,0,0,,{\fscx98.46\fscy98.46\frz0\alpha&H00&\pos(959.7,620.59)\fnVL TelingaterDisplay\blur7.96\bord7.88\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.32,0:02:09.36,Signs,,0,0,0,,{\fscx98.42\fscy98.42\frz0\alpha&H00&\pos(959.7,620.53)\fnVL TelingaterDisplay\blur7.96\bord7.87\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.36,0:02:09.40,Signs,,0,0,0,,{\fscx98.38\fscy98.38\frz0\alpha&H00&\pos(959.68,620.46)\fnVL TelingaterDisplay\blur7.96\bord7.87\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.40,0:02:09.44,Signs,,0,0,0,,{\fscx98.34\fscy98.34\frz0\alpha&H00&\pos(959.68,620.4)\fnVL TelingaterDisplay\blur7.96\bord7.87\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.44,0:02:09.48,Signs,,0,0,0,,{\fscx98.31\fscy98.31\frz0\alpha&H00&\pos(959.67,620.34)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.48,0:02:09.53,Signs,,0,0,0,,{\fscx98.27\fscy98.27\frz0\alpha&H00&\pos(959.66,620.28)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.53,0:02:09.57,Signs,,0,0,0,,{\fscx98.23\fscy98.23\frz0\alpha&H00&\pos(959.65,620.22)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.57,0:02:09.61,Signs,,0,0,0,,{\fscx98.19\fscy98.19\frz0\alpha&H00&\pos(959.65,620.16)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.61,0:02:09.65,Signs,,0,0,0,,{\fscx98.15\fscy98.15\frz0\alpha&H00&\pos(959.63,620.11)\fnVL TelingaterDisplay\blur7.96\bord7.85\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.65,0:02:09.69,Signs,,0,0,0,,{\fscx98.12\fscy98.12\frz0\alpha&H00&\pos(959.63,620.05)\fnVL TelingaterDisplay\blur7.95\bord7.85\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.69,0:02:09.73,Signs,,0,0,0,,{\fscx98.08\fscy98.08\frz0\alpha&H00&\pos(959.62,619.99)\fnVL TelingaterDisplay\blur7.95\bord7.85\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.73,0:02:09.78,Signs,,0,0,0,,{\fscx98.04\fscy98.04\frz0\alpha&H00&\pos(959.61,619.93)\fnVL TelingaterDisplay\blur7.95\bord7.84\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.78,0:02:09.82,Signs,,0,0,0,,{\fscx98\fscy98\frz0\alpha&H00&\pos(959.6,619.87)\fnVL TelingaterDisplay\blur7.95\bord7.84\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.82,0:02:09.86,Signs,,0,0,0,,{\fscx97.96\fscy97.96\frz0\alpha&H00&\pos(959.59,619.81)\fnVL TelingaterDisplay\blur7.95\bord7.84\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.86,0:02:09.90,Signs,,0,0,0,,{\fscx97.92\fscy97.92\frz0\alpha&H00&\pos(959.58,619.75)\fnVL TelingaterDisplay\blur7.95\bord7.83\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.90,0:02:09.94,Signs,,0,0,0,,{\fscx97.88\fscy97.88\frz0\alpha&H00&\pos(959.57,619.69)\fnVL TelingaterDisplay\blur7.95\bord7.83\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.94,0:02:09.98,Signs,,0,0,0,,{\fscx97.84\fscy97.84\frz0\alpha&H00&\pos(959.56,619.63)\fnVL TelingaterDisplay\blur7.95\bord7.83\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:09.98,0:02:10.03,Signs,,0,0,0,,{\fscx97.81\fscy97.81\frz0\alpha&H00&\pos(959.56,619.57)\fnVL TelingaterDisplay\blur7.95\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.03,0:02:10.07,Signs,,0,0,0,,{\fscx97.77\fscy97.77\frz0\alpha&H00&\pos(959.55,619.52)\fnVL TelingaterDisplay\blur7.95\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.07,0:02:10.11,Signs,,0,0,0,,{\fscx97.73\fscy97.73\frz0\alpha&H00&\pos(959.54,619.46)\fnVL TelingaterDisplay\blur7.95\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.11,0:02:10.15,Signs,,0,0,0,,{\fscx97.69\fscy97.69\frz0\alpha&H00&\pos(959.53,619.4)\fnVL TelingaterDisplay\blur7.94\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.15,0:02:10.19,Signs,,0,0,0,,{\fscx97.65\fscy97.65\frz0\alpha&H00&\pos(959.53,619.34)\fnVL TelingaterDisplay\blur7.94\bord7.81\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.19,0:02:10.23,Signs,,0,0,0,,{\fscx97.61\fscy97.61\frz0\alpha&H00&\pos(959.52,619.28)\fnVL TelingaterDisplay\blur7.94\bord7.81\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.23,0:02:10.28,Signs,,0,0,0,,{\fscx97.57\fscy97.57\frz0\alpha&H00&\pos(959.52,619.22)\fnVL TelingaterDisplay\blur7.94\bord7.81\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.28,0:02:10.32,Signs,,0,0,0,,{\fscx97.53\fscy97.53\frz0\alpha&H00&\pos(959.51,619.16)\fnVL TelingaterDisplay\blur7.94\bord7.8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.32,0:02:10.36,Signs,,0,0,0,,{\fscx97.49\fscy97.49\frz0\alpha&H00&\pos(959.5,619.1)\fnVL TelingaterDisplay\blur7.94\bord7.8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.36,0:02:10.40,Signs,,0,0,0,,{\fscx97.46\fscy97.46\frz0\alpha&H00&\pos(959.49,619.04)\fnVL TelingaterDisplay\blur7.94\bord7.8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.40,0:02:10.44,Signs,,0,0,0,,{\fscx97.42\fscy97.42\frz0\alpha&H00&\pos(959.48,618.98)\fnVL TelingaterDisplay\blur7.94\bord7.79\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.44,0:02:10.49,Signs,,0,0,0,,{\fscx97.38\fscy97.38\frz0\alpha&H00&\pos(959.47,618.92)\fnVL TelingaterDisplay\blur7.94\bord7.79\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.49,0:02:10.53,Signs,,0,0,0,,{\fscx97.34\fscy97.34\frz0\alpha&H00&\pos(959.47,618.86)\fnVL TelingaterDisplay\blur7.94\bord7.79\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.53,0:02:10.57,Signs,,0,0,0,,{\fscx97.3\fscy97.3\frz0\alpha&H00&\pos(959.46,618.8)\fnVL TelingaterDisplay\blur7.94\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.57,0:02:10.61,Signs,,0,0,0,,{\fscx97.26\fscy97.26\frz0\alpha&H00&\pos(959.45,618.74)\fnVL TelingaterDisplay\blur7.93\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.61,0:02:10.65,Signs,,0,0,0,,{\fscx97.23\fscy97.23\frz0\alpha&H00&\pos(959.44,618.68)\fnVL TelingaterDisplay\blur7.93\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.65,0:02:10.69,Signs,,0,0,0,,{\fscx97.19\fscy97.19\frz0\alpha&H00&\pos(959.43,618.62)\fnVL TelingaterDisplay\blur7.93\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.69,0:02:10.74,Signs,,0,0,0,,{\fscx97.15\fscy97.15\frz0\alpha&H00&\pos(959.42,618.56)\fnVL TelingaterDisplay\blur7.93\bord7.77\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.74,0:02:10.78,Signs,,0,0,0,,{\fscx97.11\fscy97.11\frz0\alpha&H00&\pos(959.42,618.5)\fnVL TelingaterDisplay\blur7.93\bord7.77\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.78,0:02:10.82,Signs,,0,0,0,,{\fscx97.07\fscy97.07\frz0\alpha&H00&\pos(959.4,618.44)\fnVL TelingaterDisplay\blur7.93\bord7.77\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.82,0:02:10.86,Signs,,0,0,0,,{\fscx97.03\fscy97.03\frz0\alpha&H00&\pos(959.4,618.38)\fnVL TelingaterDisplay\blur7.93\bord7.76\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.86,0:02:10.90,Signs,,0,0,0,,{\fscx97\fscy97\frz0\alpha&H00&\pos(959.4,618.32)\fnVL TelingaterDisplay\blur7.93\bord7.76\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\fscx96.96\fscy96.96\frz0\alpha&H00&\pos(959.39,618.26)\fnVL TelingaterDisplay\blur7.93\bord7.76\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.94,0:02:10.99,Signs,,0,0,0,,{\fscx96.92\fscy96.92\frz0\alpha&H00&\pos(959.39,618.2)\fnVL TelingaterDisplay\blur7.93\bord7.75\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:10.99,0:02:11.03,Signs,,0,0,0,,{\fscx96.87\fscy96.87\frz0\alpha&H00&\pos(959.38,618.13)\fnVL TelingaterDisplay\blur7.92\bord7.75\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.03,0:02:11.07,Signs,,0,0,0,,{\fscx96.82\fscy96.82\frz0\alpha&H00&\pos(959.37,618.05)\fnVL TelingaterDisplay\blur7.92\bord7.75\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.07,0:02:11.11,Signs,,0,0,0,,{\fscx96.77\fscy96.77\frz0\alpha&H00&\pos(959.35,617.96)\fnVL TelingaterDisplay\blur7.92\bord7.74\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.11,0:02:11.15,Signs,,0,0,0,,{\fscx96.73\fscy96.73\frz0\alpha&H00&\pos(959.35,617.91)\fnVL TelingaterDisplay\blur7.92\bord7.74\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.15,0:02:11.19,Signs,,0,0,0,,{\fscx96.69\fscy96.69\frz0\alpha&H00&\pos(959.34,617.84)\fnVL TelingaterDisplay\blur7.92\bord7.74\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.19,0:02:11.24,Signs,,0,0,0,,{\fscx96.65\fscy96.65\frz0\alpha&H00&\pos(959.33,617.79)\fnVL TelingaterDisplay\blur7.92\bord7.73\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.24,0:02:11.28,Signs,,0,0,0,,{\fscx96.62\fscy96.62\frz0\alpha&H00&\pos(959.32,617.72)\fnVL TelingaterDisplay\blur7.92\bord7.73\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.28,0:02:11.32,Signs,,0,0,0,,{\fscx96.58\fscy96.58\frz0\alpha&H00&\pos(959.31,617.66)\fnVL TelingaterDisplay\blur7.92\bord7.73\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.32,0:02:11.36,Signs,,0,0,0,,{\fscx96.54\fscy96.54\frz0\alpha&H00&\pos(959.3,617.62)\fnVL TelingaterDisplay\blur7.92\bord7.72\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.36,0:02:11.40,Signs,,0,0,0,,{\fscx96.5\fscy96.5\frz0\alpha&H00&\pos(959.3,617.53)\fnVL TelingaterDisplay\blur7.92\bord7.72\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.40,0:02:11.44,Signs,,0,0,0,,{\fscx96.46\fscy96.46\frz0\alpha&H00&\pos(959.29,617.46)\fnVL TelingaterDisplay\blur7.92\bord7.72\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.44,0:02:11.49,Signs,,0,0,0,,{\fscx96.41\fscy96.41\frz0\alpha&H00&\pos(959.28,617.38)\fnVL TelingaterDisplay\blur7.91\bord7.71\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.49,0:02:11.53,Signs,,0,0,0,,{\fscx96.37\fscy96.37\frz0\alpha&H00&\pos(959.27,617.32)\fnVL TelingaterDisplay\blur7.91\bord7.71\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.53,0:02:11.57,Signs,,0,0,0,,{\fscx96.33\fscy96.33\frz0\alpha&H00&\pos(959.27,617.26)\fnVL TelingaterDisplay\blur7.91\bord7.71\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.57,0:02:11.61,Signs,,0,0,0,,{\fscx96.3\fscy96.3\frz0\alpha&H00&\pos(959.26,617.21)\fnVL TelingaterDisplay\blur7.91\bord7.7\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.61,0:02:11.65,Signs,,0,0,0,,{\fscx96.25\fscy96.25\frz0\alpha&H00&\pos(959.26,617.14)\fnVL TelingaterDisplay\blur7.91\bord7.7\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.65,0:02:11.69,Signs,,0,0,0,,{\fscx96.21\fscy96.21\frz0\alpha&H00&\pos(959.26,617.08)\fnVL TelingaterDisplay\blur7.91\bord7.7\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.69,0:02:11.74,Signs,,0,0,0,,{\fscx96.18\fscy96.18\frz0\alpha&H00&\pos(959.26,617.02)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.74,0:02:11.78,Signs,,0,0,0,,{\fscx96.14\fscy96.14\frz0\alpha&H00&\pos(959.26,616.97)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.78,0:02:11.82,Signs,,0,0,0,,{\fscx96.1\fscy96.1\frz0\alpha&H00&\pos(959.26,616.9)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.82,0:02:11.86,Signs,,0,0,0,,{\fscx96.07\fscy96.07\frz0\alpha&H00&\pos(959.26,616.83)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.86,0:02:11.90,Signs,,0,0,0,,{\fscx96.03\fscy96.03\frz0\alpha&H00&\pos(959.25,616.79)\fnVL TelingaterDisplay\blur7.9\bord7.68\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.90,0:02:11.94,Signs,,0,0,0,,{\fscx95.99\fscy95.99\frz0\alpha&H00&\pos(959.24,616.75)\fnVL TelingaterDisplay\blur7.9\bord7.68\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.94,0:02:11.99,Signs,,0,0,0,,{\fscx95.95\fscy95.95\frz0\alpha&H00&\pos(959.23,616.69)\fnVL TelingaterDisplay\blur7.9\bord7.68\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:11.99,0:02:12.03,Signs,,0,0,0,,{\fscx95.91\fscy95.91\frz0\alpha&H00&\pos(959.22,616.63)\fnVL TelingaterDisplay\blur7.9\bord7.67\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.03,0:02:12.07,Signs,,0,0,0,,{\fscx95.87\fscy95.87\frz0\alpha&H00&\pos(959.21,616.57)\fnVL TelingaterDisplay\blur7.9\bord7.67\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.07,0:02:12.11,Signs,,0,0,0,,{\fscx95.84\fscy95.84\frz0\alpha&H00&\pos(959.2,616.51)\fnVL TelingaterDisplay\blur7.9\bord7.67\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.11,0:02:12.15,Signs,,0,0,0,,{\fscx95.8\fscy95.8\frz0\alpha&H00&\pos(959.19,616.45)\fnVL TelingaterDisplay\blur7.9\bord7.66\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.15,0:02:12.20,Signs,,0,0,0,,{\fscx95.76\fscy95.76\frz0\alpha&H00&\pos(959.18,616.4)\fnVL TelingaterDisplay\blur7.9\bord7.66\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.20,0:02:12.24,Signs,,0,0,0,,{\fscx95.73\fscy95.73\frz0\alpha&H00&\pos(959.18,616.34)\fnVL TelingaterDisplay\blur7.9\bord7.66\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.24,0:02:12.28,Signs,,0,0,0,,{\fscx95.69\fscy95.69\frz0\alpha&H00&\pos(959.17,616.29)\fnVL TelingaterDisplay\blur7.9\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.28,0:02:12.32,Signs,,0,0,0,,{\fscx95.65\fscy95.65\frz0\alpha&H00&\pos(959.16,616.22)\fnVL TelingaterDisplay\blur7.9\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.32,0:02:12.36,Signs,,0,0,0,,{\fscx95.61\fscy95.61\frz0\alpha&H00&\pos(959.15,616.16)\fnVL TelingaterDisplay\blur7.89\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.36,0:02:12.40,Signs,,0,0,0,,{\fscx95.57\fscy95.57\frz0\alpha&H00&\pos(959.15,616.1)\fnVL TelingaterDisplay\blur7.89\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.40,0:02:12.45,Signs,,0,0,0,,{\fscx95.53\fscy95.53\frz0\alpha&H00&\pos(959.14,616.04)\fnVL TelingaterDisplay\blur7.89\bord7.64\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.45,0:02:12.49,Signs,,0,0,0,,{\fscx95.49\fscy95.49\frz0\alpha&H00&\pos(959.13,615.98)\fnVL TelingaterDisplay\blur7.89\bord7.64\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.49,0:02:12.53,Signs,,0,0,0,,{\fscx95.46\fscy95.46\frz0\alpha&H00&\pos(959.12,615.93)\fnVL TelingaterDisplay\blur7.89\bord7.64\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.53,0:02:12.57,Signs,,0,0,0,,{\fscx95.42\fscy95.42\frz0\alpha&H00&\pos(959.11,615.87)\fnVL TelingaterDisplay\blur7.89\bord7.63\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.57,0:02:12.61,Signs,,0,0,0,,{\fscx95.38\fscy95.38\frz0\alpha&H00&\pos(959.1,615.81)\fnVL TelingaterDisplay\blur7.89\bord7.63\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.61,0:02:12.65,Signs,,0,0,0,,{\fscx95.34\fscy95.34\frz0\alpha&H00&\pos(959.09,615.75)\fnVL TelingaterDisplay\blur7.89\bord7.63\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.65,0:02:12.70,Signs,,0,0,0,,{\fscx95.3\fscy95.3\frz0\alpha&H00&\pos(959.08,615.69)\fnVL TelingaterDisplay\blur7.89\bord7.62\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.70,0:02:12.74,Signs,,0,0,0,,{\fscx95.26\fscy95.26\frz0\alpha&H00&\pos(959.07,615.63)\fnVL TelingaterDisplay\blur7.89\bord7.62\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.74,0:02:12.78,Signs,,0,0,0,,{\fscx95.22\fscy95.22\frz0\alpha&H00&\pos(959.06,615.57)\fnVL TelingaterDisplay\blur7.89\bord7.62\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.78,0:02:12.82,Signs,,0,0,0,,{\fscx95.19\fscy95.19\frz0\alpha&H00&\pos(959.05,615.5)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.82,0:02:12.86,Signs,,0,0,0,,{\fscx95.15\fscy95.15\frz0\alpha&H00&\pos(959.04,615.44)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.86,0:02:12.90,Signs,,0,0,0,,{\fscx95.11\fscy95.11\frz0\alpha&H00&\pos(959.03,615.38)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.90,0:02:12.95,Signs,,0,0,0,,{\fscx95.07\fscy95.07\frz0\alpha&H00&\pos(959.02,615.32)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.95,0:02:12.99,Signs,,0,0,0,,{\fscx95.03\fscy95.03\frz0\alpha&H00&\pos(959.02,615.26)\fnVL TelingaterDisplay\blur7.88\bord7.6\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:12.99,0:02:13.03,Signs,,0,0,0,,{\fscx95\fscy95\frz0\alpha&H00&\pos(959.01,615.2)\fnVL TelingaterDisplay\blur7.88\bord7.6\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.03,0:02:13.07,Signs,,0,0,0,,{\fscx94.96\fscy94.96\frz0\alpha&H00&\pos(959,615.14)\fnVL TelingaterDisplay\blur7.88\bord7.6\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.07,0:02:13.11,Signs,,0,0,0,,{\fscx94.92\fscy94.92\frz0\alpha&H00&\pos(958.99,615.08)\fnVL TelingaterDisplay\blur7.88\bord7.59\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.11,0:02:13.15,Signs,,0,0,0,,{\fscx94.88\fscy94.88\frz0\alpha&H00&\pos(958.98,615.02)\fnVL TelingaterDisplay\blur7.88\bord7.59\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.15,0:02:13.20,Signs,,0,0,0,,{\fscx94.85\fscy94.85\frz0\alpha&H00&\pos(958.97,614.96)\fnVL TelingaterDisplay\blur7.88\bord7.59\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.20,0:02:13.24,Signs,,0,0,0,,{\fscx94.81\fscy94.81\frz0\alpha&H00&\pos(958.96,614.9)\fnVL TelingaterDisplay\blur7.88\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.24,0:02:13.28,Signs,,0,0,0,,{\fscx94.77\fscy94.77\frz0\alpha&H00&\pos(958.95,614.84)\fnVL TelingaterDisplay\blur7.87\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.28,0:02:13.32,Signs,,0,0,0,,{\fscx94.73\fscy94.73\frz0\alpha&H00&\pos(958.95,614.78)\fnVL TelingaterDisplay\blur7.87\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.32,0:02:13.36,Signs,,0,0,0,,{\fscx94.69\fscy94.69\frz0\alpha&H00&\pos(958.94,614.72)\fnVL TelingaterDisplay\blur7.87\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.36,0:02:13.40,Signs,,0,0,0,,{\fscx94.65\fscy94.65\frz0\alpha&H00&\pos(958.94,614.66)\fnVL TelingaterDisplay\blur7.87\bord7.57\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.40,0:02:13.45,Signs,,0,0,0,,{\fscx94.61\fscy94.61\frz0\alpha&H00&\pos(958.93,614.6)\fnVL TelingaterDisplay\blur7.87\bord7.57\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.45,0:02:13.49,Signs,,0,0,0,,{\fscx94.57\fscy94.57\frz0\alpha&H00&\pos(958.92,614.54)\fnVL TelingaterDisplay\blur7.87\bord7.57\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.49,0:02:13.53,Signs,,0,0,0,,{\fscx94.54\fscy94.54\frz0\alpha&H00&\pos(958.91,614.48)\fnVL TelingaterDisplay\blur7.87\bord7.56\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.53,0:02:13.57,Signs,,0,0,0,,{\fscx94.5\fscy94.5\frz0\alpha&H00&\pos(958.9,614.42)\fnVL TelingaterDisplay\blur7.87\bord7.56\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.57,0:02:13.61,Signs,,0,0,0,,{\fscx94.46\fscy94.46\frz0\alpha&H00&\pos(958.89,614.36)\fnVL TelingaterDisplay\blur7.87\bord7.56\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.61,0:02:13.65,Signs,,0,0,0,,{\fscx94.42\fscy94.42\frz0\alpha&H00&\pos(958.88,614.3)\fnVL TelingaterDisplay\blur7.87\bord7.55\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.65,0:02:13.70,Signs,,0,0,0,,{\fscx94.39\fscy94.39\frz0\alpha&H00&\pos(958.87,614.24)\fnVL TelingaterDisplay\blur7.87\bord7.55\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.70,0:02:13.74,Signs,,0,0,0,,{\fscx94.35\fscy94.35\frz0\alpha&H00&\pos(958.86,614.18)\fnVL TelingaterDisplay\blur7.86\bord7.55\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.74,0:02:13.78,Signs,,0,0,0,,{\fscx94.31\fscy94.31\frz0\alpha&H00&\pos(958.85,614.13)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.78,0:02:13.82,Signs,,0,0,0,,{\fscx94.27\fscy94.27\frz0\alpha&H00&\pos(958.85,614.06)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.82,0:02:13.86,Signs,,0,0,0,,{\fscx94.23\fscy94.23\frz0\alpha&H00&\pos(958.84,614)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.86,0:02:13.91,Signs,,0,0,0,,{\fscx94.19\fscy94.19\frz0\alpha&H00&\pos(958.83,613.94)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.91,0:02:13.95,Signs,,0,0,0,,{\fscx94.15\fscy94.15\frz0\alpha&H00&\pos(958.82,613.88)\fnVL TelingaterDisplay\blur7.86\bord7.53\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.95,0:02:13.99,Signs,,0,0,0,,{\fscx94.12\fscy94.12\frz0\alpha&H00&\pos(958.82,613.83)\fnVL TelingaterDisplay\blur7.86\bord7.53\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:13.99,0:02:14.03,Signs,,0,0,0,,{\fscx94.08\fscy94.08\frz0\alpha&H00&\pos(958.81,613.77)\fnVL TelingaterDisplay\blur7.86\bord7.53\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.03,0:02:14.07,Signs,,0,0,0,,{\fscx94.05\fscy94.05\frz0\alpha&H00&\pos(958.8,613.71)\fnVL TelingaterDisplay\blur7.86\bord7.52\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.07,0:02:14.11,Signs,,0,0,0,,{\fscx94.01\fscy94.01\frz0\alpha&H00&\pos(958.79,613.65)\fnVL TelingaterDisplay\blur7.86\bord7.52\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.11,0:02:14.16,Signs,,0,0,0,,{\fscx93.97\fscy93.97\frz0\alpha&H00&\pos(958.79,613.59)\fnVL TelingaterDisplay\blur7.86\bord7.52\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.16,0:02:14.20,Signs,,0,0,0,,{\fscx93.93\fscy93.93\frz0\alpha&H00&\pos(958.78,613.53)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.20,0:02:14.24,Signs,,0,0,0,,{\fscx93.89\fscy93.89\frz0\alpha&H00&\pos(958.77,613.47)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.24,0:02:14.28,Signs,,0,0,0,,{\fscx93.85\fscy93.85\frz0\alpha&H00&\pos(958.76,613.41)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.28,0:02:14.32,Signs,,0,0,0,,{\fscx93.82\fscy93.82\frz0\alpha&H00&\pos(958.76,613.35)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.32,0:02:14.36,Signs,,0,0,0,,{\fscx93.78\fscy93.78\frz0\alpha&H00&\pos(958.75,613.29)\fnVL TelingaterDisplay\blur7.85\bord7.5\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.36,0:02:14.41,Signs,,0,0,0,,{\fscx93.74\fscy93.74\frz0\alpha&H00&\pos(958.74,613.22)\fnVL TelingaterDisplay\blur7.85\bord7.5\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.41,0:02:14.45,Signs,,0,0,0,,{\fscx93.7\fscy93.7\frz0\alpha&H00&\pos(958.73,613.17)\fnVL TelingaterDisplay\blur7.85\bord7.5\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.45,0:02:14.49,Signs,,0,0,0,,{\fscx93.66\fscy93.66\frz0\alpha&H00&\pos(958.72,613.1)\fnVL TelingaterDisplay\blur7.85\bord7.49\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.49,0:02:14.53,Signs,,0,0,0,,{\fscx93.63\fscy93.63\frz0\alpha&H00&\pos(958.71,613.05)\fnVL TelingaterDisplay\blur7.85\bord7.49\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.53,0:02:14.57,Signs,,0,0,0,,{\fscx93.59\fscy93.59\frz0\alpha&H00&\pos(958.7,612.98)\fnVL TelingaterDisplay\blur7.85\bord7.49\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.57,0:02:14.61,Signs,,0,0,0,,{\fscx93.55\fscy93.55\frz0\alpha&H00&\pos(958.69,612.93)\fnVL TelingaterDisplay\blur7.85\bord7.48\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.61,0:02:14.66,Signs,,0,0,0,,{\fscx93.51\fscy93.51\frz0\alpha&H00&\pos(958.69,612.87)\fnVL TelingaterDisplay\blur7.84\bord7.48\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.66,0:02:14.70,Signs,,0,0,0,,{\fscx93.47\fscy93.47\frz0\alpha&H00&\pos(958.68,612.81)\fnVL TelingaterDisplay\blur7.84\bord7.48\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.70,0:02:14.74,Signs,,0,0,0,,{\fscx93.43\fscy93.43\frz0\alpha&H00&\pos(958.67,612.74)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.74,0:02:14.78,Signs,,0,0,0,,{\fscx93.39\fscy93.39\frz0\alpha&H00&\pos(958.66,612.68)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.78,0:02:14.82,Signs,,0,0,0,,{\fscx93.36\fscy93.36\frz0\alpha&H00&\pos(958.65,612.62)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.82,0:02:14.86,Signs,,0,0,0,,{\fscx93.32\fscy93.32\frz0\alpha&H00&\pos(958.64,612.57)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.86,0:02:14.91,Signs,,0,0,0,,{\fscx93.28\fscy93.28\frz0\alpha&H00&\pos(958.64,612.5)\fnVL TelingaterDisplay\blur7.84\bord7.46\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.91,0:02:14.95,Signs,,0,0,0,,{\fscx93.24\fscy93.24\frz0\alpha&H00&\pos(958.62,612.45)\fnVL TelingaterDisplay\blur7.84\bord7.46\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.95,0:02:14.99,Signs,,0,0,0,,{\fscx93.2\fscy93.2\frz0\alpha&H00&\pos(958.62,612.39)\fnVL TelingaterDisplay\blur7.84\bord7.46\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:14.99,0:02:15.03,Signs,,0,0,0,,{\fscx93.17\fscy93.17\frz0\alpha&H00&\pos(958.61,612.33)\fnVL TelingaterDisplay\blur7.84\bord7.45\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.03,0:02:15.07,Signs,,0,0,0,,{\fscx93.13\fscy93.13\frz0\alpha&H00&\pos(958.6,612.27)\fnVL TelingaterDisplay\blur7.84\bord7.45\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.07,0:02:15.11,Signs,,0,0,0,,{\fscx93.09\fscy93.09\frz0\alpha&H00&\pos(958.59,612.21)\fnVL TelingaterDisplay\blur7.83\bord7.45\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.11,0:02:15.16,Signs,,0,0,0,,{\fscx93.05\fscy93.05\frz0\alpha&H00&\pos(958.59,612.15)\fnVL TelingaterDisplay\blur7.83\bord7.44\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.16,0:02:15.20,Signs,,0,0,0,,{\fscx93.01\fscy93.01\frz0\alpha&H00&\pos(958.58,612.09)\fnVL TelingaterDisplay\blur7.83\bord7.44\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.20,0:02:15.24,Signs,,0,0,0,,{\fscx92.97\fscy92.97\frz0\alpha&H00&\pos(958.57,612.03)\fnVL TelingaterDisplay\blur7.83\bord7.44\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.24,0:02:15.28,Signs,,0,0,0,,{\fscx92.93\fscy92.93\frz0\alpha&H00&\pos(958.56,611.97)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.28,0:02:15.32,Signs,,0,0,0,,{\fscx92.9\fscy92.9\frz0\alpha&H00&\pos(958.56,611.91)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.32,0:02:15.37,Signs,,0,0,0,,{\fscx92.86\fscy92.86\frz0\alpha&H00&\pos(958.55,611.85)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.37,0:02:15.41,Signs,,0,0,0,,{\fscx92.82\fscy92.82\frz0\alpha&H00&\pos(958.54,611.79)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.41,0:02:15.45,Signs,,0,0,0,,{\fscx92.78\fscy92.78\frz0\alpha&H00&\pos(958.53,611.73)\fnVL TelingaterDisplay\blur7.83\bord7.42\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.45,0:02:15.49,Signs,,0,0,0,,{\fscx92.74\fscy92.74\frz0\alpha&H00&\pos(958.52,611.67)\fnVL TelingaterDisplay\blur7.83\bord7.42\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.49,0:02:15.53,Signs,,0,0,0,,{\fscx92.71\fscy92.71\frz0\alpha&H00&\pos(958.51,611.61)\fnVL TelingaterDisplay\blur7.82\bord7.42\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.53,0:02:15.57,Signs,,0,0,0,,{\fscx92.67\fscy92.67\frz0\alpha&H00&\pos(958.5,611.55)\fnVL TelingaterDisplay\blur7.82\bord7.41\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.57,0:02:15.62,Signs,,0,0,0,,{\fscx92.63\fscy92.63\frz0\alpha&H00&\pos(958.49,611.49)\fnVL TelingaterDisplay\blur7.82\bord7.41\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.62,0:02:15.66,Signs,,0,0,0,,{\fscx92.59\fscy92.59\frz0\alpha&H00&\pos(958.48,611.43)\fnVL TelingaterDisplay\blur7.82\bord7.41\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.66,0:02:15.70,Signs,,0,0,0,,{\fscx92.55\fscy92.55\frz0\alpha&H00&\pos(958.47,611.37)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.70,0:02:15.74,Signs,,0,0,0,,{\fscx92.51\fscy92.51\frz0\alpha&H00&\pos(958.46,611.31)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.74,0:02:15.78,Signs,,0,0,0,,{\fscx92.48\fscy92.48\frz0\alpha&H00&\pos(958.45,611.25)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.78,0:02:15.82,Signs,,0,0,0,,{\fscx92.44\fscy92.44\frz0\alpha&H00&\pos(958.45,611.19)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.82,0:02:15.87,Signs,,0,0,0,,{\fscx92.4\fscy92.4\frz0\alpha&H00&\pos(958.44,611.13)\fnVL TelingaterDisplay\blur7.82\bord7.39\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.87,0:02:15.91,Signs,,0,0,0,,{\fscx92.36\fscy92.36\frz0\alpha&H00&\pos(958.43,611.07)\fnVL TelingaterDisplay\blur7.82\bord7.39\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.91,0:02:15.95,Signs,,0,0,0,,{\fscx92.32\fscy92.32\frz0\alpha&H00&\pos(958.42,611.01)\fnVL TelingaterDisplay\blur7.82\bord7.39\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.95,0:02:15.99,Signs,,0,0,0,,{\fscx92.28\fscy92.28\frz0\alpha&H00&\pos(958.41,610.95)\fnVL TelingaterDisplay\blur7.81\bord7.38\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:15.99,0:02:16.03,Signs,,0,0,0,,{\fscx92.25\fscy92.25\frz0\alpha&H00&\pos(958.4,610.89)\fnVL TelingaterDisplay\blur7.81\bord7.38\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.03,0:02:16.07,Signs,,0,0,0,,{\fscx92.21\fscy92.21\frz0\alpha&H00&\pos(958.4,610.83)\fnVL TelingaterDisplay\blur7.81\bord7.38\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.07,0:02:16.12,Signs,,0,0,0,,{\fscx92.17\fscy92.17\frz0\alpha&H00&\pos(958.38,610.77)\fnVL TelingaterDisplay\blur7.81\bord7.37\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.12,0:02:16.16,Signs,,0,0,0,,{\fscx92.13\fscy92.13\frz0\alpha&H00&\pos(958.38,610.71)\fnVL TelingaterDisplay\blur7.81\bord7.37\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.16,0:02:16.20,Signs,,0,0,0,,{\fscx92.09\fscy92.09\frz0\alpha&H00&\pos(958.37,610.65)\fnVL TelingaterDisplay\blur7.81\bord7.37\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.20,0:02:16.24,Signs,,0,0,0,,{\fscx92.05\fscy92.05\frz0\alpha&H00&\pos(958.36,610.59)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.24,0:02:16.28,Signs,,0,0,0,,{\fscx92.01\fscy92.01\frz0\alpha&H00&\pos(958.35,610.53)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.28,0:02:16.32,Signs,,0,0,0,,{\fscx91.98\fscy91.98\frz0\alpha&H00&\pos(958.35,610.47)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.32,0:02:16.37,Signs,,0,0,0,,{\fscx91.94\fscy91.94\frz0\alpha&H00&\pos(958.34,610.41)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.37,0:02:16.41,Signs,,0,0,0,,{\fscx91.9\fscy91.9\frz0\alpha&H00&\pos(958.33,610.34)\fnVL TelingaterDisplay\blur7.81\bord7.35\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.41,0:02:16.45,Signs,,0,0,0,,{\fscx91.86\fscy91.86\frz0\alpha&H00&\pos(958.31,610.29)\fnVL TelingaterDisplay\blur7.8\bord7.35\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.45,0:02:16.49,Signs,,0,0,0,,{\fscx91.82\fscy91.82\frz0\alpha&H00&\pos(958.31,610.23)\fnVL TelingaterDisplay\blur7.8\bord7.35\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.49,0:02:16.53,Signs,,0,0,0,,{\fscx91.79\fscy91.79\frz0\alpha&H00&\pos(958.3,610.17)\fnVL TelingaterDisplay\blur7.8\bord7.34\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.53,0:02:16.57,Signs,,0,0,0,,{\fscx91.75\fscy91.75\frz0\alpha&H00&\pos(958.29,610.11)\fnVL TelingaterDisplay\blur7.8\bord7.34\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.57,0:02:16.62,Signs,,0,0,0,,{\fscx91.71\fscy91.71\frz0\alpha&H00&\pos(958.28,610.05)\fnVL TelingaterDisplay\blur7.8\bord7.34\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.62,0:02:16.66,Signs,,0,0,0,,{\fscx91.67\fscy91.67\frz0\alpha&H00&\pos(958.27,609.99)\fnVL TelingaterDisplay\blur7.8\bord7.33\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.66,0:02:16.70,Signs,,0,0,0,,{\fscx91.63\fscy91.63\frz0\alpha&H00&\pos(958.27,609.93)\fnVL TelingaterDisplay\blur7.8\bord7.33\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.70,0:02:16.74,Signs,,0,0,0,,{\fscx91.59\fscy91.59\frz0\alpha&H00&\pos(958.26,609.87)\fnVL TelingaterDisplay\blur7.8\bord7.33\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.74,0:02:16.78,Signs,,0,0,0,,{\fscx91.56\fscy91.56\frz0\alpha&H00&\pos(958.25,609.81)\fnVL TelingaterDisplay\blur7.8\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.78,0:02:16.82,Signs,,0,0,0,,{\fscx91.52\fscy91.52\frz0\alpha&H00&\pos(958.24,609.75)\fnVL TelingaterDisplay\blur7.8\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.82,0:02:16.87,Signs,,0,0,0,,{\fscx91.48\fscy91.48\frz0\alpha&H00&\pos(958.23,609.69)\fnVL TelingaterDisplay\blur7.8\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.87,0:02:16.91,Signs,,0,0,0,,{\fscx91.44\fscy91.44\frz0\alpha&H00&\pos(958.22,609.63)\fnVL TelingaterDisplay\blur7.79\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.91,0:02:16.95,Signs,,0,0,0,,{\fscx91.4\fscy91.4\frz0\alpha&H00&\pos(958.21,609.57)\fnVL TelingaterDisplay\blur7.79\bord7.31\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.95,0:02:16.99,Signs,,0,0,0,,{\fscx91.37\fscy91.37\frz0\alpha&H00&\pos(958.2,609.51)\fnVL TelingaterDisplay\blur7.79\bord7.31\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:16.99,0:02:17.03,Signs,,0,0,0,,{\fscx91.33\fscy91.33\frz0\alpha&H00&\pos(958.19,609.45)\fnVL TelingaterDisplay\blur7.79\bord7.31\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.03,0:02:17.08,Signs,,0,0,0,,{\fscx91.29\fscy91.29\frz0\alpha&H00&\pos(958.18,609.38)\fnVL TelingaterDisplay\blur7.79\bord7.3\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.08,0:02:17.12,Signs,,0,0,0,,{\fscx91.25\fscy91.25\frz0\alpha&H00&\pos(958.17,609.33)\fnVL TelingaterDisplay\blur7.79\bord7.3\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.12,0:02:17.16,Signs,,0,0,0,,{\fscx91.21\fscy91.21\frz0\alpha&H00&\pos(958.16,609.27)\fnVL TelingaterDisplay\blur7.79\bord7.3\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.16,0:02:17.20,Signs,,0,0,0,,{\fscx91.17\fscy91.17\frz0\alpha&H00&\pos(958.16,609.21)\fnVL TelingaterDisplay\blur7.79\bord7.29\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.20,0:02:17.24,Signs,,0,0,0,,{\fscx91.14\fscy91.14\frz0\alpha&H00&\pos(958.15,609.15)\fnVL TelingaterDisplay\blur7.79\bord7.29\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.24,0:02:17.28,Signs,,0,0,0,,{\fscx91.1\fscy91.1\frz0\alpha&H00&\pos(958.14,609.09)\fnVL TelingaterDisplay\blur7.79\bord7.29\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.28,0:02:17.33,Signs,,0,0,0,,{\fscx91.06\fscy91.06\frz0\alpha&H00&\pos(958.14,609.03)\fnVL TelingaterDisplay\blur7.79\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.33,0:02:17.37,Signs,,0,0,0,,{\fscx91.02\fscy91.02\frz0\alpha&H00&\pos(958.13,608.97)\fnVL TelingaterDisplay\blur7.78\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.37,0:02:17.41,Signs,,0,0,0,,{\fscx90.98\fscy90.98\frz0\alpha&H00&\pos(958.12,608.91)\fnVL TelingaterDisplay\blur7.78\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.41,0:02:17.45,Signs,,0,0,0,,{\fscx90.94\fscy90.94\frz0\alpha&H00&\pos(958.11,608.85)\fnVL TelingaterDisplay\blur7.78\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.45,0:02:17.49,Signs,,0,0,0,,{\fscx90.91\fscy90.91\frz0\alpha&H00&\pos(958.1,608.79)\fnVL TelingaterDisplay\blur7.78\bord7.27\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.49,0:02:17.53,Signs,,0,0,0,,{\fscx90.87\fscy90.87\frz0\alpha&H00&\pos(958.09,608.73)\fnVL TelingaterDisplay\blur7.78\bord7.27\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.53,0:02:17.58,Signs,,0,0,0,,{\fscx90.83\fscy90.83\frz0\alpha&H00&\pos(958.08,608.67)\fnVL TelingaterDisplay\blur7.78\bord7.27\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.58,0:02:17.62,Signs,,0,0,0,,{\fscx90.79\fscy90.79\frz0\alpha&H00&\pos(958.07,608.61)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.62,0:02:17.66,Signs,,0,0,0,,{\fscx90.76\fscy90.76\frz0\alpha&H00&\pos(958.07,608.56)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.66,0:02:17.70,Signs,,0,0,0,,{\fscx90.73\fscy90.73\frz0\alpha&H00&\pos(958.06,608.51)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.70,0:02:17.74,Signs,,0,0,0,,{\fscx90.71\fscy90.71\frz0\alpha&H00&\pos(958.06,608.49)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.74,0:02:17.78,Signs,,0,0,0,,{\fscx90.68\fscy90.68\frz0\alpha&H00&\pos(958.05,608.44)\fnVL TelingaterDisplay\blur7.78\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.78,0:02:17.83,Signs,,0,0,0,,{\fscx90.64\fscy90.64\frz0\alpha&H00&\pos(958.04,608.38)\fnVL TelingaterDisplay\blur7.78\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.83,0:02:17.87,Signs,,0,0,0,,{\fscx90.6\fscy90.6\frz0\alpha&H00&\pos(958.03,608.32)\fnVL TelingaterDisplay\blur7.77\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.87,0:02:17.91,Signs,,0,0,0,,{\fscx90.57\fscy90.57\frz0\alpha&H00&\pos(958.02,608.26)\fnVL TelingaterDisplay\blur7.77\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.91,0:02:17.95,Signs,,0,0,0,,{\fscx90.53\fscy90.53\frz0\alpha&H00&\pos(958.01,608.19)\fnVL TelingaterDisplay\blur7.77\bord7.24\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:17.95,0:02:17.99,Signs,,0,0,0,,{\fscx90.49\fscy90.49\frz0\alpha&H00&\pos(957.99,608.16)\fnVL TelingaterDisplay\blur7.77\bord7.24\fs90\c&H7469F1&\3c&H8983F3&\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.61,0:02:07.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(960,623)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.65,0:02:07.69,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.99,622.94)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.69,0:02:07.73,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.99,622.88)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.73,0:02:07.77,Signs,,0,0,0,,{\fscx99.89\fscy99.89\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.98,622.82)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.77,0:02:07.82,Signs,,0,0,0,,{\fscx99.84\fscy99.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.97,622.76)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.82,0:02:07.86,Signs,,0,0,0,,{\fscx99.8\fscy99.8\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.96,622.69)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.86,0:02:07.90,Signs,,0,0,0,,{\fscx99.76\fscy99.76\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.95,622.63)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.90,0:02:07.94,Signs,,0,0,0,,{\fscx99.73\fscy99.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.95,622.57)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.94,0:02:07.98,Signs,,0,0,0,,{\fscx99.69\fscy99.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.94,622.51)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.98,0:02:08.02,Signs,,0,0,0,,{\fscx99.65\fscy99.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.94,622.45)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.02,0:02:08.07,Signs,,0,0,0,,{\fscx99.61\fscy99.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.93,622.39)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.07,0:02:08.11,Signs,,0,0,0,,{\fscx99.58\fscy99.58\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.92,622.33)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.11,0:02:08.15,Signs,,0,0,0,,{\fscx99.54\fscy99.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.9,622.27)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.15,0:02:08.19,Signs,,0,0,0,,{\fscx99.5\fscy99.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.89,622.21)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.19,0:02:08.23,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.88,622.15)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.23,0:02:08.27,Signs,,0,0,0,,{\fscx99.42\fscy99.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.87,622.08)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.27,0:02:08.32,Signs,,0,0,0,,{\fscx99.38\fscy99.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.86,622.02)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.32,0:02:08.36,Signs,,0,0,0,,{\fscx99.34\fscy99.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.86,621.96)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.36,0:02:08.40,Signs,,0,0,0,,{\fscx99.3\fscy99.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.85,621.9)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.40,0:02:08.44,Signs,,0,0,0,,{\fscx99.26\fscy99.26\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.85,621.84)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.44,0:02:08.48,Signs,,0,0,0,,{\fscx99.22\fscy99.22\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.85,621.78)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.48,0:02:08.52,Signs,,0,0,0,,{\fscx99.19\fscy99.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.84,621.72)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.52,0:02:08.57,Signs,,0,0,0,,{\fscx99.15\fscy99.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.83,621.66)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.57,0:02:08.61,Signs,,0,0,0,,{\fscx99.11\fscy99.11\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.82,621.59)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.61,0:02:08.65,Signs,,0,0,0,,{\fscx99.07\fscy99.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.81,621.54)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.65,0:02:08.69,Signs,,0,0,0,,{\fscx99.04\fscy99.04\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.8,621.48)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.69,0:02:08.73,Signs,,0,0,0,,{\fscx99\fscy99\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.79,621.42)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.73,0:02:08.78,Signs,,0,0,0,,{\fscx98.96\fscy98.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.78,621.36)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.78,0:02:08.82,Signs,,0,0,0,,{\fscx98.92\fscy98.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.78,621.3)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.82,0:02:08.86,Signs,,0,0,0,,{\fscx98.88\fscy98.88\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.77,621.24)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.86,0:02:08.90,Signs,,0,0,0,,{\fscx98.84\fscy98.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.77,621.18)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.90,0:02:08.94,Signs,,0,0,0,,{\fscx98.8\fscy98.8\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.76,621.12)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.94,0:02:08.98,Signs,,0,0,0,,{\fscx98.77\fscy98.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.75,621.06)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:08.98,0:02:09.03,Signs,,0,0,0,,{\fscx98.73\fscy98.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.75,621)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.03,0:02:09.07,Signs,,0,0,0,,{\fscx98.69\fscy98.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.74,620.94)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.07,0:02:09.11,Signs,,0,0,0,,{\fscx98.65\fscy98.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.73,620.88)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.11,0:02:09.15,Signs,,0,0,0,,{\fscx98.61\fscy98.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.72,620.83)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.15,0:02:09.19,Signs,,0,0,0,,{\fscx98.58\fscy98.58\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.71,620.76)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.19,0:02:09.23,Signs,,0,0,0,,{\fscx98.54\fscy98.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.71,620.71)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.23,0:02:09.28,Signs,,0,0,0,,{\fscx98.5\fscy98.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.71,620.64)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.28,0:02:09.32,Signs,,0,0,0,,{\fscx98.46\fscy98.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.7,620.59)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.32,0:02:09.36,Signs,,0,0,0,,{\fscx98.42\fscy98.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.7,620.53)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.36,0:02:09.40,Signs,,0,0,0,,{\fscx98.38\fscy98.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.68,620.46)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.40,0:02:09.44,Signs,,0,0,0,,{\fscx98.34\fscy98.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.68,620.4)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.44,0:02:09.48,Signs,,0,0,0,,{\fscx98.31\fscy98.31\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.67,620.34)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.48,0:02:09.53,Signs,,0,0,0,,{\fscx98.27\fscy98.27\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.66,620.28)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.53,0:02:09.57,Signs,,0,0,0,,{\fscx98.23\fscy98.23\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.65,620.22)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.57,0:02:09.61,Signs,,0,0,0,,{\fscx98.19\fscy98.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.65,620.16)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.61,0:02:09.65,Signs,,0,0,0,,{\fscx98.15\fscy98.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.63,620.11)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.65,0:02:09.69,Signs,,0,0,0,,{\fscx98.12\fscy98.12\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.63,620.05)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.69,0:02:09.73,Signs,,0,0,0,,{\fscx98.08\fscy98.08\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.62,619.99)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.73,0:02:09.78,Signs,,0,0,0,,{\fscx98.04\fscy98.04\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.61,619.93)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.78,0:02:09.82,Signs,,0,0,0,,{\fscx98\fscy98\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.6,619.87)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.82,0:02:09.86,Signs,,0,0,0,,{\fscx97.96\fscy97.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.59,619.81)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.86,0:02:09.90,Signs,,0,0,0,,{\fscx97.92\fscy97.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.58,619.75)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.90,0:02:09.94,Signs,,0,0,0,,{\fscx97.88\fscy97.88\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.57,619.69)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.94,0:02:09.98,Signs,,0,0,0,,{\fscx97.84\fscy97.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.56,619.63)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:09.98,0:02:10.03,Signs,,0,0,0,,{\fscx97.81\fscy97.81\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.56,619.57)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.03,0:02:10.07,Signs,,0,0,0,,{\fscx97.77\fscy97.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.55,619.52)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.07,0:02:10.11,Signs,,0,0,0,,{\fscx97.73\fscy97.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.54,619.46)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.11,0:02:10.15,Signs,,0,0,0,,{\fscx97.69\fscy97.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.53,619.4)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.15,0:02:10.19,Signs,,0,0,0,,{\fscx97.65\fscy97.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.53,619.34)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.19,0:02:10.23,Signs,,0,0,0,,{\fscx97.61\fscy97.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.52,619.28)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.23,0:02:10.28,Signs,,0,0,0,,{\fscx97.57\fscy97.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.52,619.22)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.28,0:02:10.32,Signs,,0,0,0,,{\fscx97.53\fscy97.53\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.51,619.16)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.32,0:02:10.36,Signs,,0,0,0,,{\fscx97.49\fscy97.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.5,619.1)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.36,0:02:10.40,Signs,,0,0,0,,{\fscx97.46\fscy97.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.49,619.04)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.40,0:02:10.44,Signs,,0,0,0,,{\fscx97.42\fscy97.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.48,618.98)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.44,0:02:10.49,Signs,,0,0,0,,{\fscx97.38\fscy97.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.47,618.92)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.49,0:02:10.53,Signs,,0,0,0,,{\fscx97.34\fscy97.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.47,618.86)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.53,0:02:10.57,Signs,,0,0,0,,{\fscx97.3\fscy97.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.46,618.8)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.57,0:02:10.61,Signs,,0,0,0,,{\fscx97.26\fscy97.26\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.45,618.74)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.61,0:02:10.65,Signs,,0,0,0,,{\fscx97.23\fscy97.23\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.44,618.68)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.65,0:02:10.69,Signs,,0,0,0,,{\fscx97.19\fscy97.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.43,618.62)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.69,0:02:10.74,Signs,,0,0,0,,{\fscx97.15\fscy97.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.42,618.56)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.74,0:02:10.78,Signs,,0,0,0,,{\fscx97.11\fscy97.11\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.42,618.5)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.78,0:02:10.82,Signs,,0,0,0,,{\fscx97.07\fscy97.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.4,618.44)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.82,0:02:10.86,Signs,,0,0,0,,{\fscx97.03\fscy97.03\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.4,618.38)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.86,0:02:10.90,Signs,,0,0,0,,{\fscx97\fscy97\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.4,618.32)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\fscx96.96\fscy96.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.39,618.26)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.94,0:02:10.99,Signs,,0,0,0,,{\fscx96.92\fscy96.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.39,618.2)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:10.99,0:02:11.03,Signs,,0,0,0,,{\fscx96.87\fscy96.87\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.38,618.13)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.03,0:02:11.07,Signs,,0,0,0,,{\fscx96.82\fscy96.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.37,618.05)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.07,0:02:11.11,Signs,,0,0,0,,{\fscx96.77\fscy96.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.35,617.96)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.11,0:02:11.15,Signs,,0,0,0,,{\fscx96.73\fscy96.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.35,617.91)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.15,0:02:11.19,Signs,,0,0,0,,{\fscx96.69\fscy96.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.34,617.84)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.19,0:02:11.24,Signs,,0,0,0,,{\fscx96.65\fscy96.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.33,617.79)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.24,0:02:11.28,Signs,,0,0,0,,{\fscx96.62\fscy96.62\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.32,617.72)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.28,0:02:11.32,Signs,,0,0,0,,{\fscx96.58\fscy96.58\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.31,617.66)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.32,0:02:11.36,Signs,,0,0,0,,{\fscx96.54\fscy96.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.3,617.62)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.36,0:02:11.40,Signs,,0,0,0,,{\fscx96.5\fscy96.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.3,617.53)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.40,0:02:11.44,Signs,,0,0,0,,{\fscx96.46\fscy96.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.29,617.46)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.44,0:02:11.49,Signs,,0,0,0,,{\fscx96.41\fscy96.41\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.28,617.38)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.49,0:02:11.53,Signs,,0,0,0,,{\fscx96.37\fscy96.37\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.27,617.32)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.53,0:02:11.57,Signs,,0,0,0,,{\fscx96.33\fscy96.33\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.27,617.26)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.57,0:02:11.61,Signs,,0,0,0,,{\fscx96.3\fscy96.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.21)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.61,0:02:11.65,Signs,,0,0,0,,{\fscx96.25\fscy96.25\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.14)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.65,0:02:11.69,Signs,,0,0,0,,{\fscx96.21\fscy96.21\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.08)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.69,0:02:11.74,Signs,,0,0,0,,{\fscx96.18\fscy96.18\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.02)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.74,0:02:11.78,Signs,,0,0,0,,{\fscx96.14\fscy96.14\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,616.97)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.78,0:02:11.82,Signs,,0,0,0,,{\fscx96.1\fscy96.1\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,616.9)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.82,0:02:11.86,Signs,,0,0,0,,{\fscx96.07\fscy96.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,616.83)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.86,0:02:11.90,Signs,,0,0,0,,{\fscx96.03\fscy96.03\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.25,616.79)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.90,0:02:11.94,Signs,,0,0,0,,{\fscx95.99\fscy95.99\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.24,616.75)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.94,0:02:11.99,Signs,,0,0,0,,{\fscx95.95\fscy95.95\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.23,616.69)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:11.99,0:02:12.03,Signs,,0,0,0,,{\fscx95.91\fscy95.91\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.22,616.63)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.03,0:02:12.07,Signs,,0,0,0,,{\fscx95.87\fscy95.87\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.21,616.57)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.07,0:02:12.11,Signs,,0,0,0,,{\fscx95.84\fscy95.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.2,616.51)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.11,0:02:12.15,Signs,,0,0,0,,{\fscx95.8\fscy95.8\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.19,616.45)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.15,0:02:12.20,Signs,,0,0,0,,{\fscx95.76\fscy95.76\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.18,616.4)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.20,0:02:12.24,Signs,,0,0,0,,{\fscx95.73\fscy95.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.18,616.34)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.24,0:02:12.28,Signs,,0,0,0,,{\fscx95.69\fscy95.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.17,616.29)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.28,0:02:12.32,Signs,,0,0,0,,{\fscx95.65\fscy95.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.16,616.22)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.32,0:02:12.36,Signs,,0,0,0,,{\fscx95.61\fscy95.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.15,616.16)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.36,0:02:12.40,Signs,,0,0,0,,{\fscx95.57\fscy95.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.15,616.1)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.40,0:02:12.45,Signs,,0,0,0,,{\fscx95.53\fscy95.53\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.14,616.04)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.45,0:02:12.49,Signs,,0,0,0,,{\fscx95.49\fscy95.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.13,615.98)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.49,0:02:12.53,Signs,,0,0,0,,{\fscx95.46\fscy95.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.12,615.93)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.53,0:02:12.57,Signs,,0,0,0,,{\fscx95.42\fscy95.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.11,615.87)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.57,0:02:12.61,Signs,,0,0,0,,{\fscx95.38\fscy95.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.1,615.81)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.61,0:02:12.65,Signs,,0,0,0,,{\fscx95.34\fscy95.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.09,615.75)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.65,0:02:12.70,Signs,,0,0,0,,{\fscx95.3\fscy95.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.08,615.69)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.70,0:02:12.74,Signs,,0,0,0,,{\fscx95.26\fscy95.26\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.07,615.63)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.74,0:02:12.78,Signs,,0,0,0,,{\fscx95.22\fscy95.22\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.06,615.57)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.78,0:02:12.82,Signs,,0,0,0,,{\fscx95.19\fscy95.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.05,615.5)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.82,0:02:12.86,Signs,,0,0,0,,{\fscx95.15\fscy95.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.04,615.44)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.86,0:02:12.90,Signs,,0,0,0,,{\fscx95.11\fscy95.11\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.03,615.38)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.90,0:02:12.95,Signs,,0,0,0,,{\fscx95.07\fscy95.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.02,615.32)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.95,0:02:12.99,Signs,,0,0,0,,{\fscx95.03\fscy95.03\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.02,615.26)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:12.99,0:02:13.03,Signs,,0,0,0,,{\fscx95\fscy95\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.01,615.2)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.03,0:02:13.07,Signs,,0,0,0,,{\fscx94.96\fscy94.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959,615.14)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.07,0:02:13.11,Signs,,0,0,0,,{\fscx94.92\fscy94.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.99,615.08)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.11,0:02:13.15,Signs,,0,0,0,,{\fscx94.88\fscy94.88\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.98,615.02)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.15,0:02:13.20,Signs,,0,0,0,,{\fscx94.85\fscy94.85\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.97,614.96)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.20,0:02:13.24,Signs,,0,0,0,,{\fscx94.81\fscy94.81\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.96,614.9)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.24,0:02:13.28,Signs,,0,0,0,,{\fscx94.77\fscy94.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.95,614.84)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.28,0:02:13.32,Signs,,0,0,0,,{\fscx94.73\fscy94.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.95,614.78)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.32,0:02:13.36,Signs,,0,0,0,,{\fscx94.69\fscy94.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.94,614.72)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.36,0:02:13.40,Signs,,0,0,0,,{\fscx94.65\fscy94.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.94,614.66)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.40,0:02:13.45,Signs,,0,0,0,,{\fscx94.61\fscy94.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.93,614.6)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.45,0:02:13.49,Signs,,0,0,0,,{\fscx94.57\fscy94.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.92,614.54)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.49,0:02:13.53,Signs,,0,0,0,,{\fscx94.54\fscy94.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.91,614.48)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.53,0:02:13.57,Signs,,0,0,0,,{\fscx94.5\fscy94.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.9,614.42)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.57,0:02:13.61,Signs,,0,0,0,,{\fscx94.46\fscy94.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.89,614.36)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.61,0:02:13.65,Signs,,0,0,0,,{\fscx94.42\fscy94.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.88,614.3)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.65,0:02:13.70,Signs,,0,0,0,,{\fscx94.39\fscy94.39\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.87,614.24)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.70,0:02:13.74,Signs,,0,0,0,,{\fscx94.35\fscy94.35\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.86,614.18)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.74,0:02:13.78,Signs,,0,0,0,,{\fscx94.31\fscy94.31\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.85,614.13)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.78,0:02:13.82,Signs,,0,0,0,,{\fscx94.27\fscy94.27\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.85,614.06)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.82,0:02:13.86,Signs,,0,0,0,,{\fscx94.23\fscy94.23\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.84,614)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.86,0:02:13.91,Signs,,0,0,0,,{\fscx94.19\fscy94.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.83,613.94)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.91,0:02:13.95,Signs,,0,0,0,,{\fscx94.15\fscy94.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.82,613.88)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.95,0:02:13.99,Signs,,0,0,0,,{\fscx94.12\fscy94.12\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.82,613.83)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:13.99,0:02:14.03,Signs,,0,0,0,,{\fscx94.08\fscy94.08\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.81,613.77)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.03,0:02:14.07,Signs,,0,0,0,,{\fscx94.05\fscy94.05\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.8,613.71)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.07,0:02:14.11,Signs,,0,0,0,,{\fscx94.01\fscy94.01\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.79,613.65)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.11,0:02:14.16,Signs,,0,0,0,,{\fscx93.97\fscy93.97\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.79,613.59)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.16,0:02:14.20,Signs,,0,0,0,,{\fscx93.93\fscy93.93\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.78,613.53)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.20,0:02:14.24,Signs,,0,0,0,,{\fscx93.89\fscy93.89\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.77,613.47)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.24,0:02:14.28,Signs,,0,0,0,,{\fscx93.85\fscy93.85\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.76,613.41)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.28,0:02:14.32,Signs,,0,0,0,,{\fscx93.82\fscy93.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.76,613.35)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.32,0:02:14.36,Signs,,0,0,0,,{\fscx93.78\fscy93.78\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.75,613.29)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.36,0:02:14.41,Signs,,0,0,0,,{\fscx93.74\fscy93.74\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.74,613.22)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.41,0:02:14.45,Signs,,0,0,0,,{\fscx93.7\fscy93.7\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.73,613.17)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.45,0:02:14.49,Signs,,0,0,0,,{\fscx93.66\fscy93.66\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.72,613.1)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.49,0:02:14.53,Signs,,0,0,0,,{\fscx93.63\fscy93.63\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.71,613.05)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.53,0:02:14.57,Signs,,0,0,0,,{\fscx93.59\fscy93.59\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.7,612.98)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.57,0:02:14.61,Signs,,0,0,0,,{\fscx93.55\fscy93.55\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.69,612.93)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.61,0:02:14.66,Signs,,0,0,0,,{\fscx93.51\fscy93.51\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.69,612.87)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.66,0:02:14.70,Signs,,0,0,0,,{\fscx93.47\fscy93.47\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.68,612.81)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.70,0:02:14.74,Signs,,0,0,0,,{\fscx93.43\fscy93.43\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.67,612.74)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.74,0:02:14.78,Signs,,0,0,0,,{\fscx93.39\fscy93.39\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.66,612.68)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.78,0:02:14.82,Signs,,0,0,0,,{\fscx93.36\fscy93.36\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.65,612.62)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.82,0:02:14.86,Signs,,0,0,0,,{\fscx93.32\fscy93.32\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.64,612.57)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.86,0:02:14.91,Signs,,0,0,0,,{\fscx93.28\fscy93.28\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.64,612.5)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.91,0:02:14.95,Signs,,0,0,0,,{\fscx93.24\fscy93.24\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.62,612.45)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.95,0:02:14.99,Signs,,0,0,0,,{\fscx93.2\fscy93.2\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.62,612.39)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:14.99,0:02:15.03,Signs,,0,0,0,,{\fscx93.17\fscy93.17\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.61,612.33)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.03,0:02:15.07,Signs,,0,0,0,,{\fscx93.13\fscy93.13\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.6,612.27)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.07,0:02:15.11,Signs,,0,0,0,,{\fscx93.09\fscy93.09\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.59,612.21)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.11,0:02:15.16,Signs,,0,0,0,,{\fscx93.05\fscy93.05\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.59,612.15)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.16,0:02:15.20,Signs,,0,0,0,,{\fscx93.01\fscy93.01\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.58,612.09)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.20,0:02:15.24,Signs,,0,0,0,,{\fscx92.97\fscy92.97\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.57,612.03)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.24,0:02:15.28,Signs,,0,0,0,,{\fscx92.93\fscy92.93\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.56,611.97)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.28,0:02:15.32,Signs,,0,0,0,,{\fscx92.9\fscy92.9\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.56,611.91)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.32,0:02:15.37,Signs,,0,0,0,,{\fscx92.86\fscy92.86\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.55,611.85)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.37,0:02:15.41,Signs,,0,0,0,,{\fscx92.82\fscy92.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.54,611.79)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.41,0:02:15.45,Signs,,0,0,0,,{\fscx92.78\fscy92.78\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.53,611.73)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.45,0:02:15.49,Signs,,0,0,0,,{\fscx92.74\fscy92.74\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.52,611.67)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.49,0:02:15.53,Signs,,0,0,0,,{\fscx92.71\fscy92.71\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.51,611.61)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.53,0:02:15.57,Signs,,0,0,0,,{\fscx92.67\fscy92.67\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.5,611.55)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.57,0:02:15.62,Signs,,0,0,0,,{\fscx92.63\fscy92.63\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.49,611.49)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.62,0:02:15.66,Signs,,0,0,0,,{\fscx92.59\fscy92.59\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.48,611.43)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.66,0:02:15.70,Signs,,0,0,0,,{\fscx92.55\fscy92.55\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.47,611.37)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.70,0:02:15.74,Signs,,0,0,0,,{\fscx92.51\fscy92.51\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.46,611.31)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.74,0:02:15.78,Signs,,0,0,0,,{\fscx92.48\fscy92.48\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.45,611.25)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.78,0:02:15.82,Signs,,0,0,0,,{\fscx92.44\fscy92.44\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.45,611.19)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.82,0:02:15.87,Signs,,0,0,0,,{\fscx92.4\fscy92.4\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.44,611.13)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.87,0:02:15.91,Signs,,0,0,0,,{\fscx92.36\fscy92.36\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.43,611.07)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.91,0:02:15.95,Signs,,0,0,0,,{\fscx92.32\fscy92.32\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.42,611.01)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.95,0:02:15.99,Signs,,0,0,0,,{\fscx92.28\fscy92.28\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.41,610.95)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:15.99,0:02:16.03,Signs,,0,0,0,,{\fscx92.25\fscy92.25\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.4,610.89)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.03,0:02:16.07,Signs,,0,0,0,,{\fscx92.21\fscy92.21\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.4,610.83)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.07,0:02:16.12,Signs,,0,0,0,,{\fscx92.17\fscy92.17\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.38,610.77)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.12,0:02:16.16,Signs,,0,0,0,,{\fscx92.13\fscy92.13\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.38,610.71)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.16,0:02:16.20,Signs,,0,0,0,,{\fscx92.09\fscy92.09\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.37,610.65)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.20,0:02:16.24,Signs,,0,0,0,,{\fscx92.05\fscy92.05\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.36,610.59)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.24,0:02:16.28,Signs,,0,0,0,,{\fscx92.01\fscy92.01\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.35,610.53)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.28,0:02:16.32,Signs,,0,0,0,,{\fscx91.98\fscy91.98\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.35,610.47)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.32,0:02:16.37,Signs,,0,0,0,,{\fscx91.94\fscy91.94\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.34,610.41)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.37,0:02:16.41,Signs,,0,0,0,,{\fscx91.9\fscy91.9\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.33,610.34)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.41,0:02:16.45,Signs,,0,0,0,,{\fscx91.86\fscy91.86\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.31,610.29)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.45,0:02:16.49,Signs,,0,0,0,,{\fscx91.82\fscy91.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.31,610.23)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.49,0:02:16.53,Signs,,0,0,0,,{\fscx91.79\fscy91.79\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.3,610.17)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.53,0:02:16.57,Signs,,0,0,0,,{\fscx91.75\fscy91.75\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.29,610.11)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.57,0:02:16.62,Signs,,0,0,0,,{\fscx91.71\fscy91.71\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.28,610.05)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.62,0:02:16.66,Signs,,0,0,0,,{\fscx91.67\fscy91.67\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.27,609.99)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.66,0:02:16.70,Signs,,0,0,0,,{\fscx91.63\fscy91.63\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.27,609.93)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.70,0:02:16.74,Signs,,0,0,0,,{\fscx91.59\fscy91.59\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.26,609.87)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.74,0:02:16.78,Signs,,0,0,0,,{\fscx91.56\fscy91.56\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.25,609.81)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.78,0:02:16.82,Signs,,0,0,0,,{\fscx91.52\fscy91.52\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.24,609.75)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.82,0:02:16.87,Signs,,0,0,0,,{\fscx91.48\fscy91.48\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.23,609.69)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.87,0:02:16.91,Signs,,0,0,0,,{\fscx91.44\fscy91.44\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.22,609.63)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.91,0:02:16.95,Signs,,0,0,0,,{\fscx91.4\fscy91.4\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.21,609.57)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.95,0:02:16.99,Signs,,0,0,0,,{\fscx91.37\fscy91.37\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.2,609.51)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:16.99,0:02:17.03,Signs,,0,0,0,,{\fscx91.33\fscy91.33\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.19,609.45)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.03,0:02:17.08,Signs,,0,0,0,,{\fscx91.29\fscy91.29\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.18,609.38)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.08,0:02:17.12,Signs,,0,0,0,,{\fscx91.25\fscy91.25\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.17,609.33)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.12,0:02:17.16,Signs,,0,0,0,,{\fscx91.21\fscy91.21\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.16,609.27)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.16,0:02:17.20,Signs,,0,0,0,,{\fscx91.17\fscy91.17\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.16,609.21)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.20,0:02:17.24,Signs,,0,0,0,,{\fscx91.14\fscy91.14\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.15,609.15)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.24,0:02:17.28,Signs,,0,0,0,,{\fscx91.1\fscy91.1\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.14,609.09)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.28,0:02:17.33,Signs,,0,0,0,,{\fscx91.06\fscy91.06\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.14,609.03)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.33,0:02:17.37,Signs,,0,0,0,,{\fscx91.02\fscy91.02\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.13,608.97)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.37,0:02:17.41,Signs,,0,0,0,,{\fscx90.98\fscy90.98\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.12,608.91)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.41,0:02:17.45,Signs,,0,0,0,,{\fscx90.94\fscy90.94\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.11,608.85)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.45,0:02:17.49,Signs,,0,0,0,,{\fscx90.91\fscy90.91\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.1,608.79)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.49,0:02:17.53,Signs,,0,0,0,,{\fscx90.87\fscy90.87\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.09,608.73)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.53,0:02:17.58,Signs,,0,0,0,,{\fscx90.83\fscy90.83\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.08,608.67)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.58,0:02:17.62,Signs,,0,0,0,,{\fscx90.79\fscy90.79\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.07,608.61)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.62,0:02:17.66,Signs,,0,0,0,,{\fscx90.76\fscy90.76\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.07,608.56)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.66,0:02:17.70,Signs,,0,0,0,,{\fscx90.73\fscy90.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.06,608.51)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.70,0:02:17.74,Signs,,0,0,0,,{\fscx90.71\fscy90.71\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.06,608.49)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.74,0:02:17.78,Signs,,0,0,0,,{\fscx90.68\fscy90.68\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.05,608.44)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.78,0:02:17.83,Signs,,0,0,0,,{\fscx90.64\fscy90.64\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.04,608.38)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.83,0:02:17.87,Signs,,0,0,0,,{\fscx90.6\fscy90.6\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.03,608.32)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.87,0:02:17.91,Signs,,0,0,0,,{\fscx90.57\fscy90.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.02,608.26)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.91,0:02:17.95,Signs,,0,0,0,,{\fscx90.53\fscy90.53\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.01,608.19)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:17.95,0:02:17.99,Signs,,0,0,0,,{\fscx90.49\fscy90.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(957.99,608.16)\fsp6} QUÁIVẬTRUYỆN
-Dialogue: 0,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\pos(960,623)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&HFFFFFF&\3cHFFFFFF&\fsp6\t(-13,487,\c&H7469F1&\3c&H8983F3&)} QUÁIVẬTRUYỆN
-Dialogue: 1,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\fnVL TelingaterDisplay\blur0.8\fs90\pos(960,623)\fsp6} QUÁIVẬTRUYỆN
+Dialogue: 0,0:02:07.61,0:02:07.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\pos(960,623)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.65,0:02:07.69,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz0\alpha&H00&\pos(959.99,622.94)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.69,0:02:07.73,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz0\alpha&H00&\pos(959.99,622.88)\fnVL TelingaterDisplay\blur8\bord7.99\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.73,0:02:07.77,Signs,,0,0,0,,{\fscx99.89\fscy99.89\frz0\alpha&H00&\pos(959.98,622.82)\fnVL TelingaterDisplay\blur8\bord7.99\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.77,0:02:07.82,Signs,,0,0,0,,{\fscx99.84\fscy99.84\frz0\alpha&H00&\pos(959.97,622.76)\fnVL TelingaterDisplay\blur8\bord7.99\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.82,0:02:07.86,Signs,,0,0,0,,{\fscx99.8\fscy99.8\frz0\alpha&H00&\pos(959.96,622.69)\fnVL TelingaterDisplay\blur8\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.86,0:02:07.90,Signs,,0,0,0,,{\fscx99.76\fscy99.76\frz0\alpha&H00&\pos(959.95,622.63)\fnVL TelingaterDisplay\blur7.99\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.90,0:02:07.94,Signs,,0,0,0,,{\fscx99.73\fscy99.73\frz0\alpha&H00&\pos(959.95,622.57)\fnVL TelingaterDisplay\blur7.99\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.94,0:02:07.98,Signs,,0,0,0,,{\fscx99.69\fscy99.69\frz0\alpha&H00&\pos(959.94,622.51)\fnVL TelingaterDisplay\blur7.99\bord7.98\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.98,0:02:08.02,Signs,,0,0,0,,{\fscx99.65\fscy99.65\frz0\alpha&H00&\pos(959.94,622.45)\fnVL TelingaterDisplay\blur7.99\bord7.97\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.02,0:02:08.07,Signs,,0,0,0,,{\fscx99.61\fscy99.61\frz0\alpha&H00&\pos(959.93,622.39)\fnVL TelingaterDisplay\blur7.99\bord7.97\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.07,0:02:08.11,Signs,,0,0,0,,{\fscx99.58\fscy99.58\frz0\alpha&H00&\pos(959.92,622.33)\fnVL TelingaterDisplay\blur7.99\bord7.97\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.11,0:02:08.15,Signs,,0,0,0,,{\fscx99.54\fscy99.54\frz0\alpha&H00&\pos(959.9,622.27)\fnVL TelingaterDisplay\blur7.99\bord7.96\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.15,0:02:08.19,Signs,,0,0,0,,{\fscx99.5\fscy99.5\frz0\alpha&H00&\pos(959.89,622.21)\fnVL TelingaterDisplay\blur7.99\bord7.96\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.19,0:02:08.23,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha&H00&\pos(959.88,622.15)\fnVL TelingaterDisplay\blur7.99\bord7.96\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.23,0:02:08.27,Signs,,0,0,0,,{\fscx99.42\fscy99.42\frz0\alpha&H00&\pos(959.87,622.08)\fnVL TelingaterDisplay\blur7.99\bord7.95\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.27,0:02:08.32,Signs,,0,0,0,,{\fscx99.38\fscy99.38\frz0\alpha&H00&\pos(959.86,622.02)\fnVL TelingaterDisplay\blur7.99\bord7.95\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.32,0:02:08.36,Signs,,0,0,0,,{\fscx99.34\fscy99.34\frz0\alpha&H00&\pos(959.86,621.96)\fnVL TelingaterDisplay\blur7.98\bord7.95\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.36,0:02:08.40,Signs,,0,0,0,,{\fscx99.3\fscy99.3\frz0\alpha&H00&\pos(959.85,621.9)\fnVL TelingaterDisplay\blur7.98\bord7.94\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.40,0:02:08.44,Signs,,0,0,0,,{\fscx99.26\fscy99.26\frz0\alpha&H00&\pos(959.85,621.84)\fnVL TelingaterDisplay\blur7.98\bord7.94\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.44,0:02:08.48,Signs,,0,0,0,,{\fscx99.22\fscy99.22\frz0\alpha&H00&\pos(959.85,621.78)\fnVL TelingaterDisplay\blur7.98\bord7.94\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.48,0:02:08.52,Signs,,0,0,0,,{\fscx99.19\fscy99.19\frz0\alpha&H00&\pos(959.84,621.72)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.52,0:02:08.57,Signs,,0,0,0,,{\fscx99.15\fscy99.15\frz0\alpha&H00&\pos(959.83,621.66)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.57,0:02:08.61,Signs,,0,0,0,,{\fscx99.11\fscy99.11\frz0\alpha&H00&\pos(959.82,621.59)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.61,0:02:08.65,Signs,,0,0,0,,{\fscx99.07\fscy99.07\frz0\alpha&H00&\pos(959.81,621.54)\fnVL TelingaterDisplay\blur7.98\bord7.93\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.65,0:02:08.69,Signs,,0,0,0,,{\fscx99.04\fscy99.04\frz0\alpha&H00&\pos(959.8,621.48)\fnVL TelingaterDisplay\blur7.98\bord7.92\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.69,0:02:08.73,Signs,,0,0,0,,{\fscx99\fscy99\frz0\alpha&H00&\pos(959.79,621.42)\fnVL TelingaterDisplay\blur7.98\bord7.92\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.73,0:02:08.78,Signs,,0,0,0,,{\fscx98.96\fscy98.96\frz0\alpha&H00&\pos(959.78,621.36)\fnVL TelingaterDisplay\blur7.98\bord7.92\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.78,0:02:08.82,Signs,,0,0,0,,{\fscx98.92\fscy98.92\frz0\alpha&H00&\pos(959.78,621.3)\fnVL TelingaterDisplay\blur7.97\bord7.91\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.82,0:02:08.86,Signs,,0,0,0,,{\fscx98.88\fscy98.88\frz0\alpha&H00&\pos(959.77,621.24)\fnVL TelingaterDisplay\blur7.97\bord7.91\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.86,0:02:08.90,Signs,,0,0,0,,{\fscx98.84\fscy98.84\frz0\alpha&H00&\pos(959.77,621.18)\fnVL TelingaterDisplay\blur7.97\bord7.91\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.90,0:02:08.94,Signs,,0,0,0,,{\fscx98.8\fscy98.8\frz0\alpha&H00&\pos(959.76,621.12)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.94,0:02:08.98,Signs,,0,0,0,,{\fscx98.77\fscy98.77\frz0\alpha&H00&\pos(959.75,621.06)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:08.98,0:02:09.03,Signs,,0,0,0,,{\fscx98.73\fscy98.73\frz0\alpha&H00&\pos(959.75,621)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.03,0:02:09.07,Signs,,0,0,0,,{\fscx98.69\fscy98.69\frz0\alpha&H00&\pos(959.74,620.94)\fnVL TelingaterDisplay\blur7.97\bord7.9\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.07,0:02:09.11,Signs,,0,0,0,,{\fscx98.65\fscy98.65\frz0\alpha&H00&\pos(959.73,620.88)\fnVL TelingaterDisplay\blur7.97\bord7.89\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.11,0:02:09.15,Signs,,0,0,0,,{\fscx98.61\fscy98.61\frz0\alpha&H00&\pos(959.72,620.83)\fnVL TelingaterDisplay\blur7.97\bord7.89\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.15,0:02:09.19,Signs,,0,0,0,,{\fscx98.58\fscy98.58\frz0\alpha&H00&\pos(959.71,620.76)\fnVL TelingaterDisplay\blur7.97\bord7.89\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.19,0:02:09.23,Signs,,0,0,0,,{\fscx98.54\fscy98.54\frz0\alpha&H00&\pos(959.71,620.71)\fnVL TelingaterDisplay\blur7.96\bord7.88\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.23,0:02:09.28,Signs,,0,0,0,,{\fscx98.5\fscy98.5\frz0\alpha&H00&\pos(959.71,620.64)\fnVL TelingaterDisplay\blur7.96\bord7.88\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.28,0:02:09.32,Signs,,0,0,0,,{\fscx98.46\fscy98.46\frz0\alpha&H00&\pos(959.7,620.59)\fnVL TelingaterDisplay\blur7.96\bord7.88\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.32,0:02:09.36,Signs,,0,0,0,,{\fscx98.42\fscy98.42\frz0\alpha&H00&\pos(959.7,620.53)\fnVL TelingaterDisplay\blur7.96\bord7.87\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.36,0:02:09.40,Signs,,0,0,0,,{\fscx98.38\fscy98.38\frz0\alpha&H00&\pos(959.68,620.46)\fnVL TelingaterDisplay\blur7.96\bord7.87\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.40,0:02:09.44,Signs,,0,0,0,,{\fscx98.34\fscy98.34\frz0\alpha&H00&\pos(959.68,620.4)\fnVL TelingaterDisplay\blur7.96\bord7.87\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.44,0:02:09.48,Signs,,0,0,0,,{\fscx98.31\fscy98.31\frz0\alpha&H00&\pos(959.67,620.34)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.48,0:02:09.53,Signs,,0,0,0,,{\fscx98.27\fscy98.27\frz0\alpha&H00&\pos(959.66,620.28)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.53,0:02:09.57,Signs,,0,0,0,,{\fscx98.23\fscy98.23\frz0\alpha&H00&\pos(959.65,620.22)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.57,0:02:09.61,Signs,,0,0,0,,{\fscx98.19\fscy98.19\frz0\alpha&H00&\pos(959.65,620.16)\fnVL TelingaterDisplay\blur7.96\bord7.86\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.61,0:02:09.65,Signs,,0,0,0,,{\fscx98.15\fscy98.15\frz0\alpha&H00&\pos(959.63,620.11)\fnVL TelingaterDisplay\blur7.96\bord7.85\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.65,0:02:09.69,Signs,,0,0,0,,{\fscx98.12\fscy98.12\frz0\alpha&H00&\pos(959.63,620.05)\fnVL TelingaterDisplay\blur7.95\bord7.85\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.69,0:02:09.73,Signs,,0,0,0,,{\fscx98.08\fscy98.08\frz0\alpha&H00&\pos(959.62,619.99)\fnVL TelingaterDisplay\blur7.95\bord7.85\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.73,0:02:09.78,Signs,,0,0,0,,{\fscx98.04\fscy98.04\frz0\alpha&H00&\pos(959.61,619.93)\fnVL TelingaterDisplay\blur7.95\bord7.84\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.78,0:02:09.82,Signs,,0,0,0,,{\fscx98\fscy98\frz0\alpha&H00&\pos(959.6,619.87)\fnVL TelingaterDisplay\blur7.95\bord7.84\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.82,0:02:09.86,Signs,,0,0,0,,{\fscx97.96\fscy97.96\frz0\alpha&H00&\pos(959.59,619.81)\fnVL TelingaterDisplay\blur7.95\bord7.84\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.86,0:02:09.90,Signs,,0,0,0,,{\fscx97.92\fscy97.92\frz0\alpha&H00&\pos(959.58,619.75)\fnVL TelingaterDisplay\blur7.95\bord7.83\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.90,0:02:09.94,Signs,,0,0,0,,{\fscx97.88\fscy97.88\frz0\alpha&H00&\pos(959.57,619.69)\fnVL TelingaterDisplay\blur7.95\bord7.83\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.94,0:02:09.98,Signs,,0,0,0,,{\fscx97.84\fscy97.84\frz0\alpha&H00&\pos(959.56,619.63)\fnVL TelingaterDisplay\blur7.95\bord7.83\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:09.98,0:02:10.03,Signs,,0,0,0,,{\fscx97.81\fscy97.81\frz0\alpha&H00&\pos(959.56,619.57)\fnVL TelingaterDisplay\blur7.95\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.03,0:02:10.07,Signs,,0,0,0,,{\fscx97.77\fscy97.77\frz0\alpha&H00&\pos(959.55,619.52)\fnVL TelingaterDisplay\blur7.95\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.07,0:02:10.11,Signs,,0,0,0,,{\fscx97.73\fscy97.73\frz0\alpha&H00&\pos(959.54,619.46)\fnVL TelingaterDisplay\blur7.95\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.11,0:02:10.15,Signs,,0,0,0,,{\fscx97.69\fscy97.69\frz0\alpha&H00&\pos(959.53,619.4)\fnVL TelingaterDisplay\blur7.94\bord7.82\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.15,0:02:10.19,Signs,,0,0,0,,{\fscx97.65\fscy97.65\frz0\alpha&H00&\pos(959.53,619.34)\fnVL TelingaterDisplay\blur7.94\bord7.81\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.19,0:02:10.23,Signs,,0,0,0,,{\fscx97.61\fscy97.61\frz0\alpha&H00&\pos(959.52,619.28)\fnVL TelingaterDisplay\blur7.94\bord7.81\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.23,0:02:10.28,Signs,,0,0,0,,{\fscx97.57\fscy97.57\frz0\alpha&H00&\pos(959.52,619.22)\fnVL TelingaterDisplay\blur7.94\bord7.81\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.28,0:02:10.32,Signs,,0,0,0,,{\fscx97.53\fscy97.53\frz0\alpha&H00&\pos(959.51,619.16)\fnVL TelingaterDisplay\blur7.94\bord7.8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.32,0:02:10.36,Signs,,0,0,0,,{\fscx97.49\fscy97.49\frz0\alpha&H00&\pos(959.5,619.1)\fnVL TelingaterDisplay\blur7.94\bord7.8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.36,0:02:10.40,Signs,,0,0,0,,{\fscx97.46\fscy97.46\frz0\alpha&H00&\pos(959.49,619.04)\fnVL TelingaterDisplay\blur7.94\bord7.8\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.40,0:02:10.44,Signs,,0,0,0,,{\fscx97.42\fscy97.42\frz0\alpha&H00&\pos(959.48,618.98)\fnVL TelingaterDisplay\blur7.94\bord7.79\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.44,0:02:10.49,Signs,,0,0,0,,{\fscx97.38\fscy97.38\frz0\alpha&H00&\pos(959.47,618.92)\fnVL TelingaterDisplay\blur7.94\bord7.79\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.49,0:02:10.53,Signs,,0,0,0,,{\fscx97.34\fscy97.34\frz0\alpha&H00&\pos(959.47,618.86)\fnVL TelingaterDisplay\blur7.94\bord7.79\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.53,0:02:10.57,Signs,,0,0,0,,{\fscx97.3\fscy97.3\frz0\alpha&H00&\pos(959.46,618.8)\fnVL TelingaterDisplay\blur7.94\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.57,0:02:10.61,Signs,,0,0,0,,{\fscx97.26\fscy97.26\frz0\alpha&H00&\pos(959.45,618.74)\fnVL TelingaterDisplay\blur7.93\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.61,0:02:10.65,Signs,,0,0,0,,{\fscx97.23\fscy97.23\frz0\alpha&H00&\pos(959.44,618.68)\fnVL TelingaterDisplay\blur7.93\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.65,0:02:10.69,Signs,,0,0,0,,{\fscx97.19\fscy97.19\frz0\alpha&H00&\pos(959.43,618.62)\fnVL TelingaterDisplay\blur7.93\bord7.78\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.69,0:02:10.74,Signs,,0,0,0,,{\fscx97.15\fscy97.15\frz0\alpha&H00&\pos(959.42,618.56)\fnVL TelingaterDisplay\blur7.93\bord7.77\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.74,0:02:10.78,Signs,,0,0,0,,{\fscx97.11\fscy97.11\frz0\alpha&H00&\pos(959.42,618.5)\fnVL TelingaterDisplay\blur7.93\bord7.77\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.78,0:02:10.82,Signs,,0,0,0,,{\fscx97.07\fscy97.07\frz0\alpha&H00&\pos(959.4,618.44)\fnVL TelingaterDisplay\blur7.93\bord7.77\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.82,0:02:10.86,Signs,,0,0,0,,{\fscx97.03\fscy97.03\frz0\alpha&H00&\pos(959.4,618.38)\fnVL TelingaterDisplay\blur7.93\bord7.76\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.86,0:02:10.90,Signs,,0,0,0,,{\fscx97\fscy97\frz0\alpha&H00&\pos(959.4,618.32)\fnVL TelingaterDisplay\blur7.93\bord7.76\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\fscx96.96\fscy96.96\frz0\alpha&H00&\pos(959.39,618.26)\fnVL TelingaterDisplay\blur7.93\bord7.76\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.94,0:02:10.99,Signs,,0,0,0,,{\fscx96.92\fscy96.92\frz0\alpha&H00&\pos(959.39,618.2)\fnVL TelingaterDisplay\blur7.93\bord7.75\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:10.99,0:02:11.03,Signs,,0,0,0,,{\fscx96.87\fscy96.87\frz0\alpha&H00&\pos(959.38,618.13)\fnVL TelingaterDisplay\blur7.92\bord7.75\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.03,0:02:11.07,Signs,,0,0,0,,{\fscx96.82\fscy96.82\frz0\alpha&H00&\pos(959.37,618.05)\fnVL TelingaterDisplay\blur7.92\bord7.75\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.07,0:02:11.11,Signs,,0,0,0,,{\fscx96.77\fscy96.77\frz0\alpha&H00&\pos(959.35,617.96)\fnVL TelingaterDisplay\blur7.92\bord7.74\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.11,0:02:11.15,Signs,,0,0,0,,{\fscx96.73\fscy96.73\frz0\alpha&H00&\pos(959.35,617.91)\fnVL TelingaterDisplay\blur7.92\bord7.74\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.15,0:02:11.19,Signs,,0,0,0,,{\fscx96.69\fscy96.69\frz0\alpha&H00&\pos(959.34,617.84)\fnVL TelingaterDisplay\blur7.92\bord7.74\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.19,0:02:11.24,Signs,,0,0,0,,{\fscx96.65\fscy96.65\frz0\alpha&H00&\pos(959.33,617.79)\fnVL TelingaterDisplay\blur7.92\bord7.73\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.24,0:02:11.28,Signs,,0,0,0,,{\fscx96.62\fscy96.62\frz0\alpha&H00&\pos(959.32,617.72)\fnVL TelingaterDisplay\blur7.92\bord7.73\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.28,0:02:11.32,Signs,,0,0,0,,{\fscx96.58\fscy96.58\frz0\alpha&H00&\pos(959.31,617.66)\fnVL TelingaterDisplay\blur7.92\bord7.73\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.32,0:02:11.36,Signs,,0,0,0,,{\fscx96.54\fscy96.54\frz0\alpha&H00&\pos(959.3,617.62)\fnVL TelingaterDisplay\blur7.92\bord7.72\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.36,0:02:11.40,Signs,,0,0,0,,{\fscx96.5\fscy96.5\frz0\alpha&H00&\pos(959.3,617.53)\fnVL TelingaterDisplay\blur7.92\bord7.72\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.40,0:02:11.44,Signs,,0,0,0,,{\fscx96.46\fscy96.46\frz0\alpha&H00&\pos(959.29,617.46)\fnVL TelingaterDisplay\blur7.92\bord7.72\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.44,0:02:11.49,Signs,,0,0,0,,{\fscx96.41\fscy96.41\frz0\alpha&H00&\pos(959.28,617.38)\fnVL TelingaterDisplay\blur7.91\bord7.71\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.49,0:02:11.53,Signs,,0,0,0,,{\fscx96.37\fscy96.37\frz0\alpha&H00&\pos(959.27,617.32)\fnVL TelingaterDisplay\blur7.91\bord7.71\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.53,0:02:11.57,Signs,,0,0,0,,{\fscx96.33\fscy96.33\frz0\alpha&H00&\pos(959.27,617.26)\fnVL TelingaterDisplay\blur7.91\bord7.71\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.57,0:02:11.61,Signs,,0,0,0,,{\fscx96.3\fscy96.3\frz0\alpha&H00&\pos(959.26,617.21)\fnVL TelingaterDisplay\blur7.91\bord7.7\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.61,0:02:11.65,Signs,,0,0,0,,{\fscx96.25\fscy96.25\frz0\alpha&H00&\pos(959.26,617.14)\fnVL TelingaterDisplay\blur7.91\bord7.7\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.65,0:02:11.69,Signs,,0,0,0,,{\fscx96.21\fscy96.21\frz0\alpha&H00&\pos(959.26,617.08)\fnVL TelingaterDisplay\blur7.91\bord7.7\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.69,0:02:11.74,Signs,,0,0,0,,{\fscx96.18\fscy96.18\frz0\alpha&H00&\pos(959.26,617.02)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.74,0:02:11.78,Signs,,0,0,0,,{\fscx96.14\fscy96.14\frz0\alpha&H00&\pos(959.26,616.97)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.78,0:02:11.82,Signs,,0,0,0,,{\fscx96.1\fscy96.1\frz0\alpha&H00&\pos(959.26,616.9)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.82,0:02:11.86,Signs,,0,0,0,,{\fscx96.07\fscy96.07\frz0\alpha&H00&\pos(959.26,616.83)\fnVL TelingaterDisplay\blur7.91\bord7.69\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.86,0:02:11.90,Signs,,0,0,0,,{\fscx96.03\fscy96.03\frz0\alpha&H00&\pos(959.25,616.79)\fnVL TelingaterDisplay\blur7.9\bord7.68\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.90,0:02:11.94,Signs,,0,0,0,,{\fscx95.99\fscy95.99\frz0\alpha&H00&\pos(959.24,616.75)\fnVL TelingaterDisplay\blur7.9\bord7.68\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.94,0:02:11.99,Signs,,0,0,0,,{\fscx95.95\fscy95.95\frz0\alpha&H00&\pos(959.23,616.69)\fnVL TelingaterDisplay\blur7.9\bord7.68\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:11.99,0:02:12.03,Signs,,0,0,0,,{\fscx95.91\fscy95.91\frz0\alpha&H00&\pos(959.22,616.63)\fnVL TelingaterDisplay\blur7.9\bord7.67\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.03,0:02:12.07,Signs,,0,0,0,,{\fscx95.87\fscy95.87\frz0\alpha&H00&\pos(959.21,616.57)\fnVL TelingaterDisplay\blur7.9\bord7.67\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.07,0:02:12.11,Signs,,0,0,0,,{\fscx95.84\fscy95.84\frz0\alpha&H00&\pos(959.2,616.51)\fnVL TelingaterDisplay\blur7.9\bord7.67\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.11,0:02:12.15,Signs,,0,0,0,,{\fscx95.8\fscy95.8\frz0\alpha&H00&\pos(959.19,616.45)\fnVL TelingaterDisplay\blur7.9\bord7.66\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.15,0:02:12.20,Signs,,0,0,0,,{\fscx95.76\fscy95.76\frz0\alpha&H00&\pos(959.18,616.4)\fnVL TelingaterDisplay\blur7.9\bord7.66\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.20,0:02:12.24,Signs,,0,0,0,,{\fscx95.73\fscy95.73\frz0\alpha&H00&\pos(959.18,616.34)\fnVL TelingaterDisplay\blur7.9\bord7.66\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.24,0:02:12.28,Signs,,0,0,0,,{\fscx95.69\fscy95.69\frz0\alpha&H00&\pos(959.17,616.29)\fnVL TelingaterDisplay\blur7.9\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.28,0:02:12.32,Signs,,0,0,0,,{\fscx95.65\fscy95.65\frz0\alpha&H00&\pos(959.16,616.22)\fnVL TelingaterDisplay\blur7.9\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.32,0:02:12.36,Signs,,0,0,0,,{\fscx95.61\fscy95.61\frz0\alpha&H00&\pos(959.15,616.16)\fnVL TelingaterDisplay\blur7.89\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.36,0:02:12.40,Signs,,0,0,0,,{\fscx95.57\fscy95.57\frz0\alpha&H00&\pos(959.15,616.1)\fnVL TelingaterDisplay\blur7.89\bord7.65\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.40,0:02:12.45,Signs,,0,0,0,,{\fscx95.53\fscy95.53\frz0\alpha&H00&\pos(959.14,616.04)\fnVL TelingaterDisplay\blur7.89\bord7.64\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.45,0:02:12.49,Signs,,0,0,0,,{\fscx95.49\fscy95.49\frz0\alpha&H00&\pos(959.13,615.98)\fnVL TelingaterDisplay\blur7.89\bord7.64\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.49,0:02:12.53,Signs,,0,0,0,,{\fscx95.46\fscy95.46\frz0\alpha&H00&\pos(959.12,615.93)\fnVL TelingaterDisplay\blur7.89\bord7.64\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.53,0:02:12.57,Signs,,0,0,0,,{\fscx95.42\fscy95.42\frz0\alpha&H00&\pos(959.11,615.87)\fnVL TelingaterDisplay\blur7.89\bord7.63\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.57,0:02:12.61,Signs,,0,0,0,,{\fscx95.38\fscy95.38\frz0\alpha&H00&\pos(959.1,615.81)\fnVL TelingaterDisplay\blur7.89\bord7.63\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.61,0:02:12.65,Signs,,0,0,0,,{\fscx95.34\fscy95.34\frz0\alpha&H00&\pos(959.09,615.75)\fnVL TelingaterDisplay\blur7.89\bord7.63\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.65,0:02:12.70,Signs,,0,0,0,,{\fscx95.3\fscy95.3\frz0\alpha&H00&\pos(959.08,615.69)\fnVL TelingaterDisplay\blur7.89\bord7.62\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.70,0:02:12.74,Signs,,0,0,0,,{\fscx95.26\fscy95.26\frz0\alpha&H00&\pos(959.07,615.63)\fnVL TelingaterDisplay\blur7.89\bord7.62\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.74,0:02:12.78,Signs,,0,0,0,,{\fscx95.22\fscy95.22\frz0\alpha&H00&\pos(959.06,615.57)\fnVL TelingaterDisplay\blur7.89\bord7.62\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.78,0:02:12.82,Signs,,0,0,0,,{\fscx95.19\fscy95.19\frz0\alpha&H00&\pos(959.05,615.5)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.82,0:02:12.86,Signs,,0,0,0,,{\fscx95.15\fscy95.15\frz0\alpha&H00&\pos(959.04,615.44)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.86,0:02:12.90,Signs,,0,0,0,,{\fscx95.11\fscy95.11\frz0\alpha&H00&\pos(959.03,615.38)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.90,0:02:12.95,Signs,,0,0,0,,{\fscx95.07\fscy95.07\frz0\alpha&H00&\pos(959.02,615.32)\fnVL TelingaterDisplay\blur7.88\bord7.61\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.95,0:02:12.99,Signs,,0,0,0,,{\fscx95.03\fscy95.03\frz0\alpha&H00&\pos(959.02,615.26)\fnVL TelingaterDisplay\blur7.88\bord7.6\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:12.99,0:02:13.03,Signs,,0,0,0,,{\fscx95\fscy95\frz0\alpha&H00&\pos(959.01,615.2)\fnVL TelingaterDisplay\blur7.88\bord7.6\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.03,0:02:13.07,Signs,,0,0,0,,{\fscx94.96\fscy94.96\frz0\alpha&H00&\pos(959,615.14)\fnVL TelingaterDisplay\blur7.88\bord7.6\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.07,0:02:13.11,Signs,,0,0,0,,{\fscx94.92\fscy94.92\frz0\alpha&H00&\pos(958.99,615.08)\fnVL TelingaterDisplay\blur7.88\bord7.59\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.11,0:02:13.15,Signs,,0,0,0,,{\fscx94.88\fscy94.88\frz0\alpha&H00&\pos(958.98,615.02)\fnVL TelingaterDisplay\blur7.88\bord7.59\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.15,0:02:13.20,Signs,,0,0,0,,{\fscx94.85\fscy94.85\frz0\alpha&H00&\pos(958.97,614.96)\fnVL TelingaterDisplay\blur7.88\bord7.59\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.20,0:02:13.24,Signs,,0,0,0,,{\fscx94.81\fscy94.81\frz0\alpha&H00&\pos(958.96,614.9)\fnVL TelingaterDisplay\blur7.88\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.24,0:02:13.28,Signs,,0,0,0,,{\fscx94.77\fscy94.77\frz0\alpha&H00&\pos(958.95,614.84)\fnVL TelingaterDisplay\blur7.87\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.28,0:02:13.32,Signs,,0,0,0,,{\fscx94.73\fscy94.73\frz0\alpha&H00&\pos(958.95,614.78)\fnVL TelingaterDisplay\blur7.87\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.32,0:02:13.36,Signs,,0,0,0,,{\fscx94.69\fscy94.69\frz0\alpha&H00&\pos(958.94,614.72)\fnVL TelingaterDisplay\blur7.87\bord7.58\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.36,0:02:13.40,Signs,,0,0,0,,{\fscx94.65\fscy94.65\frz0\alpha&H00&\pos(958.94,614.66)\fnVL TelingaterDisplay\blur7.87\bord7.57\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.40,0:02:13.45,Signs,,0,0,0,,{\fscx94.61\fscy94.61\frz0\alpha&H00&\pos(958.93,614.6)\fnVL TelingaterDisplay\blur7.87\bord7.57\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.45,0:02:13.49,Signs,,0,0,0,,{\fscx94.57\fscy94.57\frz0\alpha&H00&\pos(958.92,614.54)\fnVL TelingaterDisplay\blur7.87\bord7.57\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.49,0:02:13.53,Signs,,0,0,0,,{\fscx94.54\fscy94.54\frz0\alpha&H00&\pos(958.91,614.48)\fnVL TelingaterDisplay\blur7.87\bord7.56\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.53,0:02:13.57,Signs,,0,0,0,,{\fscx94.5\fscy94.5\frz0\alpha&H00&\pos(958.9,614.42)\fnVL TelingaterDisplay\blur7.87\bord7.56\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.57,0:02:13.61,Signs,,0,0,0,,{\fscx94.46\fscy94.46\frz0\alpha&H00&\pos(958.89,614.36)\fnVL TelingaterDisplay\blur7.87\bord7.56\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.61,0:02:13.65,Signs,,0,0,0,,{\fscx94.42\fscy94.42\frz0\alpha&H00&\pos(958.88,614.3)\fnVL TelingaterDisplay\blur7.87\bord7.55\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.65,0:02:13.70,Signs,,0,0,0,,{\fscx94.39\fscy94.39\frz0\alpha&H00&\pos(958.87,614.24)\fnVL TelingaterDisplay\blur7.87\bord7.55\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.70,0:02:13.74,Signs,,0,0,0,,{\fscx94.35\fscy94.35\frz0\alpha&H00&\pos(958.86,614.18)\fnVL TelingaterDisplay\blur7.86\bord7.55\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.74,0:02:13.78,Signs,,0,0,0,,{\fscx94.31\fscy94.31\frz0\alpha&H00&\pos(958.85,614.13)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.78,0:02:13.82,Signs,,0,0,0,,{\fscx94.27\fscy94.27\frz0\alpha&H00&\pos(958.85,614.06)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.82,0:02:13.86,Signs,,0,0,0,,{\fscx94.23\fscy94.23\frz0\alpha&H00&\pos(958.84,614)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.86,0:02:13.91,Signs,,0,0,0,,{\fscx94.19\fscy94.19\frz0\alpha&H00&\pos(958.83,613.94)\fnVL TelingaterDisplay\blur7.86\bord7.54\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.91,0:02:13.95,Signs,,0,0,0,,{\fscx94.15\fscy94.15\frz0\alpha&H00&\pos(958.82,613.88)\fnVL TelingaterDisplay\blur7.86\bord7.53\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.95,0:02:13.99,Signs,,0,0,0,,{\fscx94.12\fscy94.12\frz0\alpha&H00&\pos(958.82,613.83)\fnVL TelingaterDisplay\blur7.86\bord7.53\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:13.99,0:02:14.03,Signs,,0,0,0,,{\fscx94.08\fscy94.08\frz0\alpha&H00&\pos(958.81,613.77)\fnVL TelingaterDisplay\blur7.86\bord7.53\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.03,0:02:14.07,Signs,,0,0,0,,{\fscx94.05\fscy94.05\frz0\alpha&H00&\pos(958.8,613.71)\fnVL TelingaterDisplay\blur7.86\bord7.52\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.07,0:02:14.11,Signs,,0,0,0,,{\fscx94.01\fscy94.01\frz0\alpha&H00&\pos(958.79,613.65)\fnVL TelingaterDisplay\blur7.86\bord7.52\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.11,0:02:14.16,Signs,,0,0,0,,{\fscx93.97\fscy93.97\frz0\alpha&H00&\pos(958.79,613.59)\fnVL TelingaterDisplay\blur7.86\bord7.52\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.16,0:02:14.20,Signs,,0,0,0,,{\fscx93.93\fscy93.93\frz0\alpha&H00&\pos(958.78,613.53)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.20,0:02:14.24,Signs,,0,0,0,,{\fscx93.89\fscy93.89\frz0\alpha&H00&\pos(958.77,613.47)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.24,0:02:14.28,Signs,,0,0,0,,{\fscx93.85\fscy93.85\frz0\alpha&H00&\pos(958.76,613.41)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.28,0:02:14.32,Signs,,0,0,0,,{\fscx93.82\fscy93.82\frz0\alpha&H00&\pos(958.76,613.35)\fnVL TelingaterDisplay\blur7.85\bord7.51\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.32,0:02:14.36,Signs,,0,0,0,,{\fscx93.78\fscy93.78\frz0\alpha&H00&\pos(958.75,613.29)\fnVL TelingaterDisplay\blur7.85\bord7.5\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.36,0:02:14.41,Signs,,0,0,0,,{\fscx93.74\fscy93.74\frz0\alpha&H00&\pos(958.74,613.22)\fnVL TelingaterDisplay\blur7.85\bord7.5\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.41,0:02:14.45,Signs,,0,0,0,,{\fscx93.7\fscy93.7\frz0\alpha&H00&\pos(958.73,613.17)\fnVL TelingaterDisplay\blur7.85\bord7.5\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.45,0:02:14.49,Signs,,0,0,0,,{\fscx93.66\fscy93.66\frz0\alpha&H00&\pos(958.72,613.1)\fnVL TelingaterDisplay\blur7.85\bord7.49\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.49,0:02:14.53,Signs,,0,0,0,,{\fscx93.63\fscy93.63\frz0\alpha&H00&\pos(958.71,613.05)\fnVL TelingaterDisplay\blur7.85\bord7.49\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.53,0:02:14.57,Signs,,0,0,0,,{\fscx93.59\fscy93.59\frz0\alpha&H00&\pos(958.7,612.98)\fnVL TelingaterDisplay\blur7.85\bord7.49\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.57,0:02:14.61,Signs,,0,0,0,,{\fscx93.55\fscy93.55\frz0\alpha&H00&\pos(958.69,612.93)\fnVL TelingaterDisplay\blur7.85\bord7.48\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.61,0:02:14.66,Signs,,0,0,0,,{\fscx93.51\fscy93.51\frz0\alpha&H00&\pos(958.69,612.87)\fnVL TelingaterDisplay\blur7.84\bord7.48\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.66,0:02:14.70,Signs,,0,0,0,,{\fscx93.47\fscy93.47\frz0\alpha&H00&\pos(958.68,612.81)\fnVL TelingaterDisplay\blur7.84\bord7.48\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.70,0:02:14.74,Signs,,0,0,0,,{\fscx93.43\fscy93.43\frz0\alpha&H00&\pos(958.67,612.74)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.74,0:02:14.78,Signs,,0,0,0,,{\fscx93.39\fscy93.39\frz0\alpha&H00&\pos(958.66,612.68)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.78,0:02:14.82,Signs,,0,0,0,,{\fscx93.36\fscy93.36\frz0\alpha&H00&\pos(958.65,612.62)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.82,0:02:14.86,Signs,,0,0,0,,{\fscx93.32\fscy93.32\frz0\alpha&H00&\pos(958.64,612.57)\fnVL TelingaterDisplay\blur7.84\bord7.47\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.86,0:02:14.91,Signs,,0,0,0,,{\fscx93.28\fscy93.28\frz0\alpha&H00&\pos(958.64,612.5)\fnVL TelingaterDisplay\blur7.84\bord7.46\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.91,0:02:14.95,Signs,,0,0,0,,{\fscx93.24\fscy93.24\frz0\alpha&H00&\pos(958.62,612.45)\fnVL TelingaterDisplay\blur7.84\bord7.46\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.95,0:02:14.99,Signs,,0,0,0,,{\fscx93.2\fscy93.2\frz0\alpha&H00&\pos(958.62,612.39)\fnVL TelingaterDisplay\blur7.84\bord7.46\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:14.99,0:02:15.03,Signs,,0,0,0,,{\fscx93.17\fscy93.17\frz0\alpha&H00&\pos(958.61,612.33)\fnVL TelingaterDisplay\blur7.84\bord7.45\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.03,0:02:15.07,Signs,,0,0,0,,{\fscx93.13\fscy93.13\frz0\alpha&H00&\pos(958.6,612.27)\fnVL TelingaterDisplay\blur7.84\bord7.45\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.07,0:02:15.11,Signs,,0,0,0,,{\fscx93.09\fscy93.09\frz0\alpha&H00&\pos(958.59,612.21)\fnVL TelingaterDisplay\blur7.83\bord7.45\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.11,0:02:15.16,Signs,,0,0,0,,{\fscx93.05\fscy93.05\frz0\alpha&H00&\pos(958.59,612.15)\fnVL TelingaterDisplay\blur7.83\bord7.44\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.16,0:02:15.20,Signs,,0,0,0,,{\fscx93.01\fscy93.01\frz0\alpha&H00&\pos(958.58,612.09)\fnVL TelingaterDisplay\blur7.83\bord7.44\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.20,0:02:15.24,Signs,,0,0,0,,{\fscx92.97\fscy92.97\frz0\alpha&H00&\pos(958.57,612.03)\fnVL TelingaterDisplay\blur7.83\bord7.44\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.24,0:02:15.28,Signs,,0,0,0,,{\fscx92.93\fscy92.93\frz0\alpha&H00&\pos(958.56,611.97)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.28,0:02:15.32,Signs,,0,0,0,,{\fscx92.9\fscy92.9\frz0\alpha&H00&\pos(958.56,611.91)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.32,0:02:15.37,Signs,,0,0,0,,{\fscx92.86\fscy92.86\frz0\alpha&H00&\pos(958.55,611.85)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.37,0:02:15.41,Signs,,0,0,0,,{\fscx92.82\fscy92.82\frz0\alpha&H00&\pos(958.54,611.79)\fnVL TelingaterDisplay\blur7.83\bord7.43\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.41,0:02:15.45,Signs,,0,0,0,,{\fscx92.78\fscy92.78\frz0\alpha&H00&\pos(958.53,611.73)\fnVL TelingaterDisplay\blur7.83\bord7.42\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.45,0:02:15.49,Signs,,0,0,0,,{\fscx92.74\fscy92.74\frz0\alpha&H00&\pos(958.52,611.67)\fnVL TelingaterDisplay\blur7.83\bord7.42\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.49,0:02:15.53,Signs,,0,0,0,,{\fscx92.71\fscy92.71\frz0\alpha&H00&\pos(958.51,611.61)\fnVL TelingaterDisplay\blur7.82\bord7.42\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.53,0:02:15.57,Signs,,0,0,0,,{\fscx92.67\fscy92.67\frz0\alpha&H00&\pos(958.5,611.55)\fnVL TelingaterDisplay\blur7.82\bord7.41\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.57,0:02:15.62,Signs,,0,0,0,,{\fscx92.63\fscy92.63\frz0\alpha&H00&\pos(958.49,611.49)\fnVL TelingaterDisplay\blur7.82\bord7.41\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.62,0:02:15.66,Signs,,0,0,0,,{\fscx92.59\fscy92.59\frz0\alpha&H00&\pos(958.48,611.43)\fnVL TelingaterDisplay\blur7.82\bord7.41\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.66,0:02:15.70,Signs,,0,0,0,,{\fscx92.55\fscy92.55\frz0\alpha&H00&\pos(958.47,611.37)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.70,0:02:15.74,Signs,,0,0,0,,{\fscx92.51\fscy92.51\frz0\alpha&H00&\pos(958.46,611.31)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.74,0:02:15.78,Signs,,0,0,0,,{\fscx92.48\fscy92.48\frz0\alpha&H00&\pos(958.45,611.25)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.78,0:02:15.82,Signs,,0,0,0,,{\fscx92.44\fscy92.44\frz0\alpha&H00&\pos(958.45,611.19)\fnVL TelingaterDisplay\blur7.82\bord7.4\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.82,0:02:15.87,Signs,,0,0,0,,{\fscx92.4\fscy92.4\frz0\alpha&H00&\pos(958.44,611.13)\fnVL TelingaterDisplay\blur7.82\bord7.39\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.87,0:02:15.91,Signs,,0,0,0,,{\fscx92.36\fscy92.36\frz0\alpha&H00&\pos(958.43,611.07)\fnVL TelingaterDisplay\blur7.82\bord7.39\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.91,0:02:15.95,Signs,,0,0,0,,{\fscx92.32\fscy92.32\frz0\alpha&H00&\pos(958.42,611.01)\fnVL TelingaterDisplay\blur7.82\bord7.39\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.95,0:02:15.99,Signs,,0,0,0,,{\fscx92.28\fscy92.28\frz0\alpha&H00&\pos(958.41,610.95)\fnVL TelingaterDisplay\blur7.81\bord7.38\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:15.99,0:02:16.03,Signs,,0,0,0,,{\fscx92.25\fscy92.25\frz0\alpha&H00&\pos(958.4,610.89)\fnVL TelingaterDisplay\blur7.81\bord7.38\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.03,0:02:16.07,Signs,,0,0,0,,{\fscx92.21\fscy92.21\frz0\alpha&H00&\pos(958.4,610.83)\fnVL TelingaterDisplay\blur7.81\bord7.38\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.07,0:02:16.12,Signs,,0,0,0,,{\fscx92.17\fscy92.17\frz0\alpha&H00&\pos(958.38,610.77)\fnVL TelingaterDisplay\blur7.81\bord7.37\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.12,0:02:16.16,Signs,,0,0,0,,{\fscx92.13\fscy92.13\frz0\alpha&H00&\pos(958.38,610.71)\fnVL TelingaterDisplay\blur7.81\bord7.37\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.16,0:02:16.20,Signs,,0,0,0,,{\fscx92.09\fscy92.09\frz0\alpha&H00&\pos(958.37,610.65)\fnVL TelingaterDisplay\blur7.81\bord7.37\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.20,0:02:16.24,Signs,,0,0,0,,{\fscx92.05\fscy92.05\frz0\alpha&H00&\pos(958.36,610.59)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.24,0:02:16.28,Signs,,0,0,0,,{\fscx92.01\fscy92.01\frz0\alpha&H00&\pos(958.35,610.53)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.28,0:02:16.32,Signs,,0,0,0,,{\fscx91.98\fscy91.98\frz0\alpha&H00&\pos(958.35,610.47)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.32,0:02:16.37,Signs,,0,0,0,,{\fscx91.94\fscy91.94\frz0\alpha&H00&\pos(958.34,610.41)\fnVL TelingaterDisplay\blur7.81\bord7.36\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.37,0:02:16.41,Signs,,0,0,0,,{\fscx91.9\fscy91.9\frz0\alpha&H00&\pos(958.33,610.34)\fnVL TelingaterDisplay\blur7.81\bord7.35\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.41,0:02:16.45,Signs,,0,0,0,,{\fscx91.86\fscy91.86\frz0\alpha&H00&\pos(958.31,610.29)\fnVL TelingaterDisplay\blur7.8\bord7.35\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.45,0:02:16.49,Signs,,0,0,0,,{\fscx91.82\fscy91.82\frz0\alpha&H00&\pos(958.31,610.23)\fnVL TelingaterDisplay\blur7.8\bord7.35\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.49,0:02:16.53,Signs,,0,0,0,,{\fscx91.79\fscy91.79\frz0\alpha&H00&\pos(958.3,610.17)\fnVL TelingaterDisplay\blur7.8\bord7.34\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.53,0:02:16.57,Signs,,0,0,0,,{\fscx91.75\fscy91.75\frz0\alpha&H00&\pos(958.29,610.11)\fnVL TelingaterDisplay\blur7.8\bord7.34\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.57,0:02:16.62,Signs,,0,0,0,,{\fscx91.71\fscy91.71\frz0\alpha&H00&\pos(958.28,610.05)\fnVL TelingaterDisplay\blur7.8\bord7.34\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.62,0:02:16.66,Signs,,0,0,0,,{\fscx91.67\fscy91.67\frz0\alpha&H00&\pos(958.27,609.99)\fnVL TelingaterDisplay\blur7.8\bord7.33\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.66,0:02:16.70,Signs,,0,0,0,,{\fscx91.63\fscy91.63\frz0\alpha&H00&\pos(958.27,609.93)\fnVL TelingaterDisplay\blur7.8\bord7.33\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.70,0:02:16.74,Signs,,0,0,0,,{\fscx91.59\fscy91.59\frz0\alpha&H00&\pos(958.26,609.87)\fnVL TelingaterDisplay\blur7.8\bord7.33\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.74,0:02:16.78,Signs,,0,0,0,,{\fscx91.56\fscy91.56\frz0\alpha&H00&\pos(958.25,609.81)\fnVL TelingaterDisplay\blur7.8\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.78,0:02:16.82,Signs,,0,0,0,,{\fscx91.52\fscy91.52\frz0\alpha&H00&\pos(958.24,609.75)\fnVL TelingaterDisplay\blur7.8\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.82,0:02:16.87,Signs,,0,0,0,,{\fscx91.48\fscy91.48\frz0\alpha&H00&\pos(958.23,609.69)\fnVL TelingaterDisplay\blur7.8\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.87,0:02:16.91,Signs,,0,0,0,,{\fscx91.44\fscy91.44\frz0\alpha&H00&\pos(958.22,609.63)\fnVL TelingaterDisplay\blur7.79\bord7.32\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.91,0:02:16.95,Signs,,0,0,0,,{\fscx91.4\fscy91.4\frz0\alpha&H00&\pos(958.21,609.57)\fnVL TelingaterDisplay\blur7.79\bord7.31\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.95,0:02:16.99,Signs,,0,0,0,,{\fscx91.37\fscy91.37\frz0\alpha&H00&\pos(958.2,609.51)\fnVL TelingaterDisplay\blur7.79\bord7.31\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:16.99,0:02:17.03,Signs,,0,0,0,,{\fscx91.33\fscy91.33\frz0\alpha&H00&\pos(958.19,609.45)\fnVL TelingaterDisplay\blur7.79\bord7.31\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.03,0:02:17.08,Signs,,0,0,0,,{\fscx91.29\fscy91.29\frz0\alpha&H00&\pos(958.18,609.38)\fnVL TelingaterDisplay\blur7.79\bord7.3\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.08,0:02:17.12,Signs,,0,0,0,,{\fscx91.25\fscy91.25\frz0\alpha&H00&\pos(958.17,609.33)\fnVL TelingaterDisplay\blur7.79\bord7.3\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.12,0:02:17.16,Signs,,0,0,0,,{\fscx91.21\fscy91.21\frz0\alpha&H00&\pos(958.16,609.27)\fnVL TelingaterDisplay\blur7.79\bord7.3\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.16,0:02:17.20,Signs,,0,0,0,,{\fscx91.17\fscy91.17\frz0\alpha&H00&\pos(958.16,609.21)\fnVL TelingaterDisplay\blur7.79\bord7.29\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.20,0:02:17.24,Signs,,0,0,0,,{\fscx91.14\fscy91.14\frz0\alpha&H00&\pos(958.15,609.15)\fnVL TelingaterDisplay\blur7.79\bord7.29\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.24,0:02:17.28,Signs,,0,0,0,,{\fscx91.1\fscy91.1\frz0\alpha&H00&\pos(958.14,609.09)\fnVL TelingaterDisplay\blur7.79\bord7.29\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.28,0:02:17.33,Signs,,0,0,0,,{\fscx91.06\fscy91.06\frz0\alpha&H00&\pos(958.14,609.03)\fnVL TelingaterDisplay\blur7.79\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.33,0:02:17.37,Signs,,0,0,0,,{\fscx91.02\fscy91.02\frz0\alpha&H00&\pos(958.13,608.97)\fnVL TelingaterDisplay\blur7.78\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.37,0:02:17.41,Signs,,0,0,0,,{\fscx90.98\fscy90.98\frz0\alpha&H00&\pos(958.12,608.91)\fnVL TelingaterDisplay\blur7.78\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.41,0:02:17.45,Signs,,0,0,0,,{\fscx90.94\fscy90.94\frz0\alpha&H00&\pos(958.11,608.85)\fnVL TelingaterDisplay\blur7.78\bord7.28\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.45,0:02:17.49,Signs,,0,0,0,,{\fscx90.91\fscy90.91\frz0\alpha&H00&\pos(958.1,608.79)\fnVL TelingaterDisplay\blur7.78\bord7.27\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.49,0:02:17.53,Signs,,0,0,0,,{\fscx90.87\fscy90.87\frz0\alpha&H00&\pos(958.09,608.73)\fnVL TelingaterDisplay\blur7.78\bord7.27\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.53,0:02:17.58,Signs,,0,0,0,,{\fscx90.83\fscy90.83\frz0\alpha&H00&\pos(958.08,608.67)\fnVL TelingaterDisplay\blur7.78\bord7.27\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.58,0:02:17.62,Signs,,0,0,0,,{\fscx90.79\fscy90.79\frz0\alpha&H00&\pos(958.07,608.61)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.62,0:02:17.66,Signs,,0,0,0,,{\fscx90.76\fscy90.76\frz0\alpha&H00&\pos(958.07,608.56)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.66,0:02:17.70,Signs,,0,0,0,,{\fscx90.73\fscy90.73\frz0\alpha&H00&\pos(958.06,608.51)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.70,0:02:17.74,Signs,,0,0,0,,{\fscx90.71\fscy90.71\frz0\alpha&H00&\pos(958.06,608.49)\fnVL TelingaterDisplay\blur7.78\bord7.26\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.74,0:02:17.78,Signs,,0,0,0,,{\fscx90.68\fscy90.68\frz0\alpha&H00&\pos(958.05,608.44)\fnVL TelingaterDisplay\blur7.78\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.78,0:02:17.83,Signs,,0,0,0,,{\fscx90.64\fscy90.64\frz0\alpha&H00&\pos(958.04,608.38)\fnVL TelingaterDisplay\blur7.78\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.83,0:02:17.87,Signs,,0,0,0,,{\fscx90.6\fscy90.6\frz0\alpha&H00&\pos(958.03,608.32)\fnVL TelingaterDisplay\blur7.77\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.87,0:02:17.91,Signs,,0,0,0,,{\fscx90.57\fscy90.57\frz0\alpha&H00&\pos(958.02,608.26)\fnVL TelingaterDisplay\blur7.77\bord7.25\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.91,0:02:17.95,Signs,,0,0,0,,{\fscx90.53\fscy90.53\frz0\alpha&H00&\pos(958.01,608.19)\fnVL TelingaterDisplay\blur7.77\bord7.24\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:17.95,0:02:17.99,Signs,,0,0,0,,{\fscx90.49\fscy90.49\frz0\alpha&H00&\pos(957.99,608.16)\fnVL TelingaterDisplay\blur7.77\bord7.24\fs90\c&H7469F1&\3c&H8983F3&\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.61,0:02:07.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(960,623)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.65,0:02:07.69,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.99,622.94)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.69,0:02:07.73,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.99,622.88)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.73,0:02:07.77,Signs,,0,0,0,,{\fscx99.89\fscy99.89\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.98,622.82)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.77,0:02:07.82,Signs,,0,0,0,,{\fscx99.84\fscy99.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.97,622.76)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.82,0:02:07.86,Signs,,0,0,0,,{\fscx99.8\fscy99.8\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.96,622.69)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.86,0:02:07.90,Signs,,0,0,0,,{\fscx99.76\fscy99.76\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.95,622.63)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.90,0:02:07.94,Signs,,0,0,0,,{\fscx99.73\fscy99.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.95,622.57)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.94,0:02:07.98,Signs,,0,0,0,,{\fscx99.69\fscy99.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.94,622.51)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.98,0:02:08.02,Signs,,0,0,0,,{\fscx99.65\fscy99.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.94,622.45)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.02,0:02:08.07,Signs,,0,0,0,,{\fscx99.61\fscy99.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.93,622.39)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.07,0:02:08.11,Signs,,0,0,0,,{\fscx99.58\fscy99.58\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.92,622.33)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.11,0:02:08.15,Signs,,0,0,0,,{\fscx99.54\fscy99.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.9,622.27)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.15,0:02:08.19,Signs,,0,0,0,,{\fscx99.5\fscy99.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.89,622.21)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.19,0:02:08.23,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.88,622.15)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.23,0:02:08.27,Signs,,0,0,0,,{\fscx99.42\fscy99.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.87,622.08)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.27,0:02:08.32,Signs,,0,0,0,,{\fscx99.38\fscy99.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.86,622.02)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.32,0:02:08.36,Signs,,0,0,0,,{\fscx99.34\fscy99.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.86,621.96)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.36,0:02:08.40,Signs,,0,0,0,,{\fscx99.3\fscy99.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.85,621.9)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.40,0:02:08.44,Signs,,0,0,0,,{\fscx99.26\fscy99.26\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.85,621.84)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.44,0:02:08.48,Signs,,0,0,0,,{\fscx99.22\fscy99.22\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.85,621.78)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.48,0:02:08.52,Signs,,0,0,0,,{\fscx99.19\fscy99.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.84,621.72)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.52,0:02:08.57,Signs,,0,0,0,,{\fscx99.15\fscy99.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.83,621.66)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.57,0:02:08.61,Signs,,0,0,0,,{\fscx99.11\fscy99.11\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.82,621.59)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.61,0:02:08.65,Signs,,0,0,0,,{\fscx99.07\fscy99.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.81,621.54)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.65,0:02:08.69,Signs,,0,0,0,,{\fscx99.04\fscy99.04\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.8,621.48)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.69,0:02:08.73,Signs,,0,0,0,,{\fscx99\fscy99\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.79,621.42)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.73,0:02:08.78,Signs,,0,0,0,,{\fscx98.96\fscy98.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.78,621.36)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.78,0:02:08.82,Signs,,0,0,0,,{\fscx98.92\fscy98.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.78,621.3)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.82,0:02:08.86,Signs,,0,0,0,,{\fscx98.88\fscy98.88\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.77,621.24)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.86,0:02:08.90,Signs,,0,0,0,,{\fscx98.84\fscy98.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.77,621.18)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.90,0:02:08.94,Signs,,0,0,0,,{\fscx98.8\fscy98.8\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.76,621.12)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.94,0:02:08.98,Signs,,0,0,0,,{\fscx98.77\fscy98.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.75,621.06)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:08.98,0:02:09.03,Signs,,0,0,0,,{\fscx98.73\fscy98.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.75,621)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.03,0:02:09.07,Signs,,0,0,0,,{\fscx98.69\fscy98.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.74,620.94)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.07,0:02:09.11,Signs,,0,0,0,,{\fscx98.65\fscy98.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.73,620.88)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.11,0:02:09.15,Signs,,0,0,0,,{\fscx98.61\fscy98.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.72,620.83)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.15,0:02:09.19,Signs,,0,0,0,,{\fscx98.58\fscy98.58\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.71,620.76)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.19,0:02:09.23,Signs,,0,0,0,,{\fscx98.54\fscy98.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.71,620.71)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.23,0:02:09.28,Signs,,0,0,0,,{\fscx98.5\fscy98.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.71,620.64)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.28,0:02:09.32,Signs,,0,0,0,,{\fscx98.46\fscy98.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.7,620.59)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.32,0:02:09.36,Signs,,0,0,0,,{\fscx98.42\fscy98.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.7,620.53)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.36,0:02:09.40,Signs,,0,0,0,,{\fscx98.38\fscy98.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.68,620.46)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.40,0:02:09.44,Signs,,0,0,0,,{\fscx98.34\fscy98.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.68,620.4)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.44,0:02:09.48,Signs,,0,0,0,,{\fscx98.31\fscy98.31\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.67,620.34)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.48,0:02:09.53,Signs,,0,0,0,,{\fscx98.27\fscy98.27\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.66,620.28)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.53,0:02:09.57,Signs,,0,0,0,,{\fscx98.23\fscy98.23\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.65,620.22)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.57,0:02:09.61,Signs,,0,0,0,,{\fscx98.19\fscy98.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.65,620.16)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.61,0:02:09.65,Signs,,0,0,0,,{\fscx98.15\fscy98.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.63,620.11)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.65,0:02:09.69,Signs,,0,0,0,,{\fscx98.12\fscy98.12\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.63,620.05)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.69,0:02:09.73,Signs,,0,0,0,,{\fscx98.08\fscy98.08\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.62,619.99)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.73,0:02:09.78,Signs,,0,0,0,,{\fscx98.04\fscy98.04\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.61,619.93)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.78,0:02:09.82,Signs,,0,0,0,,{\fscx98\fscy98\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.6,619.87)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.82,0:02:09.86,Signs,,0,0,0,,{\fscx97.96\fscy97.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.59,619.81)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.86,0:02:09.90,Signs,,0,0,0,,{\fscx97.92\fscy97.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.8\fs90\pos(959.58,619.75)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.90,0:02:09.94,Signs,,0,0,0,,{\fscx97.88\fscy97.88\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.57,619.69)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.94,0:02:09.98,Signs,,0,0,0,,{\fscx97.84\fscy97.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.56,619.63)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:09.98,0:02:10.03,Signs,,0,0,0,,{\fscx97.81\fscy97.81\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.56,619.57)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.03,0:02:10.07,Signs,,0,0,0,,{\fscx97.77\fscy97.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.55,619.52)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.07,0:02:10.11,Signs,,0,0,0,,{\fscx97.73\fscy97.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.54,619.46)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.11,0:02:10.15,Signs,,0,0,0,,{\fscx97.69\fscy97.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.53,619.4)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.15,0:02:10.19,Signs,,0,0,0,,{\fscx97.65\fscy97.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.53,619.34)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.19,0:02:10.23,Signs,,0,0,0,,{\fscx97.61\fscy97.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.52,619.28)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.23,0:02:10.28,Signs,,0,0,0,,{\fscx97.57\fscy97.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.52,619.22)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.28,0:02:10.32,Signs,,0,0,0,,{\fscx97.53\fscy97.53\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.51,619.16)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.32,0:02:10.36,Signs,,0,0,0,,{\fscx97.49\fscy97.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.5,619.1)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.36,0:02:10.40,Signs,,0,0,0,,{\fscx97.46\fscy97.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.49,619.04)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.40,0:02:10.44,Signs,,0,0,0,,{\fscx97.42\fscy97.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.48,618.98)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.44,0:02:10.49,Signs,,0,0,0,,{\fscx97.38\fscy97.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.47,618.92)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.49,0:02:10.53,Signs,,0,0,0,,{\fscx97.34\fscy97.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.47,618.86)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.53,0:02:10.57,Signs,,0,0,0,,{\fscx97.3\fscy97.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.46,618.8)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.57,0:02:10.61,Signs,,0,0,0,,{\fscx97.26\fscy97.26\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.45,618.74)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.61,0:02:10.65,Signs,,0,0,0,,{\fscx97.23\fscy97.23\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.44,618.68)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.65,0:02:10.69,Signs,,0,0,0,,{\fscx97.19\fscy97.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.43,618.62)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.69,0:02:10.74,Signs,,0,0,0,,{\fscx97.15\fscy97.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.42,618.56)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.74,0:02:10.78,Signs,,0,0,0,,{\fscx97.11\fscy97.11\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.42,618.5)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.78,0:02:10.82,Signs,,0,0,0,,{\fscx97.07\fscy97.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.4,618.44)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.82,0:02:10.86,Signs,,0,0,0,,{\fscx97.03\fscy97.03\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.4,618.38)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.86,0:02:10.90,Signs,,0,0,0,,{\fscx97\fscy97\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.4,618.32)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\fscx96.96\fscy96.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.39,618.26)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.94,0:02:10.99,Signs,,0,0,0,,{\fscx96.92\fscy96.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.39,618.2)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:10.99,0:02:11.03,Signs,,0,0,0,,{\fscx96.87\fscy96.87\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.38,618.13)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.03,0:02:11.07,Signs,,0,0,0,,{\fscx96.82\fscy96.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.37,618.05)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.07,0:02:11.11,Signs,,0,0,0,,{\fscx96.77\fscy96.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.35,617.96)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.11,0:02:11.15,Signs,,0,0,0,,{\fscx96.73\fscy96.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.35,617.91)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.15,0:02:11.19,Signs,,0,0,0,,{\fscx96.69\fscy96.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.34,617.84)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.19,0:02:11.24,Signs,,0,0,0,,{\fscx96.65\fscy96.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.33,617.79)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.24,0:02:11.28,Signs,,0,0,0,,{\fscx96.62\fscy96.62\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.32,617.72)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.28,0:02:11.32,Signs,,0,0,0,,{\fscx96.58\fscy96.58\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.31,617.66)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.32,0:02:11.36,Signs,,0,0,0,,{\fscx96.54\fscy96.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.3,617.62)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.36,0:02:11.40,Signs,,0,0,0,,{\fscx96.5\fscy96.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.3,617.53)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.40,0:02:11.44,Signs,,0,0,0,,{\fscx96.46\fscy96.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.29,617.46)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.44,0:02:11.49,Signs,,0,0,0,,{\fscx96.41\fscy96.41\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.28,617.38)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.49,0:02:11.53,Signs,,0,0,0,,{\fscx96.37\fscy96.37\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.27,617.32)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.53,0:02:11.57,Signs,,0,0,0,,{\fscx96.33\fscy96.33\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.27,617.26)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.57,0:02:11.61,Signs,,0,0,0,,{\fscx96.3\fscy96.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.21)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.61,0:02:11.65,Signs,,0,0,0,,{\fscx96.25\fscy96.25\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.14)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.65,0:02:11.69,Signs,,0,0,0,,{\fscx96.21\fscy96.21\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.08)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.69,0:02:11.74,Signs,,0,0,0,,{\fscx96.18\fscy96.18\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,617.02)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.74,0:02:11.78,Signs,,0,0,0,,{\fscx96.14\fscy96.14\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,616.97)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.78,0:02:11.82,Signs,,0,0,0,,{\fscx96.1\fscy96.1\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,616.9)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.82,0:02:11.86,Signs,,0,0,0,,{\fscx96.07\fscy96.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.26,616.83)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.86,0:02:11.90,Signs,,0,0,0,,{\fscx96.03\fscy96.03\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.25,616.79)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.90,0:02:11.94,Signs,,0,0,0,,{\fscx95.99\fscy95.99\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.24,616.75)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.94,0:02:11.99,Signs,,0,0,0,,{\fscx95.95\fscy95.95\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.23,616.69)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:11.99,0:02:12.03,Signs,,0,0,0,,{\fscx95.91\fscy95.91\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.22,616.63)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.03,0:02:12.07,Signs,,0,0,0,,{\fscx95.87\fscy95.87\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.21,616.57)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.07,0:02:12.11,Signs,,0,0,0,,{\fscx95.84\fscy95.84\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.2,616.51)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.11,0:02:12.15,Signs,,0,0,0,,{\fscx95.8\fscy95.8\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.19,616.45)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.15,0:02:12.20,Signs,,0,0,0,,{\fscx95.76\fscy95.76\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.18,616.4)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.20,0:02:12.24,Signs,,0,0,0,,{\fscx95.73\fscy95.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.18,616.34)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.24,0:02:12.28,Signs,,0,0,0,,{\fscx95.69\fscy95.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.17,616.29)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.28,0:02:12.32,Signs,,0,0,0,,{\fscx95.65\fscy95.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.16,616.22)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.32,0:02:12.36,Signs,,0,0,0,,{\fscx95.61\fscy95.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.15,616.16)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.36,0:02:12.40,Signs,,0,0,0,,{\fscx95.57\fscy95.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.15,616.1)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.40,0:02:12.45,Signs,,0,0,0,,{\fscx95.53\fscy95.53\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.14,616.04)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.45,0:02:12.49,Signs,,0,0,0,,{\fscx95.49\fscy95.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.13,615.98)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.49,0:02:12.53,Signs,,0,0,0,,{\fscx95.46\fscy95.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.12,615.93)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.53,0:02:12.57,Signs,,0,0,0,,{\fscx95.42\fscy95.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.11,615.87)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.57,0:02:12.61,Signs,,0,0,0,,{\fscx95.38\fscy95.38\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.1,615.81)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.61,0:02:12.65,Signs,,0,0,0,,{\fscx95.34\fscy95.34\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.09,615.75)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.65,0:02:12.70,Signs,,0,0,0,,{\fscx95.3\fscy95.3\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.08,615.69)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.70,0:02:12.74,Signs,,0,0,0,,{\fscx95.26\fscy95.26\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.07,615.63)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.74,0:02:12.78,Signs,,0,0,0,,{\fscx95.22\fscy95.22\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.06,615.57)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.78,0:02:12.82,Signs,,0,0,0,,{\fscx95.19\fscy95.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.05,615.5)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.82,0:02:12.86,Signs,,0,0,0,,{\fscx95.15\fscy95.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.04,615.44)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.86,0:02:12.90,Signs,,0,0,0,,{\fscx95.11\fscy95.11\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.03,615.38)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.90,0:02:12.95,Signs,,0,0,0,,{\fscx95.07\fscy95.07\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.02,615.32)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.95,0:02:12.99,Signs,,0,0,0,,{\fscx95.03\fscy95.03\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.02,615.26)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:12.99,0:02:13.03,Signs,,0,0,0,,{\fscx95\fscy95\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959.01,615.2)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.03,0:02:13.07,Signs,,0,0,0,,{\fscx94.96\fscy94.96\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(959,615.14)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.07,0:02:13.11,Signs,,0,0,0,,{\fscx94.92\fscy94.92\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.99,615.08)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.11,0:02:13.15,Signs,,0,0,0,,{\fscx94.88\fscy94.88\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.98,615.02)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.15,0:02:13.20,Signs,,0,0,0,,{\fscx94.85\fscy94.85\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.97,614.96)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.20,0:02:13.24,Signs,,0,0,0,,{\fscx94.81\fscy94.81\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.96,614.9)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.24,0:02:13.28,Signs,,0,0,0,,{\fscx94.77\fscy94.77\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.95,614.84)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.28,0:02:13.32,Signs,,0,0,0,,{\fscx94.73\fscy94.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.95,614.78)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.32,0:02:13.36,Signs,,0,0,0,,{\fscx94.69\fscy94.69\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.94,614.72)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.36,0:02:13.40,Signs,,0,0,0,,{\fscx94.65\fscy94.65\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.94,614.66)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.40,0:02:13.45,Signs,,0,0,0,,{\fscx94.61\fscy94.61\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.93,614.6)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.45,0:02:13.49,Signs,,0,0,0,,{\fscx94.57\fscy94.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.92,614.54)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.49,0:02:13.53,Signs,,0,0,0,,{\fscx94.54\fscy94.54\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.91,614.48)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.53,0:02:13.57,Signs,,0,0,0,,{\fscx94.5\fscy94.5\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.9,614.42)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.57,0:02:13.61,Signs,,0,0,0,,{\fscx94.46\fscy94.46\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.89,614.36)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.61,0:02:13.65,Signs,,0,0,0,,{\fscx94.42\fscy94.42\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.88,614.3)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.65,0:02:13.70,Signs,,0,0,0,,{\fscx94.39\fscy94.39\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.87,614.24)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.70,0:02:13.74,Signs,,0,0,0,,{\fscx94.35\fscy94.35\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.86,614.18)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.74,0:02:13.78,Signs,,0,0,0,,{\fscx94.31\fscy94.31\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.85,614.13)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.78,0:02:13.82,Signs,,0,0,0,,{\fscx94.27\fscy94.27\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.85,614.06)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.82,0:02:13.86,Signs,,0,0,0,,{\fscx94.23\fscy94.23\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.84,614)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.86,0:02:13.91,Signs,,0,0,0,,{\fscx94.19\fscy94.19\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.83,613.94)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.91,0:02:13.95,Signs,,0,0,0,,{\fscx94.15\fscy94.15\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.82,613.88)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.95,0:02:13.99,Signs,,0,0,0,,{\fscx94.12\fscy94.12\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.82,613.83)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:13.99,0:02:14.03,Signs,,0,0,0,,{\fscx94.08\fscy94.08\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.81,613.77)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.03,0:02:14.07,Signs,,0,0,0,,{\fscx94.05\fscy94.05\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.8,613.71)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.07,0:02:14.11,Signs,,0,0,0,,{\fscx94.01\fscy94.01\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.79,613.65)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.11,0:02:14.16,Signs,,0,0,0,,{\fscx93.97\fscy93.97\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.79,613.59)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.16,0:02:14.20,Signs,,0,0,0,,{\fscx93.93\fscy93.93\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.78,613.53)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.20,0:02:14.24,Signs,,0,0,0,,{\fscx93.89\fscy93.89\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.77,613.47)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.24,0:02:14.28,Signs,,0,0,0,,{\fscx93.85\fscy93.85\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.76,613.41)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.28,0:02:14.32,Signs,,0,0,0,,{\fscx93.82\fscy93.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.76,613.35)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.32,0:02:14.36,Signs,,0,0,0,,{\fscx93.78\fscy93.78\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.79\fs90\pos(958.75,613.29)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.36,0:02:14.41,Signs,,0,0,0,,{\fscx93.74\fscy93.74\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.74,613.22)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.41,0:02:14.45,Signs,,0,0,0,,{\fscx93.7\fscy93.7\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.73,613.17)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.45,0:02:14.49,Signs,,0,0,0,,{\fscx93.66\fscy93.66\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.72,613.1)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.49,0:02:14.53,Signs,,0,0,0,,{\fscx93.63\fscy93.63\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.71,613.05)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.53,0:02:14.57,Signs,,0,0,0,,{\fscx93.59\fscy93.59\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.7,612.98)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.57,0:02:14.61,Signs,,0,0,0,,{\fscx93.55\fscy93.55\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.69,612.93)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.61,0:02:14.66,Signs,,0,0,0,,{\fscx93.51\fscy93.51\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.69,612.87)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.66,0:02:14.70,Signs,,0,0,0,,{\fscx93.47\fscy93.47\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.68,612.81)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.70,0:02:14.74,Signs,,0,0,0,,{\fscx93.43\fscy93.43\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.67,612.74)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.74,0:02:14.78,Signs,,0,0,0,,{\fscx93.39\fscy93.39\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.66,612.68)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.78,0:02:14.82,Signs,,0,0,0,,{\fscx93.36\fscy93.36\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.65,612.62)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.82,0:02:14.86,Signs,,0,0,0,,{\fscx93.32\fscy93.32\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.64,612.57)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.86,0:02:14.91,Signs,,0,0,0,,{\fscx93.28\fscy93.28\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.64,612.5)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.91,0:02:14.95,Signs,,0,0,0,,{\fscx93.24\fscy93.24\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.62,612.45)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.95,0:02:14.99,Signs,,0,0,0,,{\fscx93.2\fscy93.2\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.62,612.39)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:14.99,0:02:15.03,Signs,,0,0,0,,{\fscx93.17\fscy93.17\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.61,612.33)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.03,0:02:15.07,Signs,,0,0,0,,{\fscx93.13\fscy93.13\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.6,612.27)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.07,0:02:15.11,Signs,,0,0,0,,{\fscx93.09\fscy93.09\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.59,612.21)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.11,0:02:15.16,Signs,,0,0,0,,{\fscx93.05\fscy93.05\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.59,612.15)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.16,0:02:15.20,Signs,,0,0,0,,{\fscx93.01\fscy93.01\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.58,612.09)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.20,0:02:15.24,Signs,,0,0,0,,{\fscx92.97\fscy92.97\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.57,612.03)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.24,0:02:15.28,Signs,,0,0,0,,{\fscx92.93\fscy92.93\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.56,611.97)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.28,0:02:15.32,Signs,,0,0,0,,{\fscx92.9\fscy92.9\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.56,611.91)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.32,0:02:15.37,Signs,,0,0,0,,{\fscx92.86\fscy92.86\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.55,611.85)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.37,0:02:15.41,Signs,,0,0,0,,{\fscx92.82\fscy92.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.54,611.79)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.41,0:02:15.45,Signs,,0,0,0,,{\fscx92.78\fscy92.78\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.53,611.73)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.45,0:02:15.49,Signs,,0,0,0,,{\fscx92.74\fscy92.74\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.52,611.67)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.49,0:02:15.53,Signs,,0,0,0,,{\fscx92.71\fscy92.71\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.51,611.61)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.53,0:02:15.57,Signs,,0,0,0,,{\fscx92.67\fscy92.67\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.5,611.55)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.57,0:02:15.62,Signs,,0,0,0,,{\fscx92.63\fscy92.63\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.49,611.49)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.62,0:02:15.66,Signs,,0,0,0,,{\fscx92.59\fscy92.59\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.48,611.43)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.66,0:02:15.70,Signs,,0,0,0,,{\fscx92.55\fscy92.55\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.47,611.37)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.70,0:02:15.74,Signs,,0,0,0,,{\fscx92.51\fscy92.51\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.46,611.31)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.74,0:02:15.78,Signs,,0,0,0,,{\fscx92.48\fscy92.48\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.45,611.25)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.78,0:02:15.82,Signs,,0,0,0,,{\fscx92.44\fscy92.44\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.45,611.19)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.82,0:02:15.87,Signs,,0,0,0,,{\fscx92.4\fscy92.4\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.44,611.13)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.87,0:02:15.91,Signs,,0,0,0,,{\fscx92.36\fscy92.36\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.43,611.07)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.91,0:02:15.95,Signs,,0,0,0,,{\fscx92.32\fscy92.32\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.42,611.01)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.95,0:02:15.99,Signs,,0,0,0,,{\fscx92.28\fscy92.28\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.41,610.95)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:15.99,0:02:16.03,Signs,,0,0,0,,{\fscx92.25\fscy92.25\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.4,610.89)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.03,0:02:16.07,Signs,,0,0,0,,{\fscx92.21\fscy92.21\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.4,610.83)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.07,0:02:16.12,Signs,,0,0,0,,{\fscx92.17\fscy92.17\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.38,610.77)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.12,0:02:16.16,Signs,,0,0,0,,{\fscx92.13\fscy92.13\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.38,610.71)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.16,0:02:16.20,Signs,,0,0,0,,{\fscx92.09\fscy92.09\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.37,610.65)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.20,0:02:16.24,Signs,,0,0,0,,{\fscx92.05\fscy92.05\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.36,610.59)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.24,0:02:16.28,Signs,,0,0,0,,{\fscx92.01\fscy92.01\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.35,610.53)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.28,0:02:16.32,Signs,,0,0,0,,{\fscx91.98\fscy91.98\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.35,610.47)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.32,0:02:16.37,Signs,,0,0,0,,{\fscx91.94\fscy91.94\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.34,610.41)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.37,0:02:16.41,Signs,,0,0,0,,{\fscx91.9\fscy91.9\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.33,610.34)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.41,0:02:16.45,Signs,,0,0,0,,{\fscx91.86\fscy91.86\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.31,610.29)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.45,0:02:16.49,Signs,,0,0,0,,{\fscx91.82\fscy91.82\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.31,610.23)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.49,0:02:16.53,Signs,,0,0,0,,{\fscx91.79\fscy91.79\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.3,610.17)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.53,0:02:16.57,Signs,,0,0,0,,{\fscx91.75\fscy91.75\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.29,610.11)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.57,0:02:16.62,Signs,,0,0,0,,{\fscx91.71\fscy91.71\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.28,610.05)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.62,0:02:16.66,Signs,,0,0,0,,{\fscx91.67\fscy91.67\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.27,609.99)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.66,0:02:16.70,Signs,,0,0,0,,{\fscx91.63\fscy91.63\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.27,609.93)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.70,0:02:16.74,Signs,,0,0,0,,{\fscx91.59\fscy91.59\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.26,609.87)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.74,0:02:16.78,Signs,,0,0,0,,{\fscx91.56\fscy91.56\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.25,609.81)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.78,0:02:16.82,Signs,,0,0,0,,{\fscx91.52\fscy91.52\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.24,609.75)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.82,0:02:16.87,Signs,,0,0,0,,{\fscx91.48\fscy91.48\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.23,609.69)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.87,0:02:16.91,Signs,,0,0,0,,{\fscx91.44\fscy91.44\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.22,609.63)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.91,0:02:16.95,Signs,,0,0,0,,{\fscx91.4\fscy91.4\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.21,609.57)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.95,0:02:16.99,Signs,,0,0,0,,{\fscx91.37\fscy91.37\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.2,609.51)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:16.99,0:02:17.03,Signs,,0,0,0,,{\fscx91.33\fscy91.33\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.19,609.45)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.03,0:02:17.08,Signs,,0,0,0,,{\fscx91.29\fscy91.29\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.18,609.38)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.08,0:02:17.12,Signs,,0,0,0,,{\fscx91.25\fscy91.25\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.17,609.33)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.12,0:02:17.16,Signs,,0,0,0,,{\fscx91.21\fscy91.21\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.16,609.27)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.16,0:02:17.20,Signs,,0,0,0,,{\fscx91.17\fscy91.17\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.16,609.21)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.20,0:02:17.24,Signs,,0,0,0,,{\fscx91.14\fscy91.14\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.15,609.15)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.24,0:02:17.28,Signs,,0,0,0,,{\fscx91.1\fscy91.1\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.14,609.09)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.28,0:02:17.33,Signs,,0,0,0,,{\fscx91.06\fscy91.06\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.14,609.03)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.33,0:02:17.37,Signs,,0,0,0,,{\fscx91.02\fscy91.02\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.13,608.97)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.37,0:02:17.41,Signs,,0,0,0,,{\fscx90.98\fscy90.98\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.12,608.91)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.41,0:02:17.45,Signs,,0,0,0,,{\fscx90.94\fscy90.94\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.11,608.85)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.45,0:02:17.49,Signs,,0,0,0,,{\fscx90.91\fscy90.91\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.1,608.79)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.49,0:02:17.53,Signs,,0,0,0,,{\fscx90.87\fscy90.87\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.09,608.73)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.53,0:02:17.58,Signs,,0,0,0,,{\fscx90.83\fscy90.83\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.08,608.67)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.58,0:02:17.62,Signs,,0,0,0,,{\fscx90.79\fscy90.79\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.07,608.61)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.62,0:02:17.66,Signs,,0,0,0,,{\fscx90.76\fscy90.76\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.07,608.56)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.66,0:02:17.70,Signs,,0,0,0,,{\fscx90.73\fscy90.73\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.06,608.51)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.70,0:02:17.74,Signs,,0,0,0,,{\fscx90.71\fscy90.71\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.06,608.49)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.74,0:02:17.78,Signs,,0,0,0,,{\fscx90.68\fscy90.68\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.05,608.44)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.78,0:02:17.83,Signs,,0,0,0,,{\fscx90.64\fscy90.64\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.04,608.38)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.83,0:02:17.87,Signs,,0,0,0,,{\fscx90.6\fscy90.6\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.03,608.32)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.87,0:02:17.91,Signs,,0,0,0,,{\fscx90.57\fscy90.57\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.02,608.26)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.91,0:02:17.95,Signs,,0,0,0,,{\fscx90.53\fscy90.53\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(958.01,608.19)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:17.95,0:02:17.99,Signs,,0,0,0,,{\fscx90.49\fscy90.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(957.99,608.16)\fsp6} Yêu Ma Quái Truyện
+Dialogue: 0,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\pos(960,623)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&HFFFFFF&\3cHFFFFFF&\fsp6\t(-13,487,\c&H7469F1&\3c&H8983F3&)} Yêu Ma Quái Truyện
+Dialogue: 1,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\fnVL TelingaterDisplay\blur0.8\fs90\pos(960,623)\fsp6} Yêu Ma Quái Truyện
 Comment: 0,0:23:30.01,0:23:30.01,Main,sync.ED,0,0,0,,{ED}
 Dialogue: 0,0:23:48.07,0:23:50.87,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&\4c&H0000FB&}"Kia là Sao Thiên Tân, Sao Ngưu Lang và Sao Chức Nữ đấy"
 Dialogue: 1,0:23:50.87,0:23:53.95,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&}Chàng vừa nói vừa chỉ vào Tam Giác Mùa Hè.

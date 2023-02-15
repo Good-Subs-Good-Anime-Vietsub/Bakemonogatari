@@ -9,6 +9,9 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Scroll Position: 12
+Active Line: 8
+Video Position: 31672
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,6 +37,12 @@ Comment: 7,0:19:07.92,0:19:10.17,Signs,,0,0,0,nTS,Âm lượng
 Comment: 7,0:19:45.25,0:19:47.95,Signs,,0,0,0,nTS,Nói
 Comment: 7,0:19:47.96,0:19:55.34,Signs,,0,0,0,nTS,Cấm đi
 Comment: 7,0:19:55.34,0:19:57.55,Signs,,0,0,0,nTS,Chạy
+Comment: 7,0:20:20.45,0:20:20.95,Signs,,0,0,0,nTS,Dừng
+Comment: 7,0:20:31.92,0:20:32.63,Signs,,0,0,0,nTS,Nghĩ
+Comment: 7,0:20:39.59,0:20:40.59,Signs,,0,0,0,nTS,Đỏ
+Comment: 7,0:20:40.59,0:20:41.60,Signs,,0,0,0,nTS,Xanh
+Comment: 7,0:20:41.60,0:20:42.60,Signs,,0,0,0,nTS,Vàng
+Comment: 7,0:20:42.60,0:20:46.81,Signs,,0,0,0,nTS,Hạnh Phúc
 Comment: 7,0:21:07.41,0:21:09.29,Signs,,0,0,0,nTS,Chạy/Đi
 Comment: 7,0:21:09.29,0:21:11.25,Signs,,0,0,0,nTS,Nam/Nữ
 Comment: 7,0:21:31.85,0:21:32.35,Signs,,0,0,0,nTS,Nói
@@ -41,3 +50,4 @@ Comment: 7,0:21:51.54,0:21:52.92,Signs,,0,0,0,nTS,Người yêu
 Comment: 7,0:21:52.92,0:21:54.42,Signs,,0,0,0,nTS,Nói
 Comment: 7,0:21:54.42,0:21:56.59,Signs,,0,0,0,nTS,Nói
 Comment: 7,0:21:56.59,0:21:58.63,Signs,,0,0,0,nTS,Chết
+Comment: 7,0:22:00.97,0:22:02.72,Signs,,0,0,0,nTS,Cúp
