@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 05 (BD 1080p Hi10 Opus) [1E10A491].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 384
-Active Line: 395
-Video Position: 36995
+Scroll Position: 201
+Active Line: 219
+Video Position: 21398
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -251,7 +251,7 @@ Dialogue: 6,0:14:31.98,0:14:35.15,Main,,0,0,0,,{\i1}Vì thế mà giả vờ nh�
 Dialogue: 6,0:14:36.86,0:14:37.90,Main,,0,0,0,,Hiểu rồi.
 Dialogue: 6,0:14:39.90,0:14:43.36,Main,,0,0,0,,{\i1}Vậy kẻ đụng phải Ốc Sên... ra là mình?
 Dialogue: 6,0:14:43.36,0:14:46.70,Main,,0,0,0,,Araragi-kun, đây là điều mà Oshino-san đã nói.
-Dialogue: 6,0:14:46.70,0:14:52.50,Main,,0,0,0,,Điều kiện để đụng phải Bò Lạc \Nlà không muốn về nhà.
+Dialogue: 6,0:14:46.70,0:14:52.50,Main,,0,0,0,,Điều kiện để đụng phải Bò Lạc \Nlà khao khát không muốn về nhà.
 Dialogue: 6,0:14:53.58,0:14:56.79,Main,,0,0,0,,Nhưng ai mà chả có lúc như vậy.
 Dialogue: 6,0:14:56.79,0:14:59.34,Main,,0,0,0,,Mỗi cây mỗi hoa, mỗi nhà mỗi cảnh.
 Dialogue: 6,0:15:01.55,0:15:03.76,Main,,0,0,0,,{\i1}Cậu ấy cũng thế.
