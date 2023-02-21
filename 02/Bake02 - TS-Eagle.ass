@@ -5,11 +5,20 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Position: 10812
+Audio File: ../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 02v2 [C0303824].mkv
+Video File: ../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 02v2 [C0303824].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Scroll Position: 306
+Active Line: 308
+Video Position: 30415
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,24 +32,318 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\pos(1060.84,537.77)}Cuộc Đua Shinzan Kinen
-Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H253C44&\pos(350.84,509.77)}Đến tháng
-Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H586F74&\pos(770.84,607.77)}Danh lam thắng cảnh\N Công viên Nara
-Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H586F74&\pos(318.84,451.77)}Thiếu niên \NThám Tử Không Tưởng
-Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H586F74&\fscx47\fscy47\pos(870.84,473.77)}Tóc Harukaze hân hạnh giới thiệu dầu gội đầu được các chuyên gia hàng đầu khuyên dùng
-Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H586F74&\fscx47\fscy47\pos(862.84,621.77)}Phù hợp với da đầu dùng thuốc
-Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H3A4952&\fscx99\fscy99\pos(1378.84,343.77)}Nhiều học sinh \Ntiểu học \Nbị sốt phát ban
-Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H3A4952&\fscx61\fscy61\pos(1329.24,902.17)}Đến mức cả phụ nữ người lớn \Ncũng bị ảnh hưởng
-Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H55666F&\fscx43\fscy43\pos(1001.24,255.59)}Tóc là sinh mệnh của phụ nữ
-Dialogue: 0,0:08:24.82,0:08:27.32,Signs,,0,0,0,nTS,{\c&H55666F&\fscx145\fscy145\pos(773.24,305.59)}Đặc hiệu \Nchữa Sốt,\N Cảm lạnh
-Dialogue: 0,0:08:28.78,0:08:29.70,Signs,,0,0,0,nTS,{\c&H2F3B43&\fscx63\fscy63\pos(648.24,124.59)}Du lịch đi bộ và thưởng thức Cua dọc bán đảo Kamchatka
-Dialogue: 0,0:08:28.78,0:08:29.70,Signs,,0,0,0,nTS,{\c&H2F3B43&\an7\fscx54\fscy54\pos(984.24,583.79)}Thành phố lạnh cóng, \Ncon người lạnh cóng, \Nnghiền nhỏ xay nhuyễn, đá bào
-Dialogue: 0,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnGentium Basic\b1\blur2\bord0\shad0\c&H2F45FE&\1a&HA2&\pos(718.17,677.29)\fscx177\fscy177}Cua
-Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnGentium Basic\b1\blur1\bord0\shad0\c&H2F45FE&\1a&H00&\pos(718.17,677.29)\fscx177\fscy177}Cua
-Dialogue: 0,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnGentium Basic\b1\blur2\bord0\shad0\c&H2F45FE&\1a&HA2&\pos(718.17,677.29)\fscx177\fscy177}Cua
-Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnGentium Basic\b1\blur1\bord0\shad0\c&H2F45FE&\1a&H00&\pos(718.17,677.29)\fscx177\fscy177}Cua
-Dialogue: 0,0:21:06.12,0:21:08.58,Signs,,0,0,0,nTS,{\fnGentium Basic\pos(176,622.66)\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&}Nhật
-Dialogue: 0,0:21:06.12,0:21:08.58,Signs,,0,0,0,nTS,{\fnGentium Basic\pos(1752.67,619.33)\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&}Bản
-Dialogue: 1,0:21:06.12,0:21:08.58,Signs,,0,0,0,nTS,{\fnGentium Basic\pos(176,622.66)\b1\blur0.8\bord0\shad0}Nhật
-Dialogue: 1,0:21:06.12,0:21:08.58,Signs,,0,0,0,nTS,{\fnGentium Basic\pos(1752.67,619.33)\blur0.8\bord0\shad0\b1}Bản
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(872,810.28)}Cuộc
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(870.86,846.33846.33)}Đua
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(1182.86,810.28)}Shinzan
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(1177.42,846.33)}Kinen
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&HEBFAFB&\fniCiel Brush Up\b0\fs120\blur1.2\pos(251.41,436.63)}Đến tháng
+Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\fs80\blur1.2\fscx70\b1\pos(754.29,589.71)}Danh lam thắng cảnh
+Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\fs80\blur1.2\fscx70\b1\pos(755.43,648)}công viên Nara
+Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H42626C&\fnHL-danhmay1 Unicode\an7\fs40\blur1.2\b1\pos(202.27,414.05)}Thiếu niên \NThám Tử \NKhông \NTưởng
+Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H162C42&\blur0.8\fs60\fscx47\fscy47\fnMTD Amarone\pos(870.84,479.48)\b1}Tóc Harukaze hân hạnh giới thiệu dầu gội đầu được các chuyên gia hàng đầu khuyên dùng
+Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H162C42&\blur0.8\fnMTD Amarone\fs100\fscx47\fscy47\pos(857.13,628.63)\1a&H32&}Phù hợp với da đầu dùng thuốc
+Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H3A4952&\blur0.8\fs55\fscx99\fscy99\fnMTD Bell Martellus\b1\an7\pos(1162.83,230.62)}Nhiều học sinh tiểu học \Nbị sốt phát ban
+Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H3A4952&\fs43\fnMTD Bell Martellus\an9\pos(1446.95,848.44)\blur0.8}Đến mức cả phụ nữ, \Nngười lớn cũng bị ảnh hưởng
+Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H55666F&\fnMTD Amarone\blur0.8\fs40\pos(994.39,263.59)}Tóc là sinh mệnh của phụ nữ
+Dialogue: 0,0:08:24.82,0:08:27.32,Signs,,0,0,0,nTS,{\c&H1A252C&\\fs40\blur0.8\fniCiel Brush Up\b1\an9\pos(680.68,565.02)}Đặc hiệu chữa sốt, \Ncảm lạnh
+Dialogue: 0,0:08:28.78,0:08:29.70,Signs,,0,0,0,nTS,{\c&H2F3B43&\fs65\blur0.8\fscx80\fscy80\fnMTD Bell Martellus\b1\pos(620.81,130.3)}Du lịch đi bộ và thưởng thức {\fscx120\fscy120}Cua{\fscx80\fscy80} dọc bán đảo {\fscx50\fscy50}Kamchatka
+Dialogue: 0,0:08:28.78,0:08:29.70,Signs,,0,0,0,nTS,{\c&H2F3B43&\an7\fscx54\fscy54\fnMTD Bell Martellus\fs83\blur1\pos(983.1,539.22)\b1}Thành phố lạnh cóng, \Ncon người lạnh cóng, \Nnghiền nhỏ xay nhuyễn, đá bào
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs100\frz338.\move(1587.88,439.58,1221.03,348.15,18,978)\t(1,982,1,\frz245)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs100\frz338.6\move(1587.88,439.58,1221.03,348.15,18,978)\t(1,982,1,\frz245)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs90\frz245\t(1,982,1,\frz327\fs100)\move(508.57,282.29,589.72,230.86,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs90\frz245\t(1,982,1,\frz327\fs100)\move(508.57,282.29,589.72,230.86,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs90\frz245\t(1,982,1,\frz327\fs100)\move(702.86,772.57,432.01,857.14,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs90\frz245\t(1,982,1,\frz327\fs100)\move(702.86,772.57,432.01,857.14,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs70\frz45\t(1,982,1,\frz20\fs90)\move(1156.57,864,1098.29,894.86,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs70\frz45\t(1,982,1,\frz20\fs90)\move(1156.57,864,1098.29,894.86,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs70\frz\t(1,982,1,\frz20\fs80)\move(1725.71,958.86,1721.14,626.29,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs70\frz\t(1,982,1,\frz20\fs80)\move(1725.71,958.86,1721.14,626.29,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\frz320\t(1,982,1,\frz260\fs130)\move(73.14,458.29,427.43,684.58,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs80\frz230\t(1,982,1,\frz180\fs90)\move(1144,314.29,1010.29,618.3,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs80\frz230\t(1,982,1,\frz180\fs90)\move(1144,314.29,1010.29,618.3,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs100\frz320\t(1,982,1,\frz260\fs130)\move(73.14,458.29,427.43,684.58,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs50\frz360\t(1,982,1,\frz300\fs80)\move(1763.43,-74.28,1630.86,124.57,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs50\frz360\t(1,982,1,\frz300\fs80)\move(1763.43,-74.28,1630.86,124.57,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs40\frz\t(1,982,1,\frz20\fs50)\move(776,236.57,779.43,201.14,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs40\frz\t(1,982,1,\frz20\fs50)\move(776,236.57,779.43,201.14,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs35\fr30\t(1,982,1,\frz60\fs40)\move(898.29,864,1016,788.57,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs35\fr30\t(1,982,1,\frz60\fs40)\move(898.29,864,1016,788.57,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs50\fr30\t(1,982,1,\frz60\fs40)\move(1386.29,523.43,1440,766.86,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs50\fr30\t(1,982,1,\frz60\fs40)\move(1386.29,523.43,1440,766.86,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs50\frz30\t(18,978,1,\frz0\fs10)\move(1416,1001.15,1509.71,920.01,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs50\frz30\t(18,978,1,\frz0\fs10)\move(1416,1001.15,1509.71,920.01,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs20\frz60\t(18,978,1,\frz0\fs50)\move(266.29,1022.85,144,804.57,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs20\frz60\t(18,978,1,\frz0\fs50)\move(266.29,1022.85,144,804.57,18,978)}Cua
+Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs20\frz60\t(18,978,1,\frz0\fs50)\move(1401.14,210.29,1173.71,0.01,18,978)}Cua
+Dialogue: 1,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs20\frz60\t(18,978,1,\frz0\fs50)\move(1401.14,210.29,1173.71,0.01,18,978)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs100\frz338.\move(1587.88,439.58,1221.03,348.15,18,2773)\t(18,2773,1,\frz245)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs100\frz338.6\move(1587.88,439.58,1221.03,348.15,18,2773)\t(18,2773,1,\frz245)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs90\frz245\t(18,2773,1,\frz327\fs100)\move(508.57,282.29,589.72,230.86,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs90\frz245\t(18,2773,1,\frz327\fs100)\move(508.57,282.29,589.72,230.86,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs90\frz245\t(18,2773,1,\frz327\fs100)\move(702.86,772.57,432.01,857.14,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs90\frz245\t(18,2773,1,\frz327\fs100)\move(702.86,772.57,432.01,857.14,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs70\frz45\t(18,2773,1,\frz20\fs90)\move(1156.57,864,1098.29,894.86,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs70\frz45\t(18,2773,1,\frz20\fs90)\move(1156.57,864,1098.29,894.86,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs70\frz\t(18,2773,1,\frz20\fs80)\move(1725.71,958.86,1721.14,626.29,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs70\frz\t(18,2773,1,\frz20\fs80)\move(1725.71,958.86,1721.14,626.29,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\frz320\t(18,2773,1,\frz260\fs130)\move(73.14,458.29,427.43,684.58,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs80\frz230\t(18,2773,1,\frz180\fs90)\move(1144,314.29,1010.29,618.3,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs80\frz230\t(18,2773,1,\frz180\fs90)\move(1144,314.29,1010.29,618.3,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs100\frz320\t(18,2773,1,\frz260\fs130)\move(73.14,458.29,427.43,684.58,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs50\frz360\t(18,2773,1,\frz300\fs80)\move(1763.43,-74.28,1630.86,124.57,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs50\frz360\t(18,2773,1,\frz300\fs80)\move(1763.43,-74.28,1630.86,124.57,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs40\frz\t(18,2773,1,\frz20\fs50)\move(776,236.57,779.43,201.14,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs40\frz\t(18,2773,1,\frz20\fs50)\move(776,236.57,779.43,201.14,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs35\fr30\t(18,2773,1,\frz60\fs40)\move(898.29,864,1016,788.57,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs35\fr30\t(18,2773,1,\frz60\fs40)\move(898.29,864,1016,788.57,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs50\fr30\t(18,2773,1,\frz60\fs40)\move(1386.29,523.43,1440,766.86,18,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs50\fr30\t(18,2773,1,\frz60\fs40)\move(1386.29,523.43,1440,766.86,18,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs50\frz30\t(18,2773,1,\frz0\fs10)\move(1416,1001.15,1509.71,920.01,20,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs50\frz30\t(18,2773,1,\frz0\fs10)\move(1416,1001.15,1509.71,920.01,20,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs20\frz60\t(18,2773,1,\frz0\fs50)\move(266.29,1022.85,144,804.57,20,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs20\frz60\t(18,2773,1,\frz0\fs50)\move(266.29,1022.85,144,804.57,20,2773)}Cua
+Dialogue: 2,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs20\frz60\t(18,2773,1,\frz0\fs50)\move(1401.14,210.29,1173.71,0.01,20,2773)}Cua
+Dialogue: 1,0:19:51.67,0:19:54.46,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur1.2\bord0\shad0\c&H2F45FE&\1a&H32&\fscx100\fscy100\fs20\frz60\t(18,2773,1,\frz0\fs50)\move(1401.14,210.29,1173.71,0.01,20,2773)}Cua
+Dialogue: 0,0:21:06.11,0:21:06.16,Signs,,0,0,0,nTS,{=7}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(178.29,611.23)}Nhật
+Dialogue: 0,0:21:06.11,0:21:06.16,Signs,,0,0,0,nTS,{=7}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(178.29,611.23)}Nhật
+Dialogue: 0,0:21:06.16,0:21:06.20,Signs,,0,0,0,nTS,{=7}{\fscx100.09\fscy100.09\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(177.77,611.29)}Nhật
+Dialogue: 0,0:21:06.20,0:21:06.24,Signs,,0,0,0,nTS,{=7}{\fscx100.16\fscy100.16\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(177.24,611.34)}Nhật
+Dialogue: 0,0:21:06.24,0:21:06.28,Signs,,0,0,0,nTS,{=7}{\fscx100.18\fscy100.18\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(176.74,611.35)}Nhật
+Dialogue: 0,0:21:06.28,0:21:06.32,Signs,,0,0,0,nTS,{=7}{\fscx100.26\fscy100.26\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(176.21,611.4)}Nhật
+Dialogue: 0,0:21:06.32,0:21:06.36,Signs,,0,0,0,nTS,{=7}{\fscx100.36\fscy100.36\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(175.7,611.47)}Nhật
+Dialogue: 0,0:21:06.36,0:21:06.41,Signs,,0,0,0,nTS,{=7}{\fscx100.4\fscy100.4\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(175.2,611.5)}Nhật
+Dialogue: 0,0:21:06.41,0:21:06.45,Signs,,0,0,0,nTS,{=7}{\fscx100.52\fscy100.52\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(174.69,611.58)}Nhật
+Dialogue: 0,0:21:06.45,0:21:06.49,Signs,,0,0,0,nTS,{=7}{\fscx100.61\fscy100.61\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(174.18,611.65)}Nhật
+Dialogue: 0,0:21:06.49,0:21:06.53,Signs,,0,0,0,nTS,{=7}{\fscx100.62\fscy100.62\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(173.65,611.66)}Nhật
+Dialogue: 0,0:21:06.53,0:21:06.57,Signs,,0,0,0,nTS,{=7}{\fscx100.76\fscy100.76\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(173.12,611.76)}Nhật
+Dialogue: 0,0:21:06.57,0:21:06.61,Signs,,0,0,0,nTS,{=7}{\fscx100.77\fscy100.77\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(172.64,611.75)}Nhật
+Dialogue: 0,0:21:06.61,0:21:06.66,Signs,,0,0,0,nTS,{=7}{\fscx100.81\fscy100.81\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(172.13,611.8)}Nhật
+Dialogue: 0,0:21:06.66,0:21:06.70,Signs,,0,0,0,nTS,{=7}{\fscx100.98\fscy100.98\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(171.59,611.9)}Nhật
+Dialogue: 0,0:21:06.70,0:21:06.74,Signs,,0,0,0,nTS,{=7}{\fscx100.99\fscy100.99\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(171.08,611.9)}Nhật
+Dialogue: 0,0:21:06.74,0:21:06.78,Signs,,0,0,0,nTS,{=7}{\fscx101.04\fscy101.04\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(170.57,611.94)}Nhật
+Dialogue: 0,0:21:06.78,0:21:06.82,Signs,,0,0,0,nTS,{=7}{\fscx101.16\fscy101.16\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(170.03,612.02)}Nhật
+Dialogue: 0,0:21:06.82,0:21:06.86,Signs,,0,0,0,nTS,{=7}{\fscx101.15\fscy101.15\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(169.55,612.02)}Nhật
+Dialogue: 0,0:21:06.86,0:21:06.91,Signs,,0,0,0,nTS,{=7}{\fscx101.26\fscy101.26\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(169.03,612.09)}Nhật
+Dialogue: 0,0:21:06.91,0:21:06.95,Signs,,0,0,0,nTS,{=7}{\fscx101.33\fscy101.33\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(168.5,612.13)}Nhật
+Dialogue: 0,0:21:06.95,0:21:06.99,Signs,,0,0,0,nTS,{=7}{\fscx101.41\fscy101.41\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(168.02,612.2)}Nhật
+Dialogue: 0,0:21:06.99,0:21:07.03,Signs,,0,0,0,nTS,{=7}{\fscx101.53\fscy101.53\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(167.5,612.28)}Nhật
+Dialogue: 0,0:21:07.03,0:21:07.07,Signs,,0,0,0,nTS,{=7}{\fscx101.58\fscy101.58\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(166.98,612.32)}Nhật
+Dialogue: 0,0:21:07.07,0:21:07.11,Signs,,0,0,0,nTS,{=7}{\fscx101.64\fscy101.64\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(166.49,612.36)}Nhật
+Dialogue: 0,0:21:07.11,0:21:07.16,Signs,,0,0,0,nTS,{=7}{\fscx101.76\fscy101.76\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(165.95,612.44)}Nhật
+Dialogue: 0,0:21:07.16,0:21:07.20,Signs,,0,0,0,nTS,{=7}{\fscx101.81\fscy101.81\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(165.43,612.48)}Nhật
+Dialogue: 0,0:21:07.20,0:21:07.24,Signs,,0,0,0,nTS,{=7}{\fscx101.79\fscy101.79\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(164.94,612.46)}Nhật
+Dialogue: 0,0:21:07.24,0:21:07.28,Signs,,0,0,0,nTS,{=7}{\fscx101.96\fscy101.96\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(164.41,612.59)}Nhật
+Dialogue: 0,0:21:07.28,0:21:07.32,Signs,,0,0,0,nTS,{=7}{\fscx101.96\fscy101.96\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(163.9,612.58)}Nhật
+Dialogue: 0,0:21:07.32,0:21:07.37,Signs,,0,0,0,nTS,{=7}{\fscx102.03\fscy102.03\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(163.4,612.63)}Nhật
+Dialogue: 0,0:21:07.37,0:21:07.41,Signs,,0,0,0,nTS,{=7}{\fscx102.21\fscy102.21\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(162.86,612.75)}Nhật
+Dialogue: 0,0:21:07.41,0:21:07.45,Signs,,0,0,0,nTS,{=7}{\fscx102.24\fscy102.24\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(162.37,612.78)}Nhật
+Dialogue: 0,0:21:07.45,0:21:07.49,Signs,,0,0,0,nTS,{=7}{\fscx102.3\fscy102.3\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(161.85,612.82)}Nhật
+Dialogue: 0,0:21:07.49,0:21:07.53,Signs,,0,0,0,nTS,{=7}{\fscx102.44\fscy102.44\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(161.31,612.91)}Nhật
+Dialogue: 0,0:21:07.53,0:21:07.57,Signs,,0,0,0,nTS,{=7}{\fscx102.39\fscy102.39\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(160.82,612.88)}Nhật
+Dialogue: 0,0:21:07.57,0:21:07.62,Signs,,0,0,0,nTS,{=7}{\fscx102.54\fscy102.54\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(160.3,612.98)}Nhật
+Dialogue: 0,0:21:07.62,0:21:07.66,Signs,,0,0,0,nTS,{=7}{\fscx102.64\fscy102.64\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(159.78,613.05)}Nhật
+Dialogue: 0,0:21:07.66,0:21:07.70,Signs,,0,0,0,nTS,{=7}{\fscx102.64\fscy102.64\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(159.27,613.05)}Nhật
+Dialogue: 0,0:21:07.70,0:21:07.74,Signs,,0,0,0,nTS,{=7}{\fscx102.76\fscy102.76\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(158.75,613.12)}Nhật
+Dialogue: 0,0:21:07.74,0:21:07.78,Signs,,0,0,0,nTS,{=7}{\fscx102.83\fscy102.83\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(158.26,613.17)}Nhật
+Dialogue: 0,0:21:07.78,0:21:07.82,Signs,,0,0,0,nTS,{=7}{\fscx102.85\fscy102.85\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(157.73,613.19)}Nhật
+Dialogue: 0,0:21:07.82,0:21:07.87,Signs,,0,0,0,nTS,{=7}{\fscx102.91\fscy102.91\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(157.22,613.23)}Nhật
+Dialogue: 0,0:21:07.87,0:21:07.91,Signs,,0,0,0,nTS,{=7}{\fscx102.95\fscy102.95\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(156.71,613.25)}Nhật
+Dialogue: 0,0:21:07.91,0:21:07.95,Signs,,0,0,0,nTS,{=7}{\fscx103.05\fscy103.05\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(156.21,613.32)}Nhật
+Dialogue: 0,0:21:07.95,0:21:07.99,Signs,,0,0,0,nTS,{=7}{\fscx103.21\fscy103.21\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(155.66,613.43)}Nhật
+Dialogue: 0,0:21:07.99,0:21:08.03,Signs,,0,0,0,nTS,{=7}{\fscx103.23\fscy103.23\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(155.17,613.45)}Nhật
+Dialogue: 0,0:21:08.03,0:21:08.07,Signs,,0,0,0,nTS,{=7}{\fscx103.23\fscy103.23\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(154.66,613.45)}Nhật
+Dialogue: 0,0:21:08.07,0:21:08.12,Signs,,0,0,0,nTS,{=7}{\fscx103.4\fscy103.4\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(154.12,613.57)}Nhật
+Dialogue: 0,0:21:08.12,0:21:08.16,Signs,,0,0,0,nTS,{=7}{\fscx103.48\fscy103.48\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(153.62,613.61)}Nhật
+Dialogue: 0,0:21:08.16,0:21:08.20,Signs,,0,0,0,nTS,{=7}{\fscx103.52\fscy103.52\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(153.11,613.65)}Nhật
+Dialogue: 0,0:21:08.20,0:21:08.24,Signs,,0,0,0,nTS,{=7}{\fscx103.61\fscy103.61\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(152.57,613.71)}Nhật
+Dialogue: 0,0:21:08.24,0:21:08.28,Signs,,0,0,0,nTS,{=7}{\fscx103.68\fscy103.68\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(152.09,613.75)}Nhật
+Dialogue: 0,0:21:08.28,0:21:08.32,Signs,,0,0,0,nTS,{=7}{\fscx103.71\fscy103.71\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(151.56,613.77)}Nhật
+Dialogue: 0,0:21:08.32,0:21:08.37,Signs,,0,0,0,nTS,{=7}{\fscx103.81\fscy103.81\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(151.04,613.85)}Nhật
+Dialogue: 0,0:21:08.37,0:21:08.41,Signs,,0,0,0,nTS,{=7}{\fscx103.87\fscy103.87\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(150.55,613.89)}Nhật
+Dialogue: 0,0:21:08.41,0:21:08.45,Signs,,0,0,0,nTS,{=7}{\fscx103.91\fscy103.91\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(150,613.91)}Nhật
+Dialogue: 0,0:21:08.45,0:21:08.49,Signs,,0,0,0,nTS,{=7}{\fscx103.97\fscy103.97\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(149.49,613.95)}Nhật
+Dialogue: 0,0:21:08.49,0:21:08.53,Signs,,0,0,0,nTS,{=7}{\fscx104.04\fscy104.04\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(149.02,614)}Nhật
+Dialogue: 0,0:21:08.53,0:21:08.57,Signs,,0,0,0,nTS,{=7}{\fscx104.12\fscy104.12\frz0\alpha&H00&\fnGentium Basic\b1\blur2\bord0\shad0\c&HFFFFFF&\1a&HC9&\pos(148.5,614.05)}Nhật
+Dialogue: 1,0:21:06.11,0:21:06.16,Signs,,0,0,0,nTS,{=6}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(178.29,611.23)}Nhật
+Dialogue: 1,0:21:06.16,0:21:06.20,Signs,,0,0,0,nTS,{=6}{\fscx100.09\fscy100.09\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(177.77,611.29)}Nhật
+Dialogue: 1,0:21:06.20,0:21:06.24,Signs,,0,0,0,nTS,{=6}{\fscx100.16\fscy100.16\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(177.24,611.34)}Nhật
+Dialogue: 1,0:21:06.24,0:21:06.28,Signs,,0,0,0,nTS,{=6}{\fscx100.18\fscy100.18\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(176.74,611.35)}Nhật
+Dialogue: 1,0:21:06.28,0:21:06.32,Signs,,0,0,0,nTS,{=6}{\fscx100.26\fscy100.26\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(176.21,611.4)}Nhật
+Dialogue: 1,0:21:06.32,0:21:06.36,Signs,,0,0,0,nTS,{=6}{\fscx100.36\fscy100.36\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(175.7,611.47)}Nhật
+Dialogue: 1,0:21:06.36,0:21:06.41,Signs,,0,0,0,nTS,{=6}{\fscx100.4\fscy100.4\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(175.2,611.5)}Nhật
+Dialogue: 1,0:21:06.41,0:21:06.45,Signs,,0,0,0,nTS,{=6}{\fscx100.52\fscy100.52\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(174.69,611.58)}Nhật
+Dialogue: 1,0:21:06.45,0:21:06.49,Signs,,0,0,0,nTS,{=6}{\fscx100.61\fscy100.61\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(174.18,611.65)}Nhật
+Dialogue: 1,0:21:06.49,0:21:06.53,Signs,,0,0,0,nTS,{=6}{\fscx100.62\fscy100.62\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(173.65,611.66)}Nhật
+Dialogue: 1,0:21:06.53,0:21:06.57,Signs,,0,0,0,nTS,{=6}{\fscx100.76\fscy100.76\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(173.12,611.76)}Nhật
+Dialogue: 1,0:21:06.57,0:21:06.61,Signs,,0,0,0,nTS,{=6}{\fscx100.77\fscy100.77\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(172.64,611.75)}Nhật
+Dialogue: 1,0:21:06.61,0:21:06.66,Signs,,0,0,0,nTS,{=6}{\fscx100.81\fscy100.81\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(172.13,611.8)}Nhật
+Dialogue: 1,0:21:06.66,0:21:06.70,Signs,,0,0,0,nTS,{=6}{\fscx100.98\fscy100.98\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(171.59,611.9)}Nhật
+Dialogue: 1,0:21:06.70,0:21:06.74,Signs,,0,0,0,nTS,{=6}{\fscx100.99\fscy100.99\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(171.08,611.9)}Nhật
+Dialogue: 1,0:21:06.74,0:21:06.78,Signs,,0,0,0,nTS,{=6}{\fscx101.04\fscy101.04\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(170.57,611.94)}Nhật
+Dialogue: 1,0:21:06.78,0:21:06.82,Signs,,0,0,0,nTS,{=6}{\fscx101.16\fscy101.16\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(170.03,612.02)}Nhật
+Dialogue: 1,0:21:06.82,0:21:06.86,Signs,,0,0,0,nTS,{=6}{\fscx101.15\fscy101.15\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(169.55,612.02)}Nhật
+Dialogue: 1,0:21:06.86,0:21:06.91,Signs,,0,0,0,nTS,{=6}{\fscx101.26\fscy101.26\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(169.03,612.09)}Nhật
+Dialogue: 1,0:21:06.91,0:21:06.95,Signs,,0,0,0,nTS,{=6}{\fscx101.33\fscy101.33\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(168.5,612.13)}Nhật
+Dialogue: 1,0:21:06.95,0:21:06.99,Signs,,0,0,0,nTS,{=6}{\fscx101.41\fscy101.41\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(168.02,612.2)}Nhật
+Dialogue: 1,0:21:06.99,0:21:07.03,Signs,,0,0,0,nTS,{=6}{\fscx101.53\fscy101.53\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(167.5,612.28)}Nhật
+Dialogue: 1,0:21:07.03,0:21:07.07,Signs,,0,0,0,nTS,{=6}{\fscx101.58\fscy101.58\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(166.98,612.32)}Nhật
+Dialogue: 1,0:21:07.07,0:21:07.11,Signs,,0,0,0,nTS,{=6}{\fscx101.64\fscy101.64\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(166.49,612.36)}Nhật
+Dialogue: 1,0:21:07.11,0:21:07.16,Signs,,0,0,0,nTS,{=6}{\fscx101.76\fscy101.76\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(165.95,612.44)}Nhật
+Dialogue: 1,0:21:07.16,0:21:07.20,Signs,,0,0,0,nTS,{=6}{\fscx101.81\fscy101.81\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(165.43,612.48)}Nhật
+Dialogue: 1,0:21:07.20,0:21:07.24,Signs,,0,0,0,nTS,{=6}{\fscx101.79\fscy101.79\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(164.94,612.46)}Nhật
+Dialogue: 1,0:21:07.24,0:21:07.28,Signs,,0,0,0,nTS,{=6}{\fscx101.96\fscy101.96\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(164.41,612.59)}Nhật
+Dialogue: 1,0:21:07.28,0:21:07.32,Signs,,0,0,0,nTS,{=6}{\fscx101.96\fscy101.96\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(163.9,612.58)}Nhật
+Dialogue: 1,0:21:07.32,0:21:07.37,Signs,,0,0,0,nTS,{=6}{\fscx102.03\fscy102.03\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(163.4,612.63)}Nhật
+Dialogue: 1,0:21:07.37,0:21:07.41,Signs,,0,0,0,nTS,{=6}{\fscx102.21\fscy102.21\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(162.86,612.75)}Nhật
+Dialogue: 1,0:21:07.41,0:21:07.45,Signs,,0,0,0,nTS,{=6}{\fscx102.24\fscy102.24\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(162.37,612.78)}Nhật
+Dialogue: 1,0:21:07.45,0:21:07.49,Signs,,0,0,0,nTS,{=6}{\fscx102.3\fscy102.3\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(161.85,612.82)}Nhật
+Dialogue: 1,0:21:07.49,0:21:07.53,Signs,,0,0,0,nTS,{=6}{\fscx102.44\fscy102.44\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(161.31,612.91)}Nhật
+Dialogue: 1,0:21:07.53,0:21:07.57,Signs,,0,0,0,nTS,{=6}{\fscx102.39\fscy102.39\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(160.82,612.88)}Nhật
+Dialogue: 1,0:21:07.57,0:21:07.62,Signs,,0,0,0,nTS,{=6}{\fscx102.54\fscy102.54\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(160.3,612.98)}Nhật
+Dialogue: 1,0:21:07.62,0:21:07.66,Signs,,0,0,0,nTS,{=6}{\fscx102.64\fscy102.64\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(159.78,613.05)}Nhật
+Dialogue: 1,0:21:07.66,0:21:07.70,Signs,,0,0,0,nTS,{=6}{\fscx102.64\fscy102.64\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(159.27,613.05)}Nhật
+Dialogue: 1,0:21:07.70,0:21:07.74,Signs,,0,0,0,nTS,{=6}{\fscx102.76\fscy102.76\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(158.75,613.12)}Nhật
+Dialogue: 1,0:21:07.74,0:21:07.78,Signs,,0,0,0,nTS,{=6}{\fscx102.83\fscy102.83\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(158.26,613.17)}Nhật
+Dialogue: 1,0:21:07.78,0:21:07.82,Signs,,0,0,0,nTS,{=6}{\fscx102.85\fscy102.85\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(157.73,613.19)}Nhật
+Dialogue: 1,0:21:07.82,0:21:07.87,Signs,,0,0,0,nTS,{=6}{\fscx102.91\fscy102.91\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(157.22,613.23)}Nhật
+Dialogue: 1,0:21:07.87,0:21:07.91,Signs,,0,0,0,nTS,{=6}{\fscx102.95\fscy102.95\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(156.71,613.25)}Nhật
+Dialogue: 1,0:21:07.91,0:21:07.95,Signs,,0,0,0,nTS,{=6}{\fscx103.05\fscy103.05\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(156.21,613.32)}Nhật
+Dialogue: 1,0:21:07.95,0:21:07.99,Signs,,0,0,0,nTS,{=6}{\fscx103.21\fscy103.21\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(155.66,613.43)}Nhật
+Dialogue: 1,0:21:07.99,0:21:08.03,Signs,,0,0,0,nTS,{=6}{\fscx103.23\fscy103.23\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(155.17,613.45)}Nhật
+Dialogue: 1,0:21:08.03,0:21:08.07,Signs,,0,0,0,nTS,{=6}{\fscx103.23\fscy103.23\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(154.66,613.45)}Nhật
+Dialogue: 1,0:21:08.07,0:21:08.12,Signs,,0,0,0,nTS,{=6}{\fscx103.4\fscy103.4\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(154.12,613.57)}Nhật
+Dialogue: 1,0:21:08.12,0:21:08.16,Signs,,0,0,0,nTS,{=6}{\fscx103.48\fscy103.48\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(153.62,613.61)}Nhật
+Dialogue: 1,0:21:08.16,0:21:08.20,Signs,,0,0,0,nTS,{=6}{\fscx103.52\fscy103.52\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(153.11,613.65)}Nhật
+Dialogue: 1,0:21:08.20,0:21:08.24,Signs,,0,0,0,nTS,{=6}{\fscx103.61\fscy103.61\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(152.57,613.71)}Nhật
+Dialogue: 1,0:21:08.24,0:21:08.28,Signs,,0,0,0,nTS,{=6}{\fscx103.68\fscy103.68\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(152.09,613.75)}Nhật
+Dialogue: 1,0:21:08.28,0:21:08.32,Signs,,0,0,0,nTS,{=6}{\fscx103.71\fscy103.71\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(151.56,613.77)}Nhật
+Dialogue: 1,0:21:08.32,0:21:08.37,Signs,,0,0,0,nTS,{=6}{\fscx103.81\fscy103.81\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(151.04,613.85)}Nhật
+Dialogue: 1,0:21:08.37,0:21:08.41,Signs,,0,0,0,nTS,{=6}{\fscx103.87\fscy103.87\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(150.55,613.89)}Nhật
+Dialogue: 1,0:21:08.41,0:21:08.45,Signs,,0,0,0,nTS,{=6}{\fscx103.91\fscy103.91\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(150,613.91)}Nhật
+Dialogue: 1,0:21:08.45,0:21:08.49,Signs,,0,0,0,nTS,{=6}{\fscx103.97\fscy103.97\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(149.49,613.95)}Nhật
+Dialogue: 1,0:21:08.49,0:21:08.53,Signs,,0,0,0,nTS,{=6}{\fscx104.04\fscy104.04\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(149.02,614)}Nhật
+Dialogue: 1,0:21:08.53,0:21:08.57,Signs,,0,0,0,nTS,{=6}{\fscx104.12\fscy104.12\frz0\alpha&H00&\fnGentium Basic\b1\blur0.8\bord0\shad0\pos(148.5,614.05)}Nhật
+Dialogue: 0,0:21:06.11,0:21:06.16,Signs,,0,0,0,nTS,{=9}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1749.24,611.23)}Bản
+Dialogue: 0,0:21:06.16,0:21:06.20,Signs,,0,0,0,nTS,{=9}{\fscx100.1\fscy100.1\frz0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1749.77,611.3)}Bản
+Dialogue: 0,0:21:06.20,0:21:06.24,Signs,,0,0,0,nTS,{=9}{\fscx100.2\fscy100.2\frz0\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1750.27,611.36)}Bản
+Dialogue: 0,0:21:06.24,0:21:06.28,Signs,,0,0,0,nTS,{=9}{\fscx100.25\fscy100.25\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1750.81,611.4)}Bản
+Dialogue: 0,0:21:06.28,0:21:06.32,Signs,,0,0,0,nTS,{=9}{\fscx100.35\fscy100.35\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1751.32,611.48)}Bản
+Dialogue: 0,0:21:06.32,0:21:06.36,Signs,,0,0,0,nTS,{=9}{\fscx100.45\fscy100.45\frz-0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1751.83,611.54)}Bản
+Dialogue: 0,0:21:06.36,0:21:06.41,Signs,,0,0,0,nTS,{=9}{\fscx100.5\fscy100.5\frz0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1752.36,611.58)}Bản
+Dialogue: 0,0:21:06.41,0:21:06.45,Signs,,0,0,0,nTS,{=9}{\fscx100.57\fscy100.57\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1752.89,611.64)}Bản
+Dialogue: 0,0:21:06.45,0:21:06.49,Signs,,0,0,0,nTS,{=9}{\fscx100.66\fscy100.66\frz-0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1753.41,611.69)}Bản
+Dialogue: 0,0:21:06.49,0:21:06.53,Signs,,0,0,0,nTS,{=9}{\fscx100.73\fscy100.73\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1753.94,611.74)}Bản
+Dialogue: 0,0:21:06.53,0:21:06.57,Signs,,0,0,0,nTS,{=9}{\fscx100.84\fscy100.84\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1754.46,611.82)}Bản
+Dialogue: 0,0:21:06.57,0:21:06.61,Signs,,0,0,0,nTS,{=9}{\fscx100.92\fscy100.92\frz0\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1754.97,611.87)}Bản
+Dialogue: 0,0:21:06.61,0:21:06.66,Signs,,0,0,0,nTS,{=9}{\fscx101\fscy101\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1755.48,611.93)}Bản
+Dialogue: 0,0:21:06.66,0:21:06.70,Signs,,0,0,0,nTS,{=9}{\fscx101.13\fscy101.13\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1756.04,612.02)}Bản
+Dialogue: 0,0:21:06.70,0:21:06.74,Signs,,0,0,0,nTS,{=9}{\fscx101.18\fscy101.18\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1756.56,612.06)}Bản
+Dialogue: 0,0:21:06.74,0:21:06.78,Signs,,0,0,0,nTS,{=9}{\fscx101.25\fscy101.25\frz0.05\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1757.09,612.1)}Bản
+Dialogue: 0,0:21:06.78,0:21:06.82,Signs,,0,0,0,nTS,{=9}{\fscx101.37\fscy101.37\frz0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1757.58,612.18)}Bản
+Dialogue: 0,0:21:06.82,0:21:06.86,Signs,,0,0,0,nTS,{=9}{\fscx101.44\fscy101.44\frz0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1758.12,612.24)}Bản
+Dialogue: 0,0:21:06.86,0:21:06.91,Signs,,0,0,0,nTS,{=9}{\fscx101.5\fscy101.5\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1758.64,612.28)}Bản
+Dialogue: 0,0:21:06.91,0:21:06.95,Signs,,0,0,0,nTS,{=9}{\fscx101.62\fscy101.62\frz0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1759.14,612.36)}Bản
+Dialogue: 0,0:21:06.95,0:21:06.99,Signs,,0,0,0,nTS,{=9}{\fscx101.7\fscy101.7\frz0\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1759.65,612.42)}Bản
+Dialogue: 0,0:21:06.99,0:21:07.03,Signs,,0,0,0,nTS,{=9}{\fscx101.78\fscy101.78\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1760.19,612.48)}Bản
+Dialogue: 0,0:21:07.03,0:21:07.07,Signs,,0,0,0,nTS,{=9}{\fscx101.9\fscy101.9\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1760.71,612.56)}Bản
+Dialogue: 0,0:21:07.07,0:21:07.11,Signs,,0,0,0,nTS,{=9}{\fscx101.98\fscy101.98\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1761.23,612.63)}Bản
+Dialogue: 0,0:21:07.11,0:21:07.16,Signs,,0,0,0,nTS,{=9}{\fscx102.06\fscy102.06\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1761.74,612.68)}Bản
+Dialogue: 0,0:21:07.16,0:21:07.20,Signs,,0,0,0,nTS,{=9}{\fscx102.11\fscy102.11\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1762.28,612.71)}Bản
+Dialogue: 0,0:21:07.20,0:21:07.24,Signs,,0,0,0,nTS,{=9}{\fscx102.22\fscy102.22\frz0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1762.78,612.79)}Bản
+Dialogue: 0,0:21:07.24,0:21:07.28,Signs,,0,0,0,nTS,{=9}{\fscx102.32\fscy102.32\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1763.31,612.87)}Bản
+Dialogue: 0,0:21:07.28,0:21:07.32,Signs,,0,0,0,nTS,{=9}{\fscx102.38\fscy102.38\frz0.01\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1763.85,612.9)}Bản
+Dialogue: 0,0:21:07.32,0:21:07.37,Signs,,0,0,0,nTS,{=9}{\fscx102.44\fscy102.44\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1764.36,612.94)}Bản
+Dialogue: 0,0:21:07.37,0:21:07.41,Signs,,0,0,0,nTS,{=9}{\fscx102.58\fscy102.58\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1764.89,613.04)}Bản
+Dialogue: 0,0:21:07.41,0:21:07.45,Signs,,0,0,0,nTS,{=9}{\fscx102.69\fscy102.69\frz0\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1765.37,613.12)}Bản
+Dialogue: 0,0:21:07.45,0:21:07.49,Signs,,0,0,0,nTS,{=9}{\fscx102.74\fscy102.74\frz0.02\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1765.9,613.16)}Bản
+Dialogue: 0,0:21:07.49,0:21:07.53,Signs,,0,0,0,nTS,{=9}{\fscx102.84\fscy102.84\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1766.47,613.23)}Bản
+Dialogue: 0,0:21:07.53,0:21:07.57,Signs,,0,0,0,nTS,{=9}{\fscx102.92\fscy102.92\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1766.98,613.28)}Bản
+Dialogue: 0,0:21:07.57,0:21:07.62,Signs,,0,0,0,nTS,{=9}{\fscx102.99\fscy102.99\frz0.07\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1767.53,613.35)}Bản
+Dialogue: 0,0:21:07.62,0:21:07.66,Signs,,0,0,0,nTS,{=9}{\fscx103.08\fscy103.08\frz0.07\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1768.06,613.41)}Bản
+Dialogue: 0,0:21:07.66,0:21:07.70,Signs,,0,0,0,nTS,{=9}{\fscx103.18\fscy103.18\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1768.56,613.48)}Bản
+Dialogue: 0,0:21:07.70,0:21:07.74,Signs,,0,0,0,nTS,{=9}{\fscx103.28\fscy103.28\frz0.05\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1769.07,613.55)}Bản
+Dialogue: 0,0:21:07.74,0:21:07.78,Signs,,0,0,0,nTS,{=9}{\fscx103.38\fscy103.38\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1769.61,613.62)}Bản
+Dialogue: 0,0:21:07.78,0:21:07.82,Signs,,0,0,0,nTS,{=9}{\fscx103.48\fscy103.48\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1770.11,613.69)}Bản
+Dialogue: 0,0:21:07.82,0:21:07.87,Signs,,0,0,0,nTS,{=9}{\fscx103.52\fscy103.52\frz0.08\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1770.67,613.72)}Bản
+Dialogue: 0,0:21:07.87,0:21:07.91,Signs,,0,0,0,nTS,{=9}{\fscx103.63\fscy103.63\frz0.04\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1771.16,613.8)}Bản
+Dialogue: 0,0:21:07.91,0:21:07.95,Signs,,0,0,0,nTS,{=9}{\fscx103.71\fscy103.71\frz0.03\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1771.68,613.86)}Bản
+Dialogue: 0,0:21:07.95,0:21:07.99,Signs,,0,0,0,nTS,{=9}{\fscx103.8\fscy103.8\frz0.07\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1772.23,613.93)}Bản
+Dialogue: 0,0:21:07.99,0:21:08.03,Signs,,0,0,0,nTS,{=9}{\fscx103.88\fscy103.88\frz0.06\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1772.74,613.99)}Bản
+Dialogue: 0,0:21:08.03,0:21:08.07,Signs,,0,0,0,nTS,{=9}{\fscx103.97\fscy103.97\frz0.05\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1773.26,614.04)}Bản
+Dialogue: 0,0:21:08.07,0:21:08.12,Signs,,0,0,0,nTS,{=9}{\fscx104.05\fscy104.05\frz0.09\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1773.81,614.11)}Bản
+Dialogue: 0,0:21:08.12,0:21:08.16,Signs,,0,0,0,nTS,{=9}{\fscx104.15\fscy104.15\frz0.06\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1774.32,614.18)}Bản
+Dialogue: 0,0:21:08.16,0:21:08.20,Signs,,0,0,0,nTS,{=9}{\fscx104.19\fscy104.19\frz0.09\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1774.85,614.22)}Bản
+Dialogue: 0,0:21:08.20,0:21:08.24,Signs,,0,0,0,nTS,{=9}{\fscx104.3\fscy104.3\frz0.1\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1775.38,614.31)}Bản
+Dialogue: 0,0:21:08.24,0:21:08.28,Signs,,0,0,0,nTS,{=9}{\fscx104.42\fscy104.42\frz0.08\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1775.92,614.39)}Bản
+Dialogue: 0,0:21:08.28,0:21:08.32,Signs,,0,0,0,nTS,{=9}{\fscx104.47\fscy104.47\frz0.09\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1776.42,614.42)}Bản
+Dialogue: 0,0:21:08.32,0:21:08.37,Signs,,0,0,0,nTS,{=9}{\fscx104.55\fscy104.55\frz0.11\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1776.97,614.49)}Bản
+Dialogue: 0,0:21:08.37,0:21:08.41,Signs,,0,0,0,nTS,{=9}{\fscx104.67\fscy104.67\frz0.08\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1777.48,614.57)}Bản
+Dialogue: 0,0:21:08.41,0:21:08.45,Signs,,0,0,0,nTS,{=9}{\fscx104.74\fscy104.74\frz0.1\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1778,614.62)}Bản
+Dialogue: 0,0:21:08.45,0:21:08.49,Signs,,0,0,0,nTS,{=9}{\fscx104.81\fscy104.81\frz0.11\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1778.52,614.69)}Bản
+Dialogue: 0,0:21:08.49,0:21:08.53,Signs,,0,0,0,nTS,{=9}{\fscx104.86\fscy104.86\frz0.1\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1779.05,614.72)}Bản
+Dialogue: 0,0:21:08.53,0:21:08.57,Signs,,0,0,0,nTS,{=9}{\fscx104.94\fscy104.94\frz0.11\alpha&H00&\fnGentium Basic\blur2\bord0\shad0\b1\c&HFFFFFF&\1a&HC9&\pos(1779.53,614.78)}Bản
+Dialogue: 1,0:21:06.11,0:21:06.16,Signs,,0,0,0,nTS,{=8}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1749.24,611.23)}Bản
+Dialogue: 1,0:21:06.16,0:21:06.20,Signs,,0,0,0,nTS,{=8}{\fscx100.1\fscy100.1\frz0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1749.77,611.3)}Bản
+Dialogue: 1,0:21:06.20,0:21:06.24,Signs,,0,0,0,nTS,{=8}{\fscx100.2\fscy100.2\frz0\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1750.27,611.36)}Bản
+Dialogue: 1,0:21:06.24,0:21:06.28,Signs,,0,0,0,nTS,{=8}{\fscx100.25\fscy100.25\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1750.81,611.4)}Bản
+Dialogue: 1,0:21:06.28,0:21:06.32,Signs,,0,0,0,nTS,{=8}{\fscx100.35\fscy100.35\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1751.32,611.48)}Bản
+Dialogue: 1,0:21:06.32,0:21:06.36,Signs,,0,0,0,nTS,{=8}{\fscx100.45\fscy100.45\frz-0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1751.83,611.54)}Bản
+Dialogue: 1,0:21:06.36,0:21:06.41,Signs,,0,0,0,nTS,{=8}{\fscx100.5\fscy100.5\frz0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1752.36,611.58)}Bản
+Dialogue: 1,0:21:06.41,0:21:06.45,Signs,,0,0,0,nTS,{=8}{\fscx100.57\fscy100.57\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1752.89,611.64)}Bản
+Dialogue: 1,0:21:06.45,0:21:06.49,Signs,,0,0,0,nTS,{=8}{\fscx100.66\fscy100.66\frz-0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1753.41,611.69)}Bản
+Dialogue: 1,0:21:06.49,0:21:06.53,Signs,,0,0,0,nTS,{=8}{\fscx100.73\fscy100.73\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1753.94,611.74)}Bản
+Dialogue: 1,0:21:06.53,0:21:06.57,Signs,,0,0,0,nTS,{=8}{\fscx100.84\fscy100.84\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1754.46,611.82)}Bản
+Dialogue: 1,0:21:06.57,0:21:06.61,Signs,,0,0,0,nTS,{=8}{\fscx100.92\fscy100.92\frz0\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1754.97,611.87)}Bản
+Dialogue: 1,0:21:06.61,0:21:06.66,Signs,,0,0,0,nTS,{=8}{\fscx101\fscy101\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1755.48,611.93)}Bản
+Dialogue: 1,0:21:06.66,0:21:06.70,Signs,,0,0,0,nTS,{=8}{\fscx101.13\fscy101.13\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1756.04,612.02)}Bản
+Dialogue: 1,0:21:06.70,0:21:06.74,Signs,,0,0,0,nTS,{=8}{\fscx101.18\fscy101.18\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1756.56,612.06)}Bản
+Dialogue: 1,0:21:06.74,0:21:06.78,Signs,,0,0,0,nTS,{=8}{\fscx101.25\fscy101.25\frz0.05\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1757.09,612.1)}Bản
+Dialogue: 1,0:21:06.78,0:21:06.82,Signs,,0,0,0,nTS,{=8}{\fscx101.37\fscy101.37\frz0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1757.58,612.18)}Bản
+Dialogue: 1,0:21:06.82,0:21:06.86,Signs,,0,0,0,nTS,{=8}{\fscx101.44\fscy101.44\frz0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1758.12,612.24)}Bản
+Dialogue: 1,0:21:06.86,0:21:06.91,Signs,,0,0,0,nTS,{=8}{\fscx101.5\fscy101.5\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1758.64,612.28)}Bản
+Dialogue: 1,0:21:06.91,0:21:06.95,Signs,,0,0,0,nTS,{=8}{\fscx101.62\fscy101.62\frz0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1759.14,612.36)}Bản
+Dialogue: 1,0:21:06.95,0:21:06.99,Signs,,0,0,0,nTS,{=8}{\fscx101.7\fscy101.7\frz0\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1759.65,612.42)}Bản
+Dialogue: 1,0:21:06.99,0:21:07.03,Signs,,0,0,0,nTS,{=8}{\fscx101.78\fscy101.78\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1760.19,612.48)}Bản
+Dialogue: 1,0:21:07.03,0:21:07.07,Signs,,0,0,0,nTS,{=8}{\fscx101.9\fscy101.9\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1760.71,612.56)}Bản
+Dialogue: 1,0:21:07.07,0:21:07.11,Signs,,0,0,0,nTS,{=8}{\fscx101.98\fscy101.98\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1761.23,612.63)}Bản
+Dialogue: 1,0:21:07.11,0:21:07.16,Signs,,0,0,0,nTS,{=8}{\fscx102.06\fscy102.06\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1761.74,612.68)}Bản
+Dialogue: 1,0:21:07.16,0:21:07.20,Signs,,0,0,0,nTS,{=8}{\fscx102.11\fscy102.11\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1762.28,612.71)}Bản
+Dialogue: 1,0:21:07.20,0:21:07.24,Signs,,0,0,0,nTS,{=8}{\fscx102.22\fscy102.22\frz0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1762.78,612.79)}Bản
+Dialogue: 1,0:21:07.24,0:21:07.28,Signs,,0,0,0,nTS,{=8}{\fscx102.32\fscy102.32\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1763.31,612.87)}Bản
+Dialogue: 1,0:21:07.28,0:21:07.32,Signs,,0,0,0,nTS,{=8}{\fscx102.38\fscy102.38\frz0.01\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1763.85,612.9)}Bản
+Dialogue: 1,0:21:07.32,0:21:07.37,Signs,,0,0,0,nTS,{=8}{\fscx102.44\fscy102.44\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1764.36,612.94)}Bản
+Dialogue: 1,0:21:07.37,0:21:07.41,Signs,,0,0,0,nTS,{=8}{\fscx102.58\fscy102.58\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1764.89,613.04)}Bản
+Dialogue: 1,0:21:07.41,0:21:07.45,Signs,,0,0,0,nTS,{=8}{\fscx102.69\fscy102.69\frz0\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1765.37,613.12)}Bản
+Dialogue: 1,0:21:07.45,0:21:07.49,Signs,,0,0,0,nTS,{=8}{\fscx102.74\fscy102.74\frz0.02\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1765.9,613.16)}Bản
+Dialogue: 1,0:21:07.49,0:21:07.53,Signs,,0,0,0,nTS,{=8}{\fscx102.84\fscy102.84\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1766.47,613.23)}Bản
+Dialogue: 1,0:21:07.53,0:21:07.57,Signs,,0,0,0,nTS,{=8}{\fscx102.92\fscy102.92\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1766.98,613.28)}Bản
+Dialogue: 1,0:21:07.57,0:21:07.62,Signs,,0,0,0,nTS,{=8}{\fscx102.99\fscy102.99\frz0.07\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1767.53,613.35)}Bản
+Dialogue: 1,0:21:07.62,0:21:07.66,Signs,,0,0,0,nTS,{=8}{\fscx103.08\fscy103.08\frz0.07\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1768.06,613.41)}Bản
+Dialogue: 1,0:21:07.66,0:21:07.70,Signs,,0,0,0,nTS,{=8}{\fscx103.18\fscy103.18\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1768.56,613.48)}Bản
+Dialogue: 1,0:21:07.70,0:21:07.74,Signs,,0,0,0,nTS,{=8}{\fscx103.28\fscy103.28\frz0.05\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1769.07,613.55)}Bản
+Dialogue: 1,0:21:07.74,0:21:07.78,Signs,,0,0,0,nTS,{=8}{\fscx103.38\fscy103.38\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1769.61,613.62)}Bản
+Dialogue: 1,0:21:07.78,0:21:07.82,Signs,,0,0,0,nTS,{=8}{\fscx103.48\fscy103.48\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1770.11,613.69)}Bản
+Dialogue: 1,0:21:07.82,0:21:07.87,Signs,,0,0,0,nTS,{=8}{\fscx103.52\fscy103.52\frz0.08\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1770.67,613.72)}Bản
+Dialogue: 1,0:21:07.87,0:21:07.91,Signs,,0,0,0,nTS,{=8}{\fscx103.63\fscy103.63\frz0.04\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1771.16,613.8)}Bản
+Dialogue: 1,0:21:07.91,0:21:07.95,Signs,,0,0,0,nTS,{=8}{\fscx103.71\fscy103.71\frz0.03\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1771.68,613.86)}Bản
+Dialogue: 1,0:21:07.95,0:21:07.99,Signs,,0,0,0,nTS,{=8}{\fscx103.8\fscy103.8\frz0.07\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1772.23,613.93)}Bản
+Dialogue: 1,0:21:07.99,0:21:08.03,Signs,,0,0,0,nTS,{=8}{\fscx103.88\fscy103.88\frz0.06\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1772.74,613.99)}Bản
+Dialogue: 1,0:21:08.03,0:21:08.07,Signs,,0,0,0,nTS,{=8}{\fscx103.97\fscy103.97\frz0.05\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1773.26,614.04)}Bản
+Dialogue: 1,0:21:08.07,0:21:08.12,Signs,,0,0,0,nTS,{=8}{\fscx104.05\fscy104.05\frz0.09\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1773.81,614.11)}Bản
+Dialogue: 1,0:21:08.12,0:21:08.16,Signs,,0,0,0,nTS,{=8}{\fscx104.15\fscy104.15\frz0.06\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1774.32,614.18)}Bản
+Dialogue: 1,0:21:08.16,0:21:08.20,Signs,,0,0,0,nTS,{=8}{\fscx104.19\fscy104.19\frz0.09\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1774.85,614.22)}Bản
+Dialogue: 1,0:21:08.20,0:21:08.24,Signs,,0,0,0,nTS,{=8}{\fscx104.3\fscy104.3\frz0.1\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1775.38,614.31)}Bản
+Dialogue: 1,0:21:08.24,0:21:08.28,Signs,,0,0,0,nTS,{=8}{\fscx104.42\fscy104.42\frz0.08\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1775.92,614.39)}Bản
+Dialogue: 1,0:21:08.28,0:21:08.32,Signs,,0,0,0,nTS,{=8}{\fscx104.47\fscy104.47\frz0.09\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1776.42,614.42)}Bản
+Dialogue: 1,0:21:08.32,0:21:08.37,Signs,,0,0,0,nTS,{=8}{\fscx104.55\fscy104.55\frz0.11\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1776.97,614.49)}Bản
+Dialogue: 1,0:21:08.37,0:21:08.41,Signs,,0,0,0,nTS,{=8}{\fscx104.67\fscy104.67\frz0.08\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1777.48,614.57)}Bản
+Dialogue: 1,0:21:08.41,0:21:08.45,Signs,,0,0,0,nTS,{=8}{\fscx104.74\fscy104.74\frz0.1\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1778,614.62)}Bản
+Dialogue: 1,0:21:08.45,0:21:08.49,Signs,,0,0,0,nTS,{=8}{\fscx104.81\fscy104.81\frz0.11\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1778.52,614.69)}Bản
+Dialogue: 1,0:21:08.49,0:21:08.53,Signs,,0,0,0,nTS,{=8}{\fscx104.86\fscy104.86\frz0.1\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1779.05,614.72)}Bản
+Dialogue: 1,0:21:08.53,0:21:08.57,Signs,,0,0,0,nTS,{=8}{\fscx104.94\fscy104.94\frz0.11\alpha&H00&\fnGentium Basic\blur0.8\bord0\shad0\b1\pos(1779.53,614.78)}Bản
+
+[Aegisub Extradata]
+Data: 6,a-mo,e{"uuid"#3A"f2b05127-b72a-453d-94d2-a2f49d153ee4"#2C"originalText"#3A"{\\fnGentium Basic\\b1\\blur0.8\\bord0\\shad0\\pos(178.29#2C611.23)}Nh#E1#BA#ADt"}
+Data: 7,a-mo,e{"uuid"#3A"30961996-d595-4a07-9d55-48c26a65d3d7"#2C"originalText"#3A"{\\fnGentium Basic\\b1\\blur2\\bord0\\shad0\\c&HFFFFFF&\\1a&HC9&\\pos(178.29#2C611.23)}Nh#E1#BA#ADt"}
+Data: 8,a-mo,e{"uuid"#3A"46335682-9fdb-43ed-9729-6fec6e908ad1"#2C"originalText"#3A"{\\fnGentium Basic\\blur0.8\\bord0\\shad0\\b1\\pos(1749.24#2C611.23)}B#E1#BA#A3n"}
+Data: 9,a-mo,e{"uuid"#3A"155498ec-f5a6-470e-8653-f76367871805"#2C"originalText"#3A"{\\fnGentium Basic\\blur2\\bord0\\shad0\\b1\\c&HFFFFFF&\\1a&HC9&\\pos(1749.24#2C611.23)}B#E1#BA#A3n"}
