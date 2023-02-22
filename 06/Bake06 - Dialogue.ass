@@ -16,8 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 5
-Video Position: 402
+Scroll Position: 275
+Active Line: 289
+Video Position: 23994
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -216,7 +217,7 @@ Dialogue: 12,0:10:58.48,0:11:00.72,Main,,0,0,0,,{\i1}Biểu đạt tình cảm c
 Dialogue: 12,0:11:00.72,0:11:02.81,Main,,0,800,0,,{\i1}xem ra cả hai đứa đều dốt như nhau.
 Dialogue: 12,0:11:03.22,0:11:05.11,Main,,0,0,600,,Nè, Senjōgahara?
 Dialogue: 12,0:11:05.11,0:11:05.87,Main,,0,0,600,,Sao nào?
-Dialogue: 12,0:11:05.87,0:11:08.28,Main,,0,0,600,,Cậu vẫn còn mang theo\N dập gim với dụng cụ học tập à?
+Dialogue: 12,0:11:05.87,0:11:08.28,Main,,0,0,600,,Cậu vẫn còn mang theo\N dập ghim với dụng cụ học tập à?
 Dialogue: 12,0:11:08.28,0:11:11.65,Main,,0,0,0,,Nói mới nhớ... gần đây thì không.
 Dialogue: 12,0:11:11.65,0:11:12.87,Main,,0,0,0,,Bất cẩn quá.
 Dialogue: 12,0:11:12.87,0:11:14.86,Main,,0,0,0,,Bất cẩn à.
@@ -237,7 +238,7 @@ Dialogue: 12,0:11:49.48,0:11:51.31,Main,,0,0,0,,{\i1}Khi mình đề cập tới
 Dialogue: 12,0:11:51.31,0:11:53.90,Main,,0,0,0,,{\i1}Kanbaru không đả động gì tới người giỏi nhất lớp là Hanekawa...
 Dialogue: 12,0:11:53.90,0:11:56.52,Main,,0,0,0,,{\i1}mà lại nghĩ tới Senjōgahara trước tiên.
 Dialogue: 12,0:11:56.52,0:11:57.70,Main,,0,0,0,,{\i1}Vậy ra đây là lý do?
-Dialogue: 12,0:11:58.75,0:12:02.11,Main,,0,0,0,,Ừm, em ấy từng là đàn em của tớ hồi cấp 2.
+Dialogue: 12,0:11:58.75,0:12:02.11,Main,,0,0,0,,Ừm, bé ấy từng là đàn em của tớ hồi cấp 2.
 Dialogue: 12,0:12:02.43,0:12:05.28,Main,,0,0,0,,Kanbaru giờ vẫn là đàn em đấy,\N vẫn cùng trường còn gì.
 Dialogue: 12,0:12:05.28,0:12:06.68,Main,,0,0,0,,Kanbaru?
 Dialogue: 12,0:12:06.68,0:12:08.24,Main,,0,0,0,,Nghe thân thiết quá nhờ.
@@ -267,15 +268,15 @@ Dialogue: 12,0:13:26.67,0:13:29.50,Main,,0,0,0,,Cái gì cơ?! Tớ không thíc
 Dialogue: 12,0:13:29.50,0:13:34.63,Main,,0,0,0,,Araragi-kun mà bị kẻ nào đó giết không phải tớ,\N thì tớ sẽ giết chết kẻ đó.
 Dialogue: 12,0:13:34.63,0:13:36.80,Main,,0,0,0,,Thế là tớ vẫn giữ được "lời hứa" nhờ?
 Dialogue: 12,0:13:38.06,0:13:40.60,Main,,0,0,0,,Mà nói chung, đang bàn về Kanbaru nhỉ?
-Dialogue: 12,0:13:41.25,0:13:45.92,Main,,0,0,0,,Bởi tớ là át chủ bài của CLB Điền kinh,\N còn em ấy là CLB Bóng rổ...
+Dialogue: 12,0:13:41.25,0:13:45.92,Main,,0,0,0,,Bởi tớ là át chủ bài của CLB Điền kinh,\N còn bé ấy là CLB Bóng rổ...
 Dialogue: 12,0:13:45.92,0:13:49.41,Main,,0,0,0,,nên tuy khác khối nhưng vẫn qua lại.
 Dialogue: 12,0:13:49.41,0:13:50.18,Main,,0,0,0,,Hơn nữa...
 Dialogue: 12,0:13:50.19,0:13:51.28,Main,,0,0,0,,Hơn nữa...?
 Dialogue: 12,0:13:53.60,0:13:56.51,Main,,0,0,0,,Cả trong cuộc sống cá nhân\N khi bỏ CLB qua một bên,
-Dialogue: 12,0:13:56.51,0:13:58.44,Main,,0,0,0,,khá nhiều rắc rối của em ấy...
-Dialogue: 12,0:13:59.19,0:14:02.52,Main,,0,0,0,,có thể nói là do tớ gây ra,\N hay em ấy khiến tớ phải bận tâm.
+Dialogue: 12,0:13:56.51,0:13:58.44,Main,,0,0,0,,khá nhiều rắc rối của bé ấy...
+Dialogue: 12,0:13:59.19,0:14:02.52,Main,,0,0,0,,có thể nói là do tớ gây ra,\N hay bé ấy khiến tớ phải bận tâm.
 Dialogue: 12,0:14:02.65,0:14:04.11,Main,,0,0,0,,Mà khoan đã, Araragi-kun.
-Dialogue: 12,0:14:04.78,0:14:09.17,Main,,0,0,0,,Trước hết tại sao Araragi-kun \Nlại đề cập đến em ấy ở đây vậy?
+Dialogue: 12,0:14:04.78,0:14:09.17,Main,,0,0,0,,Trước hết tại sao Araragi-kun \Nlại đề cập đến bé ấy ở đây vậy?
 Dialogue: 12,0:14:09.17,0:14:10.55,Main,,0,0,0,,Làm ơn giải thích được không?
 Dialogue: 12,0:14:10.91,0:14:14.63,Main,,0,0,0,,Nếu không làm gì nên tội\N thì có thể giải thích rõ ràng được mà ha.
 Dialogue: 12,0:14:18.29,0:14:19.06,Main,,0,0,0,,Vậy à.
@@ -296,13 +297,13 @@ Dialogue: 12,0:15:01.15,0:15:02.76,Main,,0,0,0,,Và tớ đã từ chối.
 Dialogue: 12,0:15:02.76,0:15:06.00,Main,,0,0,0,,Tớ dùng đúng cái cách mà tớ đã làm với Araragi-kun.
 Dialogue: 12,0:15:08.59,0:15:11.89,Main,,0,0,0,,Trong khi Araragi-kun thì vẫn cố can thiệp vào.
 Dialogue: 12,0:15:11.89,0:15:14.49,Main,,0,0,0,,Còn Kanbaru thì không.
-Dialogue: 12,0:15:14.49,0:15:16.70,Main,,0,0,0,,Nói chung đó là mức độ quan hệ giữa bọn tớ.
+Dialogue: 12,0:15:14.49,0:15:16.70,Main,,0,0,0,,Nói chung quan hệ giữa bọn tớ là vậy.
 Dialogue: 12,0:15:16.70,0:15:19.28,Main,,0,0,0,,Cơ mà... từng là bạn đúng không?
 Dialogue: 12,0:15:19.98,0:15:23.29,Main,,0,0,0,,Là hồi cấp 2, giờ khác rồi.
 Dialogue: 12,0:15:23.29,0:15:24.25,Main,,0,0,0,,Người dưng nước lã thôi.
 Dialogue: 12,0:15:25.83,0:15:29.93,Main,,0,0,0,,Tuy là cũng hiểu được quan hệ giữa Kanbaru và cậu rồi...
 Dialogue: 12,0:15:29.93,0:15:32.84,Main,,0,0,0,,nhưng vẫn chả thể lý giải tại sao em ấy cứ theo dõi tớ.
-Dialogue: 12,0:15:32.84,0:15:38.41,Main,,0,0,0,,Hẳn là em ấy đã phát hiện ra \Ntớ và Araragi-kun hẹn hò.
+Dialogue: 12,0:15:32.84,0:15:38.41,Main,,0,0,0,,Hẳn là con bé đã phát hiện ra \Ntớ và Araragi-kun hẹn hò.
 Dialogue: 12,0:15:38.41,0:15:39.08,Main,,0,0,0,,Gì cơ?
 Dialogue: 12,0:15:39.50,0:15:44.21,Main,,0,0,0,,Ý là em ấy tò mò không biết\N người Senjōgahara yêu là người như nào...
 Dialogue: 12,0:15:44.21,0:15:46.85,Main,,0,0,0,,nên là đang điều tra sao?
@@ -314,13 +315,13 @@ Dialogue: 12,0:16:00.99,0:16:05.77,Main,,0,0,0,,Nhưng Kanbaru một năm trư�
 Dialogue: 12,0:16:05.77,0:16:08.45,Main,,0,0,0,,Và kể từ đó không có gì thay đổi ha.
 Dialogue: 12,0:16:08.45,0:16:12.88,Main,,0,0,0,,Thế mà sau ngần ấy thời gian,\N tự dưng lại đi quan tâm đến chuyện yêu đương của cậu?
 Dialogue: 12,0:16:13.52,0:16:15.81,Main,,0,0,0,,Tự nói thế này nghe hơi kỳ nhưng...
-Dialogue: 12,0:16:15.81,0:16:20.58,Main,,0,0,0,,Đối với Kanbaru mà nói,\N Senjōgahara Hitagi-senpai là người mà em ấy ngưỡng mộ.
+Dialogue: 12,0:16:15.81,0:16:20.58,Main,,0,0,0,,Đối với Kanbaru mà nói,\N Senjōgahara Hitagi là người đàn chị mẫu mực.
 Dialogue: 12,0:16:22.30,0:16:27.52,Main,,0,0,0,,Vì thế khi từ chối, tớ đã cẩn thận\N để sao cho thật dứt khoát, không để lại hậu quả.
-Dialogue: 12,0:16:29.50,0:16:33.69,Main,,0,0,0,,Vậy ra quả nhiên em ấy vẫn chưa quên được tớ.
+Dialogue: 12,0:16:29.50,0:16:33.69,Main,,0,0,0,,Vậy ra quả nhiên bé ấy vẫn chưa quên được tớ.
 Dialogue: 12,0:16:35.01,0:16:37.54,Main,,0,0,0,,Đừng nói như thể em ấy là phiền phức chứ.
-Dialogue: 12,0:16:37.54,0:16:40.20,Main,,0,0,0,,Em ấy cũng đâu có ác ý gì đâu đúng không?
+Dialogue: 12,0:16:37.54,0:16:40.20,Main,,0,0,0,,Cũng đâu phải có ý gì xấu đâu đúng không?
 Dialogue: 12,0:16:40.20,0:16:40.74,Main,,0,0,0,,Nhìn chung—
-Dialogue: 12,0:16:40.74,0:16:43.99,Main,,0,0,0,,Phiền là phiền! Ác ý hay không không quan trọng.
+Dialogue: 12,0:16:40.74,0:16:43.99,Main,,0,0,0,,Phiền là phiền! Ý xấu hay không không quan trọng.
 Dialogue: 12,0:16:50.00,0:16:52.58,Main,,0,0,0,,Dạ! Cảm ơn đã chờ đợi! Hanekawa đây ạ!
 Dialogue: 12,0:16:54.04,0:16:59.01,Main,,0,0,0,,Ơ sao thế? Tự dưng Araragi-kun\N lại đi gọi điện cho tớ, quý hóa quá!
 Dialogue: 12,0:17:01.66,0:17:02.81,Main,,0,0,0,,À được chứ!
