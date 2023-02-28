@@ -15,10 +15,10 @@ Audio File: [OZR] Bakemonogatari - 07 (BD 1080p Hi10 Opus) [E46A0EDD].mkv
 Video File: [OZR] Bakemonogatari - 07 (BD 1080p Hi10 Opus) [E46A0EDD].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 2552
-Active Line: 2557
-Video Position: 20378
+Video Zoom Percent: 0.500000
+Scroll Position: 570
+Active Line: 571
+Video Position: 15011
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -391,10 +391,10 @@ Dialogue: 1,0:03:51.37,0:03:51.87,Signs,,0,0,0,,{\an5\blur6\fs127.5\c&HE9EBFB&\f
 Dialogue: 2,0:03:51.37,0:03:51.87,Signs,,0,0,0,,{\an5\blur1.2\fs127.5\c&HE9EBFB&\fnIwata Mincho Old Pro-Fate B\pos(1336.167,453.667)}Cleaning
 Dialogue: 1,0:04:13.68,0:04:14.68,Signs,,0,0,0,,{\an5\blur6\c&H34B1FF&\fs150\fnIwata Mincho Old Pro-Fate B\pos(969,266.667)\alpha&HB0&}Beast
 Dialogue: 2,0:04:13.68,0:04:14.68,Signs,,0,0,0,,{\an5\blur1.2\c&H34B1FF&\fs150\fnIwata Mincho Old Pro-Fate B\pos(969,266.667)}Beast
-Dialogue: 0,0:04:32.12,0:04:32.87,Signs,,0,0,0,,{\blur4\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(969.714,590.572)\alpha&HB0&}FLASHBACK
-Dialogue: 1,0:04:32.12,0:04:32.87,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(969.714,590.572)}FLASHBACK
-Dialogue: 0,0:04:39.75,0:04:40.50,Signs,,0,0,0,,{\blur4\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(959.429,591.715)\alpha&HB0&}FLASHBACK
-Dialogue: 1,0:04:39.75,0:04:40.50,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(959.429,591.715)}FLASHBACK
+Dialogue: 0,0:04:32.12,0:04:32.87,Signs,,0,0,0,,{\blur4\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(969.714,590.572)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 1,0:04:32.12,0:04:32.87,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(969.714,590.572)}HỒI TƯỞNG
+Dialogue: 0,0:04:39.75,0:04:40.50,Signs,,0,0,0,,{\blur4\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(959.429,591.715)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 1,0:04:39.75,0:04:40.50,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(959.429,591.715)}HỒI TƯỞNG
 Dialogue: 1,0:04:41.75,0:04:43.25,Signs,,0,0,0,,{\an5\blur1\fs150\fnIwata Mincho Old Pro-Fate B\c&HF6F8FE&\t(70,1530,\1c&H000000&)\pos(962.833,328.5)}Limbs
 Dialogue: 1,0:05:47.44,0:05:48.82,Signs,,0,0,0,,{\an5\blur6\fs150\fnIwata Mincho Old Pro-Fate B\c&HF8FCFD&\pos(953.143,331.429)\alpha&HB0&}Vampire
 Dialogue: 2,0:05:47.44,0:05:48.82,Signs,,0,0,0,,{\an5\blur1.2\fs150\fnIwata Mincho Old Pro-Fate B\c&HF8FCFD&\pos(953.143,331.429)}Vampire
@@ -560,52 +560,52 @@ Dialogue: 0,0:06:57.89,0:06:57.93,Signs,,0,0,0,,{\frz0\alpha&H26&\fscx65.87\fscy
 Dialogue: 0,0:06:57.93,0:06:57.98,Signs,,0,0,0,,{\frz0\alpha&H59&\fscx65.49\fscy65.49\blur7.34\1c&H45515C&\fnIwata Mincho Old Pro-Fate B\fs90\pos(774.23,572.89)}Oddity
 Dialogue: 0,0:06:57.98,0:06:58.02,Signs,,0,0,0,,{\frz0\alpha&H99&\fscx64.66\fscy64.66\blur8.12\1c&H3F4A54&\fnIwata Mincho Old Pro-Fate B\fs90\pos(772.2,574.7)}Oddity
 Dialogue: 0,0:06:58.02,0:06:58.06,Signs,,0,0,0,,{\frz0\alpha&HCC&\fscx64.2\fscy64.2\blur8.93\1c&H3A444B&\fnIwata Mincho Old Pro-Fate B\fs90\pos(772.73,575.41)}Oddity
-Dialogue: 0,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964,595.14)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.13,595.72)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.46,595.14)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.12,595.71)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.31,595.25)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.79,595.78)\alpha&H80&}FLASHBACK
-Dialogue: 1,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964,595.14)}FLASHBACK
-Dialogue: 1,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.13,595.72)}FLASHBACK
-Dialogue: 1,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.46,595.14)}FLASHBACK
-Dialogue: 1,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.12,595.71)}FLASHBACK
-Dialogue: 1,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.31,595.25)}FLASHBACK
-Dialogue: 1,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.79,595.78)}FLASHBACK
-Dialogue: 0,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964,595.14)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.34,595.63)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.83,595.05)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.34,595.63)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.8,595.07)\alpha&H80&}FLASHBACK
-Dialogue: 0,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.08,595.62)\alpha&H80&}FLASHBACK
-Dialogue: 1,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964,595.14)}FLASHBACK
-Dialogue: 1,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.34,595.63)}FLASHBACK
-Dialogue: 1,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.83,595.05)}FLASHBACK
-Dialogue: 1,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.34,595.63)}FLASHBACK
-Dialogue: 1,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.8,595.07)}FLASHBACK
-Dialogue: 1,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.08,595.62)}FLASHBACK
+Dialogue: 0,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964,595.14)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.13,595.72)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.46,595.14)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.12,595.71)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.31,595.25)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.79,595.78)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 1,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964,595.14)}HỒI TƯỞNG
+Dialogue: 1,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.13,595.72)}HỒI TƯỞNG
+Dialogue: 1,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.46,595.14)}HỒI TƯỞNG
+Dialogue: 1,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.12,595.71)}HỒI TƯỞNG
+Dialogue: 1,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.31,595.25)}HỒI TƯỞNG
+Dialogue: 1,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.79,595.78)}HỒI TƯỞNG
+Dialogue: 0,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964,595.14)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.34,595.63)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.83,595.05)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.34,595.63)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.8,595.07)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 0,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.08,595.62)\alpha&H80&}HỒI TƯỞNG
+Dialogue: 1,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964,595.14)}HỒI TƯỞNG
+Dialogue: 1,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.34,595.63)}HỒI TƯỞNG
+Dialogue: 1,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.83,595.05)}HỒI TƯỞNG
+Dialogue: 1,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.34,595.63)}HỒI TƯỞNG
+Dialogue: 1,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.8,595.07)}HỒI TƯỞNG
+Dialogue: 1,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.08,595.62)}HỒI TƯỞNG
 Dialogue: 0,0:07:59.78,0:08:04.41,Signs,,0,0,0,,{\blur6\fs100\fnIwata Mincho Old Pro-Fate B\pos(955,409.572)\c&HE5EBEC&\alpha&HA0&}A living oddity
 Dialogue: 1,0:07:59.78,0:08:04.41,Signs,,0,0,0,,{\blur1\fs100\fnIwata Mincho Old Pro-Fate B\pos(955,409.572)\c&HE5EBEC&}A living oddity
-Dialogue: 0,0:10:25.77,0:10:25.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964,595.14)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:25.81,0:10:25.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.39,595.61)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:25.85,0:10:25.89,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.43,595.12)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:25.89,0:10:25.93,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.93,595.71)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:25.93,0:10:25.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.43,595.11)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:25.97,0:10:26.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964,595.64)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:26.02,0:10:26.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.18,595.26)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:26.06,0:10:26.10,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.43,595.73)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:26.10,0:10:26.14,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(963.81,595.2)\alpha&HB0&}FLASHBACK
-Dialogue: 0,0:10:26.14,0:10:26.18,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.45,595.73)\alpha&HB0&}FLASHBACK
-Dialogue: 1,0:10:25.77,0:10:25.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964,595.14)}FLASHBACK
-Dialogue: 1,0:10:25.81,0:10:25.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964.39,595.61)}FLASHBACK
-Dialogue: 1,0:10:25.85,0:10:25.89,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964.43,595.12)}FLASHBACK
-Dialogue: 1,0:10:25.89,0:10:25.93,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(963.93,595.71)}FLASHBACK
-Dialogue: 1,0:10:25.93,0:10:25.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964.43,595.11)}FLASHBACK
-Dialogue: 1,0:10:25.97,0:10:26.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964,595.64)}FLASHBACK
-Dialogue: 1,0:10:26.02,0:10:26.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964.18,595.26)}FLASHBACK
-Dialogue: 1,0:10:26.06,0:10:26.10,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964.43,595.73)}FLASHBACK
-Dialogue: 1,0:10:26.10,0:10:26.14,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(963.81,595.2)}FLASHBACK
-Dialogue: 1,0:10:26.14,0:10:26.18,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnIwata Mincho Old Pro-Fate B\pos(964.45,595.73)}FLASHBACK
+Dialogue: 0,0:10:25.77,0:10:25.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964,595.14)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:25.81,0:10:25.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.39,595.61)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:25.85,0:10:25.89,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.43,595.12)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:25.89,0:10:25.93,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.93,595.71)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:25.93,0:10:25.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.43,595.11)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:25.97,0:10:26.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964,595.64)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:26.02,0:10:26.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.18,595.26)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:26.06,0:10:26.10,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.43,595.73)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:26.10,0:10:26.14,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(963.81,595.2)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 0,0:10:26.14,0:10:26.18,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.45,595.73)\alpha&HB0&}HỒI TƯỞNG
+Dialogue: 1,0:10:25.77,0:10:25.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964,595.14)}HỒI TƯỞNG
+Dialogue: 1,0:10:25.81,0:10:25.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964.39,595.61)}HỒI TƯỞNG
+Dialogue: 1,0:10:25.85,0:10:25.89,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964.43,595.12)}HỒI TƯỞNG
+Dialogue: 1,0:10:25.89,0:10:25.93,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(963.93,595.71)}HỒI TƯỞNG
+Dialogue: 1,0:10:25.93,0:10:25.97,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964.43,595.11)}HỒI TƯỞNG
+Dialogue: 1,0:10:25.97,0:10:26.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964,595.64)}HỒI TƯỞNG
+Dialogue: 1,0:10:26.02,0:10:26.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964.18,595.26)}HỒI TƯỞNG
+Dialogue: 1,0:10:26.06,0:10:26.10,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964.43,595.73)}HỒI TƯỞNG
+Dialogue: 1,0:10:26.10,0:10:26.14,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(963.81,595.2)}HỒI TƯỞNG
+Dialogue: 1,0:10:26.14,0:10:26.18,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HD8E0E4&\fnVL DellaRobbia BT\pos(964.45,595.73)}HỒI TƯỞNG
 Dialogue: 0,0:10:31.27,0:10:31.31,Signs,,0,0,0,,{\frz0\fscx100\fscy100\blur6\fs77.5\fnIwata Mincho Old Pro-Fate B\c&HDEE0E1&\alpha&H90&\pos(1204,383.95)}feelings
 Dialogue: 0,0:10:31.31,0:10:31.36,Signs,,0,0,0,,{\frz0\fscx100\fscy100\blur6\fs77.5\fnIwata Mincho Old Pro-Fate B\c&HDEE0E1&\alpha&H90&\pos(1204,384.33)}feelings
 Dialogue: 0,0:10:31.36,0:10:31.40,Signs,,0,0,0,,{\frz0\fscx100\fscy100\blur6\fs77.5\fnIwata Mincho Old Pro-Fate B\c&HDEE0E1&\alpha&H90&\pos(1204.22,383.95)}feelings
@@ -1144,34 +1144,34 @@ Dialogue: 1,0:12:09.91,0:12:09.95,Signs,,0,0,0,,{\frz0\alpha&H00&\fscx100\fscy10
 Dialogue: 1,0:12:09.95,0:12:10.00,Signs,,0,0,0,,{\frz0\alpha&H00&\fscx100\fscy100\blur1\fs100\c&HDBE0E2&\fnIwata Mincho Old Pro-Fate B\pos(1396.4,416.25)}Monologue
 Dialogue: 1,0:12:10.00,0:12:10.04,Signs,,0,0,0,,{\frz0\alpha&H00&\fscx100\fscy100\blur1\fs100\c&HDBE0E2&\fnIwata Mincho Old Pro-Fate B\pos(1396.4,416.69)}Monologue
 Dialogue: 1,0:12:10.04,0:12:10.08,Signs,,0,0,0,,{\frz0\alpha&H00&\fscx100\fscy100\blur1\fs100\c&HDBE0E2&\fnIwata Mincho Old Pro-Fate B\pos(1396.22,416.13)}Monologue
-Dialogue: 0,0:12:34.56,0:12:34.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.14,597.43)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.60,0:12:34.64,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.11,597.95)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.64,0:12:34.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.87,597.46)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.69,0:12:34.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.09,597.8)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.73,0:12:34.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.09,597.47)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.77,0:12:34.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.08,597.8)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.81,0:12:34.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.09,597.47)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.85,0:12:34.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.87,597.92)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.90,0:12:34.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.87,597.44)\alpha&HA0&}FLASHBACK
-Dialogue: 0,0:12:34.94,0:12:34.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.86,597.92)\alpha&HA0&}FLASHBACK
-Dialogue: 1,0:12:34.56,0:12:34.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.14,597.43)}FLASHBACK
-Dialogue: 1,0:12:34.60,0:12:34.64,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.11,597.95)}FLASHBACK
-Dialogue: 1,0:12:34.64,0:12:34.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.87,597.46)}FLASHBACK
-Dialogue: 1,0:12:34.69,0:12:34.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.09,597.8)}FLASHBACK
-Dialogue: 1,0:12:34.73,0:12:34.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.09,597.47)}FLASHBACK
-Dialogue: 1,0:12:34.77,0:12:34.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.08,597.8)}FLASHBACK
-Dialogue: 1,0:12:34.81,0:12:34.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(965.09,597.47)}FLASHBACK
-Dialogue: 1,0:12:34.85,0:12:34.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.87,597.92)}FLASHBACK
-Dialogue: 1,0:12:34.90,0:12:34.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.87,597.44)}FLASHBACK
-Dialogue: 1,0:12:34.94,0:12:34.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(964.86,597.92)}FLASHBACK
-Dialogue: 0,0:12:37.98,0:12:38.40,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)\alpha&HA0&}FLASHBACK
-Dialogue: 1,0:12:37.98,0:12:38.40,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)}FLASHBACK
-Dialogue: 0,0:12:47.24,0:12:47.66,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)\alpha&HA0&}FLASHBACK
-Dialogue: 1,0:12:47.24,0:12:47.66,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)}FLASHBACK
-Dialogue: 0,0:12:48.49,0:12:48.91,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)\alpha&HA0&}FLASHBACK
-Dialogue: 1,0:12:48.49,0:12:48.91,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)}FLASHBACK
-Dialogue: 0,0:12:49.74,0:12:50.16,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)\alpha&HA0&}FLASHBACK
-Dialogue: 1,0:12:49.74,0:12:50.16,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnIwata Mincho Old Pro-Fate B\pos(972,596.286)}FLASHBACK
+Dialogue: 0,0:12:34.56,0:12:34.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.14,597.43)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.60,0:12:34.64,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.11,597.95)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.64,0:12:34.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.87,597.46)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.69,0:12:34.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.09,597.8)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.73,0:12:34.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.09,597.47)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.77,0:12:34.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.08,597.8)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.81,0:12:34.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.09,597.47)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.85,0:12:34.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.87,597.92)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.90,0:12:34.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.87,597.44)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 0,0:12:34.94,0:12:34.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\blur6\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.86,597.92)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 1,0:12:34.56,0:12:34.60,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.14,597.43)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.60,0:12:34.64,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.11,597.95)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.64,0:12:34.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.87,597.46)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.69,0:12:34.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.09,597.8)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.73,0:12:34.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.09,597.47)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.77,0:12:34.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.08,597.8)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.81,0:12:34.85,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(965.09,597.47)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.85,0:12:34.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.87,597.92)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.90,0:12:34.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.87,597.44)}HỒI TƯỞNG
+Dialogue: 1,0:12:34.94,0:12:34.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.2\fs99\c&HDDE1E1&\fnVL DellaRobbia BT\pos(964.86,597.92)}HỒI TƯỞNG
+Dialogue: 0,0:12:37.98,0:12:38.40,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 1,0:12:37.98,0:12:38.40,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)}HỒI TƯỞNG
+Dialogue: 0,0:12:47.24,0:12:47.66,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 1,0:12:47.24,0:12:47.66,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)}HỒI TƯỞNG
+Dialogue: 0,0:12:48.49,0:12:48.91,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 1,0:12:48.49,0:12:48.91,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)}HỒI TƯỞNG
+Dialogue: 0,0:12:49.74,0:12:50.16,Signs,,0,0,0,,{\blur6\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)\alpha&HA0&}HỒI TƯỞNG
+Dialogue: 1,0:12:49.74,0:12:50.16,Signs,,0,0,0,,{\blur1.2\fs100\c&HDDE1E1&\fnVL DellaRobbia BT\pos(972,596.286)}HỒI TƯỞNG
 Dialogue: 0,0:12:59.46,0:12:59.50,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs73\c&HDFE2E2&\blur6\fnVL DellaRobbia BT\frz30.54\pos(1761.5,603.67)}Yêu
 Dialogue: 0,0:12:59.50,0:12:59.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs73\c&HDFE2E2&\blur6\fnVL DellaRobbia BT\frz30.54\pos(1764.5,612.28)}Yêu
 Dialogue: 0,0:12:59.54,0:12:59.59,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs73\c&HDFE2E2&\blur6\fnVL DellaRobbia BT\frz30.54\pos(1766.51,603.51)}Yêu
@@ -2592,7 +2592,7 @@ Dialogue: 1,0:14:09.87,0:14:09.91,Signs,,0,0,0,,{\frz0\fsp26\alpha&H00&\fscx100\
 Dialogue: 1,0:14:09.91,0:14:09.95,Signs,,0,0,0,,{\frz0\fsp26\alpha&H00&\fscx100\fscy100\blur1\fs55\c&HBDC4C7&\fnGentium Basic\pos(973.1,712.55)}KHỈ SURUGA
 Dialogue: 1,0:15:06.63,0:15:07.63,Signs,,0,0,0,,{\an5\blur0.9\fs120\c&H773931&\pos(978,429)\fnIwataMinchoProM-Str}If she did say so herself
 Dialogue: 1,0:15:35.53,0:15:36.28,Signs,,0,0,0,,{\an5\blur1\fs120\fnIwataMinchoProM-Str\pos(969.929,407.571)}It got bigger
-Dialogue: 0,0:15:53.55,0:15:53.97,Signs,,0,0,0,,{\blur1\fs100\c&HF5F8F9&\fnIwata Mincho Old Pro-Fate B\pos(961.714,581.429)}FLASHBACK
+Dialogue: 0,0:15:53.55,0:15:53.97,Signs,,0,0,0,,{\blur1\fs100\c&HF5F8F9&\fnVL DellaRobbia BT\pos(961.714,581.429)}HỒI TƯỞNG
 Dialogue: 1,0:16:32.71,0:16:33.13,Signs,,0,0,0,,{\an5\blur1\fs80\fnIwata Mincho Old Pro-Fate B\pos(1469.881,468.214)}Back to the\Noriginal topic
 Dialogue: 1,0:16:46.98,0:16:47.23,Signs,,0,0,0,,{\an5\blur1\fs150\fnIwata Mincho Old Pro-Fate B\pos(962.143,346.071)}It got even bigger
 Dialogue: 1,0:16:52.61,0:16:53.61,Signs,,0,0,0,,{\an5\blur0.9\fs100\fnIwata Mincho Old Pro-Fate B\pos(1442.096,435.667)}Maiden's secret

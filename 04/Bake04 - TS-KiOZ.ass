@@ -16,9 +16,9 @@ Video File: [OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2463
-Active Line: 2477
-Video Position: 25688
+Scroll Position: 1756
+Active Line: 1767
+Video Position: 31651
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1612,9 +1612,9 @@ Dialogue: 0,0:07:39.11,0:07:39.81,Signs,,0,0,0,,{\an4\blur4\fsp1\fs150\fnIwata M
 Dialogue: 1,0:07:39.11,0:07:39.81,Signs,,0,0,0,,{\an4\blur1.2\fsp1\fs150\fnIwata Mincho Old Pro-Fate B_hun\c&H060606&\pos(340.333,140.333)}Araragi-san
 Dialogue: 1,0:09:39.56,0:09:45.52,Signs,,0,0,0,,{\an5\blur0.8\fsp1\fs70\fnIwata Mincho Old Pro-Fate B_hun\b1\pos(849.73,59.2)}"Sir, are you all right? Are you injured? Please forgive me."
 Dialogue: 1,0:11:25.92,0:11:27.12,Signs,,0,0,0,,{\blur0.9\an5\fs160\1c&H4265FF&\fnIwata Mincho Old Pro-Fate B\pos(966,481.33)}Snail
-Dialogue: 1,0:11:30.84,0:11:33.30,Signs,,0,0,0,,{\fs50\blur1.1\fsp4\1c&H5A78FC&\fnIwata Mincho Old Pro-Fate B_hun\pos(963.14,458.49)\b1}And now, commercials
-Dialogue: 1,0:11:30.84,0:11:33.30,Signs,,0,0,0,,{\fs30\blur4\c&H525258&\fnIwata Mincho Old Pro-Fate B\b1\pos(960.888,673.778)\alpha&HB0&}(Or there were in the TV version)
-Dialogue: 2,0:11:30.84,0:11:33.30,Signs,,0,0,0,,{\fs30\blur1.1\c&H525258&\fnIwata Mincho Old Pro-Fate B\b1\pos(960.888,673.778)}(Or there were in the TV version)
+Dialogue: 1,0:11:30.84,0:11:33.30,Signs,,0,0,0,,{\fs54\blur1.1\fsp4\1c&H5A78FC&\fnVL DellaRobbia BT\pos(957.14,428.49)\b1}Và sau đây\Nlà chương trình quảng cáo
+Dialogue: 1,0:11:30.84,0:11:33.30,Signs,,0,0,0,,{\fs35\blur4\c&H525258&\fnVL DellaRobbia BT\b1\pos(960.888,673.778)\alpha&HB0&}(Phát Sóng trên Truyền Hình TV)
+Dialogue: 2,0:11:30.84,0:11:33.30,Signs,,0,0,0,,{\fs35\blur1.1\c&H525258&\fnVL DellaRobbia BT\b1\pos(960.888,673.778)}(Phát Sóng trên Truyền Hình TV)
 Dialogue: 0,0:11:58.32,0:11:58.57,Signs,,0,0,0,,{\blur0.9\fs90\fnIwata Mincho Old Pro-Fate B_hun\pos(953.2,259.2)}Whisper
 Dialogue: 0,0:12:01.33,0:12:01.78,Signs,,0,0,0,,{\blur0.9\fs90\fnIwata Mincho Old Pro-Fate B_hun\pos(953.2,259.2)}Whisper
 Dialogue: 0,0:12:02.83,0:12:04.33,Signs,,0,0,0,,{\blur0.9\fs90\fnIwata Mincho Old Pro-Fate B_hun\pos(953.2,259.2)}Whisper
@@ -1627,8 +1627,8 @@ Dialogue: 0,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnIwata Mincho Old P
 Dialogue: 0,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnIwata Mincho Old Pro-Fate B\fs116\fsp4\c&H009CE4&\pos(658.6,654.53)}Deep meaning{!}{it's a variation of classical yaoi abbreviation. classical one is やまなし、おちなし、意味なし No climax, no end, no meaning. Here is deep meaning.}{ksp: pretty certain this line gets mentioned again during kanbaru's arc}
 Dialogue: 1,0:18:16.28,0:18:24.00,Signs,,0,0,0,,{\c&H6478FC&\fs78\an4\blur1\fnIwata Mincho Old Pro-Fate B\pos(201.525,518.667)}Sunday\N\N\NMay fourteenth\N\N\NAt 14 hours, 15 minutes, and 30 seconds.\N\N\NThat was the moment I acquired\N\N\NSenjōgahara's cell phone number.
 Dialogue: 0,0:19:04.21,0:19:05.46,Signs,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\fs90\blur0.9\c&HFEFFFE&\pos(962.143,408.857)}Fifth Chapter of the Tale of Shinonome
-Dialogue: 0,0:19:11.84,0:19:15.05,Signs,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\fs40\blur3\alpha&H80&\c&H3338AE&\pos(1746.267,703.933)}Live-\Naction
-Dialogue: 1,0:19:11.84,0:19:15.05,Signs,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\fs40\blur1\c&H3B3EAE&\pos(1746.267,703.933)}Live-\Naction
+Dialogue: 0,0:19:11.84,0:19:15.05,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs50\blur3\alpha&H80&\c&H3338AE&\pos(1746.267,703.933)}Đời\NThực
+Dialogue: 1,0:19:11.84,0:19:15.05,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs50\blur1\c&H3B3EAE&\pos(1746.267,703.933)}Đời\NThực
 Dialogue: 1,0:19:16.01,0:19:18.60,Signs,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\fs140\blur0.9\c&H783D34&\pos(966.67,469.19)}Sigh
 Dialogue: 0,0:22:23.78,0:22:23.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\blur4\fnVL DellaRobbia BT\an5\fs60\c&H5B7EFA&\pos(966.39,213.6)}Yêu Ma Quái Truyện
 Dialogue: 1,0:22:23.78,0:22:23.99,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.1\fnVL DellaRobbia BT\an5\fs60\c&H6584F9&\pos(966.39,213.6)}Yêu Ma Quái Truyện

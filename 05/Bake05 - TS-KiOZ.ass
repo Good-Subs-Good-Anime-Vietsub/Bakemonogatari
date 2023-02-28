@@ -16,9 +16,9 @@ Video File: [OZR] Bakemonogatari - 05 (BD 1080p Hi10 Opus) [1E10A491].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 437
-Active Line: 447
-Video Position: 5484
+Scroll Position: 3478
+Active Line: 3481
+Video Position: 27806
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3023,76 +3023,76 @@ Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H0
 Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H001343&\frz0\pos(1854.4,546.99)}Đang Thi Công
 Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H001343&\frz0\pos(1852.43,547)}Đang Thi Công
 Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H001343&\frz0\pos(1850.32,547)}Đang Thi Công
-Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1923.94,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.05\fscy100.05\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1921.9,583.96)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1919.69,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1917.65,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1915.57,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1913.38,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100.05\fscy100.05\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1911.37,583.96)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1909.07,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1907.09,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1904.95,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1902.81,583.98)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1900.81,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1898.52,584)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1896.54,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1894.4,583.97)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1892.29,583.98)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1890.29,583.98)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1887.99,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1886.02,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1883.84,584)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1881.75,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1879.73,583.98)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1877.45,584)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1875.48,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1873.26,584)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1871.21,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1869.18,583.98)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1866.9,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1864.97,583.98)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1862.71,584)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1860.65,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1858.61,583.99)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1856.4,584)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1854.43,584)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1852.32,584)\alpha&HB0&}Halted
-Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1923.94,583.97)}Halted
-Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.05\fscy100.05\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1921.9,583.96)}Halted
-Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1919.69,583.97)}Halted
-Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1917.65,583.97)}Halted
-Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1915.57,583.97)}Halted
-Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1913.38,583.97)}Halted
-Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100.05\fscy100.05\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1911.37,583.96)}Halted
-Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1909.07,583.97)}Halted
-Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1907.09,583.97)}Halted
-Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1904.95,583.97)}Halted
-Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1902.81,583.98)}Halted
-Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1900.81,583.97)}Halted
-Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1898.52,584)}Halted
-Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1896.54,583.97)}Halted
-Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1894.4,583.97)}Halted
-Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1892.29,583.98)}Halted
-Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1890.29,583.98)}Halted
-Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1887.99,583.99)}Halted
-Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1886.02,583.99)}Halted
-Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1883.84,584)}Halted
-Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1881.75,583.99)}Halted
-Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1879.73,583.98)}Halted
-Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1877.45,584)}Halted
-Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1875.48,583.99)}Halted
-Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1873.26,584)}Halted
-Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1871.21,583.99)}Halted
-Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1869.18,583.98)}Halted
-Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1866.9,583.99)}Halted
-Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1864.97,583.98)}Halted
-Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1862.71,584)}Halted
-Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1860.65,583.99)}Halted
-Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1858.61,583.99)}Halted
-Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1856.4,584)}Halted
-Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1854.43,584)}Halted
-Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1852.32,584)}Halted
+Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1923.94,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.05\fscy100.05\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1921.9,583.96)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1919.69,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1917.65,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1915.57,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1913.38,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100.05\fscy100.05\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1911.37,583.96)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1909.07,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1907.09,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1904.95,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1902.81,583.98)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1900.81,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1898.52,584)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1896.54,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100.04\fscy100.04\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1894.4,583.97)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1892.29,583.98)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100.03\fscy100.03\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1890.29,583.98)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1887.99,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1886.02,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1883.84,584)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1881.75,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1879.73,583.98)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1877.45,584)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1875.48,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1873.26,584)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1871.21,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1869.18,583.98)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1866.9,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1864.97,583.98)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1862.71,584)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1860.65,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1858.61,583.99)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1856.4,584)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1854.43,584)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1852.32,584)\alpha&HB0&}Dừng Lại
+Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1923.94,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.05\fscy100.05\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1921.9,583.96)}Dừng Lại
+Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1919.69,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1917.65,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1915.57,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1913.38,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100.05\fscy100.05\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1911.37,583.96)}Dừng Lại
+Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1909.07,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1907.09,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1904.95,583.97)}Dừng Lại
+Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1902.81,583.98)}Dừng Lại
+Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1900.81,583.97)}Dừng Lại
+Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1898.52,584)}Dừng Lại
+Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1896.54,583.97)}Dừng Lại
+Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100.04\fscy100.04\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1894.4,583.97)}Dừng Lại
+Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1892.29,583.98)}Dừng Lại
+Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100.03\fscy100.03\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1890.29,583.98)}Dừng Lại
+Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1887.99,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1886.02,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1883.84,584)}Dừng Lại
+Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1881.75,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1879.73,583.98)}Dừng Lại
+Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1877.45,584)}Dừng Lại
+Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1875.48,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1873.26,584)}Dừng Lại
+Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1871.21,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1869.18,583.98)}Dừng Lại
+Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1866.9,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1864.97,583.98)}Dừng Lại
+Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1862.71,584)}Dừng Lại
+Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1860.65,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1858.61,583.99)}Dừng Lại
+Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1856.4,584)}Dừng Lại
+Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1854.43,584)}Dừng Lại
+Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs28\c&H0016F9&\frz0\fax0\pos(1852.32,584)}Dừng Lại
 Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32.5\c&H001343&\frz0\pos(1618.99,421.32)\alpha&HB0&}Đang Thi Công
 Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32.5\c&H001343&\frz0\pos(1616.12,421.3)\alpha&HB0&}Đang Thi Công
 Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32.5\c&H001343&\frz0\pos(1613.27,421.31)\alpha&HB0&}Đang Thi Công
@@ -3163,76 +3163,76 @@ Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blu
 Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32.5\c&H001343&\frz0\pos(1528.84,421.3)}Đang Thi Công
 Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32.5\c&H001343&\frz0\pos(1526,421.3)}Đang Thi Công
 Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32.5\c&H001343&\frz0\pos(1523.35,421.3)}Đang Thi Công
-Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1616.08,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1613.22,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1610.37,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1607.57,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1604.74,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1601.9,464.94)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1599.12,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1596.29,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1593.45,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1590.71,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1587.87,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1585.06,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1582.24,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1579.47,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1576.61,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1573.8,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1571.03,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1568.18,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1565.36,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1562.58,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1559.74,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1556.89,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1554.14,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1551.26,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1548.44,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1545.66,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1542.81,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1539.98,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1537.22,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1534.38,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1531.54,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1528.76,464.96)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1525.94,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1523.1,464.95)\fax0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1520.45,464.94)\fax0\alpha&HB0&}Halted
-Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1616.08,464.96)\fax0}Halted
-Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1613.22,464.95)\fax0}Halted
-Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1610.37,464.95)\fax0}Halted
-Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1607.57,464.95)\fax0}Halted
-Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1604.74,464.95)\fax0}Halted
-Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1601.9,464.94)\fax0}Halted
-Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1599.12,464.96)\fax0}Halted
-Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1596.29,464.95)\fax0}Halted
-Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1593.45,464.95)\fax0}Halted
-Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1590.71,464.96)\fax0}Halted
-Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1587.87,464.96)\fax0}Halted
-Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1585.06,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1582.24,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1579.47,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1576.61,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1573.8,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1571.03,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1568.18,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1565.36,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1562.58,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1559.74,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1556.89,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1554.14,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1551.26,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1548.44,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1545.66,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1542.81,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1539.98,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1537.22,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1534.38,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1531.54,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1528.76,464.96)\fax0}Halted
-Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1525.94,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1523.1,464.95)\fax0}Halted
-Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1520.45,464.94)\fax0}Halted
+Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1616.08,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1613.22,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1610.37,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1607.57,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1604.74,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.02\fscy100.02\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1601.9,464.94)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1599.12,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1596.29,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1593.45,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1590.71,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1587.87,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1585.06,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1582.24,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1579.47,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1576.61,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1573.8,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1571.03,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1568.18,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1565.36,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1562.58,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1559.74,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1556.89,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1554.14,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1551.26,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1548.44,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1545.66,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1542.81,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1539.98,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1537.22,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1534.38,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1531.54,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1528.76,464.96)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1525.94,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1523.1,464.95)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1520.45,464.94)\fax0\alpha&HB0&}Dừng Lại
+Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1616.08,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1613.22,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1610.37,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1607.57,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1604.74,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100.02\fscy100.02\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1601.9,464.94)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1599.12,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1596.29,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1593.45,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1590.71,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1587.87,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1585.06,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1582.24,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1579.47,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1576.61,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1573.8,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1571.03,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1568.18,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1565.36,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1562.58,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1559.74,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1556.89,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1554.14,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1551.26,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1548.44,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1545.66,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1542.81,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1539.98,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1537.22,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1534.38,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1531.54,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1528.76,464.96)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1525.94,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1523.1,464.95)\fax0}Dừng Lại
+Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs32\c&H0016F9&\frz0\pos(1520.45,464.94)\fax0}Dừng Lại
 Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs38.5\c&H001343&\pos(1260.5,272)\frz0\alpha&HB0&}Đang Thi Công
 Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs38.5\c&H001343&\pos(1256.88,272)\frz0\alpha&HB0&}Đang Thi Công
 Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs38.5\c&H001343&\pos(1253.31,272)\frz0\alpha&HB0&}Đang Thi Công
@@ -3303,76 +3303,76 @@ Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blu
 Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs38.5\c&H001343&\pos(1146.02,272)\frz0}Đang Thi Công
 Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs38.5\c&H001343&\pos(1142.45,272)\frz0}Đang Thi Công
 Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs38.5\c&H001343&\pos(1139.13,272)\frz0}Đang Thi Công
-Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1260.5,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1256.88,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1253.31,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1249.74,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1246.14,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1242.59,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1238.95,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1235.41,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1231.86,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1228.25,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1224.71,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1221.12,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1217.57,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1214.02,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1210.42,321.99)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1206.84,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1203.31,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1199.7,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1196.15,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1192.53,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1188.96,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1185.42,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1181.78,321.99)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1178.25,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1174.66,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1171.08,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1167.54,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1163.9,321.99)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1160.35,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1156.81,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1153.22,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1149.65,322.01)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1146.02,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1142.45,322)\frz0\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1139.13,322)\frz0\alpha&HB0&}Halted
-Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1260.5,322)\frz0}Halted
-Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1256.88,322)\frz0}Halted
-Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1253.31,322)\frz0}Halted
-Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1249.74,322.01)\frz0}Halted
-Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1246.14,322)\frz0}Halted
-Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1242.59,322)\frz0}Halted
-Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1238.95,322)\frz0}Halted
-Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1235.41,322.01)\frz0}Halted
-Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1231.86,322)\frz0}Halted
-Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1228.25,322)\frz0}Halted
-Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1224.71,322.01)\frz0}Halted
-Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1221.12,322)\frz0}Halted
-Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1217.57,322)\frz0}Halted
-Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1214.02,322)\frz0}Halted
-Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1210.42,321.99)\frz0}Halted
-Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1206.84,322)\frz0}Halted
-Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1203.31,322)\frz0}Halted
-Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1199.7,322)\frz0}Halted
-Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1196.15,322)\frz0}Halted
-Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1192.53,322)\frz0}Halted
-Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1188.96,322)\frz0}Halted
-Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1185.42,322)\frz0}Halted
-Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1181.78,321.99)\frz0}Halted
-Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1178.25,322)\frz0}Halted
-Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1174.66,322.01)\frz0}Halted
-Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1171.08,322.01)\frz0}Halted
-Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1167.54,322)\frz0}Halted
-Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1163.9,321.99)\frz0}Halted
-Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1160.35,322.01)\frz0}Halted
-Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1156.81,322.01)\frz0}Halted
-Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1153.22,322.01)\frz0}Halted
-Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1149.65,322.01)\frz0}Halted
-Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1146.02,322)\frz0}Halted
-Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1142.45,322)\frz0}Halted
-Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1139.13,322)\frz0}Halted
+Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1260.5,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1256.88,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1253.31,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1249.74,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1246.14,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1242.59,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1238.95,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1235.41,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1231.86,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1228.25,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1224.71,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1221.12,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1217.57,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1214.02,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1210.42,321.99)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1206.84,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1203.31,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1199.7,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1196.15,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1192.53,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1188.96,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1185.42,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1181.78,321.99)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1178.25,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1174.66,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1171.08,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1167.54,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1163.9,321.99)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1160.35,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1156.81,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1153.22,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1149.65,322.01)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1146.02,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1142.45,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1139.13,322)\frz0\alpha&HB0&}Dừng Lại
+Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1260.5,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1256.88,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1253.31,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1249.74,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1246.14,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1242.59,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1238.95,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1235.41,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1231.86,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1228.25,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1224.71,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1221.12,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1217.57,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1214.02,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1210.42,321.99)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1206.84,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1203.31,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1199.7,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1196.15,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1192.53,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1188.96,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1185.42,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1181.78,321.99)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1178.25,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1174.66,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1171.08,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1167.54,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100.01\fscy100.01\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1163.9,321.99)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1160.35,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1156.81,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1153.22,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1149.65,322.01)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1146.02,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1142.45,322)\frz0}Dừng Lại
+Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs40\c&H0016F9&\pos(1139.13,322)\frz0}Dừng Lại
 Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs50\c&H001343&\frz0\pos(699.43,6.22)\alpha&HB0&}Đang Thi Công
 Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs50\c&H001343&\frz0\pos(694.44,6.22)\alpha&HB0&}Đang Thi Công
 Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs50\c&H001343&\frz0\pos(689.35,6.23)\alpha&HB0&}Đang Thi Công
@@ -3443,76 +3443,76 @@ Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&
 Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs50\c&H001343&\frz0\pos(538.11,6.26)}Đang Thi Công
 Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs50\c&H001343&\frz0\pos(533.03,6.23)}Đang Thi Công
 Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs50\c&H001343&\frz0\pos(528.26,6.25)}Đang Thi Công
-Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(699.79,73.83)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(694.8,73.83)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(689.71,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(684.65,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(679.63,73.83)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(674.58,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(669.54,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(664.54,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(659.47,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(654.44,73.86)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(649.43,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(644.33,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx99.97\fscy99.97\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(639.33,73.87)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(634.24,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(629.21,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx99.97\fscy99.97\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(624.21,73.88)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(619.13,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(614.12,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(609.08,73.86)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(603.99,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(598.95,73.86)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(593.93,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(588.86,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(583.85,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(578.85,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(573.76,73.86)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(568.76,73.86)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(563.71,73.83)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(558.62,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(553.6,73.86)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(548.56,73.84)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(543.51,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(538.47,73.85)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(533.39,73.83)\alpha&HB0&}Halted
-Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(528.62,73.85)\alpha&HB0&}Halted
-Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(699.79,73.83)}Halted
-Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(694.8,73.83)}Halted
-Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(689.71,73.84)}Halted
-Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(684.65,73.84)}Halted
-Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(679.63,73.83)}Halted
-Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(674.58,73.84)}Halted
-Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(669.54,73.85)}Halted
-Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(664.54,73.84)}Halted
-Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(659.47,73.84)}Halted
-Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(654.44,73.86)}Halted
-Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(649.43,73.85)}Halted
-Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(644.33,73.85)}Halted
-Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(639.33,73.87)}Halted
-Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(634.24,73.84)}Halted
-Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(629.21,73.85)}Halted
-Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(624.21,73.88)}Halted
-Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(619.13,73.84)}Halted
-Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(614.12,73.85)}Halted
-Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(609.08,73.86)}Halted
-Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(603.99,73.85)}Halted
-Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(598.95,73.86)}Halted
-Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(593.93,73.85)}Halted
-Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(588.86,73.85)}Halted
-Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(583.85,73.85)}Halted
-Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(578.85,73.85)}Halted
-Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(573.76,73.86)}Halted
-Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(568.76,73.86)}Halted
-Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(563.71,73.83)}Halted
-Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(558.62,73.85)}Halted
-Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(553.6,73.86)}Halted
-Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(548.56,73.84)}Halted
-Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(543.51,73.85)}Halted
-Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(538.47,73.85)}Halted
-Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(533.39,73.83)}Halted
-Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(528.62,73.85)}Halted
+Dialogue: 0,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(699.79,73.83)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(694.8,73.83)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(689.71,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(684.65,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(679.63,73.83)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(674.58,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(669.54,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(664.54,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(659.47,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(654.44,73.86)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(649.43,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(644.33,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx99.97\fscy99.97\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(639.33,73.87)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(634.24,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(629.21,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx99.97\fscy99.97\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(624.21,73.88)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(619.13,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(614.12,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(609.08,73.86)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(603.99,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(598.95,73.86)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(593.93,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(588.86,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(583.85,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(578.85,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(573.76,73.86)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(568.76,73.86)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(563.71,73.83)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(558.62,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.98\fscy99.98\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(553.6,73.86)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(548.56,73.84)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(543.51,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(538.47,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(533.39,73.83)\alpha&HB0&}Dừng Lại
+Dialogue: 0,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\blur4\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(528.62,73.85)\alpha&HB0&}Dừng Lại
+Dialogue: 1,0:19:08.50,0:19:08.54,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(699.79,73.83)}Dừng Lại
+Dialogue: 1,0:19:08.54,0:19:08.59,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(694.8,73.83)}Dừng Lại
+Dialogue: 1,0:19:08.59,0:19:08.63,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(689.71,73.84)}Dừng Lại
+Dialogue: 1,0:19:08.63,0:19:08.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(684.65,73.84)}Dừng Lại
+Dialogue: 1,0:19:08.67,0:19:08.71,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(679.63,73.83)}Dừng Lại
+Dialogue: 1,0:19:08.71,0:19:08.75,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(674.58,73.84)}Dừng Lại
+Dialogue: 1,0:19:08.75,0:19:08.79,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(669.54,73.85)}Dừng Lại
+Dialogue: 1,0:19:08.79,0:19:08.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(664.54,73.84)}Dừng Lại
+Dialogue: 1,0:19:08.84,0:19:08.88,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(659.47,73.84)}Dừng Lại
+Dialogue: 1,0:19:08.88,0:19:08.92,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(654.44,73.86)}Dừng Lại
+Dialogue: 1,0:19:08.92,0:19:08.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(649.43,73.85)}Dừng Lại
+Dialogue: 1,0:19:08.96,0:19:09.00,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(644.33,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.00,0:19:09.04,Signs,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(639.33,73.87)}Dừng Lại
+Dialogue: 1,0:19:09.04,0:19:09.09,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(634.24,73.84)}Dừng Lại
+Dialogue: 1,0:19:09.09,0:19:09.13,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(629.21,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.13,0:19:09.17,Signs,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(624.21,73.88)}Dừng Lại
+Dialogue: 1,0:19:09.17,0:19:09.21,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(619.13,73.84)}Dừng Lại
+Dialogue: 1,0:19:09.21,0:19:09.25,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(614.12,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.25,0:19:09.29,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(609.08,73.86)}Dừng Lại
+Dialogue: 1,0:19:09.29,0:19:09.34,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(603.99,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.34,0:19:09.38,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(598.95,73.86)}Dừng Lại
+Dialogue: 1,0:19:09.38,0:19:09.42,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(593.93,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.42,0:19:09.46,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(588.86,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.46,0:19:09.50,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(583.85,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.50,0:19:09.54,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(578.85,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.54,0:19:09.59,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(573.76,73.86)}Dừng Lại
+Dialogue: 1,0:19:09.59,0:19:09.63,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(568.76,73.86)}Dừng Lại
+Dialogue: 1,0:19:09.63,0:19:09.67,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(563.71,73.83)}Dừng Lại
+Dialogue: 1,0:19:09.67,0:19:09.71,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(558.62,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.71,0:19:09.75,Signs,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(553.6,73.86)}Dừng Lại
+Dialogue: 1,0:19:09.75,0:19:09.80,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(548.56,73.84)}Dừng Lại
+Dialogue: 1,0:19:09.80,0:19:09.84,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(543.51,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.84,0:19:09.88,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(538.47,73.85)}Dừng Lại
+Dialogue: 1,0:19:09.88,0:19:09.92,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(533.39,73.83)}Dừng Lại
+Dialogue: 1,0:19:09.92,0:19:09.96,Signs,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\blur1.2\fnVL DellaRobbia BT\fs55\c&H0016F9&\frz0\frznan\fax-0.01\pos(528.62,73.85)}Dừng Lại
 Dialogue: 0,0:19:19.72,0:19:19.76,Signs,,0,0,0,,{\fscx100\fscy100\fnGentium Basic\blur4\fs90\pos(960,434)\c&HEFF0F1&\alpha&HB0&}... ... Huh?
 Dialogue: 0,0:19:19.76,0:19:19.81,Signs,,0,0,0,,{\fscx100\fscy100\fnGentium Basic\blur4\fs90\pos(959.92,433.46)\c&HEFF0F1&\alpha&HB0&}... ... Huh?
 Dialogue: 0,0:19:19.81,0:19:19.85,Signs,,0,0,0,,{\fscx100\fscy100\fnGentium Basic\blur4\fs90\pos(960.52,434)\c&HEFF0F1&\alpha&HB0&}... ... Huh?
