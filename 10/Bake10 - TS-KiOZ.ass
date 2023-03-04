@@ -5,12 +5,20 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 5474
-Active Line: 5476
+Audio File: [OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mkv
+Video File: [OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 5464
+Active Line: 5468
+Video Position: 22509
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -838,89 +846,89 @@ Dialogue: 1,0:03:26.31,0:03:26.35,Signs,,0,0,0,,{\alpha&H00&\fscx99.07\fscy99.07
 Dialogue: 1,0:03:26.35,0:03:26.39,Signs,,0,0,0,,{\alpha&H00&\fscx99.01\fscy99.01\an5\blur0.89\fnIwataMinchoProM-Str\fsp2\fs65\pos(959.65,186.94)}You can try and try, but it takes a lot to kill one."
 Dialogue: 1,0:03:26.39,0:03:26.43,Signs,,0,0,0,,{\alpha&H00&\fscx98.95\fscy98.95\an5\blur0.89\fnIwataMinchoProM-Str\fsp2\fs65\pos(959.42,187.62)}You can try and try, but it takes a lot to kill one."
 Dialogue: 1,0:03:26.43,0:03:26.47,Signs,,0,0,0,,{\alpha&H00&\fscx98.89\fscy98.89\an5\blur0.89\fnIwataMinchoProM-Str\fsp2\fs65\pos(959.66,187.43)}You can try and try, but it takes a lot to kill one."
-Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\blur0.9\an4\c&HFFFFFF&\fs30\fnIwata Mincho Old Pro-Fate B\pos(264.001,883.429)}Typeface \Nused for \Nimages: \N\NHGP mincho B
-Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\blur1\fsp3\c&HFFFFFF&\fs50\fnIwata Mincho Old Pro-Fate B\pos(805.667,304.143)}Nadeko Snake,\NPart Two
-Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\c&HFFFFFF&\blur0.9\fsp5\fs50\fnIwata Mincho Old Pro-Fate B\pos(1380.166,303.263)}Episode \NTen
+Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\blur0.9\an4\c&HFFFFFF&\fs40\fnVL DellaRobbia BT\pos(264.001,903.429)}Phông chữ dùng cho minh hoạ: \N\NGentium Basic và VL DellaRobbia BT
+Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\blur1\fsp3\c&HFFFFFF&\fs50\fnVL DellaRobbia BT\pos(805.667,304.143)}Rắn Nadeko,\NPhần 2
+Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\c&HFFFFFF&\blur0.9\fsp5\fs50\fnVL DellaRobbia BT\pos(1380.166,303.263)}Tập \NMười
 Dialogue: 0,0:04:11.12,0:04:11.87,Signs,,0,0,0,,{\an5\fnIwata Mincho Old Pro-Fate B\blur0.9\fs175\fsp3\pos(960,530)\c&HFFFFFF&}Ritual
 Dialogue: 0,0:04:40.56,0:04:41.31,Signs,,0,0,0,,{\an5\blur0.9\fs106\fsp3.5\fnIwata Mincho Old Pro-Fate B\pos(960,415)\c&HFDFEFD&}Theatrical Cut
 Dialogue: 1,0:05:09.47,0:05:10.01,Signs,,0,0,0,,{\an5\blur0.9\fs106\fsp3.5\fnIwata Mincho Old Pro-Fate B\pos(960,415)\c&HFDFEFD&}The End
 Dialogue: 0,0:06:06.93,0:06:07.43,Signs,,0,0,0,,{\an7\pos(960,540)\blur1\c&HDEE3E3&\p1}m 289 -113 l 283 -97 277 -82 269 -65 266 -56 263 -51 268 -47 273 -47 278 -52 278 -13 282 -9 292 -10 300 -14 342 -14 366 -14 372 -14 371 -21 367 -27 360 -33 358 -40 360 -59 359 -66 352 -76 365 -88 370 -95 362 -105 354 -108 347 -106 324 -104 304 -109
-Dialogue: 0,0:06:06.93,0:06:07.43,Signs,,0,0,0,,{\c&H8E9A9A&\blur5\fnIwata Mincho Old Pro-Fate B\fs68\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)\alpha&HA0&}Five
-Dialogue: 1,0:06:06.93,0:06:07.43,Signs,,0,0,0,,{\c&H8E9A9A&\blur1.2\fnIwata Mincho Old Pro-Fate B\fs68\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)}Five
+Dialogue: 0,0:06:06.93,0:06:07.43,Signs,,0,0,0,,{\c&H8E9A9A&\blur5\fnVL DellaRobbia BT\fs70\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)\alpha&HA0&}Năm
+Dialogue: 1,0:06:06.93,0:06:07.43,Signs,,0,0,0,,{\c&H8E9A9A&\blur1.2\fnVL DellaRobbia BT\fs70\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)}Năm
 Dialogue: 0,0:07:44.16,0:07:45.16,Signs,,0,0,0,,{\an5\blur0.9\fs106\fsp3.5\fnIwata Mincho Old Pro-Fate B\pos(960,415)\c&HFDFEFD&}Theatrical Cut{And now, widescreen size}
-Dialogue: 0,0:09:47.83,0:09:49.08,Signs,,0,0,0,,{\an5\blur0.8\fs105\fsp3\fnIwata Mincho Old Pro-Fate B\pos(960,393)\c&HFFFFFF&}And now, commercials
-Dialogue: 2,0:11:24.74,0:11:24.78,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971,396.31)}Flashback
-Dialogue: 2,0:11:24.78,0:11:24.83,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.72,395.55)}Flashback
-Dialogue: 2,0:11:24.83,0:11:24.87,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.03,396.47)}Flashback
-Dialogue: 2,0:11:24.87,0:11:24.91,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.31,395.71)}Flashback
-Dialogue: 2,0:11:24.91,0:11:24.95,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971,396.23)}Flashback
-Dialogue: 2,0:11:24.95,0:11:24.99,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.26,395.39)}Flashback
-Dialogue: 2,0:11:24.99,0:11:25.03,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.02,396.24)}Flashback
-Dialogue: 2,0:11:25.03,0:11:25.08,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.77,395.36)}Flashback
-Dialogue: 2,0:11:25.08,0:11:25.12,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.01,396.27)}Flashback
-Dialogue: 2,0:11:25.12,0:11:25.16,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.02,395.64)}Flashback
-Dialogue: 2,0:11:25.16,0:11:25.20,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.01,396.5)}Flashback
-Dialogue: 2,0:11:25.20,0:11:25.24,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.99,395.55)}Flashback
-Dialogue: 2,0:11:25.24,0:11:25.28,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.34,396.09)}Flashback
-Dialogue: 2,0:11:25.28,0:11:25.33,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971,395.49)}Flashback
-Dialogue: 2,0:11:25.33,0:11:25.37,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971,396.32)}Flashback
-Dialogue: 2,0:11:25.37,0:11:25.41,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.01,395.35)}Flashback
-Dialogue: 2,0:11:25.41,0:11:25.45,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.01,396.17)}Flashback
-Dialogue: 2,0:11:25.45,0:11:25.49,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.69,395.5)}Flashback
-Dialogue: 2,0:11:25.49,0:11:25.53,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.34,396.32)}Flashback
-Dialogue: 2,0:11:25.53,0:11:25.58,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.69,395.28)}Flashback
-Dialogue: 2,0:11:25.58,0:11:25.62,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.01,396.04)}Flashback
-Dialogue: 2,0:11:25.62,0:11:25.66,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971,395.12)}Flashback
-Dialogue: 2,0:11:25.66,0:11:25.70,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.01,396.04)}Flashback
-Dialogue: 2,0:11:25.70,0:11:25.74,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.02,395.44)}Flashback
-Dialogue: 2,0:11:25.74,0:11:25.78,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.02,396.21)}Flashback
-Dialogue: 2,0:11:25.78,0:11:25.83,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971,395.42)}Flashback
-Dialogue: 2,0:11:25.83,0:11:25.87,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.8,396.16)}Flashback
-Dialogue: 2,0:11:25.87,0:11:25.91,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.03,395.57)}Flashback
-Dialogue: 2,0:11:25.91,0:11:25.95,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.26,396.46)}Flashback
-Dialogue: 2,0:11:25.95,0:11:25.99,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.81,395.42)}Flashback
-Dialogue: 2,0:11:25.99,0:11:26.03,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.32,396.41)}Flashback
-Dialogue: 2,0:11:26.03,0:11:26.08,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(970.75,395.32)}Flashback
-Dialogue: 2,0:11:26.08,0:11:26.12,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.01,396.22)}Flashback
-Dialogue: 2,0:11:26.12,0:11:26.16,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.02,395.32)}Flashback
-Dialogue: 2,0:11:26.16,0:11:26.20,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.02,396.42)}Flashback
-Dialogue: 2,0:11:26.20,0:11:26.24,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&H006DFF&\pos(971.02,395.58)}Flashback
-Dialogue: 3,0:11:24.74,0:11:24.78,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971,396.31)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:24.78,0:11:24.83,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.72,395.55)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:24.83,0:11:24.87,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.03,396.47)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:24.87,0:11:24.91,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.31,395.71)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:24.91,0:11:24.95,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971,396.23)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:24.95,0:11:24.99,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.26,395.39)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:24.99,0:11:25.03,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.02,396.24)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.03,0:11:25.08,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.77,395.36)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.08,0:11:25.12,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.01,396.27)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.12,0:11:25.16,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.02,395.64)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.16,0:11:25.20,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.01,396.5)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.20,0:11:25.24,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.99,395.55)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.24,0:11:25.28,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.34,396.09)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.28,0:11:25.33,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971,395.49)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.33,0:11:25.37,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971,396.32)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.37,0:11:25.41,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.01,395.35)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.41,0:11:25.45,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.01,396.17)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.45,0:11:25.49,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.69,395.5)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.49,0:11:25.53,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.34,396.32)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.53,0:11:25.58,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.69,395.28)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.58,0:11:25.62,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.01,396.04)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.62,0:11:25.66,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971,395.12)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.66,0:11:25.70,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.01,396.04)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.70,0:11:25.74,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.02,395.44)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.74,0:11:25.78,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.02,396.21)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.78,0:11:25.83,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971,395.42)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.83,0:11:25.87,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.8,396.16)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.87,0:11:25.91,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.03,395.57)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.91,0:11:25.95,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.26,396.46)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.95,0:11:25.99,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.81,395.42)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:25.99,0:11:26.03,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.32,396.41)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:26.03,0:11:26.08,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(970.75,395.32)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:26.08,0:11:26.12,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.01,396.22)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:26.12,0:11:26.16,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.02,395.32)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:26.16,0:11:26.20,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.02,396.42)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
-Dialogue: 3,0:11:26.20,0:11:26.24,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnIwata Mincho Old Pro-Fate B\c&HFFFEFF&\pos(971.02,395.58)}Flashback{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 0,0:09:47.83,0:09:49.08,Signs,,0,0,0,,{\an5\blur0.8\fs105\fsp3\fnVL DellaRobbia BT\pos(960,393)\c&HFFFFFF&}Và sau đây là chương trình quảng cáo
+Dialogue: 2,0:11:24.74,0:11:24.78,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971,396.31)}Hồi Tưởng
+Dialogue: 2,0:11:24.78,0:11:24.83,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.72,395.55)}Hồi Tưởng
+Dialogue: 2,0:11:24.83,0:11:24.87,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.03,396.47)}Hồi Tưởng
+Dialogue: 2,0:11:24.87,0:11:24.91,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.31,395.71)}Hồi Tưởng
+Dialogue: 2,0:11:24.91,0:11:24.95,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971,396.23)}Hồi Tưởng
+Dialogue: 2,0:11:24.95,0:11:24.99,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.26,395.39)}Hồi Tưởng
+Dialogue: 2,0:11:24.99,0:11:25.03,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.02,396.24)}Hồi Tưởng
+Dialogue: 2,0:11:25.03,0:11:25.08,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.77,395.36)}Hồi Tưởng
+Dialogue: 2,0:11:25.08,0:11:25.12,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.01,396.27)}Hồi Tưởng
+Dialogue: 2,0:11:25.12,0:11:25.16,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.02,395.64)}Hồi Tưởng
+Dialogue: 2,0:11:25.16,0:11:25.20,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.01,396.5)}Hồi Tưởng
+Dialogue: 2,0:11:25.20,0:11:25.24,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.99,395.55)}Hồi Tưởng
+Dialogue: 2,0:11:25.24,0:11:25.28,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.34,396.09)}Hồi Tưởng
+Dialogue: 2,0:11:25.28,0:11:25.33,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971,395.49)}Hồi Tưởng
+Dialogue: 2,0:11:25.33,0:11:25.37,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971,396.32)}Hồi Tưởng
+Dialogue: 2,0:11:25.37,0:11:25.41,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.01,395.35)}Hồi Tưởng
+Dialogue: 2,0:11:25.41,0:11:25.45,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.01,396.17)}Hồi Tưởng
+Dialogue: 2,0:11:25.45,0:11:25.49,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.69,395.5)}Hồi Tưởng
+Dialogue: 2,0:11:25.49,0:11:25.53,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.34,396.32)}Hồi Tưởng
+Dialogue: 2,0:11:25.53,0:11:25.58,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.69,395.28)}Hồi Tưởng
+Dialogue: 2,0:11:25.58,0:11:25.62,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.01,396.04)}Hồi Tưởng
+Dialogue: 2,0:11:25.62,0:11:25.66,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971,395.12)}Hồi Tưởng
+Dialogue: 2,0:11:25.66,0:11:25.70,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.01,396.04)}Hồi Tưởng
+Dialogue: 2,0:11:25.70,0:11:25.74,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.02,395.44)}Hồi Tưởng
+Dialogue: 2,0:11:25.74,0:11:25.78,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.02,396.21)}Hồi Tưởng
+Dialogue: 2,0:11:25.78,0:11:25.83,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971,395.42)}Hồi Tưởng
+Dialogue: 2,0:11:25.83,0:11:25.87,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.8,396.16)}Hồi Tưởng
+Dialogue: 2,0:11:25.87,0:11:25.91,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.03,395.57)}Hồi Tưởng
+Dialogue: 2,0:11:25.91,0:11:25.95,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.26,396.46)}Hồi Tưởng
+Dialogue: 2,0:11:25.95,0:11:25.99,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.81,395.42)}Hồi Tưởng
+Dialogue: 2,0:11:25.99,0:11:26.03,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.32,396.41)}Hồi Tưởng
+Dialogue: 2,0:11:26.03,0:11:26.08,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(970.75,395.32)}Hồi Tưởng
+Dialogue: 2,0:11:26.08,0:11:26.12,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.01,396.22)}Hồi Tưởng
+Dialogue: 2,0:11:26.12,0:11:26.16,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.02,395.32)}Hồi Tưởng
+Dialogue: 2,0:11:26.16,0:11:26.20,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.02,396.42)}Hồi Tưởng
+Dialogue: 2,0:11:26.20,0:11:26.24,Signs,,0,0,0,,{\fscx100\fscy100\blur5\alpha&HA0&\fsp-2\fs175\fnVL DellaRobbia BT\c&H006DFF&\pos(971.02,395.58)}Hồi Tưởng
+Dialogue: 3,0:11:24.74,0:11:24.78,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971,396.31)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:24.78,0:11:24.83,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.72,395.55)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:24.83,0:11:24.87,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.03,396.47)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:24.87,0:11:24.91,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.31,395.71)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:24.91,0:11:24.95,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971,396.23)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:24.95,0:11:24.99,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.26,395.39)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:24.99,0:11:25.03,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.02,396.24)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.03,0:11:25.08,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.77,395.36)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.08,0:11:25.12,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.01,396.27)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.12,0:11:25.16,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.02,395.64)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.16,0:11:25.20,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.01,396.5)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.20,0:11:25.24,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.99,395.55)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.24,0:11:25.28,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.34,396.09)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.28,0:11:25.33,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971,395.49)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.33,0:11:25.37,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971,396.32)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.37,0:11:25.41,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.01,395.35)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.41,0:11:25.45,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.01,396.17)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.45,0:11:25.49,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.69,395.5)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.49,0:11:25.53,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.34,396.32)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.53,0:11:25.58,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.69,395.28)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.58,0:11:25.62,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.01,396.04)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.62,0:11:25.66,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971,395.12)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.66,0:11:25.70,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.01,396.04)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.70,0:11:25.74,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.02,395.44)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.74,0:11:25.78,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.02,396.21)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.78,0:11:25.83,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971,395.42)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.83,0:11:25.87,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.8,396.16)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.87,0:11:25.91,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.03,395.57)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.91,0:11:25.95,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.26,396.46)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.95,0:11:25.99,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.81,395.42)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:25.99,0:11:26.03,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.32,396.41)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:26.03,0:11:26.08,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(970.75,395.32)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:26.08,0:11:26.12,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.01,396.22)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:26.12,0:11:26.16,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.02,395.32)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:26.16,0:11:26.20,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.02,396.42)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
+Dialogue: 3,0:11:26.20,0:11:26.24,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\blur1.2\fsp-2\fs175\fnVL DellaRobbia BT\c&HFFFEFF&\pos(971.02,395.58)}Hồi Tưởng{you can kind tell i gave up here but it looks fine enough id say}
 Dialogue: 4,0:11:24.75,0:11:24.79,Signs,,0,0,0,,{\an7\pos(0,0)\p1\c&H0E1A25&\blur0.8\alpha&H70&\clip(m 618 685 l 721 685 720 749 618 749 m 634 326 l 633 466 717 464 721 326)}m 668.77 335 l 670.413 335 670.413 750 668.77 750
 Dialogue: 4,0:11:24.79,0:11:24.83,Signs,,0,0,0,,{\an7\pos(1.7,0)\c&H0E1A25&\blur0.8\alpha&H70&\p1\clip(m 618 685 l 721 685 720 749 618 749 m 634 326 l 633 466 717 464 721 326)}m 668.77 335 l 670.413 335 670.413 750 668.77 750
 Dialogue: 4,0:11:24.83,0:11:24.87,Signs,,0,0,0,,{\an7\pos(2.5,0)\c&H0E1A25&\blur0.8\alpha&H70&\p1\clip(m 618 685 l 721 685 720 749 618 749 m 634 326 l 633 466 717 464 721 326)}m 668.77 335 l 670.413 335 670.413 750 668.77 750
@@ -3114,12 +3122,12 @@ Dialogue: 0,0:17:09.35,0:17:10.60,Signs,,0,0,0,,{\an5\blur0.8\fs65\1c&H19212A&\f
 Dialogue: 0,0:17:09.35,0:17:10.60,Signs,,0,0,0,,{\an5\blur0.9\fnIwata Mincho Old Pro-Fate B\fs140\fsp-3.5\pos(960,563)\1c&H1A2027&}Two\NSnakes
 Dialogue: 0,0:17:54.15,0:17:54.90,Signs,,0,0,0,,{\an5\blur0.9\fs75\fsp1\fnIwata Mincho Old Pro-Fate B\c&HFFFFF9&\pos(970,720.653)}Don't give up.
 Dialogue: 0,0:21:53.47,0:21:57.22,Signs,,0,0,0,,{\pos(960,424)\blur0.9 \fs75\fnIwata Mincho Old Pro-Fate B\c&HF8F6F9&}I just hadn't been able to give up.{Subject to change}
-Dialogue: 0,0:22:23.53,0:22:23.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\fnIwata Mincho Old Pro-Fate B\an5\fs60\c&H209BF6&\pos(963,213.6)}Bakemonogatari
-Dialogue: 0,0:22:23.53,0:22:23.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnIwata Mincho Old Pro-Fate B\blur1\an5\fs43\c&H209BF6&\pos(961.59,485.57)}Snake
-Dialogue: 0,0:22:23.53,0:22:23.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnIwata Mincho Old Pro-Fate B\blur1\an5\c&H209BF6&\fs65\pos(974.4,715.02)}Nadeko Snake, Part Two
-Dialogue: 1,0:24:28.15,0:24:29.99,Signs,,0,0,0,,{\blur0.8\fs80\fnGentium Basic\c&HFDFEFF&\pos(959.334,218.167)}Next Time
-Dialogue: 1,0:24:28.15,0:24:29.99,Signs,,0,0,0,,{\blur0.9\fnGentium Basic\fs90\pos(965,791.334)\c&HFFFFFF&}Tsubasa Cat, Part One
-Dialogue: 0,0:22:23.78,0:22:25.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur0.8\fs100\fnIwata Mincho Old Pro-Fate B\c&HFEFFFF&\pos(963.94,735.52)}To Be Continued
+Dialogue: 0,0:22:23.53,0:22:23.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\fnVL DellaRobbia BT\an5\fs60\c&H209BF6&\pos(963,213.6)}Yêu Ma Quái Truyện
+Dialogue: 0,0:22:23.53,0:22:23.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1\an5\fs52.5\c&H209BF6&\pos(961.59,485.57)}Rắn
+Dialogue: 0,0:22:23.53,0:22:23.78,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1\an5\c&H209BF6&\fs70\pos(974.4,715.02)}Rắn Nadeko, Phần 2
+Dialogue: 1,0:24:28.15,0:24:29.99,Signs,,0,0,0,,{\blur0.8\fs80\fnGentium Basic\c&HFDFEFF&\pos(959.334,218.167)}Kỳ Tới
+Dialogue: 1,0:24:28.15,0:24:29.99,Signs,,0,0,0,,{\blur0.9\fnGentium Basic\fs90\pos(965,791.334)\c&HFFFFFF&}Mèo Tsubasa, Phần 1
+Dialogue: 0,0:22:23.78,0:22:25.03,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur0.8\fs100\fnVL DellaRobbia BT\c&HFEFFFF&\pos(963.94,735.52)}Còn Nữa
 Dialogue: 0,0:06:59.49,0:07:08.50,Signs,,0,0,0,,{\clip(878,375,1045,380)\pos(0,0)\an7\bord0\shad0\p1\blur2\2c&H071410&\c&H051211&}m 892 383.9 b 898 382.1 921.2 383 929 383 b 929 383 1005 383 1005 383 b 1005 383 1024 383 1024 383 b 1028.3 383 1033.5 383.2 1036 387.3 b 1037.2 389.4 1037 392.7 1037 395 b 1037 395 1037 552 1037 552 b 1037 552 1037 643 1037 643 b 1037 650.4 1039.2 665.8 1031.8 670 b 1029.7 671.2 1026.5 671 1024 671 b 1024 671 919 671 919 671 b 919 671 897 671 897 671 b 894.5 671 891.8 671.2 889.7 669.4 b 886.7 666.8 887 662.6 887 659 b 887 659 887 452 887 452 b 887 452 887 403 887 403 b 887 395.4 884.9 388.3 892 383.9
 Dialogue: 0,0:06:59.49,0:07:08.50,Signs,,0,0,0,,{\clip(878,380,1045,381)\pos(0,0)\an7\bord0\shad0\p1\blur2\2c&H071410&\c&H051312&}m 892 383.9 b 898 382.1 921.2 383 929 383 b 929 383 1005 383 1005 383 b 1005 383 1024 383 1024 383 b 1028.3 383 1033.5 383.2 1036 387.3 b 1037.2 389.4 1037 392.7 1037 395 b 1037 395 1037 552 1037 552 b 1037 552 1037 643 1037 643 b 1037 650.4 1039.2 665.8 1031.8 670 b 1029.7 671.2 1026.5 671 1024 671 b 1024 671 919 671 919 671 b 919 671 897 671 897 671 b 894.5 671 891.8 671.2 889.7 669.4 b 886.7 666.8 887 662.6 887 659 b 887 659 887 452 887 452 b 887 452 887 403 887 403 b 887 395.4 884.9 388.3 892 383.9
 Dialogue: 0,0:06:59.49,0:07:08.50,Signs,,0,0,0,,{\clip(878,381,1045,382)\pos(0,0)\an7\bord0\shad0\p1\blur2\2c&H071410&\c&H061312&}m 892 383.9 b 898 382.1 921.2 383 929 383 b 929 383 1005 383 1005 383 b 1005 383 1024 383 1024 383 b 1028.3 383 1033.5 383.2 1036 387.3 b 1037.2 389.4 1037 392.7 1037 395 b 1037 395 1037 552 1037 552 b 1037 552 1037 643 1037 643 b 1037 650.4 1039.2 665.8 1031.8 670 b 1029.7 671.2 1026.5 671 1024 671 b 1024 671 919 671 919 671 b 919 671 897 671 897 671 b 894.5 671 891.8 671.2 889.7 669.4 b 886.7 666.8 887 662.6 887 659 b 887 659 887 452 887 452 b 887 452 887 403 887 403 b 887 395.4 884.9 388.3 892 383.9
@@ -3540,8 +3548,8 @@ Dialogue: 3,0:06:59.49,0:07:08.50,Signs,,0,0,0,,{\clip(925,602,1000,606)\pos(962
 Dialogue: 3,0:06:59.49,0:07:08.50,Signs,,0,0,0,,{\clip(925,606,1000,609)\pos(962.95,590.612)\fscy100\blur2\an5\fs45\fnHighway Gothic\c&H204233&}END
 Dialogue: 3,0:06:59.49,0:07:08.50,Signs,,0,0,0,,{\clip(925,609,1000,610)\pos(962.95,590.612)\fscy100\blur2\an5\fs45\fnHighway Gothic\c&H204334&}END
 Dialogue: 0,0:08:05.55,0:08:07.30,Signs,,0,0,0,,{\an7\pos(960,540)\blur1\c&H020606&\p1}m 289 -113 l 283 -97 277 -82 269 -65 266 -56 263 -51 268 -47 273 -47 278 -52 278 -13 282 -9 292 -10 300 -14 342 -14 366 -14 372 -14 371 -21 367 -27 360 -33 358 -40 360 -59 359 -66 352 -76 365 -88 370 -95 362 -105 354 -108 347 -106 324 -104 304 -109
-Dialogue: 0,0:08:05.55,0:08:07.30,Signs,,0,0,0,,{\c&H25869C&\blur7.5\fnIwata Mincho Old Pro-Fate B\fs68\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)\alpha&H70&}Five
-Dialogue: 1,0:08:05.55,0:08:07.30,Signs,,0,0,0,,{\c&H25869C&\blur1.3\fnIwata Mincho Old Pro-Fate B\fs68\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)}Five
+Dialogue: 0,0:08:05.55,0:08:07.30,Signs,,0,0,0,,{\c&H25869C&\blur7.5\fnVL DellaRobbia BT\fs70\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)\alpha&H70&}Năm
+Dialogue: 1,0:08:05.55,0:08:07.30,Signs,,0,0,0,,{\c&H25869C&\blur1.3\fnVL DellaRobbia BT\fs70\fsp-1.3\fscx100\fscy110\pos(1280.987,472.942)}Năm
 Dialogue: 0,0:12:35.23,0:12:36.23,Signs,,0,0,0,,
 Dialogue: 0,0:12:35.69,0:12:35.73,Signs,,0,0,0,,{\alpha&H00&\fscx98.3\fscy98.3\fnIwata Mincho Old Pro-Fate B\c&HFFFFFF&\4c&HA1ECFC&\an7\blur30\bord4.91\shad0.01\1a&HFE&\3a&HFF&\fsp-2.5\fs280\fax0.38\frz3.86\pos(856.91,736.56)\4a&HB0&}Scale{Anything else with this should also be scale, within reason}{i considered doing more but ive suffered enough as is}
 Dialogue: 0,0:12:35.69,0:12:35.73,Signs,,0,0,0,,{\alpha&H00&\fscx98.3\fscy98.3\fnIwata Mincho Old Pro-Fate B\c&HFFFFFF&\4c&HA1ECFC&\an7\blur30\bord4.91\shad0.01\1a&HFE&\3a&HFF&\fsp-2.5\fs280\fax0.38\frz3.86\pos(856.91,736.56)}Scale{Anything else with this should also be scale, within reason}{i considered doing more but ive suffered enough as is}
