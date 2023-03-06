@@ -15,7 +15,7 @@ Tuần Lễ Vàng,
 
 Rắn Cắt Dây, 
 
-Mèo Quấy Rầy (Chướng Miêu), Hanekawa Đen, Bòn Rút Năng Lượng
+Mèo Quấy Rầy (Chướng Miêu), Hanekawa Đen, Bòn Rút Năng Lượng, Tam Đại Dị Miêu
 
 
 
@@ -29,6 +29,9 @@ Cậu cái gì cũng biết hết nhở.{omae wa nani demo shitteru na}
 Không biết hết đâu, biết gì biết nấy thôi.{nandemo wa shiranai wa yo, shitteru koto dake}
 
 Xin lỗi, em líu lưỡi.{shitsurei kamimashita}
+Không, em cố ý.
+Em níu nưỡi!
+Chả cố ý thì cố gì!
 
 Có gì hay ho đã xảy ra sao?
 
