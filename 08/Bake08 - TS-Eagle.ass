@@ -11,12 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
-Video File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
+Audio File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 08v3 [13898D3D].mkv
+Video File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 08v3 [13898D3D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Active Line: 5
-Video Position: 27145
+Video Zoom Percent: 0.875000
+Scroll Position: 42
+Active Line: 81
+Video Position: 27169
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,10 +33,89 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 9,0:01:00.79,0:01:07.05,Signs,,0,0,0,nTS,Quỷ Mưa
-Dialogue: 9,0:03:00.62,0:03:02.12,Signs,,0,0,0,nTS,{\c&H676F70&\pos(876,285.9)}lom khom
-Dialogue: 9,0:12:59.09,0:13:04.72,Signs,,0,0,0,nTS,{\c&HFFFFFF&}Điều Ước Thứ Ba
-Dialogue: 9,0:18:50.15,0:18:50.32,Signs,,0,0,0,nTS,BA
-Dialogue: 9,0:18:51.15,0:18:51.32,Signs,,0,0,0,nTS,HAI
-Dialogue: 9,0:18:52.15,0:18:52.32,Signs,,0,0,0,nTS,MỘT
-Dialogue: 9,0:18:53.15,0:18:53.32,Signs,,0,0,0,nTS,KHÔNG
+Dialogue: 9,0:01:00.79,0:01:07.05,Signs,,0,0,0,nTS,{\frz0\fscx100\fscy100\alpha&H00&\fnSVN-Aaron Script\fax0.1\fs100\c&HF6F6F6&\blur0.8\1a&H00&\pos(960.47,684.28)\fsp30}~ Quỷ Mưa ~
+Dialogue: 9,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(626.86,365.9)}Lom\N khom
+Dialogue: 9,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(626.86,366.69)}Lom\N khom
+Dialogue: 9,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.87\pos(627.65,367.61)}Lom\N khom
+Dialogue: 9,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.87\pos(628.33,368.39)}Lom\N khom
+Dialogue: 9,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.88\pos(628.69,368.88)}Lom\N khom
+Dialogue: 9,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(628.8,368.97)}Lom\N khom
+Dialogue: 9,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(628.8,368.74)}Lom\N khom
+Dialogue: 9,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(628.85,368.26)}Lom\N khom
+Dialogue: 9,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(628.95,367.66)}Lom\N khom
+Dialogue: 9,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.88\pos(629.38,367.21)}Lom\N khom
+Dialogue: 9,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(630.22,367.31)}Lom\N khom
+Dialogue: 9,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(630.55,367.19)}Lom\N khom
+Dialogue: 9,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(630.23,366.95)}Lom\N khom
+Dialogue: 9,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=0}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(629.43,366.65)}Lom\N khom
+Dialogue: 9,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(628.33,366.45)}Lom\N khom
+Dialogue: 9,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=0}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.24,366.49)}Lom\N khom
+Dialogue: 9,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.98\pos(626.31,366.72)}Lom\N khom
+Dialogue: 9,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(625.93,367.1)}Lom\N khom
+Dialogue: 9,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(626.32,367.66)}Lom\N khom
+Dialogue: 9,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.07,368.15)}Lom\N khom
+Dialogue: 9,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.99\pos(627.78,368.46)}Lom\N khom
+Dialogue: 9,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.99\pos(628.38,368.53)}Lom\N khom
+Dialogue: 9,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz20.02\pos(628.83,368.47)}Lom\N khom
+Dialogue: 9,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.98\pos(629.06,368.17)}Lom\N khom
+Dialogue: 9,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=0}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(629.08,367.9)}Lom\N khom
+Dialogue: 9,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(629.09,367.75)}Lom\N khom
+Dialogue: 9,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(629.06,367.81)}Lom\N khom
+Dialogue: 9,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=0}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(628.72,367.8)}Lom\N khom
+Dialogue: 9,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=0}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(628.22,367.74)}Lom\N khom
+Dialogue: 9,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz20\pos(627.76,367.73)}Lom\N khom
+Dialogue: 9,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.39,367.72)}Lom\N khom
+Dialogue: 9,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.27,367.86)}Lom\N khom
+Dialogue: 9,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.98\pos(627.39,368.16)}Lom\N khom
+Dialogue: 9,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz20.01\pos(627.74,368.6)}Lom\N khom
+Dialogue: 9,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=0}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(628.17,368.92)}Lom\N khom
+Dialogue: 9,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(628.39,368.61)}Lom\N khom
+Dialogue: 9,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=1}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(766.85,451.43)}Lom\N khom
+Dialogue: 9,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=1}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(766.73,451.19)}Lom\N khom
+Dialogue: 9,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=1}{\fscx99.95\fscy99.95\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(766.35,451.04)}Lom\N khom
+Dialogue: 9,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(765.67,451.12)}Lom\N khom
+Dialogue: 9,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(765.04,451.46)}Lom\N khom
+Dialogue: 9,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=1}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(764.82,452.19)}Lom\N khom
+Dialogue: 9,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=1}{\fscx99.98\fscy99.98\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(765.14,453.07)}Lom\N khom
+Dialogue: 9,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(765.34,453.89)}Lom\N khom
+Dialogue: 9,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(765.28,454.19)}Lom\N khom
+Dialogue: 9,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=1}{\fscx99.98\fscy99.98\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(765.05,454.15)}Lom\N khom
+Dialogue: 9,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(764.81,453.76)}Lom\N khom
+Dialogue: 9,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(764.56,452.99)}Lom\N khom
+Dialogue: 9,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=1}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(764.6,452.3)}Lom\N khom
+Dialogue: 9,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=1}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(764.85,451.7)}Lom\N khom
+Dialogue: 9,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=1}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(765.34,451.65)}Lom\N khom
+Dialogue: 9,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=1}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(765.45,451.64)}Lom\N khom
+Dialogue: 9,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=1}{\fscx100.08\fscy100.08\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(764.98,451.41)}Lom\N khom
+Dialogue: 9,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=1}{\fscx100.08\fscy100.08\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(764.28,451.18)}Lom\N khom
+Dialogue: 9,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(763.57,451.11)}Lom\N khom
+Dialogue: 9,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=1}{\fscx100.07\fscy100.07\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(762.88,451.14)}Lom\N khom
+Dialogue: 9,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=1}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(762.54,451.33)}Lom\N khom
+Dialogue: 9,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=1}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(762.65,451.71)}Lom\N khom
+Dialogue: 9,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=1}{\fscx100.07\fscy100.07\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(763.37,452.26)}Lom\N khom
+Dialogue: 9,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=1}{\fscx100.07\fscy100.07\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(764.27,452.72)}Lom\N khom
+Dialogue: 9,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(765.22,453.11)}Lom\N khom
+Dialogue: 9,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=1}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(765.99,453.37)}Lom\N khom
+Dialogue: 9,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=1}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(766.5,453.34)}Lom\N khom
+Dialogue: 9,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(766.76,453.11)}Lom\N khom
+Dialogue: 9,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(766.86,452.89)}Lom\N khom
+Dialogue: 9,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(766.88,452.67)}Lom\N khom
+Dialogue: 9,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(767.01,452.64)}Lom\N khom
+Dialogue: 9,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(766.82,452.56)}Lom\N khom
+Dialogue: 9,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(766.33,452.48)}Lom\N khom
+Dialogue: 9,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(765.69,452.4)}Lom\N khom
+Dialogue: 9,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=1}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(765.08,452.47)}Lom\N khom
+Dialogue: 9,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=1}{\fscx100.11\fscy100.11\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(764.55,452.62)}Lom\N khom
+Dialogue: 9,0:12:59.09,0:13:04.72,Signs,,0,0,0,nTS,{\c&HFFFFFF&\fnSVN-Amsi Cond\blur0.8\fs100\fsp30\pos(979.43,652)}Điều Ước Thứ Ba
+Dialogue: 9,0:18:50.15,0:18:50.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1049.14,402.86)}BA
+Dialogue: 10,0:18:50.15,0:18:50.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1049.14,402.86)}BA
+Dialogue: 9,0:18:51.15,0:18:51.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1017.14,402.86)}HAI
+Dialogue: 10,0:18:51.15,0:18:51.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1017.14,402.86)}HAI
+Dialogue: 9,0:18:52.15,0:18:52.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1040,402.86)}MỘT
+Dialogue: 10,0:18:52.15,0:18:52.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1040,402.86)}MỘT
+Dialogue: 9,0:18:53.15,0:18:53.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1040,402.86)}KHÔNG
+Dialogue: 10,0:18:53.15,0:18:53.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1040,402.86)}KHÔNG
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"2fee9fed-737b-4b74-a930-48f93c603a8e"#2C"originalText"#3A"{\\c&H676F70&\\fnSJ Billy\\b1\\blur1.2\\frz19.89\\pos(626.86#2C365.9)}Lom\\N khom"}
+Data: 1,a-mo,e{"uuid"#3A"33d143f0-93bb-4e80-9994-6118c3ec2bbe"#2C"originalText"#3A"{\\c&H676F70&\\fnSJ Billy\\b1\\blur1.2\\frz19.89\\pos(766.85#2C451.43)}Lom\\N khom"}
