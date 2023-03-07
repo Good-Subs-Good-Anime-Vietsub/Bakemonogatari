@@ -16,8 +16,8 @@ Video File: [OZR] Bakemonogatari - 11 (BD 1080p Hi10 Opus) [01D6C8B9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 7610
-Active Line: 7614
+Scroll Position: 7462
+Active Line: 7492
 Video Position: 14691
 
 [V4+ Styles]
@@ -105,7 +105,7 @@ Dialogue: 1,0:00:01.31,0:00:01.35,Signs,,0,0,0,,{=217}{\alpha&H00&\frz0\fscx100\
 Dialogue: 1,0:00:01.35,0:00:01.39,Signs,,0,0,0,,{=217}{\alpha&H00&\frz0\fscx100\fscy100\blur1\fs95\fnVL DellaRobbia BT\c&HF4F7F5&\pos(963,566.57)}HỒI TƯỞNG
 Dialogue: 1,0:00:01.39,0:00:01.43,Signs,,0,0,0,,{=217}{\alpha&H00&\frz0\fscx100\fscy100\blur1\fs95\fnVL DellaRobbia BT\c&HF4F7F5&\pos(963.23,566.02)}HỒI TƯỞNG
 Dialogue: 1,0:00:01.43,0:00:01.48,Signs,,0,0,0,,{=217}{\alpha&H00&\frz0\fscx100\fscy100\blur1\fs95\fnVL DellaRobbia BT\c&HF4F7F5&\pos(962.99,566.52)}HỒI TƯỞNG
-Dialogue: 1,0:05:50.58,0:05:54.99,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1\an5\fs40\c&H453ADF&\pos(963,873.3)}Phông chữ dùng cho minh hoạ: VL DellaRobbia BT và VL DellaRobbia BT
+Dialogue: 1,0:05:50.58,0:05:54.99,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1\an5\fs40\c&H453ADF&\pos(963,873.3)}Phông chữ dùng cho minh hoạ: Gentium Basic và VL DellaRobbia BT
 Dialogue: 1,0:05:50.58,0:05:54.99,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1\an5\c&H341DE1&\fs70\pos(962.6,469.6)}Mèo Tsubasa, Phần 1
 Dialogue: 1,0:05:50.58,0:05:54.99,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\an5\fs35\c&H4433DE&\pos(963.8,55)}Tập Mười Một
 Dialogue: 4,0:05:57.50,0:05:58.99,Signs,,0,0,0,,{\q2\fscx150\shad3\fnLHF Scriptana\fs179\blur1.5\fsp15.5\c&H215A94&\pos(1007,808.5)\4c&H010609&\4a&H50&}Naoetsu Private High School
