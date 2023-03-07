@@ -41,7 +41,7 @@ subs {
         includeProjectGarbage(false)
 
         scriptInfo {
-                title = get("group")
+                title = "GSGA"
                 scaledBorderAndShadow = true
         }
 
