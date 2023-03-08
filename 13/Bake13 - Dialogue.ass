@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 13 (BD 1080p Hi10 Opus) [1BD7BCE8].mk
 Video File: ../raws/[OZR] Bakemonogatari - 13 (BD 1080p Hi10 Opus) [1BD7BCE8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 2085
-Active Line: 2102
-Video Position: 36264
+Video Zoom Percent: 0.375000
+Scroll Position: 716
+Active Line: 723
+Video Position: 28069
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -748,15 +748,15 @@ Dialogue: 3,0:18:44.54,0:18:48.65,Main,,0,0,0,,Bản thân Quái Dị vẫn luô
 Dialogue: 3,0:18:48.65,0:18:51.86,Main,,0,0,0,,Chứ không phải bỗng một ngày tự dưng xuất hiện ha.
 Dialogue: 3,0:18:52.24,0:18:54.44,Main,,0,0,660,,Araragi-kun biết không?
 Dialogue: 3,0:18:54.44,0:18:56.43,Main,,0,0,660,,Biết gì?
-Dialogue: 3,0:18:56.43,0:18:59.64,Main,,0,0,660,,Ma cà rồng có một sức mạnh ấy.
-Dialogue: 3,0:18:59.64,0:19:04.00,Main,,0,0,660,,Dừng sức quyến rũ để bắt con người làm con tin.
-Dialogue: 3,0:19:04.00,0:19:04.87,Main,,0,0,660,,Con tin?
+Dialogue: 3,0:18:56.43,0:18:59.64,Main,,0,0,660,,Ma cà rồng có một năng lực ấy.
+Dialogue: 3,0:18:59.64,0:19:04.00,Main,,0,0,660,,Mê hoặc con người bắt họ làm tù nhân.
+Dialogue: 3,0:19:04.00,0:19:04.87,Main,,0,0,660,,Tù nhân?
 Dialogue: 3,0:19:04.87,0:19:07.57,Main,,0,0,0,,Giống như kiểu thôi miên ấy.
 Dialogue: 3,0:19:07.57,0:19:11.50,Main,,0,0,0,,Bằng cách nhìn chằm chằm vào ai đó,\N thì sẽ mê hoặc được người ta.
 Dialogue: 3,0:19:12.89,0:19:14.46,Main,,0,0,0,,Thế nhưng thế thì có gì à?
 Dialogue: 3,0:19:14.46,0:19:17.34,Main,,0,0,0,,Không có, chỉ là tớ nghĩ vậy thôi.
-Dialogue: 3,0:19:17.34,0:19:23.85,Main,,0,0,0,,Dạo gần đây, Araragi-kun rất hay được con gái để ý, \Nnên tớ nghĩ không biết có liên quan gì không.
-Dialogue: 3,0:19:26.54,0:19:30.73,Main,,0,800,0,,Xin lỗi nhé! Tớ vừa lỡ lời.
+Dialogue: 3,0:19:17.34,0:19:23.85,Main,,0,0,0,,Dạo gần đây, Araragi-kun trở nên hút gái, \Nnên tớ nghĩ không biết có liên quan gì không.
+Dialogue: 3,0:19:26.54,0:19:30.73,Main,,0,800,0,,Xin lỗi nhé! \NTớ vừa có ý không phải với cậu.
 Dialogue: 3,0:19:31.06,0:19:33.94,Main,,0,0,0,,Có sao đâu! Chả có chuyện đó đâu.
 Dialogue: 3,0:19:33.94,0:19:36.07,Main,,0,0,0,,Ngược lại còn khiến tớ hiểu ra.
 Dialogue: 3,0:19:36.07,0:19:38.28,Main,,0,0,0,,Hiểu rồi, ra là mê hoặc ha.
@@ -859,7 +859,7 @@ Dialogue: 3,0:26:03.52,0:26:04.88,Main,,0,0,0,,Bunt thất bại.
 Dialogue: 6,0:04:31.46,0:04:32.88,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em nhớ chàng~
 Dialogue: 6,0:04:32.88,0:04:34.38,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em yêu chàng~
 Dialogue: 6,0:04:34.38,0:04:35.71,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Chẳng thể cưỡng lại được.
-Dialogue: 6,0:04:35.71,0:04:38.84,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tin em...
+Dialogue: 6,0:04:35.71,0:04:38.84,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tim em....
 Dialogue: 6,0:04:38.84,0:04:43.14,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\pos(960,1040)\c&HECECEC&}hướng tới bên chàng.
 Dialogue: 6,0:04:55.65,0:04:58.61,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Không được như chàng nghĩ đâu,
 Dialogue: 6,0:04:58.61,0:05:01.45,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\pos(960,1040)\c&HECECEC&}em nào phải thiên thần.
@@ -879,7 +879,7 @@ Dialogue: 6,0:05:38.15,0:05:42.32,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\po
 Dialogue: 6,0:05:42.32,0:05:43.78,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em nhớ chàng~
 Dialogue: 6,0:05:43.78,0:05:45.20,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em yêu chàng~
 Dialogue: 6,0:05:45.20,0:05:46.53,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Chẳng thể cưỡng lại được.
-Dialogue: 6,0:05:46.53,0:05:49.70,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tin em...
+Dialogue: 6,0:05:46.53,0:05:49.70,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tim em....
 Dialogue: 6,0:05:49.70,0:05:54.00,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}hướng tới bên chàng.
 Dialogue: 1,0:04:31.00,0:04:31.04,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\fs35\c&H69696B&\fnGentium Basic\b1\pos(957.29,171.71)}Hình Vẽ
 Dialogue: 1,0:04:31.04,0:04:31.08,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1\fs35\c&H69696B&\fnGentium Basic\b1\pos(957.34,172.37)}Hình Vẽ

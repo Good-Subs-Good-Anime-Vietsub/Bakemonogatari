@@ -16,8 +16,8 @@ Video File: ../raws/[OZR] Bakemonogatari - 14 (BD 1080p Hi10 Opus) [A478DE50].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 627
-Active Line: 636
+Scroll Position: 358
+Active Line: 365
 Video Position: 34105
 
 [V4+ Styles]
@@ -192,7 +192,7 @@ Dialogue: 10,0:09:45.64,0:09:48.02,Main,,0,0,0,,Hanekawa-san đã giao phó cho 
 Dialogue: 10,0:09:51.12,0:09:53.23,Main,,0,0,0,,Không thể coi nhẹ được.
 Dialogue: 10,0:09:53.23,0:09:55.74,Main,,0,0,0,,Hanekawa-san càng lâm nguy,
 Dialogue: 10,0:09:55.74,0:09:58.29,Main,,0,0,0,,thì tớ càng phải hoàn thành công việc này.
-Dialogue: 10,0:09:59.53,0:10:01.63,Main,,0,0,0,,Nè! Araragi-kun... 
+Dialogue: 10,0:09:59.53,0:10:01.63,Main,,0,0,0,,Nè! Araragi-kun...
 Dialogue: 10,0:10:01.63,0:10:03.43,Main,,0,0,0,,Giống như mọi khi,
 Dialogue: 10,0:10:03.43,0:10:06.05,Main,,0,0,0,,Araragi-kun cứ làm theo cách riêng của mình là được.
 Dialogue: 10,0:10:06.05,0:10:09.36,Main,,0,0,0,,Còn tớ có cách riêng của tớ.
@@ -260,8 +260,8 @@ Dialogue: 10,0:14:15.75,0:14:20.35,Main,,0,0,0,,Nên sẽ thuận tiện hơn ch
 Dialogue: 10,0:14:20.35,0:14:21.96,Main,,1200,0,0,,Choẻn rồi đấy!
 Dialogue: 10,0:14:22.63,0:14:25.09,Main,,0,0,0,,Được rồi! Ta sẽ để mi "giúp một tay".
 Dialogue: 10,0:14:26.23,0:14:29.84,Main,cat,0,0,0,,Thế này thì choẻn câu "Nhờ mèo giúp một tay" rồi ha.
-Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m 800 85 l -819 85 l -819 -28 l 800 -28 m -816 -25 l -816 82 l 797 82 l 797 -25 
-Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&\1a&H97&}m 797 82 l -816 82 l -816 -25 l 797 -25 
+Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m 800 85 l -819 85 l -819 -28 l 800 -28 m -816 -25 l -816 82 l 797 82 l 797 -25
+Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&\1a&H97&}m 797 82 l -816 82 l -816 -25 l 797 -25
 Dialogue: 10,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\bord0\shad0\fscx110\fscy110\pos(955.2,47.07)\c&H3EFF35&}Nhờ Mèo Giúp Một Tay{\c}, ám chỉ việc {\c&H3EFF35&}tối tăm mặt mũi{\c}, {\c&H3EFF35&}cực kỳ thiếu nhân lực{\c}.
 Dialogue: 10,0:14:32.65,0:14:37.23,Main,,0,0,0,,{\i1}Hanekawa của thằng này không có chuyện thấy buồn cười\Nsau mấy trò đùa ngớ ngẩn như thế đâu nhá!
 Dialogue: 10,0:14:37.98,0:14:43.91,Main,,0,0,0,,Mà mi có thính giác và khướu giác tốt,\N có thể nhận ra được giọng và mùi của Shinobu đúng không?
@@ -272,7 +272,7 @@ Dialogue: 10,0:15:11.18,0:15:12.93,Main,cat,0,0,0,,Ơ sao thế, con sen?
 Dialogue: 10,0:15:12.93,0:15:16.93,Main,,0,0,0,,{\i1}Quên mất tiêu! Nó có Bòn Rút Năng Lượng mà.
 Dialogue: 10,0:15:20.03,0:15:22.06,Main,,0,0,0,,{\i1}Nhưng mà phải nói câu này!
 Dialogue: 10,0:15:22.06,0:15:23.94,Main,,0,0,0,,{\i1}Gục thế này thật mãn nguyện!
-Dialogue: 10,0:15:25.69,0:15:27.14,Main,cat,0,0,0,,Ồ~ Hiểu rồi! 
+Dialogue: 10,0:15:25.69,0:15:27.14,Main,cat,0,0,0,,Ồ~ Hiểu rồi!
 Dialogue: 10,0:15:27.14,0:15:31.41,Main,cat,0,0,0,,Này con sen! Chạm ngực chủ nhân ta khiến mi sướng quá\N mà gục luôn đúng khem.
 Dialogue: 10,0:15:31.43,0:15:34.62,Main,,0,0,0,,Ta đã ngáo, mi còn ngáo hơn.
 Dialogue: 10,0:15:35.07,0:15:37.37,Main,,0,0,0,,{\i1}Năng lực của mình mà còn cóc biết à?
@@ -372,7 +372,7 @@ Dialogue: 10,0:21:40.93,0:21:41.91,Main,,0,0,0,,Vậy ư?
 Dialogue: 10,0:21:43.67,0:21:48.03,Main,cat,0,0,0,,Hơn nữa sự ceng thẻng này, mi có thể dễ dàng giải quyết.
 Dialogue: 10,0:21:48.93,0:21:49.78,Main,,0,0,0,,Dễ dàng?
 Dialogue: 10,0:21:50.92,0:21:52.17,Main,cat,0,0,0,,Dễ dèng~
-Dialogue: 10,0:21:55.80,0:21:58.92,Main,TLC,0,0,0,,Thế này nhéo, con sen! Chủ nhân ta...
+Dialogue: 10,0:21:55.80,0:21:58.92,Main,TLC,0,0,0,,Thế này nhóe, con sen! Chủ nhân ta...
 Dialogue: 10,0:22:00.42,0:22:03.05,Main,cat,0,0,0,,...yêu mi đấy!
 Dialogue: 10,0:22:09.49,0:22:16.39,Main,cat,0,0,0,,Thế nên nếu mà mi yêu lại chủ nhân,\N thì ta có thể biến mét đấy.
 Dialogue: 10,0:23:55.60,0:23:56.33,Main,,0,0,0,,Karen đây!
@@ -402,7 +402,7 @@ Dialogue: 10,0:24:29.13,0:24:30.28,Main,,0,0,0,,Còn sợ hơn ấy!
 Dialogue: 6,0:03:14.97,0:03:16.38,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em nhớ chàng~
 Dialogue: 6,0:03:16.38,0:03:17.89,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em yêu chàng~
 Dialogue: 6,0:03:17.89,0:03:19.10,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Chẳng thể cưỡng lại được.
-Dialogue: 6,0:03:19.10,0:03:22.35,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tin em...
+Dialogue: 6,0:03:19.10,0:03:22.35,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tim em...
 Dialogue: 6,0:03:22.35,0:03:26.64,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\pos(960,1040)\c&HECECEC&}hướng tới bên chàng.
 Dialogue: 6,0:03:39.12,0:03:42.03,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Không được như chàng nghĩ đâu,
 Dialogue: 6,0:03:42.03,0:03:44.78,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\pos(960,1040)\c&HECECEC&}em nào phải thiên thần.
@@ -422,7 +422,7 @@ Dialogue: 6,0:04:21.60,0:04:25.87,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\po
 Dialogue: 6,0:04:25.87,0:04:27.29,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em nhớ chàng~
 Dialogue: 6,0:04:27.29,0:04:28.71,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em yêu chàng~
 Dialogue: 6,0:04:28.71,0:04:29.87,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Chẳng thể cưỡng lại được.
-Dialogue: 6,0:04:29.87,0:04:33.21,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tin em...
+Dialogue: 6,0:04:29.87,0:04:33.21,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tim em...
 Dialogue: 6,0:04:33.21,0:04:37.51,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}hướng tới bên chàng.
 Dialogue: 0,0:03:26.97,0:03:38.57,Signs,,0,0,0,,{\fs60\blur0.9\fnVL TelingaterDisplay\pos(853,373.666)\b1\fscx73\fscy92}Yêu
 Dialogue: 0,0:03:26.97,0:03:38.57,Signs,,0,0,0,,{\fs60\blur0.9\fnVL TelingaterDisplay\pos(1076.666,369.333)\b1\fscx73\fscy92}Ma

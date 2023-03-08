@@ -96,8 +96,8 @@ Dialogue: 10,0:06:47.92,0:06:50.93,Main,,0,0,0,,Có chuyện khẩn cấp chăng
 Dialogue: 10,0:06:51.49,0:06:53.18,Main,,0,0,0,,Như kiểu Takkyūdō ấy!
 Dialogue: 10,0:06:55.31,0:07:01.25,Main,,0,0,0,,Tại sao em lại so sánh em ấy với chiêu thức đặc biệt \Ncủa Hoàng tử Yamato, nhân vật chính trong Bikkuriman hả?
 Dialogue: 10,0:07:01.25,0:07:05.44,Main,,0,0,0,,Không chỉ gây khó hiểu, \Nmà còn ép anh đóng vai Tsukkomi để giải thích.
-Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H00&\c&H000000&\fscx107\fscy107}m 1538 126 l -49 126 l -49 -18 l 1538 -18 m -45 -14 l -45 122 l 1534 122 l 1534 -14 
-Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H73&\c&H000000&\fscx107\fscy107}m 1534 122 l -45 122 l -45 -14 l 1534 -14 
+Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H00&\c&H000000&\fscx107\fscy107}m 1538 126 l -49 126 l -49 -18 l 1538 -18 m -45 -14 l -45 122 l 1534 122 l 1534 -14
+Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H73&\c&H000000&\fscx107\fscy107}m 1534 122 l -45 122 l -45 -14 l 1534 -14
 Dialogue: 10,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\bord0\shad0\fscx107\fscy107\pos(52.67,48.26)}Trong {\c&H3EFF35&}Hài kịch Manzai{\c}, một loại hình nghệ thuật của Nhật gồm {\c&H3EFF35&}2 người nói chuyện qua lại{\c},\N vai {\c&H3EFF35&}Tsukkomi{\c} là {\c&HFFFE35&}người giải thích{\c} những câu đùa của vai {\c&H3EFF35&}Boke{\c}.
 Dialogue: 10,0:07:05.44,0:07:09.07,Main,,0,0,0,,Ừm... thì Nadeko cũng đâu mong là anh hiểu đâu.
 Dialogue: 10,0:07:11.45,0:07:14.95,Main,,0,0,0,,Koyomi-onīchan, vẫn cứ là thú vị~
@@ -334,7 +334,7 @@ Dialogue: 10,0:24:26.56,0:24:27.48,Main,,0,0,0,,{\i1}Chả biết~
 Dialogue: 6,0:04:10.43,0:04:11.85,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em nhớ chàng~
 Dialogue: 6,0:04:11.85,0:04:13.34,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em yêu chàng~
 Dialogue: 6,0:04:13.34,0:04:14.68,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Chẳng thể cưỡng lại được.
-Dialogue: 6,0:04:14.68,0:04:17.84,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tin em...
+Dialogue: 6,0:04:14.68,0:04:17.84,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tim em....
 Dialogue: 6,0:04:17.84,0:04:22.11,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\pos(960,1040)\c&HECECEC&}hướng tới bên chàng.
 Dialogue: 6,0:04:34.62,0:04:37.57,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Không được như chàng nghĩ đâu,
 Dialogue: 6,0:04:37.57,0:04:40.41,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\pos(960,1040)\c&HECECEC&}em nào phải thiên thần.
@@ -354,7 +354,7 @@ Dialogue: 6,0:05:17.14,0:05:21.28,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\po
 Dialogue: 6,0:05:21.28,0:05:22.76,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em nhớ chàng~
 Dialogue: 6,0:05:22.76,0:05:24.16,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Em yêu chàng~
 Dialogue: 6,0:05:24.16,0:05:25.53,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Chẳng thể cưỡng lại được.
-Dialogue: 6,0:05:25.53,0:05:28.67,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tin em...
+Dialogue: 6,0:05:25.53,0:05:28.67,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}Ít nhất thì con tim em....
 Dialogue: 6,0:05:28.67,0:05:32.97,OPcat,,0,0,0,,{\fad(0,0)\blur0.6\c&HECECEC&\pos(960,1040)}hướng tới bên chàng.
 Dialogue: 1,0:04:09.97,0:04:10.02,Signs,,0,0,0,,{=184}{\fscx100\fscy100\frz0\alpha&H00&\blur1\fs35\c&H69696B&\fnGentium Basic\b1\pos(957.29,171.71)}Hình Vẽ
 Dialogue: 1,0:04:10.02,0:04:10.06,Signs,,0,0,0,,{=184}{\fscx100\fscy100\frz0\alpha&H00&\blur1\fs35\c&H69696B&\fnGentium Basic\b1\pos(957.34,172.37)}Hình Vẽ
