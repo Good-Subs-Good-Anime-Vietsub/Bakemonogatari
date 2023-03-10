@@ -16,9 +16,9 @@ Video File: [OZR] Bakemonogatari - 13 (BD 1080p Hi10 Opus) [1BD7BCE8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1092
-Active Line: 1095
-Video Position: 19104
+Scroll Position: 345
+Active Line: 349
+Video Position: 9058
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -380,7 +380,7 @@ Dialogue: 1,0:06:11.39,0:06:11.43,Signs,,0,0,0,,{\fscx99.03\fscy99.03\frz0\alpha
 Dialogue: 1,0:06:11.43,0:06:11.47,Signs,,0,0,0,,{\fscx98.99\fscy98.99\frz0\alpha&H00&\fnGentium Basic\an4\blur0.8\fs75\pos(133.66,466.72)}Ah, I see. This time the cat ears are black ,\N\N\N\N\N\Nthe same color as her hair.
 Dialogue: 1,0:06:11.47,0:06:11.51,Signs,,0,0,0,,{\fscx98.91\fscy98.91\frz0\alpha&H00&\fnGentium Basic\an4\blur0.8\fs75\pos(134.63,466.18)}Ah, I see. This time the cat ears are black ,\N\N\N\N\N\Nthe same color as her hair.
 Dialogue: 0,0:06:11.60,0:06:16.02,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1\an5\fs45\c&H4938DF&\pos(964.8,866.1)}Phông chữ dùng cho minh hoạ: Gentium Basic và VL DellaRobbia BT
-Dialogue: 0,0:06:11.60,0:06:16.02,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1\an5\c&H341DE1&\fs75\pos(966,455)}Mèo Tsubasa, Phần 2
+Dialogue: 0,0:06:11.60,0:06:16.02,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1\an5\c&H341DE1&\fs75\pos(966,455)}Mèo Tsubasa, Phần 3
 Dialogue: 0,0:06:11.60,0:06:16.02,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\an5\fs45\c&H4433DE&\pos(960.6,47)}Tập Mười Ba
 Dialogue: 0,0:06:17.77,0:06:19.52,Signs,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\blur4\fs30\pos(296,251.5)\c&HDEEFF1&\alpha&HB0&}Bicycle parking
 Dialogue: 1,0:06:17.77,0:06:19.52,Signs,,0,0,0,,{\fnIwata Mincho Old Pro-Fate B\blur0.8\fs30\pos(296,251.5)\c&HDEEFF1&}Bicycle parking

@@ -16,9 +16,9 @@ Video File: [OZR] Bakemonogatari - 14 (BD 1080p Hi10 Opus) [A478DE50].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 9234
-Active Line: 9239
-Video Position: 18254
+Scroll Position: 9412
+Active Line: 9418
+Video Position: 18885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -9273,16 +9273,16 @@ Dialogue: 0,0:08:35.36,0:08:35.41,Signs,,0,0,0,,{=4}{\fscx100\fscy100\frz0\alpha
 Dialogue: 0,0:06:40.08,0:06:42.00,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&H24338E&\pos(1633.6,814.4)}Hoạt{\c&H4D5690&} Cảnh số      101
 Dialogue: 1,0:08:08.88,0:08:11.38,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&H57465F&\pos(1590.4,814.4)}Hoạt C{\c&H3C4687&}ảnh số      132
 Dialogue: 0,0:08:47.92,0:08:50.17,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&H2A4A8B&\pos(1588.8,816)}Hoạt C{\c&H434D84&}ảnh số      156
-Dialogue: 0,0:12:41.32,0:12:41.36,Signs,,0,0,0,,{=3}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur1\c&HFFFFFF&\pos(761.6,648)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.36,0:12:41.40,Signs,,0,0,0,,{=3}{\fscx89.55\fscy89.55\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.29,636.76)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.40,0:12:41.44,Signs,,0,0,0,,{=3}{\fscx96.92\fscy96.92\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.99\c&HFFFFFF&\pos(767.73,644.66)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.44,0:12:41.49,Signs,,0,0,0,,{=3}{\fscx89.54\fscy89.54\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.31,636.73)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.49,0:12:41.53,Signs,,0,0,0,,{=3}{\fscx94.81\fscy94.81\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.98\c&HFFFFFF&\pos(771.91,642.39)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.53,0:12:41.57,Signs,,0,0,0,,{=3}{\fscx89.54\fscy89.54\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.32,636.71)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.57,0:12:41.61,Signs,,0,0,0,,{=3}{\fscx92.7\fscy92.7\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.98\c&HFFFFFF&\pos(776.08,640.1)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.61,0:12:41.65,Signs,,0,0,0,,{=3}{\fscx89.54\fscy89.54\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.32,636.71)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.65,0:12:41.69,Signs,,0,0,0,,{=3}{\fscx90.6\fscy90.6\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(780.25,637.83)}Hoạt Cảnh số      224
-Dialogue: 0,0:12:41.69,0:12:42.32,Signs,,0,0,0,,{=3}{\fscx89.55\fscy89.55\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.32,636.71)}Hoạt Cảnh số      224
+Dialogue: 0,0:12:41.32,0:12:41.36,Signs,,0,0,0,,{=3}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur1\c&HFFFFFF&\pos(761.6,648)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.36,0:12:41.40,Signs,,0,0,0,,{=3}{\fscx89.55\fscy89.55\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.29,636.76)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.40,0:12:41.44,Signs,,0,0,0,,{=3}{\fscx96.92\fscy96.92\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.99\c&HFFFFFF&\pos(767.73,644.66)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.44,0:12:41.49,Signs,,0,0,0,,{=3}{\fscx89.54\fscy89.54\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.31,636.73)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.49,0:12:41.53,Signs,,0,0,0,,{=3}{\fscx94.81\fscy94.81\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.98\c&HFFFFFF&\pos(771.91,642.39)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.53,0:12:41.57,Signs,,0,0,0,,{=3}{\fscx89.54\fscy89.54\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.32,636.71)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.57,0:12:41.61,Signs,,0,0,0,,{=3}{\fscx92.7\fscy92.7\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.98\c&HFFFFFF&\pos(776.08,640.1)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.61,0:12:41.65,Signs,,0,0,0,,{=3}{\fscx89.54\fscy89.54\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.32,636.71)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.65,0:12:41.69,Signs,,0,0,0,,{=3}{\fscx90.6\fscy90.6\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(780.25,637.83)}Hoạt Cảnh số      224\h\h\h\h\h\h
+Dialogue: 0,0:12:41.69,0:12:42.32,Signs,,0,0,0,,{=3}{\fscx89.55\fscy89.55\frz0\alpha&H00&\fnVL DellaRobbia BT\fs46\blur0.97\c&HFFFFFF&\pos(782.32,636.71)}Hoạt Cảnh số      224\h\h\h\h\h\h
 Dialogue: 0,0:12:50.83,0:12:50.87,Signs,,0,0,0,,{=2}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\an4\fs32\blur1\c&HFFFFFF&\pos(259.2,316.8)}Hoạt Cảnh số      233
 Dialogue: 0,0:12:50.87,0:12:50.91,Signs,,0,0,0,,{=2}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\an4\fs32\blur1\c&HFFFFFF&\pos(259.21,312.19)}Hoạt Cảnh số      233
 Dialogue: 0,0:12:50.91,0:12:50.95,Signs,,0,0,0,,{=2}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\an4\fs32\blur1\c&HFFFFFF&\pos(261.69,317.94)}Hoạt Cảnh số      233
