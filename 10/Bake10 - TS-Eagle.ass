@@ -5,11 +5,18 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 1
+Audio File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 10v3 [C07C62D9].mkv
+Video File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 10v3 [C07C62D9].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.000000
+Video Position: 22359
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,5 +31,5 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:15:32.55,0:15:34.55,Signs,,0,0,0,nTS,{\blur0.5\fs40.5\pos(963,348)\alpha&32&}Emergency Alarm{this was TS'd before}{sorry, had not enough time do this. willing for batch tho}
-Comment: 0,0:15:32.55,0:15:34.55,Signs,,0,0,0,nTS,{\bord0\fs30\pos(954,552)\alpha&A2&}Push strongly{this was TS'd before}{sorry, had not enough time do this. willing for batch tho}
+Dialogue: 0,0:15:32.55,0:15:34.55,Signs,,0,0,0,nTS,{\blur0.5\fs15\blur0.6\c&H28230D&\fnUVN Anh Hai\pos(957,255.66)}Báo động khẩn cấp{this was TS'd before}{sorry, had not enough time do this. willing for batch tho}
+Dialogue: 0,0:15:32.55,0:15:34.55,Signs,,0,0,0,nTS,{\bord0\fs30\fnUVN Anh Hai Nhe\blur0.8\alpha&A2&\c&H827C49&\pos(961.11,475.56)}Bấm mạnh{this was TS'd before}{sorry, had not enough time do this. willing for batch tho}
