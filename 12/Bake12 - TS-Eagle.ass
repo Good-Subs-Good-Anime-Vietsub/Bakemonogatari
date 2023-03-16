@@ -5,11 +5,20 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 6
+Audio File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 12v3 [CE2ECE5B].mkv
+Video File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 12v3 [CE2ECE5B].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Scroll Position: 63
+Active Line: 68
+Video Position: 18964
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,10 +33,78 @@ Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:02:10.86,0:02:13.11,Signs,,0,0,0,nTS,Buổi Hẹn Hò Đầu Tiên
-Dialogue: 10,0:04:09.77,0:04:10.52,Signs,,0,0,0,nTS,Buổi Hẹn Hò Đầu Tiên
-Dialogue: 10,0:08:01.75,0:08:02.00,Signs,,0,0,0,nTS,MỘT
-Dialogue: 10,0:08:02.92,0:08:03.13,Signs,,0,0,0,nTS,HAI
-Dialogue: 10,0:08:04.13,0:08:04.30,Signs,,0,0,0,nTS,BA
-Dialogue: 10,0:11:15.36,0:11:17.11,Signs,,0,0,0,nTS,Căng Thẳng
-Dialogue: 10,0:13:10.10,0:13:10.98,Signs,,0,0,0,nTS,{\pos(965.33,257.33)}CẤM                CẤM                CẤM
+Dialogue: 9,0:02:10.86,0:02:13.11,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur0.8\fs100\fsp36\pos(984,418.86)}BUỔI HẸN HÒ ĐẦU TIÊN
+Dialogue: 10,0:04:09.77,0:04:10.52,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur0.8\fs100\fsp36\pos(984,418.86)}BUỔI HẸN HÒ ĐẦU TIÊN
+Dialogue: 9,0:08:01.75,0:08:02.00,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1040,402.86)}MỘT
+Dialogue: 9,0:08:02.92,0:08:03.13,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1017.14,402.86)}HAI
+Dialogue: 9,0:08:04.13,0:08:04.30,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1049.14,402.86)}BA
+Dialogue: 10,0:11:15.36,0:11:17.11,Signs,,0,0,0,nTS,{\fscy100\frz0\fscx100\alpha&H00&\blur0.8\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.71,419.72)}CĂNG THẲNG
+Dialogue: 10,0:13:10.10,0:13:10.14,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(380.19,282.47)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.14,0:13:10.18,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(380.18,278.97)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.18,0:13:10.22,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(381.24,281.9)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.22,0:13:10.26,Signs,,0,0,0,nTS,{=0}{\fscy99.98\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(380.15,278.85)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.26,0:13:10.31,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(380.18,281.96)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.31,0:13:10.35,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(380.12,278.33)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.35,0:13:10.39,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(381.16,282.57)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.39,0:13:10.43,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(380.1,278.13)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.43,0:13:10.47,Signs,,0,0,0,nTS,{=0}{\fscy99.98\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(380.09,281.73)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.47,0:13:10.51,Signs,,0,0,0,nTS,{=0}{\fscy99.98\frz0.05\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(379.09,278.33)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.51,0:13:10.56,Signs,,0,0,0,nTS,{=0}{\fscy99.98\frz0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(380.06,281.99)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.56,0:13:10.60,Signs,,0,0,0,nTS,{=0}{\fscy99.97\frz0.05\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(379.26,278.29)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.60,0:13:10.64,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(379.19,282.04)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.64,0:13:10.68,Signs,,0,0,0,nTS,{=0}{\fscy99.98\frz0.04\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(378.75,278.67)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.68,0:13:10.72,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(379.08,282.4)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.72,0:13:10.77,Signs,,0,0,0,nTS,{=0}{\fscy99.97\frz0.04\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(381.3,278.57)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.77,0:13:10.81,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(378.96,282.16)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.81,0:13:10.85,Signs,,0,0,0,nTS,{=0}{\fscy99.98\frz0.04\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(380.03,278.15)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.85,0:13:10.89,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(380.12,281.74)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.89,0:13:10.93,Signs,,0,0,0,nTS,{=0}{\fscy99.98\frz0.05\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(379.26,278.42)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.93,0:13:10.97,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(380.92,282.5)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.10,0:13:10.14,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(965.33,282.47)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.14,0:13:10.18,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(965,278.99)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.18,0:13:10.22,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(964.02,281.88)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.22,0:13:10.26,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(965.25,278.14)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.26,0:13:10.31,Signs,,0,0,0,nTS,{=1}{\fscy100.01\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(964.08,282.94)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.31,0:13:10.35,Signs,,0,0,0,nTS,{=1}{\fscy99.98\frz0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(964.71,279.07)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.35,0:13:10.39,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(963.32,282.49)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.39,0:13:10.43,Signs,,0,0,0,nTS,{=1}{\fscy99.98\frz0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(965.03,278.23)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.43,0:13:10.47,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(963.98,281.88)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.47,0:13:10.51,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(965.19,278.97)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.51,0:13:10.56,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(962.85,281.86)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.56,0:13:10.60,Signs,,0,0,0,nTS,{=1}{\fscy99.98\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(963.97,278.65)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.60,0:13:10.64,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(965.15,282.87)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.64,0:13:10.68,Signs,,0,0,0,nTS,{=1}{\fscy99.98\frz0.04\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(963.11,278.54)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.68,0:13:10.72,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(963.04,282.99)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.72,0:13:10.77,Signs,,0,0,0,nTS,{=1}{\fscy99.98\frz0.04\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.98\pos(963.9,278.35)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.77,0:13:10.81,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(964,282.65)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.81,0:13:10.85,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(965.22,279.19)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.85,0:13:10.89,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(964.99,282.66)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.89,0:13:10.93,Signs,,0,0,0,nTS,{=1}{\fscy99.99\frz0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx89.99\pos(962.68,278.11)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.93,0:13:10.97,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(964.07,282.97)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.10,0:13:10.14,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(1540.57,282.47)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.14,0:13:10.18,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1542.86,278.41)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.18,0:13:10.22,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(1541.53,282.33)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.22,0:13:10.26,Signs,,0,0,0,nTS,{=2}{\fscy100\frz-0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(1540.51,278.46)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.26,0:13:10.31,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(1540.85,281.92)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.31,0:13:10.35,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1541.61,278.9)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.35,0:13:10.39,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1540.77,282.62)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.39,0:13:10.43,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz-0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.02\pos(1542.82,278.98)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.43,0:13:10.47,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1541.57,281.94)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.47,0:13:10.51,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1542.39,278.79)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.51,0:13:10.56,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(1540.39,282.46)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.56,0:13:10.60,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz-0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.02\pos(1542.71,278.39)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.60,0:13:10.64,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1541.59,282.51)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.64,0:13:10.68,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1541.62,278.93)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.68,0:13:10.72,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1541.61,282.5)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.72,0:13:10.77,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.03\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1540.64,279.08)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.77,0:13:10.81,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1540.37,282.46)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.81,0:13:10.85,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1541.63,279.09)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.85,0:13:10.89,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz-0.01\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.02\pos(1542.28,282.52)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.89,0:13:10.93,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz-0.02\alpha&H00&\fnTimes New Roman\an8\b1\fscx90.01\pos(1542.41,278.08)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 10,0:13:10.93,0:13:10.97,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnTimes New Roman\an8\b1\fscx90\pos(1540.4,282)}CẤM\N\N\N\N\N\N\NCẤM\N\N\N\N\N\N\N\NCẤM
+Dialogue: 0,0:13:10.98,0:13:13.98,Signs,,0,0,0,,
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"873b1b2a-422d-4278-85f4-34f7f59d0bb9"#2C"originalText"#3A"{\\fnTimes New Roman\\an8\\b1\\fscx90\\pos(380.19#2C282.47)}C#E1#BA#A4M\\N\\N\\N\\N\\N\\N\\NC#E1#BA#A4M\\N\\N\\N\\N\\N\\N\\N\\NC#E1#BA#A4M"}
+Data: 1,a-mo,e{"uuid"#3A"3dc39fc5-3304-4596-84cd-d1fbf92ccd94"#2C"originalText"#3A"{\\fnTimes New Roman\\an8\\b1\\fscx90\\pos(965.33#2C282.47)}C#E1#BA#A4M\\N\\N\\N\\N\\N\\N\\NC#E1#BA#A4M\\N\\N\\N\\N\\N\\N\\N\\NC#E1#BA#A4M"}
+Data: 2,a-mo,e{"uuid"#3A"4e6b9dab-61d8-4921-9e14-bd60c14834c5"#2C"originalText"#3A"{\\fnTimes New Roman\\an8\\b1\\fscx90\\pos(1540.57#2C282.47)}C#E1#BA#A4M\\N\\N\\N\\N\\N\\N\\NC#E1#BA#A4M\\N\\N\\N\\N\\N\\N\\N\\NC#E1#BA#A4M"}
