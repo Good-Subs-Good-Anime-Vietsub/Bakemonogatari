@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 435
-Active Line: 479
-Video Position: 2780
+Scroll Position: 3
+Active Line: 6
+Video Position: 534
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,20 +36,19 @@ Dialogue: 0,0:00:48.02,0:00:48.03,Main,chapter,0,0,0,,{OP}
 Dialogue: 0,0:02:17.99,0:02:17.99,Main,chapter,0,0,0,,{Episode}
 Dialogue: 0,0:23:30.01,0:23:30.02,Main,chapter,0,0,0,,{ED}
 Dialogue: 0,0:24:59.97,0:24:59.98,Main,chapter,0,0,0,,{Preview}
-Dialogue: 12,0:00:14.70,0:00:18.83,Main,,0,0,0,,{\i1}Đúng là Hanekawa có nói nhà Senjōgahara\N to như lâu đài.
-Dialogue: 12,0:00:22.25,0:00:25.69,Main,,0,0,0,,{\i1}Mẹ tôi đã lún sâu vào một giáo phái đáng ngờ.
-Dialogue: 12,0:00:25.69,0:00:28.63,Main,,0,0,0,,{\i1}Để rồi không chỉ cống nạp toàn bộ tiền của,
-Dialogue: 12,0:00:28.63,0:00:31.26,Main,,0,0,0,,{\i1}mà còn phải gánh thêm một khoản nợ khổng lồ.
-Dialogue: 12,0:00:32.26,0:00:36.26,Main,,0,0,0,,{\i1}Cuối cùng, bố mẹ tôi ly hôn vào cuối năm ngoái.
-Dialogue: 12,0:00:36.26,0:00:41.02,Main,,0,0,0,,{\i1}Bố đã nhận quyền nuôi tôi, \Nvà cả hai sống chung dưới mái nhà này.
+Dialogue: 12,0:00:14.70,0:00:18.83,Main,,0,0,0,21:9,{\i1}Đúng là Hanekawa có nói nhà Senjōgahara\N to như lâu đài.
+Dialogue: 12,0:00:22.25,0:00:25.69,Main,,0,0,160,21:9,{\i1}Mẹ tôi đã lún sâu vào một giáo phái đáng ngờ.
+Dialogue: 12,0:00:25.69,0:00:28.63,Main,,0,0,160,21:9,{\i1}Để rồi không chỉ cống nạp toàn bộ tiền của,
+Dialogue: 12,0:00:28.63,0:00:31.26,Main,,0,0,160,21:9,{\i1}mà còn phải gánh thêm một khoản nợ khổng lồ.
+Dialogue: 12,0:00:32.26,0:00:36.26,Main,,0,0,160,21:9,{\i1}Cuối cùng, bố mẹ tôi ly hôn vào cuối năm ngoái.
+Dialogue: 12,0:00:36.26,0:00:41.02,Main,,0,0,160,21:9,{\i1}Bố đã nhận quyền nuôi tôi, \Nvà cả hai sống chung dưới mái nhà này.
 Dialogue: 12,0:02:36.89,0:02:38.76,Main,,0,0,0,,Chú sẽ {\u1}cứu{\u0} tôi sao?
-Dialogue: 12,0:02:40.89,0:02:43.55,Main,,0,0,0,,Không {\u1}cứu{\u0}! Mà là {\u1}giúp chút sức lực{\u0}.
+Dialogue: 12,0:02:40.89,0:02:43.55,Main,,0,0,0,,Không {\u1}cứu{\u0}! Mà là {\u1}giúp chút sức{\u0}.
 Dialogue: 12,0:02:45.06,0:02:48.27,Main,,0,0,0,,Mà phải rồi, cứ về nhà trước đi.
 Dialogue: 12,0:02:48.27,0:02:53.11,Main,,0,0,0,,Về đến nơi thì tắm bằng nước lạnh,\N và thay một bộ quần áo sạch sẽ nhé.
 Dialogue: 12,0:02:53.11,0:02:57.83,Main,,0,0,0,,Rồi nửa đêm thì quay lại đây gặp ta \Nđược không nhở?
 Dialogue: 12,0:02:57.83,0:02:59.11,Main,,0,0,0,,Cũng được cơ mà...
 Dialogue: 12,0:03:03.55,0:03:04.65,Main,,0,0,0,,Khâu cảm tạ...
-Dialogue: 12,0:03:07.16,0:03:07.67,Main,,0,0,0,,Hả?
 Dialogue: 12,0:03:07.67,0:03:09.73,Main,,0,0,0,,Đừng có giả ngu.
 Dialogue: 12,0:03:09.73,0:03:12.79,Main,,0,0,0,,Làm gì có chuyện chú từ thiện {\u1}cứu{\u0} tôi \Nđúng không nào?
 Dialogue: 12,0:03:16.18,0:03:21.55,Main,,0,0,0,,Mà, nếu như thế mới khiến tiểu thư thoải mái\N thì làm tý cũng được.
@@ -61,22 +60,22 @@ Dialogue: 12,0:03:30.39,0:03:31.72,Main,,0,0,0,,Thế sao?
 Dialogue: 12,0:03:31.72,0:03:34.94,Main,,0,0,0,,Vụ bé lớp trưởng \Nchả phải cũng một trăm nghìn sao.
 Dialogue: 12,0:03:35.44,0:03:38.06,Main,,0,0,0,,Ông đòi tôi hẳn 5 triệu nhá!
 Dialogue: 12,0:03:38.07,0:03:40.61,Main,,0,0,0,,Ma cà rồng cơ mà!\N Chả thế thì như nào.
-Dialogue: 12,0:03:40.61,0:03:43.57,Main,,0,0,0,,Đừng có cái gì cũng lôi ma cà rồng ra nhá!
+Dialogue: 12,0:03:40.61,0:03:43.57,Main,,0,0,0,,Đừng có động tý là lôi ma cà rồng ra nhá!
 Dialogue: 12,0:03:43.92,0:03:45.07,Main,,0,0,0,,Trả được chứ?
 Dialogue: 12,0:03:45.95,0:03:47.08,Main,,0,0,0,,Đương nhiên.
 Dialogue: 12,0:03:48.22,0:03:49.91,Main,,0,0,0,,Không thành vấn đề.
 Dialogue: 12,0:03:52.25,0:03:53.08,Main,,0,0,0,,Đương nhiên.
 Dialogue: 12,0:04:00.37,0:04:01.84,Main,,0,0,0,,{\i1}Một trăm nghìn yên à...
 Dialogue: 12,0:04:03.85,0:04:05.63,Main,,0,0,0,,Tôi tắm xong rồi đấy.
-Dialogue: 12,0:04:09.19,0:04:10.80,Main,,0,0,0,,Chỗ đó phiền cậu xê ra được không?
-Dialogue: 12,0:04:10.80,0:04:12.56,Main,,0,0,0,,Để tôi còn lấy quần áo.
+Dialogue: 12,0:04:09.19,0:04:10.80,Main,,0,120,0,,Phiền cậu xê chỗ đó                                      ra được không?
+Dialogue: 12,0:04:10.80,0:04:12.56,Main,,0,900,0,,Để tôi còn lấy quần áo.
 Dialogue: 12,0:04:12.56,0:04:14.48,Main,,0,0,0,,Mặc đồ vào đê!
-Dialogue: 12,0:04:14.48,0:04:16.98,Main,,0,0,0,,Thì đang đi mặc đây còn gì.
+Dialogue: 12,0:04:14.48,0:04:16.98,Main,,140,0,0,,Thì đang                                                      đi mặc đây còn gì.
 Dialogue: 12,0:04:16.98,0:04:19.85,Main,,0,0,0,,Phải mặc xong rồi mới ra chứ!
 Dialogue: 12,0:04:19.86,0:04:22.04,Main,,0,0,0,,Lỡ quên cầm theo mà.
 Dialogue: 12,0:04:22.04,0:04:24.36,Main,,0,0,0,,Thế thì cũng phải quấn khăn chứ.
 Dialogue: 12,0:04:24.36,0:04:26.62,Main,,0,0,0,,Còn lâu! Thế trông phèn lắm.
-Dialogue: 12,0:04:34.83,0:04:37.83,Main,,0,660,0,,{\i1}Lần đầu tiên \Nmình nhìn thấy phụ nữ khỏa thân.
+Dialogue: 12,0:04:34.83,0:04:37.83,Main,,0,660,0,,{\i1}Lần đầu tiên \Nmình nhìn thấy gái khỏa thân.
 Dialogue: 12,0:04:38.21,0:04:39.45,Main,,0,0,0,,Quần áo sạch à...
 Dialogue: 12,0:04:40.04,0:04:41.99,Main,,0,0,0,,Đồ trắng chắc là tốt hơn cả nhỉ?
 Dialogue: 12,0:04:41.99,0:04:42.97,Main,,0,0,0,,Ai mà biết.
@@ -146,13 +145,13 @@ Dialogue: 12,0:07:36.21,0:07:38.56,Main,,0,0,0,,{\c&H00E4FF&}Nhỡ đâu làm t�
 Dialogue: 12,0:07:43.48,0:07:46.16,Main,,0,0,0,,Ban nãy... cậu có kêu "lạc quan" thì phải?
 Dialogue: 12,0:07:46.16,0:07:47.56,Main,,0,0,0,,Thế sai à?
 Dialogue: 12,0:07:47.56,0:07:48.84,Main,,0,0,0,,Có thể.
-Dialogue: 12,0:07:48.84,0:07:52.54,Main,,0,0,0,,Thì đấy... cũng tốt mà? Lạc quan thì có sao đâu.
+Dialogue: 12,0:07:48.84,0:07:52.54,Main,,0,0,0,,Thì đấy... cũng tốt mà... Lạc quan thì có sao đâu.
 Dialogue: 12,0:07:52.54,0:07:56.03,Main,,0,0,0,,Cũng chả phải làm gì xấu hay lừa đảo ai.
 Dialogue: 12,0:07:56.59,0:07:59.79,Main,,960,0,0,,Chả làm gì xấu... à?
 Dialogue: 12,0:07:59.79,0:08:00.66,Main,,960,0,0,,Lại chả?
 Dialogue: 12,0:08:01.00,0:08:02.41,Main,,1420,0,0,,À thì, cũng đúng.
 Dialogue: 12,0:08:03.04,0:08:04.42,Main,,1530,0,0,,Có điều...
-Dialogue: 12,0:08:04.90,0:08:06.29,Main,,0,0,0,,Có thể là {\u1}lừa đảo{\u0}.
+Dialogue: 12,0:08:04.90,0:08:06.29,Main,,0,0,0,,Có thể là lừa đảo.
 Dialogue: 12,0:08:07.32,0:08:08.61,Main,,0,0,0,,Không có gì đâu.
 Dialogue: 12,0:08:12.05,0:08:13.68,Main,,0,0,0,,Nè, Araragi-kun.
 Dialogue: 12,0:08:13.68,0:08:14.93,Main,,0,0,0,,Hỏi một câu được không?
@@ -290,7 +289,7 @@ Dialogue: 12,0:13:28.39,0:13:33.75,Main,,0,0,0,,Rượu sake sẽ đưa con ngư
 Dialogue: 12,0:13:33.75,0:13:35.06,Main,,0,0,0,,Tôi chưa đủ tuổi.
 Dialogue: 12,0:13:35.06,0:13:38.63,Main,,0,0,0,,Không say nổi đâu, có chút thôi à.
 Dialogue: 12,0:13:48.10,0:13:51.50,Main,,0,0,0,,Giờ thì, trước tiên là tĩnh tâm.
-Dialogue: 12,0:13:53.14,0:13:55.38,Main,,0,0,0,,Cô ngụ nơi này.
+Dialogue: 12,0:13:53.14,0:13:55.38,Main,,0,0,0,,Ngụ tại nơi này.
 Dialogue: 12,0:13:55.38,0:13:57.77,Main,,0,0,0,,Theo lẽ tự nhiên mà ngụ tại đây.
 Dialogue: 12,0:13:58.95,0:13:59.77,Main,,0,0,0,,Vâng.
 Dialogue: 12,0:14:00.56,0:14:03.82,Main,,0,0,0,,Vẫn cúi đầu và nhắm mắt lại.
@@ -378,7 +377,7 @@ Dialogue: 12,0:18:21.40,0:18:23.89,Main,,0,0,0,,Thật là, thật là!\N Vị T
 Dialogue: 12,0:18:23.89,0:18:28.00,Main,,0,0,0,,Tăng động thế chứ nị!\N Chắc là có gì hay ho đã xảy ra ha.
 Dialogue: 12,0:18:28.49,0:18:30.32,Main,,0,0,0,,Này! Oshino!
 Dialogue: 12,0:18:30.32,0:18:33.63,Main,,0,0,0,,Rồi biết rồi! \NThay đổi kế hoạch, hết né tránh được rồi.
-Dialogue: 12,0:18:34.30,0:18:37.38,Main,,0,0,0,,Nào, nhận lấy!
+Dialogue: 12,0:18:34.30,0:18:37.38,Main,,0,0,0,,Xem đây! Nhận lấy!
 Dialogue: 12,0:18:46.08,0:18:50.32,Main,,0,0,0,,Suy cho cùng đây chỉ là vấn đề trong thâm tâm thôi.
 Dialogue: 12,0:18:50.32,0:18:55.57,Main,,0,0,0,,Nếu không thể cầu nguyện, không thể dùng lời lẽ,\N thì chiến tranh thôi.
 Dialogue: 12,0:18:55.57,0:18:56.30,Main,,0,0,0,,Nhưng mà...
@@ -407,12 +406,12 @@ Dialogue: 12,0:19:59.94,0:20:02.18,Main,,0,0,0,,...trả lại trọng lượng 
 Dialogue: 12,0:20:02.72,0:20:06.81,Main,,0,0,0,,Xin Ngài trả lại mẹ cho con.
 Dialogue: 12,0:20:17.36,0:20:24.76,Main,,0,0,0,,{\i1}Thời điểm mẹ của Senjōgahara gia nhập giáo phái mờ ám\N rơi vào tầm Senjōgahara học lớp 5.
 Dialogue: 12,0:20:25.30,0:20:28.95,Main,,0,0,0,,{\i1}Đúng vào lúc Senjōgahara lâm bệnh nặng.
-Dialogue: 12,0:20:29.84,0:20:35.21,Main,,0,0,0,,{\i1}Vì bệnh tình của con gái,\N mẹ của Senjougahara đã đi tìm đức tin cho mình.
+Dialogue: 12,0:20:29.84,0:20:35.21,Main,,0,0,0,,{\i1}Vì bệnh tình của con gái,\N mẹ của Senjōgahara đã đi tìm đức tin cho mình.
 Dialogue: 12,0:20:35.68,0:20:36.33,Main,,0,0,0,,{\i1}Và rồi...
 Dialogue: 12,0:20:37.98,0:20:42.30,Main,,0,0,0,,{\i1}Senjōgahara... sau cuộc đại phẫu... \Nđã vượt qua cửa tử một cách thần kỳ.
 Dialogue: 12,0:20:43.10,0:20:48.27,Main,,960,0,0,,{\q2\i1}Có điều, cũng bởi thế mà người mẹ\N càng lún sâu vào giáo phái.
-Dialogue: 12,0:20:48.58,0:20:52.18,Main,,0,0,0,,{\i1}Senjōgahara và mẹ có vẻ như đã trở nên xa cách.
-Dialogue: 12,0:20:52.18,0:20:55.52,Main,,0,0,0,,{\i1}Sau khi lên cấp 2,\N họ gần như không nói chuyện với nhau.
+Dialogue: 12,0:20:48.58,0:20:52.18,Main,,0,0,0,,{\i1}Senjōgahara và mẹ dường như trở nên xa cách.
+Dialogue: 12,0:20:52.18,0:20:55.52,Main,,0,0,0,,{\i1}Sau khi lên cấp 2,\N họ gần như không còn tâm sự nữa.
 Dialogue: 12,0:20:55.52,0:20:56.69,Main,,0,0,0,,{\i1}Và rồi...
 Dialogue: 12,0:20:57.37,0:21:00.69,Main,,0,0,0,,{\i1}Gần tới lúc tốt nghiệp cấp 2, bi kịch xảy ra.
 Dialogue: 12,0:21:09.29,0:21:10.66,Main,,0,0,0,,{\i1}Kết quả là...
@@ -428,7 +427,7 @@ Dialogue: 12,0:21:32.72,0:21:37.23,Main,pun.kanji.de-to,0,0,0,,Ngoài ra, còn l
 Dialogue: 12,0:21:37.90,0:21:42.73,Main,,0,0,0,,{\i1}Nói cách khác, khi gặp Cua,\N Senjōgahara đã cắt bỏ mối ràng buộc với mẹ mình.
 Dialogue: 12,0:21:43.54,0:21:46.64,Main,,0,0,0,,{\i1}Cậu ấy ngừng lo lắng cho mẹ mình.
 Dialogue: 12,0:21:46.64,0:21:49.52,Main,,0,0,0,,{\i1}Ngừng "trọng tình", rũ bỏ "trọng lượng".
-Dialogue: 12,0:21:50.14,0:21:52.75,Main,,0,0,0,,{\i1}Tự {\u1}lừa đảo{\u0} chính mình.
+Dialogue: 12,0:21:50.14,0:21:52.75,Main,,0,0,0,,{\i1}Tự lừa đảo chính mình.
 Dialogue: 12,0:21:53.50,0:21:56.80,Main,,0,0,0,,Cũng chưa thể gọi đây là quá tồi tệ ha.
 Dialogue: 12,0:21:56.80,0:22:00.65,Main,,0,0,0,,Cụ thể trong vụ này, \Nđược cái là lấy lại được cảm xúc.
 Dialogue: 12,0:22:00.65,0:22:05.26,Main,,0,0,0,,Nhưng không thể đưa mẹ trở lại\N cũng như hàn gắn gia đình.
@@ -453,7 +452,7 @@ Dialogue: 12,0:23:01.24,0:23:03.44,Main,,0,0,0,,Anh mới ngủ có tý thôi m�
 Dialogue: 12,0:23:03.44,0:23:06.44,Main,,0,0,0,,Hả? Thế là anh lại thâu đêm à!
 Comment: 12,0:23:06.44,0:23:07.32,Main,,0,0,0,,Thôi nào!
 Dialogue: 12,0:23:07.32,0:23:10.24,Main,,0,0,0,,- Còn mỗi Onī-chan là chưa ăn sáng thôi đấy!\N- Phải rồi đấy, Nī—
-Dialogue: 12,0:23:12.35,0:23:14.69,Main,,0,0,0,,{\i1}Sao người oải thế nhở!
+Dialogue: 12,0:23:12.35,0:23:14.69,Main,,0,0,0,,{\i1}Sao người oải thế nhở.
 Dialogue: 12,0:23:14.69,0:23:15.99,Main,,0,0,0,,{\i1}Cứ như bị ốm ấy.
 Dialogue: 12,0:23:17.25,0:23:20.41,Main,,0,0,0,,{\i1}Nhân tiện, tôi nặng 55kg.
 Dialogue: 12,0:23:20.84,0:23:21.37,Main,,0,0,0,,{\i1}Cơ mà...
@@ -462,12 +461,11 @@ Dialogue: 12,0:23:23.04,0:23:24.19,Main,,0,0,0,,{\i1}Hiểu rồi.
 Dialogue: 12,0:23:24.19,0:23:27.67,Main,,0,0,0,,{\i1}Thần với chả Thánh... đúng là qua loa đại khái!
 Dialogue: 12,0:25:00.93,0:25:01.44,Main,,0,0,0,,Karen đây!
 Dialogue: 12,0:25:01.44,0:25:02.29,Main,,0,0,0,,Tsukihi có!
-Dialogue: 12,0:25:02.29,0:25:03.37,Main,,0,0,0,,Nói là Jungle-Gym nhờ.
+Dialogue: 12,0:25:02.29,0:25:03.37,Main,,0,0,0,,Nói là Rừng-Gym nhờ.
 Dialogue: 12,0:25:03.37,0:25:04.52,Main,,0,0,0,,Chị cũng nói thế.
 Dialogue: 12,0:25:04.52,0:25:05.44,Main,,0,0,0,,Chả phải nói quá sao.
 Dialogue: 12,0:25:05.44,0:25:05.95,Main,,0,0,0,,Nói quá?
-Dialogue: 12,0:25:05.95,0:25:06.77,GT 2,,0,0,0,,(Rừng)
-Dialogue: 12,0:25:05.95,0:25:06.77,Main,,0,0,0,,"Jungle" là sao?
+Dialogue: 12,0:25:05.95,0:25:06.77,Main,,0,0,0,,"Rừng" là sao?
 Dialogue: 12,0:25:06.77,0:25:07.89,Main,,0,0,0,,Không phải Rừng.
 Dialogue: 12,0:25:07.89,0:25:08.47,Main,,0,0,0,,Lại còn Gym nữa.
 Dialogue: 12,0:25:08.47,0:25:09.32,Main,,0,0,0,,Cũng chả phải tập gym.
@@ -475,19 +473,18 @@ Dialogue: 12,0:25:09.32,0:25:10.11,Main,,0,0,0,,Trá hình nhau à!
 Dialogue: 12,0:25:10.11,0:25:11.59,Main,,0,0,0,,Thế tên là gì mới đúng?
 Dialogue: 12,0:25:11.59,0:25:13.25,Main,,0,0,0,,Kiểu như "Thể Thao Thép" chẳng hạn.
 Dialogue: 12,0:25:13.25,0:25:14.14,Main,,0,0,0,,Ơ ghê nhở!
-Dialogue: 12,0:25:14.14,0:25:15.41,Main,,0,0,0,,Vậy tới câu đố cho phần xem trước nào.
+Dialogue: 12,0:25:14.14,0:25:15.41,Main,,0,0,0,,Vậy tới câu đố phần xem trước nào.
 Dialogue: 12,0:25:15.41,0:25:16.11,Main,,0,0,0,,Câu đố!
 Dialogue: 12,0:25:16.11,0:25:17.40,Main,,0,0,0,,Bạn là tài xế xe buýt.
 Dialogue: 12,0:25:17.40,0:25:19.12,Main,,0,0,0,,Chị chưa bao giờ nghĩ mình là tài xế xe buýt.
 Dialogue: 12,0:25:19.12,0:25:20.63,Main,,0,0,0,,3 người lên ở trạm đầu tiên.
 Dialogue: 12,0:25:20.63,0:25:21.46,Main,,0,0,0,,Phấn kha phấn khích!
 Dialogue: 12,0:25:21.46,0:25:23.54,Main,,0,0,0,,Vậy, tên của tài xế xe buýt là gì?
-Dialogue: 12,0:25:23.54,0:25:24.83,Main,,0,0,0,,Lược bớt nhiều thế!{câu đó chuẩn còn rất dài}
-Dialogue: 12,0:25:24.83,0:25:26.88,Main,,0,0,150,,Kỳ tới : Ốc Sên Mayoi, Phần 1.
+Dialogue: 12,0:25:23.54,0:25:25.00,Main,,0,0,0,,Lược bớt nhiều thế!{câu đó chuẩn còn rất dài}
+Dialogue: 12,0:25:25.00,0:25:26.88,Main,,0,0,150,,Kỳ tới, Ốc Sên Mayoi, Phần 1.
 Dialogue: 12,0:25:26.88,0:25:28.01,Main,,0,0,150,,À vâng, là tên bạn đó.
 Dialogue: 12,0:25:28.01,0:25:28.40,Main,,0,0,0,,À vâng, là tên bạn đó.
 Dialogue: 12,0:25:28.40,0:25:29.87,Main,,0,0,0,,Như đánh lạc hướng trong ảo thuật ấy.
-Comment: 0,0:00:48.03,0:00:48.03,Main,sync.OP,0,0,0,,{OP}
 Dialogue: 9,0:00:56.20,0:00:59.79,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}Vẫn chưa quá muộn,
 Dialogue: 9,0:00:59.79,0:01:03.63,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}em nên mau chóng rút lui thôi,
 Dialogue: 9,0:01:03.63,0:01:08.72,OPvie,,0,0,40,,{\c&H00CAF5&\blur0.67\an2\fs72\b1}trước khi sự hiểu nhầm tồi tệ hơn.
@@ -513,7 +510,7 @@ Dialogue: 9,0:01:52.68,0:01:55.93,OPvie,,0,0,40,,{\c&H2380F8&\blur0.67\an2\fs72\
 Dialogue: 9,0:01:55.93,0:01:56.18,OPvie,,0,0,40,,{\c&H011AE3&\blur0.67\an2\fs72\b1}hãy tóm lấy em khi em nhảy vào trái tim chàng.
 Dialogue: 9,0:01:56.18,0:02:05.02,OPvie,,0,0,40,,{\an2\c&H0001FD&\blur0.67\fs72\b1}Sức nặng của thứ cảm xúc này là chẳng thể cân đo.
 Dialogue: 9,0:02:05.02,0:02:11.24,OPvie,,0,0,40,,{\fad(0,300)\an2\blur0.67\fs72\b1}Bởi chỉ mình chàng thôi, em tới nói ngay đây mà.
-Dialogue: 9,0:02:11.90,0:02:17.99,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs72\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
+Dialogue: 9,0:02:11.90,0:02:17.99,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs72\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE/MOCHIOKA {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
 Dialogue: 0,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL FertigoPro\blur1\fsp4\fs40\t(-13,487,\c&H090AF3&)\pos(960,706.67)}Cua Hitagi
 Dialogue: 0,0:02:07.61,0:02:07.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(960,706.67)}Cua Hitagi
 Dialogue: 0,0:02:07.65,0:02:07.69,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(959.99,706.58)}Cua Hitagi
@@ -1264,7 +1261,6 @@ Dialogue: 1,0:02:17.91,0:02:17.95,Signs,,0,0,0,,{\fscx90.53\fscy90.53\frz0\alpha
 Dialogue: 1,0:02:17.95,0:02:17.99,Signs,,0,0,0,,{\fscx90.49\fscy90.49\frz0\alpha&H00&\fnVL TelingaterDisplay\blur0.78\fs90\pos(957.99,608.16)\fsp6} Yêu Ma Quái Truyện
 Dialogue: 0,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\pos(960,623)\fnVL TelingaterDisplay\blur8\bord8\fs90\c&HFFFFFF&\3cHFFFFFF&\fsp6\t(-13,487,\c&H7469F1&\3c&H8983F3&)} Yêu Ma Quái Truyện
 Dialogue: 1,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\fnVL TelingaterDisplay\blur0.8\fs90\pos(960,623)\fsp6} Yêu Ma Quái Truyện
-Comment: 0,0:23:30.01,0:23:30.01,Main,sync.ED,0,0,0,,{ED}
 Dialogue: 0,0:23:48.07,0:23:50.87,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&\4c&H0000FB&}"Kia là Sao Thiên Tân, Sao Ngưu Lang và Sao Chức Nữ đấy"
 Dialogue: 1,0:23:50.87,0:23:53.95,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&}Chàng vừa nói vừa chỉ vào Tam Giác Mùa Hè.
 Dialogue: 2,0:23:53.95,0:23:59.71,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HFFFFFF&}Còn Em nhìn lên bầu trời và khắc ghi.

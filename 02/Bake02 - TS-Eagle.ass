@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 02v2 [C0303824].mkv
-Video File: ../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 02v2 [C0303824].mkv
+Audio File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogatari (BD 1080p Hi10 Opus)/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mkv
+Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogatari (BD 1080p Hi10 Opus)/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 135
-Active Line: 121
-Video Position: 30405
+Video Zoom Percent: 0.625000
+Scroll Position: 7
+Active Line: 13
+Video Position: 12104
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,20 +32,20 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(872,810.28)}Cuộc
-Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(870.86,846.33846.33)}Đua
-Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(1182.86,810.28)}Shinzan
-Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\b1\blur1.2\pos(1177.42,846.33)}Kinen
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H264047&\fnMTD Amarone\b1\blur1.2\pos(872,810.28)\fax0.1}Cuộc
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H264047&\fnMTD Amarone\b1\blur1.2\pos(870.86,846.33846.33)\fax0.1}Đua
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H264047&\fnMTD Amarone\b1\blur1.2\pos(1182.86,810.28)\fax0.1}Shinzan
+Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&H264047&\fnMTD Amarone\b1\blur1.2\pos(1177.42,846.33)\fax0.1}Kinen
 Dialogue: 0,0:07:30.92,0:07:33.14,Signs,,0,0,0,nTS,{\c&HEBFAFB&\fniCiel Brush Up\b0\fs120\blur1.2\pos(251.41,436.63)}Đến tháng
-Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\fs80\blur1.2\fscx70\b1\pos(754.29,589.71)}Danh lam thắng cảnh
-Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H586F74&\fnMTD Amarone\fs80\blur1.2\fscx70\b1\pos(755.43,648)}công viên Nara
+Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H2A525F&\fnMTD Amarone\fs80\blur1.2\fscx70\b1\pos(754.29,589.71)\fax0.1}Danh lam thắng cảnh
+Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H2A525F&\fnMTD Amarone\fs80\blur1.2\fscx70\b1\pos(755.43,648)\fax0.1}công viên Nara
 Dialogue: 0,0:07:33.14,0:07:34.01,Signs,,0,0,0,nTS,{\c&H42626C&\fnHL-danhmay1 Unicode\an7\fs40\blur1.2\b1\pos(202.27,414.05)}Thiếu niên \NThám Tử \NKhông \NTưởng
-Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H162C42&\blur1.2\fs60\fscx47\fscy47\fnMTD Amarone\pos(870.84,479.48)\b0}Tóc Harukaze hân hạnh giới thiệu dầu gội đầu được các chuyên gia hàng đầu khuyên dùng
-Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H162C42&\blur1.2\fnMTD Amarone\fs100\fscx47\fscy47\pos(857.13,628.63)\1a&H32&}Phù hợp với da đầu dùng thuốc
+Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H172D43&\blur1\fs60\fscx47\fscy47\fnMTD Amarone\pos(870.84,479.48)\b0\1a&H32&\fax0.1}Tóc Harukaze hân hạnh giới thiệu dầu gội đầu được các chuyên gia hàng đầu khuyên dùng
+Dialogue: 0,0:07:34.01,0:07:38.56,Signs,,0,0,0,nTS,{\c&H172D43&\blur1\fnMTD Amarone\fs100\fscx47\fscy47\pos(857.13,628.63)\1a&H32&\fax0.1}Phù hợp với da đầu dùng thuốc
 Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H3A4952&\blur1.2\fs55\fscx99\fscy99\fnMTD Bell Martellus\b1\an7\pos(1162.83,230.62)}Nhiều học sinh tiểu học \Nbị sốt phát ban
 Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H3A4952&\fs43\fnMTD Bell Martellus\an9\pos(1446.95,848.44)\blur1.2}Đến mức cả phụ nữ, \Nngười lớn cũng bị ảnh hưởng
 Dialogue: 0,0:07:42.11,0:07:43.48,Signs,,0,0,0,nTS,{\c&H55666F&\fnMTD Amarone\blur1.2\fs40\pos(994.39,263.59)}Tóc là sinh mệnh của phụ nữ
-Dialogue: 0,0:08:24.82,0:08:27.32,Signs,,0,0,0,nTS,{\c&H1A252C&\\fs40\blur1.2\fniCiel Brush Up\b1\an9\pos(680.68,565.02)}Đặc hiệu chữa sốt, \Ncảm lạnh
+Dialogue: 0,0:08:24.82,0:08:27.32,Signs,,0,0,0,nTS,{\c&H1A252C&\\fs40\blur1.2\fniCiel Brush Up\b1\an9\pos(680.68,565.02)\1a&H21&}Đặc hiệu chữa sốt, \Ncảm lạnh
 Dialogue: 0,0:08:28.78,0:08:29.70,Signs,,0,0,0,nTS,{\c&H2F3B43&\fs65\blur1.2\fscx80\fscy80\fnMTD Bell Martellus\b1\pos(620.81,130.3)}Du lịch đi bộ và thưởng thức {\fscx120\fscy120}Cua{\fscx80\fscy80} dọc bán đảo {\fscx50\fscy50}Kamchatka
 Dialogue: 0,0:08:28.78,0:08:29.70,Signs,,0,0,0,nTS,{\c&H2F3B43&\an7\fscx54\fscy54\fnMTD Bell Martellus\fs83\blur1.2\pos(983.1,539.22)\b1}Thành phố lạnh cóng, \Ncon người lạnh cóng, \Nnghiền nhỏ xay nhuyễn, đá bào
 Dialogue: 2,0:18:00.06,0:18:01.06,Signs,,0,0,0,nTS,{\fnTimes New Roman\b1\blur10\bord0\shad0\c&H2F45FE&\1a&HA2&\fscx100\fscy100\fs100\frz338.\move(1587.88,439.58,1221.03,348.15,18,978)\t(1,982,1,\frz245)}Cua
