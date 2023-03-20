@@ -15,8 +15,7 @@ Video File: ../raws/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 391
-Active Line: 402
+Active Line: 4
 Video Position: 35406
 
 [V4+ Styles]
@@ -31,11 +30,11 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
-Dialogue: 0,0:00:30.26,0:00:30.26,Main,chptr,0,0,0,,{OP}
-Dialogue: 0,0:02:00.27,0:02:00.27,Main,chptr,0,0,0,,{Episode}
-Dialogue: 0,0:22:25.28,0:22:25.28,Main,chptr,0,0,0,,{ED}
-Dialogue: 0,0:23:55.25,0:23:55.25,Main,chptr,0,0,0,,{Preview}
+Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
+Comment: 0,0:00:30.26,0:00:30.26,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:02:00.27,0:02:00.27,Main,chptr,0,0,0,,{Episode}
+Comment: 0,0:22:25.28,0:22:25.28,Main,chptr,0,0,0,,{ED}
+Comment: 0,0:23:55.25,0:23:55.25,Main,chptr,0,0,0,,{Preview}
 Dialogue: 7,0:00:02.69,0:00:04.15,Main,,0,0,0,,{\i1}Bò Lạc. \N(Mayoi Ushi)
 Dialogue: 7,0:00:05.36,0:00:07.11,Main,,0,0,0,,{\i1}Đấy là Bò Lạc.
 Dialogue: 7,0:00:07.11,0:00:13.74,Signs,kanji.sen,0,0,0,,{\blur0.66\bord0\shad2\fnKozuka Mincho Pro H\fs200\c&H0B15C4&\pos(1440.4,309.47)\4c&H000000&\4a&HC4&}蝸{\t(1800,2400,\c&H3E6DF5&)}牛

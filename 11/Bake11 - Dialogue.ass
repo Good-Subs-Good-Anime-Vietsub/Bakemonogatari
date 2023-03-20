@@ -16,8 +16,7 @@ Video File: ../raws/[OZR] Bakemonogatari - 11 (BD 1080p Hi10 Opus) [01D6C8B9].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1576
-Active Line: 1577
+Active Line: 4
 Video Position: 34104
 
 [V4+ Styles]
@@ -33,11 +32,11 @@ Style: OPcat,Gentium Basic,70,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:09.97,0:04:09.97,Main,chapter,0,0,0,,{Intro}
-Dialogue: 0,0:04:09.97,0:04:09.97,Main,chapter,0,0,0,,{OP}
-Dialogue: 0,0:05:39.98,0:05:40.02,Main,chapter,0,0,0,,{Episode}
-Dialogue: 0,0:22:24.98,0:22:24.99,Main,chapter,0,0,0,,{ED}
-Dialogue: 0,0:23:54.94,0:23:54.95,Main,chapter,0,0,0,,{Preview}
+Dialogue: 0,0:04:09.97,0:04:09.97,Main,chptr,0,0,0,,{Intro}
+Dialogue: 0,0:04:09.97,0:04:09.97,Main,chptr,0,0,0,,{OP}
+Dialogue: 0,0:05:39.98,0:05:40.02,Main,chptr,0,0,0,,{Episode}
+Dialogue: 0,0:22:24.98,0:22:24.99,Main,chptr,0,0,0,,{ED}
+Dialogue: 0,0:23:54.94,0:23:54.95,Main,chptr,0,0,0,,{Preview}
 Dialogue: 10,0:00:08.92,0:00:14.61,Main,,0,0,0,,{\i1}Đó là vào ngày 29 tháng 4, ngày đầu tiên của Tuần lễ vàng,
 Dialogue: 10,0:00:16.39,0:00:21.76,Main,,0,0,0,,Tức là thế này, vợ bây giờ của bố dượng tớ ấy,\N tức mẹ hiện tại của tớ.
 Dialogue: 10,0:00:21.76,0:00:25.40,Main,,0,0,0,,Bà ấy đã cưới một người khác, tức bố hiện tại của tớ.

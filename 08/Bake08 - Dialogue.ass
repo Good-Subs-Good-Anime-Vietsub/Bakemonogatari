@@ -15,8 +15,7 @@ Video File: ../../Bakemonogatari/raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 O
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 373
-Active Line: 374
+Active Line: 3
 Video Position: 8997
 
 [V4+ Styles]
@@ -32,10 +31,10 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:04:51.03,0:04:51.03,Main,chapter,0,0,0,,{Intro}
-Dialogue: 5,0:04:51.03,0:04:51.03,Main,chapter,0,0,0,,{OP}
-Dialogue: 5,0:06:20.95,0:06:20.95,Main,chapter,0,0,0,,{Episode}
-Dialogue: 0,0:23:54.91,0:23:54.92,Main,chapter,0,0,0,,{Preview}
+Dialogue: 5,0:04:51.03,0:04:51.03,Main,chptr,0,0,0,,{Intro}
+Dialogue: 5,0:04:51.03,0:04:51.03,Main,chptr,0,0,0,,{OP}
+Dialogue: 5,0:06:20.95,0:06:20.95,Main,chptr,0,0,0,,{Episode}
+Dialogue: 0,0:23:54.91,0:23:54.92,Main,chptr,0,0,0,,{Preview}
 Dialogue: 9,0:00:06.48,0:00:09.11,Main,,0,0,0,,{\i1}Bên trong chiếc hộp gỗ hông, có cái tay xác ướp.
 Dialogue: 9,0:00:09.36,0:00:12.37,Main,,0,0,0,,{\i1}Là thứ mà người mẹ quá cố của Kanbaru trao cho.
 Dialogue: 9,0:00:12.37,0:00:13.62,Main,,0,0,0,,{\i1}Và lần đầu tiên em ấy dùng tới...

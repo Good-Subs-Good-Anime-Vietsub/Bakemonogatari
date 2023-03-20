@@ -50,7 +50,7 @@ subs {
 
     chapters {
         from(merge.item())
-        chapterMarker("chapter")
+        chapterMarker("chptr")
         out(get("chaptername"))
     }
 

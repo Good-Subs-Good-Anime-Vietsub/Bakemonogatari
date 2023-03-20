@@ -16,8 +16,6 @@ Video File: ../raws/[OZR] Bakemonogatari - 07 (BD 1080p Hi10 Opus) [E46A0EDD].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 4
-Active Line: 5
 Video Position: 53
 
 [V4+ Styles]
@@ -32,11 +30,11 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.02,Main,chapter,0,0,0,,{Intro}
-Dialogue: 0,0:01:22.99,0:01:22.99,Main,chapter,0,0,0,,{OP}
-Dialogue: 0,0:02:52.91,0:02:52.91,Main,chapter,0,0,0,,{Episode}
-Dialogue: 0,0:22:24.98,0:22:24.99,Main,chapter,0,0,0,,{ED}
-Dialogue: 0,0:23:54.94,0:23:54.95,Main,chapter,0,0,0,,{Preview}
+Dialogue: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
+Dialogue: 0,0:01:22.99,0:01:22.99,Main,chptr,0,0,0,,{OP}
+Dialogue: 0,0:02:52.91,0:02:52.91,Main,chptr,0,0,0,,{Episode}
+Dialogue: 0,0:22:24.98,0:22:24.99,Main,chptr,0,0,0,,{ED}
+Dialogue: 0,0:23:54.94,0:23:54.95,Main,chptr,0,0,0,,{Preview}
 Dialogue: 9,0:00:02.19,0:00:06.40,Main,,0,0,0,,Thứ tớ đã trao cho cậu mà cậu dám để quên.
 Dialogue: 9,0:00:06.40,0:00:09.44,Main,,0,0,0,,Thế là tội tày trời đó, Araragi-kun.
 Dialogue: 9,0:00:09.44,0:00:11.44,Main,,0,0,0,,Ờ, cho tớ xin lỗi.

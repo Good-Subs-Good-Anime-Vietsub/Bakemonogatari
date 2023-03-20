@@ -15,8 +15,7 @@ Video File: ../../Bakemonogatari/raws/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 O
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1142
-Active Line: 1143
+Active Line: 3
 Video Position: 5254
 
 [V4+ Styles]
@@ -32,10 +31,10 @@ Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:19.99,0:02:20.01,Main,chapter,0,0,0,,{OP}
-Dialogue: 0,0:03:50.00,0:03:50.01,Main,chapter,0,0,0,,{Episode}
-Dialogue: 0,0:22:10.82,0:22:10.83,Main,chapter,0,0,0,,{ED}
-Dialogue: 0,0:23:54.99,0:23:55.03,Main,chapter,0,0,0,,{Preview}
+Comment: 0,0:02:19.99,0:02:20.01,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:03:50.00,0:03:50.01,Main,chptr,0,0,0,,{Episode}
+Comment: 0,0:22:10.82,0:22:10.83,Main,chptr,0,0,0,,{ED}
+Comment: 0,0:23:54.99,0:23:55.03,Main,chptr,0,0,0,,{Preview}
 Dialogue: 10,0:00:06.11,0:00:07.61,Main,,0,0,0,,Hẹn hò nào!
 Dialogue: 10,0:00:11.42,0:00:12.03,Main,,0,0,0,,{\i1}Dạ?!
 Dialogue: 10,0:00:13.53,0:00:15.37,Main,,0,0,0,,Ơ ủa?!
@@ -197,7 +196,7 @@ Dialogue: 10,0:10:16.83,0:10:20.14,Main,,0,0,0,,Mấy người thông minh toàn
 Dialogue: 10,0:10:20.14,0:10:25.27,Main,,0,0,0,,Đâu có~ Đây là chương trình dành riêng cho Araragi-kun mà.
 Dialogue: 10,0:10:25.27,0:10:29.52,Main,,0,0,0,,Người thông minh thì trước khi học đã thông minh sẵn rồi.
 Dialogue: 10,0:10:31.30,0:10:35.03,Main,,0,0,0,,Cơ mà có vẻ Hanekawa ngày nào cũng học đó.
-Dialogue: 10,0:10:35.03,0:10:38.63,Main,,0,0,0,,Araragi-kun à, sự học của Hanekawa-san ấy, 
+Dialogue: 10,0:10:35.03,0:10:38.63,Main,,0,0,0,,Araragi-kun à, sự học của Hanekawa-san ấy,
 Dialogue: 10,0:10:38.63,0:10:43.28,Main,,0,0,0,,tiếc thay là ở cấp độ hoàn toàn khác so với chúng ta.
 Dialogue: 10,0:10:43.64,0:10:47.79,Main,,0,0,0,,Hanekawa-san là hàng thật. Một thế giới hoàn toàn khác.
 Dialogue: 10,0:10:49.19,0:10:52.79,Main,,0,0,0,,{\q2}Nhưng ngay cả Hanekawa cũng đâu phải toàn được điểm tuyệt đối.

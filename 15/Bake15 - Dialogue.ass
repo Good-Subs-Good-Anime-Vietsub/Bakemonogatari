@@ -16,7 +16,6 @@ Video File: ../raws/[OZR] Bakemonogatari - 15 (BD 1080p Hi10 Opus) [8BD05F5D].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 4
 Video Position: 532
 
 [V4+ Styles]
@@ -33,10 +32,10 @@ Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.02,Main,chapter,0,0,0,,{Intro}
-Dialogue: 0,0:02:34.00,0:02:34.00,Main,chapter,0,0,0,,{OP}
-Dialogue: 0,0:04:03.97,0:04:04.01,Main,chapter,0,0,0,,{Episode}
-Dialogue: 0,0:23:54.99,0:23:55.00,Main,chapter,0,0,0,,{ED}
+Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
+Comment: 0,0:02:34.00,0:02:34.00,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:04:03.97,0:04:04.01,Main,chptr,0,0,0,,{Episode}
+Comment: 0,0:23:54.99,0:23:55.00,Main,chptr,0,0,0,,{ED}
 Dialogue: 10,0:00:22.18,0:00:24.27,Main,,0,0,0,,Thế này nhóe, con sen!
 Dialogue: 10,0:00:24.27,0:00:25.75,Main,cat,0,0,0,,Chủ nhân ta...
 Dialogue: 10,0:00:27.38,0:00:30.51,Main,cat,0,0,0,,...yêu mi đấy!
@@ -210,7 +209,7 @@ Dialogue: 10,0:14:17.57,0:14:21.55,Main,,0,0,0,,{\i1}Nhưng... đây cũng là s
 Dialogue: 10,0:14:21.55,0:14:23.35,Main,,0,0,0,,{\i1}Cũng là lời nói của Hanekawa.
 Dialogue: 10,0:14:24.17,0:14:30.72,Main,,0,0,0,,{\i1}Vì Hanekawa là ân nhân, mình nguyện làm bất cứ điều gì.
 Dialogue: 10,0:14:33.14,0:14:35.56,Main,cat,0,0,0,,Mà hạnh phúc thé còn gì.
-Dialogue: 10,0:14:35.56,0:14:39.98,Main,cat,0,0,0,,Được lên thiên đàng bởi cái ôm từ cơ thể dâm dục của chủ nhân. 
+Dialogue: 10,0:14:35.56,0:14:39.98,Main,cat,0,0,0,,Được lên thiên đàng bởi cái ôm từ cơ thể dâm dục của chủ nhân.
 Dialogue: 10,0:14:43.28,0:14:46.24,Main,,0,0,0,,{\i1}Nếu có thể chết vì Hanekawa...
 Dialogue: 10,0:14:51.70,0:14:53.21,Main,,0,0,0,,{\i1}Không! Không thể được!
 Dialogue: 10,0:14:53.83,0:14:58.46,Main,,0,0,0,,{\i1}Nếu để Hanekawa giết mình, thì Senjōgahara sẽ giết Hanekawa mất.
@@ -261,7 +260,7 @@ Dialogue: 10,0:19:27.06,0:19:29.52,Main,,0,0,0,,Còn ngủ nữa là hỏng đ�
 Comment: 10,0:19:29.52,0:19:30.61,Main,,0,0,0,,
 Comment: 10,0:19:30.61,0:19:31.65,Main,,0,0,0,,
 Dialogue: 10,0:19:35.80,0:19:41.91,Main,,0,0,0,,{\i1}Sau đó, Kanbaru đến và đưa cả tôi lẫn Hanekawa về nhà.
-Dialogue: 10,0:19:48.16,0:19:51.29,Main,,0,0,0,,{\i1}Và rồi hôm đó, trước khi tới trường, 
+Dialogue: 10,0:19:48.16,0:19:51.29,Main,,0,0,0,,{\i1}Và rồi hôm đó, trước khi tới trường,
 Dialogue: 10,0:19:51.29,0:19:53.33,Main,,0,0,0,,{\i1}tôi có ghé qua chỗ trường luyện thi đổ nát,
 Dialogue: 10,0:19:53.90,0:19:59.18,Main,,0,0,0,,{\i1}để đưa Shinobu về chỗ Oshino, sau khi đã trốn trong bóng của tôi.
 Dialogue: 10,0:20:00.04,0:20:00.68,Main,,0,0,0,,{\i1}Nhưng mà...

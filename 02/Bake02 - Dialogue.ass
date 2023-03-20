@@ -15,8 +15,7 @@ Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 3
-Active Line: 6
+Active Line: 4
 Video Position: 534
 
 [V4+ Styles]
@@ -31,11 +30,11 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.02,Main,chapter,0,0,0,,{Intro}
-Dialogue: 0,0:00:48.02,0:00:48.03,Main,chapter,0,0,0,,{OP}
-Dialogue: 0,0:02:17.99,0:02:17.99,Main,chapter,0,0,0,,{Episode}
-Dialogue: 0,0:23:30.01,0:23:30.02,Main,chapter,0,0,0,,{ED}
-Dialogue: 0,0:24:59.97,0:24:59.98,Main,chapter,0,0,0,,{Preview}
+Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
+Comment: 0,0:00:48.02,0:00:48.03,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:02:17.99,0:02:17.99,Main,chptr,0,0,0,,{Episode}
+Comment: 0,0:23:30.01,0:23:30.02,Main,chptr,0,0,0,,{ED}
+Comment: 0,0:24:59.97,0:24:59.98,Main,chptr,0,0,0,,{Preview}
 Dialogue: 12,0:00:14.70,0:00:18.83,Main,,0,0,0,21:9,{\i1}Đúng là Hanekawa có nói nhà Senjōgahara\N to như lâu đài.
 Dialogue: 12,0:00:22.25,0:00:25.69,Main,,0,0,160,21:9,{\i1}Mẹ tôi đã lún sâu vào một giáo phái đáng ngờ.
 Dialogue: 12,0:00:25.69,0:00:28.63,Main,,0,0,160,21:9,{\i1}Để rồi không chỉ cống nạp toàn bộ tiền của,

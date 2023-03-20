@@ -16,8 +16,7 @@ Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 275
-Active Line: 289
+Active Line: 4
 Video Position: 23994
 
 [V4+ Styles]
@@ -32,11 +31,11 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 6,0:00:00.00,0:00:00.02,Main,chapter,0,0,0,,{Intro}
-Dialogue: 6,0:02:17.00,0:02:17.00,Main,chapter,0,0,0,,{OP}
-Dialogue: 6,0:03:46.92,0:03:46.92,Main,chapter,0,0,0,,{Episode}
-Dialogue: 6,0:22:24.94,0:22:24.95,Main,chapter,0,0,0,,{ED}
-Dialogue: 6,0:23:54.90,0:23:54.91,Main,chapter,0,0,0,,{Preview}
+Comment: 6,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
+Comment: 6,0:02:17.00,0:02:17.00,Main,chptr,0,0,0,,{OP}
+Comment: 6,0:03:46.92,0:03:46.92,Main,chptr,0,0,0,,{Episode}
+Comment: 6,0:22:24.94,0:22:24.95,Main,chptr,0,0,0,,{ED}
+Comment: 6,0:23:54.90,0:23:54.91,Main,chptr,0,0,0,,{Preview}
 Dialogue: 12,0:00:16.74,0:00:18.70,Main,,0,0,0,,A~ Aryaryagi-san!
 Dialogue: 12,0:00:19.66,0:00:20.74,Main,,0,0,0,,Araragi nhá!
 Dialogue: 12,0:00:20.74,0:00:22.58,Main,,0,0,0,,Xin lỗi, em líu lưỡi.{shitsurei kamimashita}
