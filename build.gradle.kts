@@ -48,6 +48,12 @@ subs {
         out(get("mergedname"))
     }
 
+    chapters {
+        from(merge.item())
+        chapterMarker("chapter")
+        out(get("chaptername"))
+    }
+
     mux {
         title(get("title"))
 
@@ -84,6 +90,8 @@ subs {
                 compression(CompressionType.ZLIB)
             }
         }
+
+        chapters(chapters.item()) { lang("vie") }
 
         attach(get("fonts")) {
             includeExtensions("ttf", "otf")
