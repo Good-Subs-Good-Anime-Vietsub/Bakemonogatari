@@ -15,13 +15,13 @@ Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 274
-Active Line: 490
-Video Position: 27073
+Scroll Position: 27
+Active Line: 41
+Video Position: 10073
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4.2,0,2,12,12,50,1
+Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4,4,2,12,12,50,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,30,30,170,1
 Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,15,15,30,1
@@ -48,7 +48,7 @@ Dialogue: 12,0:02:27.88,0:02:29.03,Main,,0,0,0,,{\i1}cực cực kỳ...
 Dialogue: 12,0:02:29.03,0:02:30.52,Main,,0,0,0,,{\i1}nhẹ.
 Dialogue: 12,0:02:31.19,0:02:34.51,Main,,0,0,0,,{\i1}Phải! Cô gái này, Senjōgahara...
 Dialogue: 12,0:02:34.51,0:02:38.45,Main,,0,0,0,,{\i1}có thể nói là \Nkhông có lấy một chút cân nặng nào cả.
-Dialogue: 12,0:04:20.74,0:04:24.70,Main,,0,0,0,,Biết là lễ hội văn hóa rồi, \Ncơ mà giờ chúng ta đã sang năm 3.
+Dialogue: 12,0:04:20.74,0:04:24.70,Main,,0,0,0,,Biết là lễ hội văn hóa rồi, \Ncơ mà giờ chúng ta đã sang năm 3...
 Dialogue: 12,0:04:25.02,0:04:27.03,Main,,0,0,0,,Nên sẽ không tham gia nhiều.
 Dialogue: 12,0:04:27.03,0:04:29.42,Main,,0,0,0,,Việc học thi đại học quan trọng hơn.
 Dialogue: 12,0:04:30.38,0:04:33.13,Main,,0,0,0,,Trước hết, \Nchúng ta sẽ rút gọn ứng cử viên...
@@ -59,17 +59,17 @@ Dialogue: 12,0:04:38.88,0:04:41.26,Main,,0,0,0,,Nghe rất dân chủ.
 Dialogue: 12,0:04:41.26,0:04:45.03,Main,,0,0,0,,Araragi-kun vẫn cứ cái kiểu nói khó nghe đó.
 Dialogue: 12,0:04:45.03,0:04:46.93,Main,,0,0,0,,Kiểu kiểu ông cụ non ấy.{ひねてる(hineteru)}
 Dialogue: 12,0:04:53.64,0:04:56.97,Main,,0,0,0,,{\i1}Hanekawa Tsubasa, lớp trưởng lớp tôi.
-Dialogue: 12,0:04:56.97,0:05:01.61,Main,,0,0,0,,{\i1}Kỷ luật... Lịch thiệp...\NVô cùng nghiêm túc... Được thầy cô yêu quý.
+Dialogue: 12,0:04:56.97,0:05:01.61,Main,,0,0,0,,{\i1}Kỷ luật... Lịch thiệp...\NVô cùng nghiêm túc... Trò cưng của giáo viên.
 Dialogue: 12,0:05:01.61,0:05:03.74,Main,,0,0,0,,{\i1}Là lớp trưởng của lớp trưởng.
 Dialogue: 12,0:05:04.99,0:05:11.12,Main,,0,0,0,,Tham khảo chút, Araragi-kun hai năm qua,\N đã làm những gì ở lễ hội văn hóa?
 Dialogue: 12,0:05:11.12,0:05:13.25,Main,,0,0,0,,Nhà ma và quán cà phê.
 Dialogue: 12,0:05:14.67,0:05:16.80,Main,,0,0,0,,{\i1}Và tôi với tư cách lớp phó...
 Dialogue: 12,0:05:16.80,0:05:17.60,Main,,0,0,0,,{\i1}hiện đang...
-Dialogue: 12,0:05:17.60,0:05:21.80,Main,,0,0,0,,{\i1}lên kế hoạch cho lễ hội văn hóa... \Ncùng với Hanekawa.
+Dialogue: 12,0:05:17.60,0:05:21.80,Main,,0,0,0,,{\i1}lên kế hoạch cho lễ hội văn hóa \Ncùng với Hanekawa.
 Dialogue: 12,0:05:23.27,0:05:26.78,Main,,0,0,0,,Này, lớp mình có một bạn tên là \NSenjōgahara nhở?
 Dialogue: 12,0:05:26.76,0:05:28.80,Main,,0,0,0,,Senjōgahara-san?
 Dialogue: 12,0:05:28.80,0:05:31.64,Main,,0,0,0,,Senjōgahara-san có chuyện gì sao?
-Dialogue: 12,0:05:31.64,0:05:33.77,Main,,0,0,0,,À thì có hơi tò mò xíu.
+Dialogue: 12,0:05:31.64,0:05:33.77,Main,,0,0,0,,À thì... có hơi tò mò xíu.
 Dialogue: 12,0:05:33.77,0:05:36.81,Main,,0,0,0,,Cậu ta vì yếu bệnh \Nmà thường xuyên nghỉ học đúng không?
 Dialogue: 12,0:05:36.81,0:05:39.40,Main,,0,0,0,,Liệu có tham gia lễ hội văn hóa không nhở?
 Dialogue: 12,0:05:40.52,0:05:42.30,Main,,0,0,0,,À không, thì đấy...
@@ -705,7 +705,7 @@ Dialogue: 9,0:03:47.66,0:03:50.92,OPvie,,0,0,40,,{\c&H2380F8&\blur0.67\an2\fs72\
 Dialogue: 9,0:03:50.92,0:03:51.17,OPvie,,0,0,40,,{\c&H011AE3&\blur0.67\an2\fs72\b1}hãy tóm lấy em khi em nhảy vào trái tim chàng.
 Dialogue: 9,0:03:51.17,0:04:00.01,OPvie,,0,0,40,,{\an2\c&H0001FD&\blur0.67\fs72\b1}Sức nặng của thứ cảm xúc này là chẳng thể cân đo.
 Dialogue: 9,0:04:00.01,0:04:06.21,OPvie,,0,0,40,,{\fad(0,300)\an2\blur0.67\fs72\b1}Bởi chỉ mình chàng thôi, em tới nói ngay đây mà.
-Dialogue: 9,0:04:06.89,0:04:12.98,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs72\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
+Dialogue: 9,0:04:06.89,0:04:12.98,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs72\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE/MOCHIOKA {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
 Dialogue: 0,0:04:02.13,0:04:02.59,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL FertigoPro\blur1\fsp4\fs40\t(-13,487,\c&H090AF3&)\pos(960,706.67)}Cua Hitagi
 Dialogue: 0,0:04:02.59,0:04:02.63,Signs,,0,0,0,,{=366}{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(960,706.67)}Cua Hitagi
 Dialogue: 0,0:04:02.63,0:04:02.68,Signs,,0,0,0,,{=366}{\fscx99.96\fscy99.96\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(959.99,706.58)}Cua Hitagi

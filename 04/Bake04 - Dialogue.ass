@@ -21,7 +21,7 @@ Video Position: 35406
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4.2,0,2,12,12,50,1
+Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4,4,2,12,12,50,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Mayoi OP,VL AmpleSoft,72,&H00000000,&HFF0000FF,&H00FFFFFF,&H96000000,-1,0,0,0,100,100,0,0,1,0,0,2,75,75,53,1
 Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,15,15,30,1
