@@ -15,9 +15,9 @@ Audio File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakem
 Video File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 03v2 [8ED36B33].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Active Line: 4
-Video Position: 32218
+Video Zoom Percent: 0.625000
+Active Line: 2
+Video Position: 21898
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,9 +32,9 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 4,0:00:14.87,0:00:17.08,Signs,,0,0,0,nTS,
-Comment: 4,0:14:59.92,0:15:02.55,Signs,,0,0,0,nTS,
-Comment: 4,0:15:02.55,0:15:07.14,Signs,,0,0,0,nTS,
-Comment: 4,0:15:12.47,0:15:12.52,Signs,,0,0,0,nTS,
-Dialogue: 1,0:22:23.74,0:22:26.20,Signs,,0,0,0,,{\3c&HFBFBFB&\blur1.2\c&H474979&\fs37.5\fnUVN Anh Hai\pos(299.36,493.5)}Thay đổi
-Dialogue: 1,0:22:23.74,0:22:26.20,Signs,,0,0,0,,{\3c&HFBFBFB&\blur1.2\c&H474979&\fs37.5\fnUVN Anh Hai\pos(175.79,681.5)}Hành chính
+Dialogue: 4,0:14:59.92,0:15:02.55,Signs,,0,0,0,nTS,{\blur1.5\bord0\shad0\c&H7F79FA&\fsp3\b1\pos(672.8,285.2)}NGƯỜI VỢ ĐÃ BỊ GIẾT.
+Dialogue: 4,0:15:02.55,0:15:07.14,Signs,,0,0,0,nTS,{\blur1.5\bord0\shad0\c&H7970FA&\fsp3\b1\pos(960,879.2)}BẮT GIỮ.
+Dialogue: 4,0:15:07.14,0:15:12.52,Signs,,0,0,0,nTS,{\blur1.5\bord0\shad0\c&H7970FA&\fsp3\b0\pos(1571.2,317.6)}bữa sáng rau củ.
+Dialogue: 4,0:15:07.14,0:15:12.52,Signs,,0,0,0,nTS,{\blur1.5\bord0\shad0\c&H7970FA&\fsp3\b0\pos(358.4,317.6)}GÃY rau CỔ NHANH.
+Dialogue: 1,0:22:23.74,0:22:26.20,Signs,,0,0,0,,{\3c&HFBFBFB&\blur1.2\c&H16257F&\fs37.5\fnUVN Anh Hai\pos(299.36,493.5)}Thay đổi
+Dialogue: 1,0:22:23.74,0:22:26.20,Signs,,0,0,0,,{\3c&HFBFBFB&\blur1.2\c&H16257F&\fs37.5\fnUVN Anh Hai\pos(175.79,681.5)}Hành chính
