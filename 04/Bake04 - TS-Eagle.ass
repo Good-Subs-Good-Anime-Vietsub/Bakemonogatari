@@ -11,14 +11,12 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/nhana/Downloads/Video/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mkv
-Video File: C:/Users/nhana/Downloads/Video/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mkv
+Audio File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogatari (BD 1080p Hi10 Opus)/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mkv
+Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogatari (BD 1080p Hi10 Opus)/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 60
-Active Line: 85
-Video Position: 9120
+Video Zoom Percent: 0.500000
+Video Position: 6
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,6 +30,7 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 7,0:00:00.23,0:00:02.40,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp30\b1\blur1.4\fs120\pos(969.34,570.47)\fscx47\fscy68}NÓI
 Dialogue: 0,0:02:36.72,0:02:36.76,Signs,,0,0,0,nTS,{=5}{\fscy100\fscx100\alpha&H00&\fnTimes New Roman\i0\b1\blur1.5\org(395.43,396)\fry1.01\frx0.14\fs150\pos(581.43,421)\frz270.3\c&H757575&\clip(m 239 286 l 351.78 295.74 537 310 534 316 394.43 306.09 277.57 296.35 233.04 292.17 220.89 352.89 342.67 388 455.11 419.56 526.67 440.89 581.33 455.56 579.56 464 452 428.89 282.22 379.56 216.89 360 227.64 635.64 338.91 669.09 435.64 696.73 526.55 721.45 603.64 742.55 599.27 752.73 544.73 735.27 475.64 716.36 418.18 700.36 341.82 677.82 269.82 657.45 197.82 637.82 84.36 412.36)}Dừng lại
 Dialogue: 0,0:02:36.76,0:02:36.80,Signs,,0,0,0,nTS,{=5}{\fscy100\fscx100\alpha&H00&\fnTimes New Roman\i0\b1\blur1.5\org(395.43,399.62)\fry1.01\frx0.14\fs150\pos(581.43,424.62)\frz270.3\c&H757575&\clip(m 238.77 291.38 l 351.55 301.12 536.77 315.38 533.77 321.38 394.2 311.46 277.34 301.73 232.81 297.55 220.66 358.27 342.44 393.38 454.88 424.94 526.44 446.27 581.1 460.94 579.33 469.38 451.77 434.27 281.99 384.94 216.66 365.38 227.41 641.02 338.68 674.47 435.41 702.11 526.32 726.83 603.41 747.93 599.04 758.11 544.5 740.65 475.41 721.74 417.95 705.74 341.59 683.2 269.59 662.83 197.59 643.2 84.13 417.73)}Dừng lại
 Dialogue: 0,0:02:36.80,0:02:36.84,Signs,,0,0,0,nTS,{=5}{\fscy100\fscx100\alpha&H00&\fnTimes New Roman\i0\b1\blur1.5\org(395.43,403.22)\fry1.01\frx0.14\fs150\pos(581.43,428.22)\frz270.3\c&H757575&\clip(m 238.53 296.76 l 351.31 306.5 536.53 320.76 533.53 326.76 393.96 316.85 277.1 307.11 232.57 302.93 220.42 363.65 342.2 398.76 454.64 430.32 526.2 451.65 580.86 466.32 579.09 474.76 451.53 439.65 281.75 390.32 216.42 370.76 227.17 646.4 338.44 679.85 435.17 707.49 526.08 732.21 603.17 753.31 598.8 763.49 544.26 746.03 475.17 727.12 417.71 711.12 341.35 688.58 269.35 668.21 197.35 648.58 83.89 423.12)}Dừng lại
@@ -114,9 +113,9 @@ Dialogue: 7,0:06:20.40,0:06:22.70,Signs,,0,0,0,nTS,{\c&HEE8E1B&\frz270\fnArial\f
 Dialogue: 7,0:06:20.40,0:06:22.70,Signs,,0,0,0,nTS,{\c&HEE8E1B&\frz270\fnArial\fscx150\fsp10\fs60\blur1.5\pos(1131.43,540)}NGÀY CỦA MẸ
 Dialogue: 1,0:07:48.74,0:07:49.95,Signs,,0,0,0,nTS,{\fnUVN Anh Hai Nhe\c&H697469&\blur1.2\org(1093.71,360.58)\fry0.1\frx0.1\frz270\clip(m 933.6 162.4 l 1125.6 162.4 1127.2 916.8 934.4 917.6)\pos(1266.71,363.58)}Nút nhấn ban đêm
 Dialogue: 1,0:07:56.33,0:07:57.42,Signs,,0,0,0,nTS,{\fnUVN Anh Hai Nhe\c&H697469&\blur1.2\org(1093.71,360.58)\fry0.1\frx0.1\frz270\clip(m 933.6 162.4 l 1125.6 162.4 1127.2 916.8 934.4 917.6)\pos(1266.71,363.58)}Nút nhấn ban đêm
-Dialogue: 6,0:10:51.63,0:10:53.59,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur1.2\fs70\pos(972,295.14)}NGOÀI VÙNG \N\N\N\N\N\N\N\N\NPHỦ SÓNG
-Dialogue: 7,0:10:51.63,0:10:53.59,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur1.2\fs70\pos(972,295.14)}NGOÀI VÙNG \N\N\N\N\N\N\N\N\NPHỦ SÓNG
-Dialogue: 7,0:10:57.60,0:11:00.06,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur1.2\fs70\pos(972,295.14)}NGOÀI VÙNG \N\N\N\N\N\N\N\N\NPHỦ SÓNG
+Dialogue: 6,0:10:51.63,0:10:53.59,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur1.2\fs70\pos(972,295.14)\c&HECECF0&}NGOÀI VÙNG \N\N\N\N\N\N\N\N\NPHỦ SÓNG
+Dialogue: 7,0:10:51.63,0:10:53.59,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur1.2\fs70\pos(972,295.14)\c&HECECF0&}NGOÀI VÙNG \N\N\N\N\N\N\N\N\NPHỦ SÓNG
+Dialogue: 7,0:10:57.60,0:11:00.06,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur1.2\fs70\pos(972,295.14)\c&HECECF0&}NGOÀI VÙNG \N\N\N\N\N\N\N\N\NPHỦ SÓNG
 Dialogue: 7,0:18:10.74,0:18:11.95,Signs,,0,0,0,nTS,{\fs90\blur1.2\fsp35\fscx150\fnSVN-Helvetica Neue\b1\pos(993.33,120)\c&HFFFFFF&}ĐANG GỌI
 Dialogue: 7,0:18:57.49,0:19:00.95,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp40\b0\blur1.2\fs200\pos(996,547.13)}NÓI
 Dialogue: 8,0:18:57.49,0:19:00.95,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp40\b0\blur10\fs200\pos(996,547.13)}NÓI

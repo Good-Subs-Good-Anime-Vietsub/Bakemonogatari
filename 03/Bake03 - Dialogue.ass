@@ -14,10 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 398
-Active Line: 403
-Video Position: 31697
+Video Zoom Percent: 0.375000
+Scroll Position: 444
+Active Line: 467
+Video Position: 37305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,27 +37,27 @@ Comment: 0,0:01:18.98,0:01:18.99,Main,chptr,0,0,0,,{OP}
 Comment: 0,0:02:48.98,0:02:48.98,Main,chptr,0,0,0,,{Episode}
 Comment: 0,0:23:54.95,0:23:54.96,Main,chptr,0,0,0,,{ED}
 Comment: 0,0:25:24.91,0:25:24.92,Main,chptr,0,0,0,,{Preview}
-Dialogue: 4,0:00:02.23,0:00:05.23,Main,,0,0,160,21:9,{\i1}Hôm nay là ngày của Mẹ tại Nhật Bản.
-Dialogue: 4,0:00:05.77,0:00:08.23,Main,,0,0,160,21:9,{\i1}Dù có yêu mẹ hay không...
-Dialogue: 4,0:00:08.23,0:00:10.82,Main,,0,0,160,21:9,{\i1}Dù có thân với mẹ hay không...
-Dialogue: 4,0:00:11.21,0:00:14.41,Main,,0,0,160,21:9,{\i1}Miễn là công dân Nhật, thì đều được đối xử như nhau...
-Dialogue: 4,0:00:14.99,0:00:16.17,Main,,0,0,160,21:9,{\i1}vào Ngày của Mẹ.
-Dialogue: 4,0:00:17.83,0:00:22.71,Main,,0,0,160,21:9,{\i1}Tôi đến công viên này không phải vì có mục đích gì cụ thể.
-Dialogue: 4,0:00:22.71,0:00:26.91,Main,,0,0,160,21:9,{\i1}Chỉ là ngẫu nhiên, tinh thần thoải mái, \Nchân cứ thế đạp, đến đâu thì đến...
-Dialogue: 4,0:00:26.91,0:00:28.42,Main,,0,0,160,21:9,{\i1}trên con xe đạp địa hình.
-Dialogue: 4,0:00:28.80,0:00:30.84,Main,,0,0,160,21:9,{\i1}Và rồi dừng chân ở công viên này.
-Dialogue: 4,0:00:31.78,0:00:32.59,Main,,0,0,160,21:9,{\i1}Có điều...
-Dialogue: 4,0:00:32.59,0:00:39.39,Main,,0,0,160,21:9,{\i1}vào Chủ nhật mà lẻ loi một mình ở công viên,\N cảm giác như cả thế giới chỉ còn có mình tôi vậy.
-Dialogue: 4,0:00:40.60,0:00:43.48,Main,,0,0,160,21:9,{\i1}Nói vậy thì cũng hơi ảo quá cơ mà...
-Dialogue: 4,0:00:43.48,0:00:44.38,Main,,0,0,160,21:9,{\i1}cảm giác như...
-Dialogue: 4,0:00:44.38,0:00:47.57,Main,,0,0,160,21:9,{\i1}tôi sở hữu cả công viên này vậy.
-Dialogue: 4,0:00:48.46,0:00:51.28,Main,,0,0,160,21:9,{\i1}Kiểu như khỏi cần về nhà nữa ấy.
-Dialogue: 4,0:00:51.30,0:00:52.90,Main,,0,0,160,21:9,{\i1}Với tôi thì là vậy.
-Dialogue: 4,0:00:53.99,0:00:54.95,Main,,0,0,160,21:9,{\i1}Một mình tôi...
-Dialogue: 4,0:00:56.11,0:00:58.07,Main,,0,0,160,21:9,{\i1}Có mình tôi mà.
-Dialogue: 4,0:01:09.29,0:01:10.62,Main,,0,0,160,21:9,{\i1}Lại còn mỗi mình à?
-Dialogue: 4,0:01:11.17,0:01:12.67,Main,,0,0,160,21:9,{\i1}Tôi đã nghĩ {\u1}như thế{\u0}.
-Dialogue: 4,0:01:13.14,0:01:14.63,Main,,0,0,160,21:9,{\i1}Chính vì {\u1}như thế{\u0}...
+Dialogue: 4,0:00:02.23,0:00:05.23,Main,,0,0,0,21:9,{\i1}Hôm nay là ngày của Mẹ tại Nhật Bản.
+Dialogue: 4,0:00:05.77,0:00:08.23,Main,,0,0,0,21:9,{\i1}Dù có yêu mẹ hay không...
+Dialogue: 4,0:00:08.23,0:00:10.82,Main,,0,0,0,21:9,{\i1}Dù có thân với mẹ hay không...
+Dialogue: 4,0:00:11.21,0:00:14.41,Main,,0,0,0,21:9,{\i1}Miễn là công dân Nhật, thì đều được đối xử như nhau...
+Dialogue: 4,0:00:14.99,0:00:16.17,Main,,0,0,0,21:9,{\i1}vào Ngày của Mẹ.
+Dialogue: 4,0:00:17.83,0:00:22.71,Main,,0,0,0,21:9,{\i1}Tôi đến công viên này không phải vì có mục đích gì cụ thể.
+Dialogue: 4,0:00:22.71,0:00:26.91,Main,,0,0,0,21:9,{\i1}Chỉ là ngẫu nhiên, tinh thần thoải mái, \Nchân cứ thế đạp, đến đâu thì đến...
+Dialogue: 4,0:00:26.91,0:00:28.42,Main,,0,0,0,21:9,{\i1}trên con xe đạp địa hình.
+Dialogue: 4,0:00:28.80,0:00:30.84,Main,,0,0,0,21:9,{\i1}Và rồi dừng chân ở công viên này.
+Dialogue: 4,0:00:31.78,0:00:32.59,Main,,0,0,0,21:9,{\i1}Có điều...
+Dialogue: 4,0:00:32.59,0:00:39.39,Main,,0,0,0,21:9,{\i1}vào Chủ nhật mà lẻ loi một mình ở công viên,\N cảm giác như cả thế giới chỉ còn có mình tôi vậy.
+Dialogue: 4,0:00:40.60,0:00:43.48,Main,,0,0,0,21:9,{\i1}Nói vậy thì cũng hơi ảo quá cơ mà...
+Dialogue: 4,0:00:43.48,0:00:44.38,Main,,0,0,0,21:9,{\i1}cảm giác như...
+Dialogue: 4,0:00:44.38,0:00:47.57,Main,,0,0,0,21:9,{\i1}tôi sở hữu cả công viên này vậy.
+Dialogue: 4,0:00:48.46,0:00:51.28,Main,,0,0,0,21:9,{\i1}Kiểu như khỏi cần về nhà nữa ấy.
+Dialogue: 4,0:00:51.30,0:00:52.90,Main,,0,0,0,21:9,{\i1}Với tôi thì là vậy.
+Dialogue: 4,0:00:53.99,0:00:54.95,Main,,0,0,0,21:9,{\i1}Một mình tôi...
+Dialogue: 4,0:00:56.11,0:00:58.07,Main,,0,0,0,21:9,{\i1}Có mình tôi mà.
+Dialogue: 4,0:01:09.29,0:01:10.62,Main,,0,0,0,21:9,{\i1}Lại còn mỗi mình à?
+Dialogue: 4,0:01:11.17,0:01:12.67,Main,,0,0,0,21:9,{\i1}Tôi đã nghĩ {\u1}như thế{\u0}.
+Dialogue: 4,0:01:13.14,0:01:14.63,Main,,0,0,0,21:9,{\i1}Chính vì {\u1}như thế{\u0}...
 Dialogue: 4,0:01:14.63,0:01:16.51,Main,,0,0,0,21:9,{\i1}Nī-chan, chính vì {\u1}như thế{\u0}....
 Dialogue: 4,0:03:04.00,0:03:06.32,Main,,0,0,0,,Ái chà ái chà~ Gì đây gì đây~
 Dialogue: 4,0:03:06.32,0:03:11.00,Main,,0,0,0,,Tưởng đâu con chó nào chết bị vứt trên băng ghế công viên chứ,\N hóa ra là Araragi-kun à.
@@ -69,7 +69,7 @@ Dialogue: 4,0:03:19.80,0:03:20.97,Main,,0,0,360,,Araragi-kun ngây thơ...
 Dialogue: 4,0:03:20.97,0:03:24.47,GT 2,,0,0,0,,{\pos(950.67,948)}(shifuku)
 Dialogue: 4,0:03:20.97,0:03:24.47,Main,,0,0,0,,bị "mê hoặc" trước "thường phục" duyên dáng của tôi.
 Dialogue: 4,0:03:24.47,0:03:26.56,GT 2,,0,0,0,,{\pos(1340,946)}(shifuku)
-Dialogue: 4,0:03:24.47,0:03:26.56,Main,,0,0,0,,Và trong phút chốc đã có được "hạnh phúc".
+Dialogue: 4,0:03:24.47,0:03:26.56,Main,,0,0,0,,Và trong phút chốc đã có được "sung sướng".
 Dialogue: 4,0:03:27.06,0:03:30.85,Main,,0,0,0,,{\i1}Tạm bỏ qua chơi chữ,\N nhưng đúng là "mê hoặc" thật.
 Dialogue: 4,0:03:31.12,0:03:34.94,Main,,0,0,0,,Mà còn nữa, chữ "mê" trong \N"mê hoặc" đúng là hay thật nhở?
 Dialogue: 4,0:03:34.94,0:03:36.02,Main,,0,0,0,,Cậu biết không?
@@ -236,13 +236,13 @@ Dialogue: 4,0:11:33.50,0:11:34.46,Main,,0,0,0,,Hiểu rồi.
 Dialogue: 4,0:11:35.01,0:11:37.23,Main,,0,0,560,,{\an5}Và cậu, thằng con cả kém cỏi,
 Dialogue: 4,0:11:37.23,0:11:42.74,Main,,0,0,560,,{\an5}vào cái Ngày của Mẹ hôm nay, \Ncảm thấy ở nhà không có chỗ dành cho mình ha.
 Dialogue: 4,0:11:43.25,0:11:44.56,Main,,0,0,560,,{\an5}Chuẩn rồi đấy.
-Dialogue: 4,0:11:46.02,0:11:49.42,Main,,0,0,160,21:9,Sáng sớm nay tôi cố lẻn ra ngoài...
-Dialogue: 4,0:11:49.42,0:11:53.46,Main,,0,0,160,21:9,nhưng vừa leo được lên cái xe đạp địa hình \Nthì bị em gái bắt quả tang.
-Dialogue: 4,0:11:53.46,0:11:54.84,Main,,0,0,160,21:9,Rồi... cãi nhau.
-Dialogue: 4,0:11:54.84,0:11:55.75,Main,,0,0,160,21:9,Cãi nhau?
-Dialogue: 4,0:11:55.75,0:12:00.12,Main,,0,0,160,21:9,Là con em gái, \Nnó muốn tôi cùng gia đình chúc mừng Ngày của Mẹ.
-Dialogue: 4,0:12:00.12,0:12:01.21,Main,,0,0,160,21:9,Nói sao nhở...
-Dialogue: 4,0:12:01.21,0:12:03.58,Main,,0,0,160,21:9,Thì đó... sao mà tôi làm được.
+Dialogue: 4,0:11:46.02,0:11:49.42,Main,,0,0,0,21:9,Sáng sớm nay tôi cố lẻn ra ngoài...
+Dialogue: 4,0:11:49.42,0:11:53.46,Main,,0,0,0,21:9,nhưng vừa leo được lên cái xe đạp địa hình \Nthì bị em gái bắt quả tang.
+Dialogue: 4,0:11:53.46,0:11:54.84,Main,,0,0,0,21:9,Rồi... cãi nhau.
+Dialogue: 4,0:11:54.84,0:11:55.75,Main,,0,0,0,21:9,Cãi nhau?
+Dialogue: 4,0:11:55.75,0:12:00.12,Main,,0,0,0,21:9,Là con em gái, \Nnó muốn tôi cùng gia đình chúc mừng Ngày của Mẹ.
+Dialogue: 4,0:12:00.12,0:12:01.21,Main,,0,0,0,21:9,Nói sao nhở...
+Dialogue: 4,0:12:01.21,0:12:03.58,Main,,0,0,0,21:9,Thì đó... sao mà tôi làm được.
 Dialogue: 4,0:12:03.58,0:12:05.73,Main,,0,0,0,,{\i1}Nī-chan, chính vì {\u1}như thế{\u0}...
 Dialogue: 4,0:12:05.73,0:12:08.21,Main,,0,0,0,,{\i1}Chính vì {\u1}như thế{\u0} mà đến bao giờ...
 Dialogue: 4,0:12:11.96,0:12:16.33,Main,,0,0,0,,Tức là...\N cái Ngày của Mẹ này với người như tôi là chịu.
@@ -477,32 +477,32 @@ Dialogue: 4,0:23:50.13,0:23:51.66,Main,TLC,0,0,0,,Mà không có gì đâu.
 Comment: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,
 Comment: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,==========================================
 Comment: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,
-Dialogue: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,Karen đây!
-Dialogue: 4,0:25:26.41,0:25:26.97,Main,,0,0,0,,Tsukihi có!
-Dialogue: 4,0:25:26.97,0:25:28.38,Main,,0,0,0,,Cờ Shōgi có một quân Tướng Vua đúng không?
-Dialogue: 4,0:25:28.38,0:25:29.38,Main,,0,0,0,,Đúng là thế.
-Dialogue: 4,0:25:29.38,0:25:31.56,Main,,0,0,0,,Tướng Ngọc cứ như bản nhái của Tướng Vua ấy.
-Dialogue: 4,0:25:31.56,0:25:33.45,Main,,0,0,0,,Nhưng mà nghe đâu Tướng Ngọc có trước đấy.
-Dialogue: 4,0:25:33.45,0:25:34.17,Main,,0,0,0,,Thế sao?
-Dialogue: 4,0:25:34.17,0:25:36.47,GT 2,,0,0,0,,{\fnDFGHSMaruGothic-W4}(玉将/王将{\fn} - Tướng Ngọc/Tướng Vua // {\fnDFGHSMaruGothic-W4}玉{\fn}-->{\fnDFGHSMaruGothic-W4}王){\fn}
-Dialogue: 4,0:25:34.17,0:25:36.47,Main,,0,0,0,,Hình như là tại viết nhầm mới thành Tướng Vua.
-Dialogue: 4,0:25:36.47,0:25:38.83,Main,,0,0,0,,Nhưng người ta kêu là\N"Tướng Vua mạnh hơn Tướng Ngọc".
-Dialogue: 4,0:25:38.83,0:25:42.08,Main,,0,0,0,,- Nên giờ chỉ có con gà mới dùng Tướng Ngọc thôi! Buồn nhở!\N- Buồn thật!
-Dialogue: 4,0:25:42.08,0:25:43.20,Main,,0,0,0,,Rồi tới giờ cho câu đố phần xem trước.
-Dialogue: 4,0:25:43.20,0:25:44.44,Main,,0,0,0,,Mới là lần thứ 3 ha.
-Dialogue: 4,0:25:44.44,0:25:45.65,Main,,0,0,0,,Mình và Tsukihi-chan là sinh đôi...
-Dialogue: 4,0:25:45.65,0:25:46.19,Main,,0,0,0,,Có phải đâu.
-Dialogue: 4,0:25:46.19,0:25:48.29,Main,,0,0,0,,nên nhân tiện trong 12 chòm sao\Nthì chòm nào là song sinh?
-Dialogue: 4,0:25:48.29,0:25:49.00,Main,,0,0,0,,Song Tử còn gì.
-Dialogue: 4,0:25:49.00,0:25:50.97,Main,,0,0,0,,Thực ra cả Song Ngư nữa đó.
-Dialogue: 4,0:25:50.97,0:25:51.57,Main,,0,0,0,,Đôi Cá!
-Dialogue: 4,0:25:51.57,0:25:52.44,Main,,0,0,0,,Đôi Cá!~
-Dialogue: 4,0:25:52.44,0:25:54.28,Main,,0,0,150,,Kỳ tới: Ốc sên Mayoi, phần 2.
-Dialogue: 4,0:25:54.28,0:25:55.90,Main,,0,0,0,,Mà không phải sinh đôi ha.
-Dialogue: 4,0:25:55.90,0:25:57.35,Main,,0,0,0,,Như bọn mình ý.
+Dialogue: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,{\i1}Karen đây!
+Dialogue: 4,0:25:26.41,0:25:26.97,Main,,0,0,0,,{\i1}Tsukihi có!
+Dialogue: 4,0:25:26.97,0:25:28.38,Main,,0,0,0,,{\i1}Cờ Shōgi có một quân Tướng Vua đúng không?
+Dialogue: 4,0:25:28.38,0:25:29.38,Main,,0,0,0,,{\i1}Đúng là thế.
+Dialogue: 4,0:25:29.38,0:25:31.56,Main,,0,0,0,,{\i1}Tướng Ngọc cứ như bản nhái của Tướng Vua ấy.
+Dialogue: 4,0:25:31.56,0:25:33.45,Main,,0,0,0,,{\i1}Nhưng mà nghe đâu Tướng Ngọc có trước đấy.
+Dialogue: 4,0:25:33.45,0:25:34.17,Main,,0,0,0,,{\i1}Thế sao?
+Dialogue: 4,0:25:34.17,0:25:36.47,GT 2,,0,0,0,,{\fnDFGHSMaruGothic-W4\i1}(玉将/王将{\fn} - Tướng Ngọc/Tướng Vua // {\fnDFGHSMaruGothic-W4}玉{\fn}-->{\fnDFGHSMaruGothic-W4}王){\fn}
+Dialogue: 4,0:25:34.17,0:25:36.47,Main,,0,0,0,,{\i1}Hình như là tại viết nhầm mới thành Tướng Vua.
+Dialogue: 4,0:25:36.47,0:25:38.83,Main,,0,0,0,,{\i1}Nhưng người ta kêu là\N"Tướng Vua mạnh hơn Tướng Ngọc".
+Dialogue: 4,0:25:38.83,0:25:42.08,Main,,0,0,0,,{\i1}- Nên giờ chỉ có con gà mới dùng Tướng Ngọc thôi! Buồn nhở!\N- Buồn thật!
+Dialogue: 4,0:25:42.08,0:25:43.20,Main,,0,0,0,,{\i1}Rồi tới giờ cho câu đố phần xem trước.
+Dialogue: 4,0:25:43.20,0:25:44.44,Main,,0,0,0,,{\i1}Mới là lần thứ 3 ha.
+Dialogue: 4,0:25:44.44,0:25:45.65,Main,,0,0,0,,{\i1}Mình và Tsukihi-chan là sinh đôi...
+Dialogue: 4,0:25:45.65,0:25:46.19,Main,,0,0,0,,{\i1}Có phải đâu.
+Dialogue: 4,0:25:46.19,0:25:48.29,Main,,0,0,0,,{\i1}nên nhân tiện trong 12 chòm sao\Nthì chòm nào là song sinh?
+Dialogue: 4,0:25:48.29,0:25:49.00,Main,,0,0,0,,{\i1}Song Tử còn gì.
+Dialogue: 4,0:25:49.00,0:25:50.97,Main,,0,0,0,,{\i1}Thực ra cả Song Ngư nữa đó.
+Dialogue: 4,0:25:50.97,0:25:51.57,Main,,0,0,0,,{\i1}Đôi Cá!
+Dialogue: 4,0:25:51.57,0:25:52.44,Main,,0,0,0,,{\i1}Đôi Cá!~
+Dialogue: 4,0:25:52.44,0:25:54.28,Main,,0,0,150,,{\i1}Kỳ tới: Ốc sên Mayoi, phần 2.
+Dialogue: 4,0:25:54.28,0:25:55.90,Main,,0,0,0,,{\i1}Mà không phải sinh đôi ha.
+Dialogue: 4,0:25:55.90,0:25:57.35,Main,,0,0,0,,{\i1}Như bọn mình ý.
 Comment: 0,0:01:35.15,0:01:39.68,Mayoi OP,,0,0,0,,==================================
-Dialogue: 6,0:01:24.36,0:01:26.90,Mayoi OP,credit,0,0,0,,{=112}{\q2\blur0.9\fs48\fscx78\fscy78\bord0\shad0\c&HFFFFFF&\3c&H000000&}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
-Dialogue: 4,0:01:24.36,0:01:26.90,Mayoi OP,credit,0,0,0,,{=112}{\q2\blur0.9\fs48\fscx78\fscy78\fry0.1\bord3\shad0\c&H000000&\3c&H000000&\t(0,300,\fry-0.1)\t(300,600,\fry0.1)\t(600,900,\fry-0.1)\t(900,1200,\fry0.1)\t(1200,1500,\fry-0.1)\t(1500,1800,\fry0.1)\t(1800,2100,\fry-0.1)\t(2100,2400,\fry0.1)\t(2400,2700,\fry-0.1)}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
+Dialogue: 6,0:01:24.36,0:01:26.90,Mayoi OP,credit,0,0,0,,{=112}{\q2\blur0.9\fs48\bord0\shad0\c&HFFFFFF&\3c&H000000&\fscx74\fscy74}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE/MOCHIOKA {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
+Dialogue: 4,0:01:24.36,0:01:26.90,Mayoi OP,credit,0,0,0,,{=112}{\q2\blur0.9\fs48\fry0.1\bord3\shad0\c&H000000&\3c&H000000&\t(0,300,\fry-0.1)\t(300,600,\fry0.1)\t(600,900,\fry-0.1)\t(900,1200,\fry0.1)\t(1200,1500,\fry-0.1)\t(1500,1800,\fry0.1)\t(1800,2100,\fry-0.1)\t(2100,2400,\fry0.1)\t(2400,2700,\fry-0.1)\fscx74\fscy74}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE/MOCHIOKA {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
 Dialogue: 2,0:01:35.15,0:01:39.68,Mayoi OP,,0,0,0,,{\blur0.9}Ở đây Phải, tiếp theo Trái. Mù đường mất rồi.
 Dialogue: 1,0:01:35.15,0:01:39.68,Mayoi OP,,0,0,0,,{\blur0.9\bord6\c&HFFFFFF&}Ở đây Phải, tiếp theo Trái. Mù đường mất rồi.
 Dialogue: 0,0:01:35.15,0:01:39.68,Mayoi OP,,0,0,0,,{\blur0.9\bord6.75\c&HFFFFFF&\3c&H000000&}Ở đây Phải, tiếp theo Trái. Mù đường mất rồi.
@@ -554,50 +554,50 @@ Dialogue: 0,0:02:30.20,0:02:35.67,Mayoi OP,,0,0,0,,{\blur0.9\bord6.75\c&HFFFFFF&
 Dialogue: 2,0:02:35.67,0:02:40.75,Mayoi OP,,0,0,0,,{\blur0.9}Kể cả có là đường vòng thì cũng hổng có xa
 Dialogue: 1,0:02:35.67,0:02:40.75,Mayoi OP,,0,0,0,,{\blur0.9\bord6\c&HFFFFFF&}Kể cả có là đường vòng thì cũng hổng có xa
 Dialogue: 0,0:02:35.67,0:02:40.75,Mayoi OP,,0,0,0,,{\blur0.9\bord6.75\c&HFFFFFF&\3c&H000000&}Kể cả có là đường vòng thì cũng hổng có xa
-Dialogue: 0,0:02:42.76,0:02:43.26,Signs,,0,0,0,,{=114}{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(897.33,804.33)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.26,0:02:43.30,Signs,,0,0,0,,{=114}{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(899.46,874.85)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.30,0:02:43.35,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(925.06,775.82)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.35,0:02:43.39,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(950.79,674.57)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.39,0:02:43.43,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(977.27,570.97)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.43,0:02:43.47,Signs,,0,0,0,,{=114}{\fscx99.94\fscy99.94\frz-19.91\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(988.55,460.56)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.47,0:02:43.51,Signs,,0,0,0,,{=114}{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.64,481.62)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.51,0:02:43.55,Signs,,0,0,0,,{=114}{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.36,463.61)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.55,0:02:43.60,Signs,,0,0,0,,{=114}{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1009.72,479.11)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.60,0:02:43.64,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(997.85,469.9)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.64,0:02:43.68,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.71,477.42)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.68,0:02:43.72,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(998.7,472.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.72,0:02:43.76,Signs,,0,0,0,,{=114}{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1003.35,475.41)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.76,0:02:43.81,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.99,474.3)}Mayoi Ốc Sên
-Dialogue: 0,0:02:43.81,0:02:44.72,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.98,474.31)}Mayoi Ốc Sên
-Dialogue: 0,0:02:44.76,0:02:44.81,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\frz322.5\pos(1018.666,-85.334)}Mayoi Ốc Sên
-Dialogue: 0,0:02:44.72,0:02:44.76,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\frz-22.38\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.3,409.81)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.64,0:02:45.68,Signs,,0,0,0,,{=114}{\fscx99.67\fscy99.67\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.34,16.91)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.68,0:02:45.72,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.35,294.67)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.72,0:02:45.77,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,517.47)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.77,0:02:45.81,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,464.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.81,0:02:45.85,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.39,499.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.85,0:02:45.89,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.38,525.72)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.89,0:02:45.93,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.35,512.51)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.93,0:02:45.97,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,521.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:45.97,0:02:46.02,Signs,,0,0,0,,{=114}{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1460.14,509.13)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.02,0:02:46.06,Signs,,0,0,0,,{=114}{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1489.53,542.56)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.06,0:02:46.10,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1492.62,510.55)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.10,0:02:46.14,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,543.42)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.14,0:02:46.18,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1462.69,514.82)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.18,0:02:46.22,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.87,539.92)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.22,0:02:46.27,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1466.55,517.56)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.27,0:02:46.31,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,537.09)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.31,0:02:46.35,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.04,519.93)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.35,0:02:46.39,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.85,535.93)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.39,0:02:46.43,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.69,520.88)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.43,0:02:46.47,Signs,,0,0,0,,{=114}{\fscx99.72\fscy99.72\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.24,534.8)\clip(m 1460 563 l 1475 557 1491 544 1496 531 1543 524 1533 752 1404 801)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.47,0:02:46.52,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,524.93)\clip(m 1457 560 l 1470 558 1483 550 1496 534 1497 509 1598 497 1539 753 1395 843)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.52,0:02:46.56,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1480.87,531.2)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.56,0:02:46.60,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.25,527.02)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.60,0:02:46.64,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1476.21,529.44)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.64,0:02:46.68,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,528.48)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.68,0:02:46.72,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.29,528.5)}Mayoi Ốc Sên
-Dialogue: 0,0:02:46.72,0:02:48.98,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,528.48)}Mayoi Ốc Sên
+Dialogue: 0,0:02:42.76,0:02:43.26,Signs,,0,0,0,,{=114}{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(897.33,804.33)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.26,0:02:43.30,Signs,,0,0,0,,{=114}{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(899.46,874.85)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.30,0:02:43.35,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(925.06,775.82)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.35,0:02:43.39,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(950.79,674.57)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.39,0:02:43.43,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(977.27,570.97)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.43,0:02:43.47,Signs,,0,0,0,,{=114}{\fscx99.94\fscy99.94\frz-19.91\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(988.55,460.56)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.47,0:02:43.51,Signs,,0,0,0,,{=114}{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.64,481.62)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.51,0:02:43.55,Signs,,0,0,0,,{=114}{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.36,463.61)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.55,0:02:43.60,Signs,,0,0,0,,{=114}{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1009.72,479.11)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.60,0:02:43.64,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(997.85,469.9)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.64,0:02:43.68,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.71,477.42)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.68,0:02:43.72,Signs,,0,0,0,,{=114}{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(998.7,472.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.72,0:02:43.76,Signs,,0,0,0,,{=114}{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1003.35,475.41)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.76,0:02:43.81,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.99,474.3)}Ốc Sên Mayoi
+Dialogue: 0,0:02:43.81,0:02:44.72,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.98,474.31)}Ốc Sên Mayoi
+Dialogue: 0,0:02:44.76,0:02:44.81,Signs,,0,0,0,,{=114}{\fscx99.95\fscy99.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\frz322.5\pos(1018.666,-85.334)}Ốc Sên Mayoi
+Dialogue: 0,0:02:44.72,0:02:44.76,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\frz-22.38\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.3,409.81)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.64,0:02:45.68,Signs,,0,0,0,,{=114}{\fscx99.67\fscy99.67\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.34,16.91)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.68,0:02:45.72,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.35,294.67)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.72,0:02:45.77,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,517.47)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.77,0:02:45.81,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,464.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.81,0:02:45.85,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.39,499.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.85,0:02:45.89,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.38,525.72)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.89,0:02:45.93,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.35,512.51)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.93,0:02:45.97,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,521.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:45.97,0:02:46.02,Signs,,0,0,0,,{=114}{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1460.14,509.13)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.02,0:02:46.06,Signs,,0,0,0,,{=114}{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1489.53,542.56)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.06,0:02:46.10,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1492.62,510.55)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.10,0:02:46.14,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,543.42)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.14,0:02:46.18,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1462.69,514.82)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.18,0:02:46.22,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.87,539.92)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.22,0:02:46.27,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1466.55,517.56)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.27,0:02:46.31,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,537.09)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.31,0:02:46.35,Signs,,0,0,0,,{=114}{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.04,519.93)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.35,0:02:46.39,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.85,535.93)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.39,0:02:46.43,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.69,520.88)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.43,0:02:46.47,Signs,,0,0,0,,{=114}{\fscx99.72\fscy99.72\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.24,534.8)\clip(m 1460 563 l 1475 557 1491 544 1496 531 1543 524 1533 752 1404 801)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.47,0:02:46.52,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,524.93)\clip(m 1457 560 l 1470 558 1483 550 1496 534 1497 509 1598 497 1539 753 1395 843)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.52,0:02:46.56,Signs,,0,0,0,,{=114}{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1480.87,531.2)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.56,0:02:46.60,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.25,527.02)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.60,0:02:46.64,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1476.21,529.44)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.64,0:02:46.68,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,528.48)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.68,0:02:46.72,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.29,528.5)}Ốc Sên Mayoi
+Dialogue: 0,0:02:46.72,0:02:48.98,Signs,,0,0,0,,{=114}{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,528.48)}Ốc Sên Mayoi
 Dialogue: 0,0:02:42.76,0:02:43.26,Signs,,0,0,0,,{=113}{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(907.81,90.28)}Yêu Ma Quái Truyện
 Dialogue: 0,0:02:43.26,0:02:43.30,Signs,,0,0,0,,{=113}{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(915,161.03)}Yêu Ma Quái Truyện
 Dialogue: 0,0:02:43.30,0:02:43.35,Signs,,0,0,0,,{=113}{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(1002.47,66.21)}Yêu Ma Quái Truyện
@@ -623,7 +623,6 @@ Dialogue: 3,0:24:54.86,0:25:03.59,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\3c&H3F4392&
 Dialogue: 1,0:25:03.59,0:25:09.46,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HE3E5E6&}Em cầu xin Chàng, xin Chàng đừng ngạc nhiên,
 Dialogue: 3,0:25:09.46,0:25:12.35,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HE3E5E6&}Hãy lắng nghe...
 Dialogue: 4,0:25:12.35,0:25:21.99,EDvie,,0,0,0,,{\fad(0,200)\blur0.6\c&HE3E5E6&}cảm xúc của Em này.
-Comment: 0,0:24:13.03,0:24:15.80,EDvie,,0,0,0,,=================================================
 
 [Aegisub Extradata]
 Data: 112,a-mo,e{"uuid"#3A"130898a3-6027-4459-a80f-822a024a34eb"#2C"originalText"#3A"{\\fnReswysokr\\fs200\\blur1\\fsp1\\c&HFEFFFF&\\pos(907.81#2C90.285)}Monstory"}

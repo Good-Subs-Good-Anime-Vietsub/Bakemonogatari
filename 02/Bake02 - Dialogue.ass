@@ -14,9 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 4
-Video Position: 534
+Video Zoom Percent: 0.375000
+Scroll Position: 402
+Active Line: 452
+Video Position: 36636
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,12 +36,12 @@ Comment: 0,0:00:48.02,0:00:48.03,Main,chptr,0,0,0,,{OP}
 Comment: 0,0:02:17.99,0:02:17.99,Main,chptr,0,0,0,,{Episode}
 Comment: 0,0:23:30.01,0:23:30.02,Main,chptr,0,0,0,,{ED}
 Comment: 0,0:24:59.97,0:24:59.98,Main,chptr,0,0,0,,{Preview}
-Dialogue: 12,0:00:14.70,0:00:18.83,Main,,0,0,0,21:9,{\i1}Đúng là Hanekawa có nói nhà Senjōgahara\N to như lâu đài.
-Dialogue: 12,0:00:22.25,0:00:25.69,Main,,0,0,160,21:9,{\i1}Mẹ tôi đã lún sâu vào một giáo phái đáng ngờ.
-Dialogue: 12,0:00:25.69,0:00:28.63,Main,,0,0,160,21:9,{\i1}Để rồi không chỉ cống nạp toàn bộ tiền của,
-Dialogue: 12,0:00:28.63,0:00:31.26,Main,,0,0,160,21:9,{\i1}mà còn phải gánh thêm một khoản nợ khổng lồ.
-Dialogue: 12,0:00:32.26,0:00:36.26,Main,,0,0,160,21:9,{\i1}Cuối cùng, bố mẹ tôi ly hôn vào cuối năm ngoái.
-Dialogue: 12,0:00:36.26,0:00:41.02,Main,,0,0,160,21:9,{\i1}Bố đã nhận quyền nuôi tôi, \Nvà cả hai sống chung dưới mái nhà này.
+Dialogue: 12,0:00:14.70,0:00:18.83,Main,,0,0,0,,{\i1}Đúng là Hanekawa có nói nhà Senjōgahara\N to như lâu đài.
+Dialogue: 12,0:00:22.25,0:00:25.69,Main,,0,0,0,,{\i1}Mẹ tôi đã lún sâu vào một giáo phái đáng ngờ.
+Dialogue: 12,0:00:25.69,0:00:28.63,Main,,0,0,0,,{\i1}Để rồi không chỉ cống nạp toàn bộ tiền của,
+Dialogue: 12,0:00:28.63,0:00:31.26,Main,,0,0,0,,{\i1}mà còn phải gánh thêm một khoản nợ khổng lồ.
+Dialogue: 12,0:00:32.26,0:00:36.26,Main,,0,0,0,,{\i1}Cuối cùng, bố mẹ tôi ly hôn vào cuối năm ngoái.
+Dialogue: 12,0:00:36.26,0:00:41.02,Main,,0,0,0,,{\i1}Bố đã nhận quyền nuôi tôi, \Nvà cả hai sống chung dưới mái nhà này.
 Dialogue: 12,0:02:36.89,0:02:38.76,Main,,0,0,0,,Chú sẽ {\u1}cứu{\u0} tôi sao?
 Dialogue: 12,0:02:40.89,0:02:43.55,Main,,0,0,0,,Không {\u1}cứu{\u0}! Mà là {\u1}giúp chút sức{\u0}.
 Dialogue: 12,0:02:45.06,0:02:48.27,Main,,0,0,0,,Mà phải rồi, cứ về nhà trước đi.
@@ -459,30 +460,30 @@ Dialogue: 12,0:23:21.37,0:23:22.63,Main,,0,0,0,,Ầy ầy!~
 Dialogue: 12,0:23:23.04,0:23:24.19,Main,,0,0,0,,{\i1}Hiểu rồi.
 Dialogue: 12,0:23:24.19,0:23:27.67,Main,,0,0,0,,{\i1}Thần với chả Thánh... đúng là qua loa đại khái!
 Dialogue: 12,0:25:00.93,0:25:01.44,Main,,0,0,0,,Karen đây!
-Dialogue: 12,0:25:01.44,0:25:02.29,Main,,0,0,0,,Tsukihi có!
-Dialogue: 12,0:25:02.29,0:25:03.37,Main,,0,0,0,,Nói là Rừng-Gym nhờ.
-Dialogue: 12,0:25:03.37,0:25:04.52,Main,,0,0,0,,Chị cũng nói thế.
-Dialogue: 12,0:25:04.52,0:25:05.44,Main,,0,0,0,,Chả phải nói quá sao.
-Dialogue: 12,0:25:05.44,0:25:05.95,Main,,0,0,0,,Nói quá?
-Dialogue: 12,0:25:05.95,0:25:06.77,Main,,0,0,0,,"Rừng" là sao?
-Dialogue: 12,0:25:06.77,0:25:07.89,Main,,0,0,0,,Không phải Rừng.
-Dialogue: 12,0:25:07.89,0:25:08.47,Main,,0,0,0,,Lại còn Gym nữa.
-Dialogue: 12,0:25:08.47,0:25:09.32,Main,,0,0,0,,Cũng chả phải tập gym.
-Dialogue: 12,0:25:09.32,0:25:10.11,Main,,0,0,0,,Trá hình nhau à!
-Dialogue: 12,0:25:10.11,0:25:11.59,Main,,0,0,0,,Thế tên là gì mới đúng?
-Dialogue: 12,0:25:11.59,0:25:13.25,Main,,0,0,0,,Kiểu như "Thể Thao Thép" chẳng hạn.
-Dialogue: 12,0:25:13.25,0:25:14.14,Main,,0,0,0,,Ơ ghê nhở!
-Dialogue: 12,0:25:14.14,0:25:15.41,Main,,0,0,0,,Vậy tới câu đố phần xem trước nào.
-Dialogue: 12,0:25:15.41,0:25:16.11,Main,,0,0,0,,Câu đố!
-Dialogue: 12,0:25:16.11,0:25:17.40,Main,,0,0,0,,Bạn là tài xế xe buýt.
-Dialogue: 12,0:25:17.40,0:25:19.12,Main,,0,0,0,,Chị chưa bao giờ nghĩ mình là tài xế xe buýt.
-Dialogue: 12,0:25:19.12,0:25:20.63,Main,,0,0,0,,3 người lên ở trạm đầu tiên.
-Dialogue: 12,0:25:20.63,0:25:21.46,Main,,0,0,0,,Phấn kha phấn khích!
-Dialogue: 12,0:25:21.46,0:25:23.54,Main,,0,0,0,,Vậy, tên của tài xế xe buýt là gì?
-Dialogue: 12,0:25:23.54,0:25:25.00,Main,,0,0,0,,Lược bớt nhiều thế!{câu đó chuẩn còn rất dài}
-Dialogue: 12,0:25:25.00,0:25:26.88,Main,,0,0,150,,Kỳ tới, Ốc Sên Mayoi, Phần 1.
-Dialogue: 12,0:25:26.88,0:25:28.01,Main,,0,0,150,,À vâng, là tên bạn đó.
-Dialogue: 12,0:25:28.01,0:25:28.40,Main,,0,0,0,,À vâng, là tên bạn đó.
+Dialogue: 12,0:25:01.44,0:25:02.29,Main,,0,0,0,,{\i1}Tsukihi có!
+Dialogue: 12,0:25:02.29,0:25:03.37,Main,,0,0,0,,{\i1}Nói là Rừng-Gym nhờ.
+Dialogue: 12,0:25:03.37,0:25:04.52,Main,,0,0,0,,{\i1}Chị cũng nói thế.
+Dialogue: 12,0:25:04.52,0:25:05.44,Main,,0,0,0,,{\i1}Chả phải nói quá sao.
+Dialogue: 12,0:25:05.44,0:25:05.95,Main,,0,0,0,,{\i1}Nói quá?
+Dialogue: 12,0:25:05.95,0:25:06.77,Main,,0,0,0,,{\i1}"Rừng" là sao?
+Dialogue: 12,0:25:06.77,0:25:07.89,Main,,0,0,0,,{\i1}Không phải Rừng.
+Dialogue: 12,0:25:07.89,0:25:08.47,Main,,0,0,0,,{\i1}Lại còn Gym nữa.
+Dialogue: 12,0:25:08.47,0:25:09.32,Main,,0,0,0,,{\i1}Cũng chả phải tập gym.
+Dialogue: 12,0:25:09.32,0:25:10.11,Main,,0,0,0,,{\i1}Trá hình nhau à!
+Dialogue: 12,0:25:10.11,0:25:11.59,Main,,0,0,0,,{\i1}Thế tên là gì mới đúng?
+Dialogue: 12,0:25:11.59,0:25:13.25,Main,,0,0,0,,{\i1}Kiểu như "Thể Thao Thép" chẳng hạn.
+Dialogue: 12,0:25:13.25,0:25:14.14,Main,,0,0,0,,{\i1}Ơ ghê nhở!
+Dialogue: 12,0:25:14.14,0:25:15.41,Main,,0,0,0,,{\i1}Vậy tới câu đố phần xem trước nào.
+Dialogue: 12,0:25:15.41,0:25:16.11,Main,,0,0,0,,{\i1}Câu đố!
+Dialogue: 12,0:25:16.11,0:25:17.40,Main,,0,0,0,,{\i1}Bạn là tài xế xe buýt.
+Dialogue: 12,0:25:17.40,0:25:19.12,Main,,0,0,0,,{\i1}Chị chưa bao giờ nghĩ mình là tài xế xe buýt.
+Dialogue: 12,0:25:19.12,0:25:20.63,Main,,0,0,0,,{\i1}3 người lên ở trạm đầu tiên.
+Dialogue: 12,0:25:20.63,0:25:21.46,Main,,0,0,0,,{\i1}Phấn kha phấn khích!
+Dialogue: 12,0:25:21.46,0:25:23.54,Main,,0,0,0,,{\i1}Vậy, tên của tài xế xe buýt là gì?
+Dialogue: 12,0:25:23.54,0:25:25.00,Main,,0,0,0,,{\i1}Lược bớt nhiều thế!{câu đó chuẩn còn rất dài}
+Dialogue: 12,0:25:25.00,0:25:26.88,Main,,0,0,150,,{\i1}Kỳ tới, Ốc Sên Mayoi, Phần 1.
+Dialogue: 12,0:25:26.88,0:25:28.01,Main,,0,0,150,,{\i1}À vâng, là tên bạn đó.
+Dialogue: 12,0:25:28.01,0:25:28.40,Main,,0,0,0,,{\i1}À vâng, là tên bạn đó.
 Dialogue: 12,0:25:28.40,0:25:29.87,Main,,0,0,0,,Như đánh lạc hướng trong ảo thuật ấy.
 Dialogue: 9,0:00:56.20,0:00:59.79,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}Vẫn chưa quá muộn,
 Dialogue: 9,0:00:59.79,0:01:03.63,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}em nên mau chóng rút lui thôi,

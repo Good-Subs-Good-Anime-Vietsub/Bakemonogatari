@@ -15,7 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 34838
+Scroll Position: 429
+Active Line: 649
+Video Position: 4105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -658,27 +660,26 @@ Dialogue: 12,0:23:38.01,0:23:41.16,Main,,0,0,0,,Nếu muốn lấy lại cân n�
 Dialogue: 12,0:23:41.69,0:23:43.56,Main,,600,0,0,,Được Araragi-kun giới thiệu cơ mà.
 Dialogue: 12,0:23:45.73,0:23:47.69,Main,,0,0,0,,Chú sẽ {\u1}cứu{\u0} tôi sao?
 Dialogue: 12,0:25:25.25,0:25:26.06,Main,,0,0,0,,{\i0}Karen đây!
-Dialogue: 12,0:25:26.06,0:25:26.87,Main,,0,0,0,,{\i0}Tsukihi có!
-Dialogue: 12,0:25:26.87,0:25:28.18,Main,,0,0,0,,{\i0}Người ta nói kiến thợ ấy.
-Dialogue: 12,0:25:28.18,0:25:29.04,Main,,0,0,0,,{\i0}Nói ha~
-Dialogue: 12,0:25:29.04,0:25:31.09,Main,,0,0,0,,{\i0}Chỉ có 20% là lao động thôi.
-Dialogue: 12,0:25:31.09,0:25:32.66,Main,,0,0,0,,{\i0}80% còn lại ngồi chơi.
-Dialogue: 12,0:25:32.66,0:25:33.77,Main,,0,0,0,,{\i0}Để nói cho mà nghe này!
-Dialogue: 12,0:25:33.77,0:25:34.56,Main,,0,0,0,,{\i0}Gì nào!
-Dialogue: 12,0:25:34.56,0:25:37.60,Main,,0,0,0,,{\i0}Cái tên "kiến thợ" từ đầu chỉ như \Nchiêu trò quảng cáo bẩn thôi.
-Dialogue: 12,0:25:37.60,0:25:39.40,Main,,0,0,0,,{\i0}Nhưng chả lẽ gọi là "kiến lười" à.
-Dialogue: 12,0:25:39.40,0:25:40.60,Main,,0,0,0,,{\i0}Và đây là câu đố cho phần xem trước.
-Dialogue: 12,0:25:40.60,0:25:41.38,Main,,0,0,0,,{\i0}Câu đố!
-Dialogue: 12,0:25:41.38,0:25:42.76,Main,,0,0,0,,{\i0}"Nhiệt độ & Nhịp độ" là để chỉ mình cơ mà...
-Dialogue: 12,0:25:42.76,0:25:43.66,Main,,0,0,0,,{\i0}Chỉ Karen-chan cơ mà...
-Dialogue: 12,0:25:43.66,0:25:45.75,Main,,0,0,0,,{\i0}Cơ mà cái dấu "&" là chỉ cái gì?
-Dialogue: 12,0:25:45.75,0:25:47.53,Main,,0,0,0,,{\i0}Câu đố thì dễ, \Nnhưng cách đưa ra câu đố thì khó.
-Dialogue: 12,0:25:47.53,0:25:49.94,Main,,0,0,0,,{\i0}Đáp án là... "ampersand" chứ còn gì nữa!
-Dialogue: 12,0:25:49.94,0:25:51.20,Main,,0,0,0,,{\i0}Nghe sao sao ấy nhở.
-Dialogue: 12,0:25:51.19,0:25:52.95,Main,,0,0,150,,{\i0}Kỳ tới: Cua Hitagi phần 2
-Dialogue: 12,0:25:52.95,0:25:54.45,Main,,0,0,0,,{\i0}Giải được câu đố, thì mới được xem!
-Dialogue: 12,0:25:54.45,0:25:55.95,Main,,0,0,0,,{\i0}Thế thì chả có người xem đâu.
-Comment: 0,0:02:43.01,0:02:43.02,Main,sync.OP,0,0,0,,{OP}
+Dialogue: 12,0:25:26.06,0:25:26.87,Main,,0,0,0,,{\i1}Tsukihi có!
+Dialogue: 12,0:25:26.87,0:25:28.18,Main,,0,0,0,,{\i1}Người ta nói kiến thợ ấy.
+Dialogue: 12,0:25:28.18,0:25:29.04,Main,,0,0,0,,{\i1}Nói ha~
+Dialogue: 12,0:25:29.04,0:25:31.09,Main,,0,0,0,,{\i1}Chỉ có 20% là lao động thôi.
+Dialogue: 12,0:25:31.09,0:25:32.66,Main,,0,0,0,,{\i1}80% còn lại ngồi chơi.
+Dialogue: 12,0:25:32.66,0:25:33.77,Main,,0,0,0,,{\i1}Để nói cho mà nghe này!
+Dialogue: 12,0:25:33.77,0:25:34.56,Main,,0,0,0,,{\i1}Gì nào!
+Dialogue: 12,0:25:34.56,0:25:37.60,Main,,0,0,0,,{\i1}Cái tên "kiến thợ" từ đầu chỉ như \Nchiêu trò quảng cáo bẩn thôi.
+Dialogue: 12,0:25:37.60,0:25:39.40,Main,,0,0,0,,{\i1}Nhưng chả lẽ gọi là "kiến lười" à.
+Dialogue: 12,0:25:39.40,0:25:40.60,Main,,0,0,0,,{\i1}Và đây là câu đố cho phần xem trước.
+Dialogue: 12,0:25:40.60,0:25:41.38,Main,,0,0,0,,{\i1}Câu đố!
+Dialogue: 12,0:25:41.38,0:25:42.76,Main,,0,0,0,,{\i1}"Nhiệt độ & Nhịp độ" là để chỉ mình cơ mà...
+Dialogue: 12,0:25:42.76,0:25:43.66,Main,,0,0,0,,{\i1}Chỉ Karen-chan cơ mà...
+Dialogue: 12,0:25:43.66,0:25:45.75,Main,,0,0,0,,{\i1}Cơ mà cái dấu "&" là chỉ cái gì?
+Dialogue: 12,0:25:45.75,0:25:47.53,Main,,0,0,0,,{\i1}Câu đố thì dễ, \Nnhưng cách đưa ra câu đố thì khó.
+Dialogue: 12,0:25:47.53,0:25:49.94,Main,,0,0,0,,{\i1}Đáp án là... "ampersand" chứ còn gì nữa!
+Dialogue: 12,0:25:49.94,0:25:51.20,Main,,0,0,0,,{\i1}Nghe sao sao ấy nhở.
+Dialogue: 12,0:25:51.19,0:25:52.95,Main,,0,0,150,,{\i1}Kỳ tới: Cua Hitagi phần 2
+Dialogue: 12,0:25:52.95,0:25:54.45,Main,,0,0,0,,{\i1}Giải được câu đố, thì mới được xem!
+Dialogue: 12,0:25:54.45,0:25:55.95,Main,,0,0,0,,{\i1}Thế thì chả có người xem đâu.
 Dialogue: 9,0:02:51.19,0:02:54.77,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}Vẫn chưa quá muộn,
 Dialogue: 9,0:02:54.77,0:02:58.62,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}em nên mau chóng rút lui thôi,
 Dialogue: 9,0:02:58.62,0:03:03.71,OPvie,,0,0,40,,{\c&H00CAF5&\blur0.67\an2\fs72\b1}trước khi sự hiểu nhầm tồi tệ hơn.
