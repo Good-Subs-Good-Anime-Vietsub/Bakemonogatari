@@ -16,8 +16,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 444
-Active Line: 467
-Video Position: 37305
+Active Line: 452
+Video Position: 36784
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -484,7 +484,6 @@ Dialogue: 4,0:25:28.38,0:25:29.38,Main,,0,0,0,,{\i1}Đúng là thế.
 Dialogue: 4,0:25:29.38,0:25:31.56,Main,,0,0,0,,{\i1}Tướng Ngọc cứ như bản nhái của Tướng Vua ấy.
 Dialogue: 4,0:25:31.56,0:25:33.45,Main,,0,0,0,,{\i1}Nhưng mà nghe đâu Tướng Ngọc có trước đấy.
 Dialogue: 4,0:25:33.45,0:25:34.17,Main,,0,0,0,,{\i1}Thế sao?
-Dialogue: 4,0:25:34.17,0:25:36.47,GT 2,,0,0,0,,{\fnDFGHSMaruGothic-W4\i1}(玉将/王将{\fn} - Tướng Ngọc/Tướng Vua // {\fnDFGHSMaruGothic-W4}玉{\fn}-->{\fnDFGHSMaruGothic-W4}王){\fn}
 Dialogue: 4,0:25:34.17,0:25:36.47,Main,,0,0,0,,{\i1}Hình như là tại viết nhầm mới thành Tướng Vua.
 Dialogue: 4,0:25:36.47,0:25:38.83,Main,,0,0,0,,{\i1}Nhưng người ta kêu là\N"Tướng Vua mạnh hơn Tướng Ngọc".
 Dialogue: 4,0:25:38.83,0:25:42.08,Main,,0,0,0,,{\i1}- Nên giờ chỉ có con gà mới dùng Tướng Ngọc thôi! Buồn nhở!\N- Buồn thật!
