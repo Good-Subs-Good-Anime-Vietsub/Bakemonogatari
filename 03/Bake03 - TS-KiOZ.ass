@@ -16,9 +16,9 @@ Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 944
-Active Line: 954
-Video Position: 4093
+Scroll Position: 92
+Active Line: 93
+Video Position: 20092
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,7 +46,7 @@ Dialogue: 1,0:00:05.23,0:00:06.19,Signs,,0,0,0,,{\blur1.1\fs30\1c&H8D87DB&\fnVL 
 Dialogue: 0,0:00:05.23,0:00:06.19,Signs,,0,0,0,,{\pos(0,0)\an7\p1\c&HFEFFFE&\clip()}m 565 527 l 684 528 683 556 566 559
 Dialogue: 1,0:00:19.03,0:00:20.12,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur3\an9\fs45\pos(1758.333,713)\c&H080907&\alpha&HC0&}Mọi người vui lòng để xe đúng nơi quy định.\N\N\N{\fs37.5}Ban Quản Lý Công Viên
 Dialogue: 2,0:00:19.03,0:00:20.12,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1\an9\fs45\pos(1758.333,713)\c&H080907&}Mọi người vui lòng để xe đúng nơi quy định.\N\N\N{\fs37.5}Ban Quản Lý Công Viên
-Dialogue: 1,0:00:20.12,0:00:22.71,Signs,,0,0,0,,{\fry0\c&H9C9B97&\fnGentium Basic\fs13\blur1\pos(1053.19,197.071)}Namishiro {\blur1}Park
+Dialogue: 1,0:00:20.12,0:00:22.71,Signs,,0,0,0,,{\fry0\c&H9C9B97&\fnGentium Basic\fs13\blur1\pos(1053.19,197.071)}Công Viên {\blur1}Namishiro
 Dialogue: 1,0:00:20.12,0:00:22.71,Signs,,0,0,0,,{\fry0\fs12\c&H9C9B97&\fnGentium Basic\blur1.05\pos(1053,225)}Quy Định
 Dialogue: 1,0:00:20.12,0:00:22.71,Signs,,0,0,0,,{\fry0\an6\fs10.8\c&H9C9B97&\fnGentium Basic\blur0.9\pos(1170,277)}Trong công viên không có thùng rác. Vui lòng mang rác về nhà.
 Dialogue: 1,0:00:20.12,0:00:22.71,Signs,,0,0,0,,{\fry0\an6\fs10.8\c&H9C9B97&\fnGentium Basic\blur0.9\pos(1170,305.67)}Không dắt chó vào công viên.
@@ -56,8 +56,8 @@ Dialogue: 0,0:00:23.54,0:00:24.37,Signs,,0,0,0,,{\blur1.2\fs200\fnVL DellaRobbia
 Dialogue: 1,0:00:23.54,0:00:24.37,Signs,,0,0,0,,{\blur1.2\fs200\fnVL DellaRobbia BT\1c&H989E99&\clip(2,m 1240 288 l 1366 626 1542 624 1416 288)\pos(1038.13,225.6)}Bãi Đậu Xe Đạp
 Dialogue: 1,0:00:23.54,0:00:24.37,Signs,,0,0,0,,{\alpha&H55&\blur1.2\fs200\fnVL DellaRobbia BT\1c&H989E99&\clip(2,m 1238 288 l 1366 628 1544 624 1416 286 m 1416 288 l 1542 624 1366 626 1240 288)\pos(1038.13,225.6)}Bãi Đậu Xe Đạp
 Dialogue: 1,0:00:23.54,0:00:24.37,Signs,,0,0,0,,{\alpha&HAA&\blur1.2\fs200\fnVL DellaRobbia BT\1c&H989E99&\clip(2,m 1238 286 l 1364 628 1544 626 1418 286 m 1416 286 l 1544 624 1366 628 1238 288)\pos(1038.13,225.6)}Bãi Đậu Xe Đạp
-Dialogue: 1,0:04:59.77,0:05:01.15,Signs,,0,0,0,,{\fry0\c&H272727&\fnGentium Basic\fs39\blur1\pos(966.19,280.071)}Namishiro {\blur1}Park
-Dialogue: 0,0:04:59.77,0:05:01.15,Signs,,0,0,0,,{\fry0\c&H272727&\fnGentium Basic\fs39\blur8\pos(966.19,280.071)\alpha&H80&}Namishiro {\alpha&H80&}Park
+Dialogue: 1,0:04:59.77,0:05:01.15,Signs,,0,0,0,,{\fry0\c&H272727&\fnGentium Basic\fs39\blur1\pos(966.19,280.071)}Công Viên {\blur1}Namishiro
+Dialogue: 0,0:04:59.77,0:05:01.15,Signs,,0,0,0,,{\fry0\c&H272727&\fnGentium Basic\fs39\blur8\pos(966.19,280.071)\alpha&H80&}Công Viên {\alpha&H80&}Namishiro
 Dialogue: 0,0:04:59.77,0:05:01.15,Signs,,0,0,0,,{\fry0\fs33\c&H262626&\fnGentium Basic\blur4\pos(964.635,359.958)\alpha&HA0&}Quy Định
 Dialogue: 1,0:04:59.77,0:05:01.15,Signs,,0,0,0,,{\fry0\fs33\c&H262626&\fnGentium Basic\blur1.05\pos(964.635,359.958)}Quy Định
 Dialogue: 0,0:04:59.77,0:05:01.15,Signs,,0,0,0,,{\fry0\an6\fs30\c&H515151&\fnGentium Basic\blur4\alpha&HA0&\pos(1313,515.6)}Trong công viên không có thùng rác. Vui lòng mang rác về nhà.

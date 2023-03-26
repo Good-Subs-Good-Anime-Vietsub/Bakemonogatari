@@ -16,8 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 05 (BD 1080p Hi10 Opus) [1E10A491].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 3
-Video Position: 21398
+Scroll Position: 718
+Active Line: 730
+Video Position: 1023
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,22 +40,22 @@ Dialogue: 6,0:00:02.77,0:00:04.73,Main,,0,0,0,,Dù sao đi nữa, Araragi-san...
 Dialogue: 6,0:00:04.73,0:00:05.69,Main,,0,0,0,,Sao thế?
 Dialogue: 6,0:00:05.69,0:00:07.78,Main,,0,0,0,,Em là em đói rồi đấy~
 Dialogue: 6,0:00:09.11,0:00:13.49,Main,,0,0,0,,Vậy chờ Senjōgahara quay lại rồi đi đâu đó ăn.
-Dialogue: 6,0:00:13.49,0:00:16.00,Main,,0,0,0,,Thế món em thích là gì?
-Dialogue: 6,0:00:17.08,0:00:19.46,Main,,0,0,0,,Thích hết miễn sao là thức ăn là được.
+Dialogue: 6,0:00:13.49,0:00:16.00,Main,,0,0,0,,Thế em thích món gì?
+Dialogue: 6,0:00:17.08,0:00:19.46,Main,,0,0,0,,Thích hết, miễn sao là thức ăn là được.
 Dialogue: 6,0:00:20.58,0:00:23.42,Main,,0,0,0,,Tay của Araragi-san cũng rất chi là ngon.
 Dialogue: 6,0:00:23.42,0:00:25.26,Main,,0,0,0,,Tay anh không phải thức ăn nhá.
-Dialogue: 6,0:00:25.26,0:00:28.68,Main,,0,0,0,,Thôi thôi ngại làm gì, thực sự ngon lắm đấy.
-Dialogue: 6,0:00:28.68,0:00:33.81,Main,,0,0,0,,{\i1}Mà chuẩn ra là nhóc đã nuốt kha khá máu lẫn thịt thà của anh rồi đấy.
-Dialogue: 6,0:00:33.81,0:00:36.35,Main,,0,0,0,,{\i1}Nên câu đó khó có thể coi như câu đùa lắm.
+Dialogue: 6,0:00:25.26,0:00:28.68,Main,,0,0,0,,Thôi thôi ngại làm cái gì, ngon ơi là ngon luôn.
+Dialogue: 6,0:00:28.68,0:00:33.81,Main,,0,0,0,,{\i1}Mà chuẩn ra là nhóc đã nuốt kha khá cả máu lẫn thịt của anh rồi đấy.
+Dialogue: 6,0:00:33.81,0:00:36.35,Main,,0,0,0,,{\i1}Nên không dễ để coi đó là câu đùa đâu.
 Dialogue: 6,0:02:22.29,0:02:27.38,Main,,0,0,0,,Hachikuji, anh không rõ lắm cơ mà\Nem là em muốn gặp mẹ đúng không?
 Dialogue: 6,0:02:27.63,0:02:31.84,Main,,0,0,0,,Con muốn gặp mẹ thì là bình thường mà.
 Dialogue: 6,0:02:31.84,0:02:33.22,Main,,0,0,0,,Sai sao anh?
 Dialogue: 6,0:02:33.22,0:02:34.72,Main,,0,0,0,,Đúng là thế cơ mà...
-Dialogue: 6,0:02:34.72,0:02:38.87,Main,,0,0,0,,Với nhà Araragi-san\N thì bố mẹ anh ở chung một nhà đúng không?
+Dialogue: 6,0:02:34.72,0:02:38.87,Main,,0,0,0,,Ở nhà Araragi-san\N thì bố mẹ anh ở chung đúng không?
 Dialogue: 6,0:02:38.87,0:02:40.52,Main,,0,0,0,,Thế nên anh không hiểu.
 Dialogue: 6,0:02:40.52,0:02:44.52,Main,,0,0,0,,Nếu mà sống xa nhau \Nthì kiểu gì Araragi-san cũng muốn gặp thôi.
 Dialogue: 6,0:02:44.52,0:02:46.06,Main,,0,0,0,,Thế cũng phải ha.
-Dialogue: 6,0:02:47.31,0:02:54.32,Main,,0,0,0,,Từ cái cách anh nói chuyện, em có ấn tượng là\N Araragi-san không mấy yêu bố mẹ mình.
+Dialogue: 6,0:02:47.31,0:02:54.32,Main,,0,0,0,,Từ cái cách anh nói, em có ấn tượng là\N Araragi-san không mấy yêu bố mẹ mình.
 Dialogue: 6,0:02:54.32,0:02:56.82,Main,,0,0,0,,Không phải thế đâu, chỉ là...
 Dialogue: 6,0:02:58.99,0:03:02.87,Main,,0,0,0,,Anh ấy, tới cấp 2 thì ngoan lắm.
 Dialogue: 6,0:03:03.16,0:03:06.42,Main,,0,0,0,,Không bao giờ hỗn láo chống đối bố mẹ hết.
@@ -62,7 +63,7 @@ Dialogue: 6,0:03:06.42,0:03:08.88,Main,,0,0,0,,Anh rất biết ơn công lao d�
 Dialogue: 6,0:03:09.84,0:03:10.96,Main,,0,0,0,,Thật đáng khen.
 Dialogue: 6,0:03:10.96,0:03:14.30,Main,,0,0,0,,Nhưng khi lên cấp 3 thì học hành sa sút.
 Dialogue: 6,0:03:15.34,0:03:19.85,Main,,0,0,0,,Và do trước giờ vẫn luôn con ngoan\N nên việc này đã tác động ngược.
-Dialogue: 6,0:03:19.85,0:03:22.81,Main,,0,0,0,,Dẫn tới một sự gượng gạo rất khó nói.
+Dialogue: 6,0:03:19.85,0:03:22.81,Main,,0,0,0,,Dẫn tới có một sự gượng gạo rất khó diễn tả.
 Dialogue: 6,0:03:25.10,0:03:27.40,Main,,0,0,0,,Nī-chan, chính vì {\u1}như thế{\u0}...
 Dialogue: 6,0:03:27.77,0:03:33.07,Main,,0,0,0,,chính vì {\u1}như thế{\u0} mà anh... \N không bao giờ trưởng thành được, kiểu vậy.
 Dialogue: 6,0:03:33.07,0:03:36.99,Main,,0,0,0,,Không bao giờ trưởng thành,\N mãi mãi là con nít.
@@ -86,30 +87,30 @@ Dialogue: 6,0:04:34.09,0:04:37.97,Main,,0,0,0,,Chạm vào ngực con gái nhà 
 Dialogue: 6,0:04:40.13,0:04:41.18,Main,,0,0,0,,Cảm ơn?
 Dialogue: 6,0:04:41.93,0:04:44.47,Main,,0,0,0,,Không phải! Là câu xin lỗi đấy ạ!
 Dialogue: 6,0:04:44.47,0:04:47.64,Main,,0,0,0,,Cơ mà có phải gì kinh khủng đâu,\N em có mất gì đâu nào.
-Dialogue: 6,0:04:47.64,0:04:49.44,Main,,0,0,0,,Mà người ta còn kêu là xoa bóp sẽ to hơn đấy.
+Dialogue: 6,0:04:47.64,0:04:49.44,Main,,0,0,0,,Người ta còn kêu là xoa bóp sẽ to hơn đấy.
 Dialogue: 6,0:04:49.44,0:04:55.27,Main,,0,0,0,,Cái gì cơ?! Thế trước giờ Araragi-san cứ lấy cái cớ "mê tín" đó\N để đi khắp nơi sờ nắn phụ nữ hả?
 Dialogue: 6,0:04:55.27,0:04:56.69,Main,,0,0,0,,Phải nói quá kinh tởm!
 Dialogue: 6,0:04:56.69,0:04:59.78,Main,,0,0,0,,Tiếc là chưa có cơ hội.
-Dialogue: 6,0:04:59.78,0:05:01.36,Main,,0,0,0,,Thằng khốn trai tân ha!
+Dialogue: 6,0:04:59.78,0:05:01.36,Main,,0,0,0,,Thằng khốn trai tân!
 Dialogue: 6,0:05:05.20,0:05:07.83,Main,,0,0,0,,Nguy hiểm đấy! Không đùa đâu!
 Dialogue: 6,0:05:07.83,0:05:10.71,Main,,0,0,0,,Tôi bị trai tân sờ soạng! Tôi bị làm nhục!
 Dialogue: 6,0:05:10.71,0:05:13.33,Main,,0,0,0,,Ai chạm cũng như nhau cả thôi.
-Dialogue: 6,0:05:13.33,0:05:16.00,Main,,0,0,0,,Vừa nhen nhóm cảm thấy tội lỗi cái mà tan biến luôn rồi.
+Dialogue: 6,0:05:13.33,0:05:16.00,Main,,0,0,0,,Vừa nhen nhóm cảm thấy có lỗi cái mà tan biến luôn rồi.
 Dialogue: 6,0:05:18.97,0:05:21.22,Main,,0,0,0,,Đủ rồi đấy cái con dại này!
 Dialogue: 6,0:05:21.22,0:05:22.22,Main,,0,0,0,,Đã thế thì!
-Dialogue: 6,0:05:22.22,0:05:24.69,Main,,0,0,0,,Đầu với chả tiên, nụ với chả hôn,
-Dialogue: 6,0:05:24.69,0:05:28.27,Main,,0,0,0,,để anh khiến nhóc không còn vướng bận gì với nó luôn!
+Dialogue: 6,0:05:22.22,0:05:24.69,Main,,0,0,0,,Đầu với chả tiên, nụ với chả hôn!
+Dialogue: 6,0:05:24.69,0:05:28.27,Main,,0,0,0,,Để anh khiến nhóc không còn vướng bận gì luôn!
 Dialogue: 6,0:05:35.65,0:05:38.28,Main,,0,0,0,,{\i1}Trước một nữ sinh tiểu học... hắn đánh mất mình...
 Dialogue: 6,0:05:38.28,0:05:42.39,Main,,0,0,0,,{\i1}hắn thu hết sức bình sinh lao vào cưỡng bức, giở trò đồi bại.
 Dialogue: 6,0:05:42.39,0:05:45.03,Main,,0,0,0,,{\i1}Chuyện kể nam sinh cấp 3.
 Dialogue: 6,0:05:45.03,0:05:47.95,Main,,0,0,0,,{\i1}Uớc gì hắn không phải là tôi.
 Dialogue: 6,0:05:50.33,0:05:52.54,Main,,0,0,0,,Em xin lỗi ạ.
 Dialogue: 6,0:05:54.08,0:05:55.08,Main,,0,0,0,,À không.
-Dialogue: 6,0:05:56.29,0:05:58.38,Main,,0,0,0,,Anh mới là người phải xin lỗi.
+Dialogue: 6,0:05:56.29,0:05:58.38,Main,,0,0,0,,Là anh mới phải.
 Dialogue: 6,0:05:58.75,0:06:02.59,Main,,0,0,0,,Cơ mà ấy Hachikuji, \Nem có vẻ quen với việc đánh nhau nhở?
 Dialogue: 6,0:06:02.59,0:06:05.76,Main,,0,0,0,,Ở trường em đánh nhau khá nhiều,\N mà Araragi-san cũng đâu kém.
 Dialogue: 6,0:06:06.10,0:06:09.68,Main,,0,0,0,,Kiểu ẩu đả như này \Nở nhà anh với em gái choảng nhau suốt.
-Dialogue: 6,0:06:09.68,0:06:14.27,Main,,0,0,0,,Mà vụ ẩu đả sẽ khép lại \Nkhi có một bên nói lời xin lỗi ha.
+Dialogue: 6,0:06:09.68,0:06:14.27,Main,,0,0,0,,Mà vụ ẩu đả sẽ khép lại \Nkhi có một bên đứng ra lời xin lỗi ha.
 Dialogue: 6,0:06:16.69,0:06:18.36,Main,,0,0,0,,Có chuyện gì sao?
 Dialogue: 6,0:06:18.65,0:06:20.07,Main,,0,0,0,,Ararararagi-san?
 Dialogue: 6,0:06:20.07,0:06:22.15,Main,,0,0,0,,Vừa là thừa tận 2 chữ "ra" đấy nhá!
@@ -120,25 +121,349 @@ Dialogue: 6,0:06:27.83,0:06:29.16,Main,,0,0,0,,Chả cố ý thì cố gì!
 Dialogue: 6,0:06:29.16,0:06:33.58,Main,,0,0,0,,Chấp nhận thôi anh.\N Ai mà chả có lúc nói nhầm.
 Dialogue: 6,0:06:33.58,0:06:38.13,Main,,0,0,0,,Hay là Araragi-san từ lúc sinh ra đến giờ\N chưa bao giờ bị líu lưỡi?
 Dialogue: 6,0:06:38.13,0:06:42.59,Main,,0,0,0,,Thừa nhận cơ mà...\Nanh chưa bao giờ líu lưỡi tên của người khác.
-Dialogue: 6,0:06:42.92,0:06:46.97,Main,@@@,0,0,0,,Vậy thì... nói ""\N 3 lần đi ạ!
+Dialogue: 2,0:06:43.80,0:06:46.97,Signs,,0,0,0,,{\an4\fscx100\fscy100\blur1.2\fs80\fnGentium\b1\c&H794036&\pos(817.16,781.62)}Một con rồng lộn, hai con l*n rộng.
+Dialogue: 1,0:06:48.80,0:06:49.64,Signs,,0,0,0,,{\fscx100\fscy100\blur1.2\fs85\fnGentium\b1\pos(960,520)\c&H6481F4&}lộn rồng
+Dialogue: 1,0:06:53.02,0:06:53.89,Signs,,0,0,0,,{\fscx100\fscy100\blur1.2\fs85\fnGentium\b1\pos(964,502)\c&HEBEEF1&}rồng lộn
+Dialogue: 0,0:07:03.65,0:07:03.69,Signs,,0,0,0,,{\fscx100\fscy100\alpha&HE9&\c&H1B23E9&\blur1\fs40\shad5\4c&H92BBCF&\fnGentium Basic\frz40\pos(655.06,429.12)}rồng
+Dialogue: 0,0:07:03.69,0:07:03.74,Signs,,0,0,0,,{\fscx103.15\fscy103.15\alpha&HD7&\c&H1B23E9&\blur1.03\fs40\shad5.16\4c&H92BBCF&\fnGentium Basic\frz40\pos(649.12,413.21)}rồng
+Dialogue: 0,0:07:03.74,0:07:03.78,Signs,,0,0,0,,{\fscx102.23\fscy102.23\alpha&HC5&\c&H1B23E9&\blur1.02\fs40\shad5.11\4c&H92BBCF&\fnGentium Basic\frz40\pos(643.12,400.14)}rồng
+Dialogue: 0,0:07:03.78,0:07:03.82,Signs,,0,0,0,,{\fscx102.22\fscy102.22\alpha&HA0&\c&H1B23E9&\blur1.02\fs40\shad5.11\4c&H92BBCF&\fnGentium Basic\frz40\pos(636.47,386.7)}rồng
+Dialogue: 0,0:07:03.82,0:07:03.86,Signs,,0,0,0,,{\fscx102.45\fscy102.45\alpha&H8B&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(629.57,373.06)}rồng
+Dialogue: 0,0:07:03.86,0:07:03.90,Signs,,0,0,0,,{\fscx102.29\fscy102.29\alpha&H6C&\c&H1B23E9&\blur1.02\fs40\shad5.11\4c&H92BBCF&\fnGentium Basic\frz40\pos(622.25,359.97)}rồng
+Dialogue: 0,0:07:03.90,0:07:03.94,Signs,,0,0,0,,{\fscx102.5\fscy102.5\alpha&H50&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(614.67,346.76)}rồng
+Dialogue: 0,0:07:03.94,0:07:03.99,Signs,,0,0,0,,{\fscx102.3\fscy102.3\alpha&H40&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(606.71,334.09)}rồng
+Dialogue: 0,0:07:03.99,0:07:04.03,Signs,,0,0,0,,{\fscx102.33\fscy102.33\alpha&H30&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(598.44,321.5)}rồng
+Dialogue: 0,0:07:04.03,0:07:04.07,Signs,,0,0,0,,{\fscx102.4\fscy102.4\alpha&H1C&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(589.87,309.19)}rồng
+Dialogue: 0,0:07:04.07,0:07:04.11,Signs,,0,0,0,,{\fscx102.38\fscy102.38\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(581.02,297.24)}rồng
+Dialogue: 1,0:07:04.07,0:07:04.11,Signs,,0,0,0,,{\fscx102.38\fscy102.38\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(581.02,297.24)}rồng
+Dialogue: 0,0:07:04.11,0:07:04.15,Signs,,0,0,0,,{\fscx102.51\fscy102.51\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(571.86,285.46)}rồng
+Dialogue: 1,0:07:04.11,0:07:04.15,Signs,,0,0,0,,{\fscx102.51\fscy102.51\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(571.86,285.46)}rồng
+Dialogue: 0,0:07:04.15,0:07:04.20,Signs,,0,0,0,,{\fscx102.56\fscy102.56\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(562.43,274.1)}rồng
+Dialogue: 1,0:07:04.15,0:07:04.20,Signs,,0,0,0,,{\fscx102.56\fscy102.56\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(562.43,274.1)}rồng
+Dialogue: 0,0:07:04.20,0:07:04.24,Signs,,0,0,0,,{\fscx102.47\fscy102.47\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(552.78,263.14)}rồng
+Dialogue: 1,0:07:04.20,0:07:04.24,Signs,,0,0,0,,{\fscx102.47\fscy102.47\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(552.78,263.14)}rồng
+Dialogue: 0,0:07:04.24,0:07:04.28,Signs,,0,0,0,,{\fscx102.53\fscy102.53\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(542.87,252.52)}rồng
+Dialogue: 1,0:07:04.24,0:07:04.28,Signs,,0,0,0,,{\fscx102.53\fscy102.53\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(542.87,252.52)}rồng
+Dialogue: 0,0:07:04.28,0:07:04.32,Signs,,0,0,0,,{\fscx102.54\fscy102.54\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(532.8,242.28)}rồng
+Dialogue: 1,0:07:04.28,0:07:04.32,Signs,,0,0,0,,{\fscx102.54\fscy102.54\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(532.8,242.28)}rồng
+Dialogue: 0,0:07:04.32,0:07:04.36,Signs,,0,0,0,,{\fscx102.41\fscy102.41\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(522.53,232.6)}rồng
+Dialogue: 1,0:07:04.32,0:07:04.36,Signs,,0,0,0,,{\fscx102.41\fscy102.41\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(522.53,232.6)}rồng
+Dialogue: 0,0:07:04.36,0:07:04.40,Signs,,0,0,0,,{\fscx102.43\fscy102.43\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(512.15,223.25)}rồng
+Dialogue: 1,0:07:04.36,0:07:04.40,Signs,,0,0,0,,{\fscx102.43\fscy102.43\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(512.15,223.25)}rồng
+Dialogue: 0,0:07:04.40,0:07:04.45,Signs,,0,0,0,,{\fscx102.5\fscy102.5\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(501.71,214.34)}rồng
+Dialogue: 1,0:07:04.40,0:07:04.45,Signs,,0,0,0,,{\fscx102.5\fscy102.5\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(501.71,214.34)}rồng
+Dialogue: 0,0:07:04.45,0:07:04.49,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(491.31,206.09)}rồng
+Dialogue: 1,0:07:04.45,0:07:04.49,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(491.31,206.09)}rồng
+Dialogue: 0,0:07:04.49,0:07:04.53,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(480.96,198.4)}rồng
+Dialogue: 1,0:07:04.49,0:07:04.53,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(480.96,198.4)}rồng
+Dialogue: 0,0:07:04.53,0:07:04.57,Signs,,0,0,0,,{\fscx102.51\fscy102.51\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(470.85,191.51)}rồng
+Dialogue: 1,0:07:04.53,0:07:04.57,Signs,,0,0,0,,{\fscx102.51\fscy102.51\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(470.85,191.51)}rồng
+Dialogue: 0,0:07:04.57,0:07:04.61,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(461.51,185.57)}rồng
+Dialogue: 1,0:07:04.57,0:07:04.61,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(461.51,185.57)}rồng
+Dialogue: 0,0:07:04.61,0:07:04.65,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(453.86,181.1)}rồng
+Dialogue: 1,0:07:04.61,0:07:04.65,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(453.86,181.1)}rồng
+Dialogue: 0,0:07:04.65,0:07:04.70,Signs,,0,0,0,,{\fscx102.41\fscy102.41\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(448.34,176.9)}rồng
+Dialogue: 1,0:07:04.65,0:07:04.70,Signs,,0,0,0,,{\fscx102.41\fscy102.41\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(448.34,176.9)}rồng
+Dialogue: 0,0:07:04.70,0:07:04.74,Signs,,0,0,0,,{\fscx102.53\fscy102.53\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(443.49,172.4)}rồng
+Dialogue: 1,0:07:04.70,0:07:04.74,Signs,,0,0,0,,{\fscx102.53\fscy102.53\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(443.49,172.4)}rồng
+Dialogue: 0,0:07:04.74,0:07:04.78,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(439.14,167.9)}rồng
+Dialogue: 1,0:07:04.74,0:07:04.78,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(439.14,167.9)}rồng
+Dialogue: 0,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(435.3,163.3)}rồng
+Dialogue: 1,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(435.3,163.3)}rồng
+Dialogue: 0,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\fscx102.43\fscy102.43\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(431.76,158.76)}rồng
+Dialogue: 1,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\fscx102.43\fscy102.43\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(431.76,158.76)}rồng
+Dialogue: 0,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(428.53,154.08)}rồng
+Dialogue: 1,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(428.53,154.08)}rồng
+Dialogue: 0,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\fscx102.53\fscy102.53\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(425.64,149.4)}rồng
+Dialogue: 1,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\fscx102.53\fscy102.53\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(425.64,149.4)}rồng
+Dialogue: 0,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\fscx102.45\fscy102.45\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(422.96,144.84)}rồng
+Dialogue: 1,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\fscx102.45\fscy102.45\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(422.96,144.84)}rồng
+Dialogue: 0,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\fscx102.41\fscy102.41\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(420.53,140.26)}rồng
+Dialogue: 1,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\fscx102.41\fscy102.41\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(420.53,140.26)}rồng
+Dialogue: 0,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\fscx102.42\fscy102.42\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(418.31,135.69)}rồng
+Dialogue: 1,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\fscx102.42\fscy102.42\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(418.31,135.69)}rồng
+Dialogue: 0,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\fscx102.51\fscy102.51\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(416.26,131.13)}rồng
+Dialogue: 1,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\fscx102.51\fscy102.51\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(416.26,131.13)}rồng
+Dialogue: 0,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\fscx102.57\fscy102.57\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(414.34,126.58)}rồng
+Dialogue: 1,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\fscx102.57\fscy102.57\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(414.34,126.58)}rồng
+Dialogue: 0,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\fscx102.61\fscy102.61\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(412.65,122.14)}rồng
+Dialogue: 1,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\fscx102.61\fscy102.61\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(412.65,122.14)}rồng
+Dialogue: 0,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\fscx102.54\fscy102.54\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(411.03,117.85)}rồng
+Dialogue: 1,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\fscx102.54\fscy102.54\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(411.03,117.85)}rồng
+Dialogue: 0,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\fscx102.59\fscy102.59\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(409.59,113.52)}rồng
+Dialogue: 1,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\fscx102.59\fscy102.59\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(409.59,113.52)}rồng
+Dialogue: 0,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(408.27,109.37)}rồng
+Dialogue: 1,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(408.27,109.37)}rồng
+Dialogue: 0,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\fscx102.52\fscy102.52\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(407.04,105.18)}rồng
+Dialogue: 1,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\fscx102.52\fscy102.52\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(407.04,105.18)}rồng
+Dialogue: 0,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(405.91,101.13)}rồng
+Dialogue: 1,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(405.91,101.13)}rồng
+Dialogue: 0,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\fscx102.37\fscy102.37\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(404.88,97.23)}rồng
+Dialogue: 1,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\fscx102.37\fscy102.37\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(404.88,97.23)}rồng
+Dialogue: 0,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\fscx102.28\fscy102.28\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.11\4c&H92BBCF&\fnGentium Basic\frz40\pos(403.94,93.37)}rồng
+Dialogue: 1,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\fscx102.28\fscy102.28\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.11\4c&H92BBCF&\fnGentium Basic\frz40\pos(403.94,93.37)}rồng
+Dialogue: 0,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\fscx102.31\fscy102.31\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(403.1,89.52)}rồng
+Dialogue: 1,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\fscx102.31\fscy102.31\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(403.1,89.52)}rồng
+Dialogue: 0,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\fscx102.36\fscy102.36\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(402.37,85.76)}rồng
+Dialogue: 1,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\fscx102.36\fscy102.36\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(402.37,85.76)}rồng
+Dialogue: 0,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\fscx102.35\fscy102.35\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(401.68,82.13)}rồng
+Dialogue: 1,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\fscx102.35\fscy102.35\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(401.68,82.13)}rồng
+Dialogue: 0,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\fscx102.46\fscy102.46\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(401.09,78.51)}rồng
+Dialogue: 1,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\fscx102.46\fscy102.46\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(401.09,78.51)}rồng
+Dialogue: 0,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\fscx102.46\fscy102.46\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(400.54,75.04)}rồng
+Dialogue: 1,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\fscx102.46\fscy102.46\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(400.54,75.04)}rồng
+Dialogue: 0,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(400.07,71.69)}rồng
+Dialogue: 1,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\fscx102.48\fscy102.48\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(400.07,71.69)}rồng
+Dialogue: 0,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(399.64,68.46)}rồng
+Dialogue: 1,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\fscx102.49\fscy102.49\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(399.64,68.46)}rồng
+Dialogue: 0,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\fscx102.56\fscy102.56\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(399.3,65.3)}rồng
+Dialogue: 1,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\fscx102.56\fscy102.56\alpha&H00&\c&H1B23E9&\blur1.03\fs40\shad5.13\4c&H92BBCF&\fnGentium Basic\frz40\pos(399.3,65.3)}rồng
+Dialogue: 0,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\fscx102.45\fscy102.45\alpha&HB0&\c&H1B23E9&\blur4\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(398.97,62.37)}rồng
+Dialogue: 1,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\fscx102.45\fscy102.45\alpha&H00&\c&H1B23E9&\blur1.02\fs40\shad5.12\4c&H92BBCF&\fnGentium Basic\frz40\pos(398.97,62.37)}rồng
+Dialogue: 0,0:07:03.94,0:07:03.99,Signs,,0,0,0,,{\fscx100\fscy100\c&H1B23E9&\blur1\fs40\shad5\4c&H92BBCF&\fnGentium Basic\frz-5\pos(590.53,477.99)\alpha&HF2&}lộn
+Dialogue: 0,0:07:03.99,0:07:04.03,Signs,,0,0,0,,{\fscx100\fscy100\c&H1B23E9&\blur1\fs40\shad5\4c&H92BBCF&\fnGentium Basic\frz-5\pos(589.53,466.99)\alpha&HD9&}lộn
+Dialogue: 0,0:07:04.03,0:07:04.07,Signs,,0,0,0,,{\fscx97.68\fscy97.68\c&H1B23E9&\blur0.98\fs40\shad4.88\4c&H92BBCF&\fnGentium Basic\frz-5\pos(588.82,456.39)\alpha&HBF&}lộn
+Dialogue: 0,0:07:04.07,0:07:04.11,Signs,,0,0,0,,{\fscx97.8\fscy97.8\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(585.3,445.35)\alpha&HA3&}lộn
+Dialogue: 0,0:07:04.11,0:07:04.15,Signs,,0,0,0,,{\fscx98.18\fscy98.18\c&H1B23E9&\blur0.98\fs40\shad4.91\4c&H92BBCF&\fnGentium Basic\frz-5\pos(580.81,434.72)\alpha&H86&}lộn
+Dialogue: 0,0:07:04.15,0:07:04.20,Signs,,0,0,0,,{\fscx98.26\fscy98.26\c&H1B23E9&\blur0.98\fs40\shad4.91\4c&H92BBCF&\fnGentium Basic\frz-5\pos(575.39,424.69)\alpha&H6C&}lộn
+Dialogue: 0,0:07:04.20,0:07:04.24,Signs,,0,0,0,,{\fscx97.66\fscy97.66\c&H1B23E9&\blur0.98\fs40\shad4.88\4c&H92BBCF&\fnGentium Basic\frz-5\pos(569.03,415.55)\alpha&H53&}lộn
+Dialogue: 0,0:07:04.24,0:07:04.28,Signs,,0,0,0,,{\fscx97.99\fscy97.99\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(561.43,406.92)\alpha&H39&}lộn
+Dialogue: 0,0:07:04.28,0:07:04.32,Signs,,0,0,0,,{\fscx97.88\fscy97.88\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(553.04,399.21)\alpha&H20&}lộn
+Dialogue: 0,0:07:04.32,0:07:04.36,Signs,,0,0,0,,{\fscx97.69\fscy97.69\c&H1B23E9&\blur4\fs40\shad4.88\4c&H92BBCF&\fnGentium Basic\frz-5\pos(544.38,392.36)\alpha&HB0&}lộn
+Dialogue: 1,0:07:04.32,0:07:04.36,Signs,,0,0,0,,{\fscx97.69\fscy97.69\c&H1B23E9&\blur0.98\fs40\shad4.88\4c&H92BBCF&\fnGentium Basic\frz-5\pos(544.38,392.36)\alpha&H03&}lộn
+Dialogue: 0,0:07:04.36,0:07:04.40,Signs,,0,0,0,,{\alpha&HB0&\fscx98.04\fscy98.04\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(534.7,386.02)}lộn
+Dialogue: 1,0:07:04.36,0:07:04.40,Signs,,0,0,0,,{\alpha&H00&\fscx98.04\fscy98.04\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(534.7,386.02)}lộn
+Dialogue: 0,0:07:04.40,0:07:04.45,Signs,,0,0,0,,{\alpha&HB0&\fscx97.75\fscy97.75\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(525.2,380.52)}lộn
+Dialogue: 1,0:07:04.40,0:07:04.45,Signs,,0,0,0,,{\alpha&H00&\fscx97.75\fscy97.75\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(525.2,380.52)}lộn
+Dialogue: 0,0:07:04.45,0:07:04.49,Signs,,0,0,0,,{\alpha&HB0&\fscx97.85\fscy97.85\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(515.31,375.46)}lộn
+Dialogue: 1,0:07:04.45,0:07:04.49,Signs,,0,0,0,,{\alpha&H00&\fscx97.85\fscy97.85\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(515.31,375.46)}lộn
+Dialogue: 0,0:07:04.49,0:07:04.53,Signs,,0,0,0,,{\alpha&HB0&\fscx98.03\fscy98.03\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(505.12,370.8)}lộn
+Dialogue: 1,0:07:04.49,0:07:04.53,Signs,,0,0,0,,{\alpha&H00&\fscx98.03\fscy98.03\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(505.12,370.8)}lộn
+Dialogue: 0,0:07:04.53,0:07:04.57,Signs,,0,0,0,,{\alpha&HB0&\fscx98.03\fscy98.03\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(495.07,366.51)}lộn
+Dialogue: 1,0:07:04.53,0:07:04.57,Signs,,0,0,0,,{\alpha&H00&\fscx98.03\fscy98.03\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(495.07,366.51)}lộn
+Dialogue: 0,0:07:04.57,0:07:04.61,Signs,,0,0,0,,{\alpha&HB0&\fscx98\fscy98\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(485.22,362.42)}lộn
+Dialogue: 1,0:07:04.57,0:07:04.61,Signs,,0,0,0,,{\alpha&H00&\fscx98\fscy98\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(485.22,362.42)}lộn
+Dialogue: 0,0:07:04.61,0:07:04.65,Signs,,0,0,0,,{\alpha&HB0&\fscx98.03\fscy98.03\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(475.32,358.4)}lộn
+Dialogue: 1,0:07:04.61,0:07:04.65,Signs,,0,0,0,,{\alpha&H00&\fscx98.03\fscy98.03\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(475.32,358.4)}lộn
+Dialogue: 0,0:07:04.65,0:07:04.70,Signs,,0,0,0,,{\alpha&HB0&\fscx97.87\fscy97.87\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(465.87,354.42)}lộn
+Dialogue: 1,0:07:04.65,0:07:04.70,Signs,,0,0,0,,{\alpha&H00&\fscx97.87\fscy97.87\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(465.87,354.42)}lộn
+Dialogue: 0,0:07:04.70,0:07:04.74,Signs,,0,0,0,,{\alpha&HB0&\fscx98.13\fscy98.13\c&H1B23E9&\blur4\fs40\shad4.91\4c&H92BBCF&\fnGentium Basic\frz-5\pos(456.53,350.16)}lộn
+Dialogue: 1,0:07:04.70,0:07:04.74,Signs,,0,0,0,,{\alpha&H00&\fscx98.13\fscy98.13\c&H1B23E9&\blur0.98\fs40\shad4.91\4c&H92BBCF&\fnGentium Basic\frz-5\pos(456.53,350.16)}lộn
+Dialogue: 0,0:07:04.74,0:07:04.78,Signs,,0,0,0,,{\alpha&HB0&\fscx97.95\fscy97.95\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(447.96,345.67)}lộn
+Dialogue: 1,0:07:04.74,0:07:04.78,Signs,,0,0,0,,{\alpha&H00&\fscx97.95\fscy97.95\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(447.96,345.67)}lộn
+Dialogue: 0,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\alpha&HB0&\fscx97.92\fscy97.92\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(440.25,340.68)}lộn
+Dialogue: 1,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\alpha&H00&\fscx97.92\fscy97.92\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(440.25,340.68)}lộn
+Dialogue: 0,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\alpha&HB0&\fscx97.98\fscy97.98\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(433.74,335.22)}lộn
+Dialogue: 1,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\alpha&H00&\fscx97.98\fscy97.98\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(433.74,335.22)}lộn
+Dialogue: 0,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\alpha&HB0&\fscx98.1\fscy98.1\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(429.48,330.15)}lộn
+Dialogue: 1,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\alpha&H00&\fscx98.1\fscy98.1\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(429.48,330.15)}lộn
+Dialogue: 0,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\alpha&HB0&\fscx97.94\fscy97.94\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(426.74,326.06)}lộn
+Dialogue: 1,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\alpha&H00&\fscx97.94\fscy97.94\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(426.74,326.06)}lộn
+Dialogue: 0,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\alpha&HB0&\fscx97.84\fscy97.84\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(424.38,322.24)}lộn
+Dialogue: 1,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\alpha&H00&\fscx97.84\fscy97.84\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(424.38,322.24)}lộn
+Dialogue: 0,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\alpha&HB0&\fscx97.89\fscy97.89\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(422.24,318.58)}lộn
+Dialogue: 1,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\alpha&H00&\fscx97.89\fscy97.89\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(422.24,318.58)}lộn
+Dialogue: 0,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\alpha&HB0&\fscx97.94\fscy97.94\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(420.32,315.04)}lộn
+Dialogue: 1,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\alpha&H00&\fscx97.94\fscy97.94\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(420.32,315.04)}lộn
+Dialogue: 0,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\alpha&HB0&\fscx97.94\fscy97.94\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(418.69,311.65)}lộn
+Dialogue: 1,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\alpha&H00&\fscx97.94\fscy97.94\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(418.69,311.65)}lộn
+Dialogue: 0,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\alpha&HB0&\fscx97.89\fscy97.89\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(417.31,308.38)}lộn
+Dialogue: 1,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\alpha&H00&\fscx97.89\fscy97.89\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(417.31,308.38)}lộn
+Dialogue: 0,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\alpha&HB0&\fscx97.99\fscy97.99\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(416.01,305.12)}lộn
+Dialogue: 1,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\alpha&H00&\fscx97.99\fscy97.99\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(416.01,305.12)}lộn
+Dialogue: 0,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\alpha&HB0&\fscx98.04\fscy98.04\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(414.92,301.97)}lộn
+Dialogue: 1,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\alpha&H00&\fscx98.04\fscy98.04\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(414.92,301.97)}lộn
+Dialogue: 0,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\alpha&HB0&\fscx98.03\fscy98.03\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(414.07,298.91)}lộn
+Dialogue: 1,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\alpha&H00&\fscx98.03\fscy98.03\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(414.07,298.91)}lộn
+Dialogue: 0,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\alpha&HB0&\fscx98\fscy98\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(413.35,295.92)}lộn
+Dialogue: 1,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\alpha&H00&\fscx98\fscy98\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(413.35,295.92)}lộn
+Dialogue: 0,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\alpha&HB0&\fscx98.07\fscy98.07\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.72,292.98)}lộn
+Dialogue: 1,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\alpha&H00&\fscx98.07\fscy98.07\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.72,292.98)}lộn
+Dialogue: 0,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\alpha&HB0&\fscx97.94\fscy97.94\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.32,290.16)}lộn
+Dialogue: 1,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\alpha&H00&\fscx97.94\fscy97.94\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.32,290.16)}lộn
+Dialogue: 0,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\alpha&HB0&\fscx97.9\fscy97.9\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.04,287.41)}lộn
+Dialogue: 1,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\alpha&H00&\fscx97.9\fscy97.9\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.04,287.41)}lộn
+Dialogue: 0,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\alpha&HB0&\fscx97.9\fscy97.9\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.82,284.7)}lộn
+Dialogue: 1,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\alpha&H00&\fscx97.9\fscy97.9\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.82,284.7)}lộn
+Dialogue: 0,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\alpha&HB0&\fscx97.9\fscy97.9\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.69,282.07)}lộn
+Dialogue: 1,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\alpha&H00&\fscx97.9\fscy97.9\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.69,282.07)}lộn
+Dialogue: 0,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\alpha&HB0&\fscx97.79\fscy97.79\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.72,279.58)}lộn
+Dialogue: 1,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\alpha&H00&\fscx97.79\fscy97.79\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.72,279.58)}lộn
+Dialogue: 0,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\alpha&HB0&\fscx97.79\fscy97.79\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.79,277.12)}lộn
+Dialogue: 1,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\alpha&H00&\fscx97.79\fscy97.79\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.79,277.12)}lộn
+Dialogue: 0,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\alpha&HB0&\fscx97.89\fscy97.89\c&H1B23E9&\blur4\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.86,274.72)}lộn
+Dialogue: 1,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\alpha&H00&\fscx97.89\fscy97.89\c&H1B23E9&\blur0.98\fs40\shad4.89\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.86,274.72)}lộn
+Dialogue: 0,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\alpha&HB0&\fscx97.97\fscy97.97\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.98,272.39)}lộn
+Dialogue: 1,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\alpha&H00&\fscx97.97\fscy97.97\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(411.98,272.39)}lộn
+Dialogue: 0,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\alpha&HB0&\fscx97.96\fscy97.96\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.24,270.2)}lộn
+Dialogue: 1,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\alpha&H00&\fscx97.96\fscy97.96\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.24,270.2)}lộn
+Dialogue: 0,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\alpha&HB0&\fscx98.08\fscy98.08\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.5,268.06)}lộn
+Dialogue: 1,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\alpha&H00&\fscx98.08\fscy98.08\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.5,268.06)}lộn
+Dialogue: 0,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\alpha&HB0&\fscx98.22\fscy98.22\c&H1B23E9&\blur4\fs40\shad4.91\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.73,266)}lộn
+Dialogue: 1,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\alpha&H00&\fscx98.22\fscy98.22\c&H1B23E9&\blur0.98\fs40\shad4.91\4c&H92BBCF&\fnGentium Basic\frz-5\pos(412.73,266)}lộn
+Dialogue: 0,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\alpha&HB0&\fscx97.93\fscy97.93\c&H1B23E9&\blur4\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(413.31,264.17)}lộn
+Dialogue: 1,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\alpha&H00&\fscx97.93\fscy97.93\c&H1B23E9&\blur0.98\fs40\shad4.9\4c&H92BBCF&\fnGentium Basic\frz-5\pos(413.31,264.17)}lộn
+Dialogue: 0,0:07:04.11,0:07:04.15,Signs,,0,0,0,,{\fscx100\fscy100\c&H1B23E9&\blur1\fs40\shad8\4c&H92BBCF&\fnGentium Basic\frz5\pos(688.41,510.79)\alpha&HF0&}lộn
+Dialogue: 0,0:07:04.15,0:07:04.20,Signs,,0,0,0,,{\fscx100\fscy100\c&H1B23E9&\blur1\fs40\shad8\4c&H92BBCF&\fnGentium Basic\frz5\pos(682.41,507.79)\alpha&HD1&}lộn
+Dialogue: 0,0:07:04.20,0:07:04.24,Signs,,0,0,0,,{\fscx101.57\fscy101.57\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(676.9,505.37)\alpha&HB3&\iclip(m 680 520 l 683 510 687 503 692 497 701 492 709 490 714 490 739 509 706 535 695 535)}lộn
+Dialogue: 0,0:07:04.24,0:07:04.28,Signs,,0,0,0,,{\fscx100.71\fscy100.71\c&H1B23E9&\blur1.01\fs40\shad8.06\4c&H92BBCF&\fnGentium Basic\frz5\pos(669.77,502.91)\alpha&H94&\iclip(m 700 493 l 693 497 689 502 685 507 683 511 681 517 680 520 680 524 684 527 693 531 707 527 725 521 723 504 719 497)}lộn
+Dialogue: 0,0:07:04.28,0:07:04.32,Signs,,0,0,0,,{\fscx101.4\fscy101.4\c&H1B23E9&\blur1.01\fs40\shad8.11\4c&H92BBCF&\fnGentium Basic\frz5\pos(663.37,500.85)\alpha&H76&\iclip(m 681 520 l 683 511 685 506 691 497 701 493 707 491 714 493 721 511 719 527)}lộn
+Dialogue: 0,0:07:04.32,0:07:04.36,Signs,,0,0,0,,{\fscx101.29\fscy101.29\c&H1B23E9&\blur1.01\fs40\shad8.1\4c&H92BBCF&\fnGentium Basic\frz5\pos(656.48,498.86)\alpha&H54&\iclip(m 697 494 l 691 498 688 502 685 506 684 510 682 515 681 519 681 521 682 526 698 526 719 511 721 501)}lộn
+Dialogue: 0,0:07:04.36,0:07:04.40,Signs,,0,0,0,,{\fscx101.18\fscy101.18\c&H1B23E9&\blur1.01\fs40\shad8.09\4c&H92BBCF&\fnGentium Basic\frz5\pos(649.29,497.29)\alpha&H31&\iclip(m 688 501 l 683 509 682 514 682 518 689 519 695 512 697 507 698 502)}lộn
+Dialogue: 0,0:07:04.40,0:07:04.45,Signs,,0,0,0,,{\fscx101.46\fscy101.46\c&H1B23E9&\blur1.01\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(642.49,496.01)\alpha&H13&\iclip(m 620 509 l 625 508 629 510 622 512 619 513)}lộn
+Dialogue: 0,0:07:04.45,0:07:04.49,Signs,,0,0,0,,{\fscx101.46\fscy101.46\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(635.49,495.01)\alpha&HB0&\iclip(m 614 508 l 628 506 630 510 617 514)}lộn
+Dialogue: 1,0:07:04.45,0:07:04.49,Signs,,0,0,0,,{\fscx101.46\fscy101.46\c&H1B23E9&\blur1.01\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(635.49,495.01)\alpha&H05&\iclip(m 614 508 l 628 506 630 510 617 514)}lộn
+Dialogue: 0,0:07:04.49,0:07:04.53,Signs,,0,0,0,,{\alpha&HB0&\fscx101.46\fscy101.46\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(628.46,494.26)\iclip(m 608 509 l 625 505 626 511 611 514)}lộn
+Dialogue: 1,0:07:04.49,0:07:04.53,Signs,,0,0,0,,{\alpha&H00&\fscx101.46\fscy101.46\c&H1B23E9&\blur1.01\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(628.46,494.26)\iclip(m 608 509 l 625 505 626 511 611 514)}lộn
+Dialogue: 0,0:07:04.53,0:07:04.57,Signs,,0,0,0,,{\alpha&HB0&\fscx101.46\fscy101.46\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(621.28,493.7)\iclip(m 600 511 l 622 505 624 511 605 516)}lộn
+Dialogue: 1,0:07:04.53,0:07:04.57,Signs,,0,0,0,,{\alpha&H00&\fscx101.46\fscy101.46\c&H1B23E9&\blur1.01\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(621.28,493.7)\iclip(m 600 511 l 622 505 624 511 605 516)}lộn
+Dialogue: 0,0:07:04.57,0:07:04.61,Signs,,0,0,0,,{\alpha&HB0&\fscx101.58\fscy101.58\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(614.31,493.37)\iclip(m 593 513 l 619 506 622 511 599 518)}lộn
+Dialogue: 1,0:07:04.57,0:07:04.61,Signs,,0,0,0,,{\alpha&H00&\fscx101.58\fscy101.58\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(614.31,493.37)\iclip(m 593 513 l 619 506 622 511 599 518)}lộn
+Dialogue: 0,0:07:04.61,0:07:04.65,Signs,,0,0,0,,{\alpha&HB0&\fscx101.45\fscy101.45\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(607.12,493.16)\iclip(m 588 513 l 617 506 618 511 590 519)}lộn
+Dialogue: 1,0:07:04.61,0:07:04.65,Signs,,0,0,0,,{\alpha&H00&\fscx101.45\fscy101.45\c&H1B23E9&\blur1.01\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(607.12,493.16)\iclip(m 588 513 l 617 506 618 511 590 519)}lộn
+Dialogue: 0,0:07:04.65,0:07:04.70,Signs,,0,0,0,,{\alpha&HB0&\fscx101.69\fscy101.69\c&H1B23E9&\blur4\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(600.22,493.05)\iclip(m 592 513 l 617 506 619 510 595 518)}lộn
+Dialogue: 1,0:07:04.65,0:07:04.70,Signs,,0,0,0,,{\alpha&H00&\fscx101.69\fscy101.69\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(600.22,493.05)\iclip(m 592 513 l 617 506 619 510 595 518)}lộn
+Dialogue: 0,0:07:04.70,0:07:04.74,Signs,,0,0,0,,{\alpha&HB0&\fscx101.56\fscy101.56\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(593.14,492.93)\iclip(m 593 512 l 613 506 616 511 598 515)}lộn
+Dialogue: 1,0:07:04.70,0:07:04.74,Signs,,0,0,0,,{\alpha&H00&\fscx101.56\fscy101.56\c&H1B23E9&\blur1.02\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(593.14,492.93)\iclip(m 593 512 l 613 506 616 511 598 515)}lộn
+Dialogue: 0,0:07:04.74,0:07:04.78,Signs,,0,0,0,,{\alpha&HB0&\fscx101.74\fscy101.74\c&H1B23E9&\blur4\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(586.3,492.78)\iclip(m 595 511 l 611 506 613 511 599 515)}lộn
+Dialogue: 1,0:07:04.74,0:07:04.78,Signs,,0,0,0,,{\alpha&H00&\fscx101.74\fscy101.74\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(586.3,492.78)\iclip(m 595 511 l 611 506 613 511 599 515)}lộn
+Dialogue: 0,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\alpha&HB0&\fscx101.41\fscy101.41\c&H1B23E9&\blur4\fs40\shad8.11\4c&H92BBCF&\fnGentium Basic\frz5\pos(579.23,492.44)}lộn
+Dialogue: 1,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\alpha&H00&\fscx101.41\fscy101.41\c&H1B23E9&\blur1.01\fs40\shad8.11\4c&H92BBCF&\fnGentium Basic\frz5\pos(579.23,492.44)}lộn
+Dialogue: 0,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\alpha&HB0&\fscx101.62\fscy101.62\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(572.52,491.93)}lộn
+Dialogue: 1,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\alpha&H00&\fscx101.62\fscy101.62\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(572.52,491.93)}lộn
+Dialogue: 0,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\alpha&HB0&\fscx101.74\fscy101.74\c&H1B23E9&\blur4\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(565.95,491.1)}lộn
+Dialogue: 1,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\alpha&H00&\fscx101.74\fscy101.74\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(565.95,491.1)}lộn
+Dialogue: 0,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\alpha&HB0&\fscx101.64\fscy101.64\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(559.28,489.97)}lộn
+Dialogue: 1,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\alpha&H00&\fscx101.64\fscy101.64\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(559.28,489.97)}lộn
+Dialogue: 0,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\alpha&HB0&\fscx101.58\fscy101.58\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(553,488.5)}lộn
+Dialogue: 1,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\alpha&H00&\fscx101.58\fscy101.58\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(553,488.5)}lộn
+Dialogue: 0,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\alpha&HB0&\fscx101.42\fscy101.42\c&H1B23E9&\blur4\fs40\shad8.11\4c&H92BBCF&\fnGentium Basic\frz5\pos(546.83,486.71)}lộn
+Dialogue: 1,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\alpha&H00&\fscx101.42\fscy101.42\c&H1B23E9&\blur1.01\fs40\shad8.11\4c&H92BBCF&\fnGentium Basic\frz5\pos(546.83,486.71)}lộn
+Dialogue: 0,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\alpha&HB0&\fscx101.83\fscy101.83\c&H1B23E9&\blur4\fs40\shad8.15\4c&H92BBCF&\fnGentium Basic\frz5\pos(541.37,484.69)}lộn
+Dialogue: 1,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\alpha&H00&\fscx101.83\fscy101.83\c&H1B23E9&\blur1.02\fs40\shad8.15\4c&H92BBCF&\fnGentium Basic\frz5\pos(541.37,484.69)}lộn
+Dialogue: 0,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\alpha&HB0&\fscx101.68\fscy101.68\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(536.14,482.51)}lộn
+Dialogue: 1,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\alpha&H00&\fscx101.68\fscy101.68\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(536.14,482.51)}lộn
+Dialogue: 0,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\alpha&HB0&\fscx101.6\fscy101.6\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(531.7,480.46)}lộn
+Dialogue: 1,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\alpha&H00&\fscx101.6\fscy101.6\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(531.7,480.46)}lộn
+Dialogue: 0,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\alpha&HB0&\fscx101.64\fscy101.64\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(528.14,478.66)}lộn
+Dialogue: 1,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\alpha&H00&\fscx101.64\fscy101.64\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(528.14,478.66)}lộn
+Dialogue: 0,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\alpha&HB0&\fscx101.59\fscy101.59\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(524.82,476.94)}lộn
+Dialogue: 1,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\alpha&H00&\fscx101.59\fscy101.59\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(524.82,476.94)}lộn
+Dialogue: 0,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\alpha&HB0&\fscx101.51\fscy101.51\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(521.66,475.27)}lộn
+Dialogue: 1,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\alpha&H00&\fscx101.51\fscy101.51\c&H1B23E9&\blur1.02\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(521.66,475.27)}lộn
+Dialogue: 0,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\alpha&HB0&\fscx101.52\fscy101.52\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(518.6,473.61)}lộn
+Dialogue: 1,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\alpha&H00&\fscx101.52\fscy101.52\c&H1B23E9&\blur1.02\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(518.6,473.61)}lộn
+Dialogue: 0,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\alpha&HB0&\fscx101.43\fscy101.43\c&H1B23E9&\blur4\fs40\shad8.11\4c&H92BBCF&\fnGentium Basic\frz5\pos(515.58,471.97)}lộn
+Dialogue: 1,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\alpha&H00&\fscx101.43\fscy101.43\c&H1B23E9&\blur1.01\fs40\shad8.11\4c&H92BBCF&\fnGentium Basic\frz5\pos(515.58,471.97)}lộn
+Dialogue: 0,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\alpha&HB0&\fscx101.77\fscy101.77\c&H1B23E9&\blur4\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(513.05,470.36)}lộn
+Dialogue: 1,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\alpha&H00&\fscx101.77\fscy101.77\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(513.05,470.36)}lộn
+Dialogue: 0,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\alpha&HB0&\fscx101.74\fscy101.74\c&H1B23E9&\blur4\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(510.43,468.76)}lộn
+Dialogue: 1,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\alpha&H00&\fscx101.74\fscy101.74\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(510.43,468.76)}lộn
+Dialogue: 0,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\alpha&HB0&\fscx101.65\fscy101.65\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(507.85,467.16)}lộn
+Dialogue: 1,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\alpha&H00&\fscx101.65\fscy101.65\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(507.85,467.16)}lộn
+Dialogue: 0,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\alpha&HB0&\fscx101.58\fscy101.58\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(505.31,465.54)}lộn
+Dialogue: 1,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\alpha&H00&\fscx101.58\fscy101.58\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(505.31,465.54)}lộn
+Dialogue: 0,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\alpha&HB0&\fscx101.47\fscy101.47\c&H1B23E9&\blur4\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(502.86,463.94)}lộn
+Dialogue: 1,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\alpha&H00&\fscx101.47\fscy101.47\c&H1B23E9&\blur1.01\fs40\shad8.12\4c&H92BBCF&\fnGentium Basic\frz5\pos(502.86,463.94)}lộn
+Dialogue: 0,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\alpha&HB0&\fscx101.7\fscy101.7\c&H1B23E9&\blur4\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(500.75,462.33)}lộn
+Dialogue: 1,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\alpha&H00&\fscx101.7\fscy101.7\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(500.75,462.33)}lộn
+Dialogue: 0,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\alpha&HB0&\fscx101.58\fscy101.58\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(498.54,460.72)}lộn
+Dialogue: 1,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\alpha&H00&\fscx101.58\fscy101.58\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(498.54,460.72)}lộn
+Dialogue: 0,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\alpha&HB0&\fscx101.64\fscy101.64\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(496.54,459.1)}lộn
+Dialogue: 1,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\alpha&H00&\fscx101.64\fscy101.64\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(496.54,459.1)}lộn
+Dialogue: 0,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\alpha&HB0&\fscx101.74\fscy101.74\c&H1B23E9&\blur4\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(494.71,457.47)}lộn
+Dialogue: 1,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\alpha&H00&\fscx101.74\fscy101.74\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz5\pos(494.71,457.47)}lộn
+Dialogue: 0,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\alpha&HB0&\fscx101.62\fscy101.62\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(492.84,455.83)}lộn
+Dialogue: 1,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\alpha&H00&\fscx101.62\fscy101.62\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(492.84,455.83)}lộn
+Dialogue: 0,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\alpha&HB0&\fscx101.58\fscy101.58\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(491.15,454.18)}lộn
+Dialogue: 1,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\alpha&H00&\fscx101.58\fscy101.58\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(491.15,454.18)}lộn
+Dialogue: 0,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\alpha&HB0&\fscx101.57\fscy101.57\c&H1B23E9&\blur4\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(489.55,452.52)}lộn
+Dialogue: 1,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\alpha&H00&\fscx101.57\fscy101.57\c&H1B23E9&\blur1.02\fs40\shad8.13\4c&H92BBCF&\fnGentium Basic\frz5\pos(489.55,452.52)}lộn
+Dialogue: 0,0:07:04.36,0:07:04.40,Signs,,0,0,0,,{\fscx100\fscy100\c&H1B23E9&\blur1\fs40\shad8\4c&H92BBCF&\fnGentium Basic\frz27\pos(643.77,584.6)\alpha&HF3&}rồng
+Dialogue: 0,0:07:04.40,0:07:04.45,Signs,,0,0,0,,{\fscx102.46\fscy102.46\c&H1B23E9&\blur1.02\fs40\shad8.2\4c&H92BBCF&\fnGentium Basic\frz27\pos(642.07,586.17)\alpha&HDC&}rồng
+Dialogue: 0,0:07:04.45,0:07:04.49,Signs,,0,0,0,,{\fscx102.31\fscy102.31\c&H1B23E9&\blur1.02\fs40\shad8.18\4c&H92BBCF&\fnGentium Basic\frz27\pos(640.02,586.07)\alpha&HC5&}rồng
+Dialogue: 0,0:07:04.49,0:07:04.53,Signs,,0,0,0,,{\fscx102.12\fscy102.12\c&H1B23E9&\blur1.02\fs40\shad8.17\4c&H92BBCF&\fnGentium Basic\frz27\pos(637.96,586)\alpha&HAE&}rồng
+Dialogue: 0,0:07:04.53,0:07:04.57,Signs,,0,0,0,,{\fscx101.89\fscy101.89\c&H1B23E9&\blur1.02\fs40\shad8.15\4c&H92BBCF&\fnGentium Basic\frz27\pos(635.79,586.02)\alpha&H94&}rồng
+Dialogue: 0,0:07:04.57,0:07:04.61,Signs,,0,0,0,,{\fscx101.71\fscy101.71\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz27\pos(633.62,586.18)\alpha&H79&}rồng
+Dialogue: 0,0:07:04.61,0:07:04.65,Signs,,0,0,0,,{\fscx101.78\fscy101.78\c&H1B23E9&\blur1.02\fs40\shad8.14\4c&H92BBCF&\fnGentium Basic\frz27\pos(631.52,586.54)\alpha&H62&}rồng
+Dialogue: 0,0:07:04.65,0:07:04.70,Signs,,0,0,0,,{\fscx102.13\fscy102.13\c&H1B23E9&\blur1.02\fs40\shad8.17\4c&H92BBCF&\fnGentium Basic\frz27\pos(629.44,587.08)\alpha&H4B&}rồng
+Dialogue: 0,0:07:04.70,0:07:04.74,Signs,,0,0,0,,{\fscx102.32\fscy102.32\c&H1B23E9&\blur1.02\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(627.34,587.55)\alpha&H34&}rồng
+Dialogue: 0,0:07:04.74,0:07:04.78,Signs,,0,0,0,,{\fscx102.4\fscy102.4\c&H1B23E9&\blur1.02\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(625.24,588)\alpha&H1C&}rồng
+Dialogue: 0,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\fscx102.41\fscy102.41\c&H1B23E9&\blur4\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(623.09,588.45)\alpha&HB0&}rồng
+Dialogue: 1,0:07:04.78,0:07:04.82,Signs,,0,0,0,,{\fscx102.41\fscy102.41\c&H1B23E9&\blur1.02\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(623.09,588.45)\alpha&H02&}rồng
+Dialogue: 0,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\alpha&HB0&\fscx102.44\fscy102.44\c&H1B23E9&\blur4\fs40\shad8.2\4c&H92BBCF&\fnGentium Basic\frz27\pos(620.96,588.92)}rồng
+Dialogue: 1,0:07:04.82,0:07:04.86,Signs,,0,0,0,,{\alpha&H00&\fscx102.44\fscy102.44\c&H1B23E9&\blur1.02\fs40\shad8.2\4c&H92BBCF&\fnGentium Basic\frz27\pos(620.96,588.92)}rồng
+Dialogue: 0,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\alpha&HB0&\fscx102.35\fscy102.35\c&H1B23E9&\blur4\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(618.83,589.35)}rồng
+Dialogue: 1,0:07:04.86,0:07:04.90,Signs,,0,0,0,,{\alpha&H00&\fscx102.35\fscy102.35\c&H1B23E9&\blur1.02\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(618.83,589.35)}rồng
+Dialogue: 0,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\alpha&HB0&\fscx102.42\fscy102.42\c&H1B23E9&\blur4\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(616.69,589.89)}rồng
+Dialogue: 1,0:07:04.90,0:07:04.95,Signs,,0,0,0,,{\alpha&H00&\fscx102.42\fscy102.42\c&H1B23E9&\blur1.02\fs40\shad8.19\4c&H92BBCF&\fnGentium Basic\frz27\pos(616.69,589.89)}rồng
+Dialogue: 0,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\alpha&HB0&\fscx102.53\fscy102.53\c&H1B23E9&\blur4\fs40\shad8.2\4c&H92BBCF&\fnGentium Basic\frz27\pos(614.58,590.46)}rồng
+Dialogue: 1,0:07:04.95,0:07:04.99,Signs,,0,0,0,,{\alpha&H00&\fscx102.53\fscy102.53\c&H1B23E9&\blur1.03\fs40\shad8.2\4c&H92BBCF&\fnGentium Basic\frz27\pos(614.58,590.46)}rồng
+Dialogue: 0,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\alpha&HB0&\fscx102.69\fscy102.69\c&H1B23E9&\blur4\fs40\shad8.22\4c&H92BBCF&\fnGentium Basic\frz27\pos(612.5,591.08)}rồng
+Dialogue: 1,0:07:04.99,0:07:05.03,Signs,,0,0,0,,{\alpha&H00&\fscx102.69\fscy102.69\c&H1B23E9&\blur1.03\fs40\shad8.22\4c&H92BBCF&\fnGentium Basic\frz27\pos(612.5,591.08)}rồng
+Dialogue: 0,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\alpha&HB0&\fscx102.93\fscy102.93\c&H1B23E9&\blur4\fs40\shad8.23\4c&H92BBCF&\fnGentium Basic\frz27\pos(610.41,591.77)}rồng
+Dialogue: 1,0:07:05.03,0:07:05.07,Signs,,0,0,0,,{\alpha&H00&\fscx102.93\fscy102.93\c&H1B23E9&\blur1.03\fs40\shad8.23\4c&H92BBCF&\fnGentium Basic\frz27\pos(610.41,591.77)}rồng
+Dialogue: 0,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\alpha&HB0&\fscx102.75\fscy102.75\c&H1B23E9&\blur4\fs40\shad8.22\4c&H92BBCF&\fnGentium Basic\frz27\pos(608.21,592.26)}rồng
+Dialogue: 1,0:07:05.07,0:07:05.11,Signs,,0,0,0,,{\alpha&H00&\fscx102.75\fscy102.75\c&H1B23E9&\blur1.03\fs40\shad8.22\4c&H92BBCF&\fnGentium Basic\frz27\pos(608.21,592.26)}rồng
+Dialogue: 0,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\alpha&HB0&\fscx102.85\fscy102.85\c&H1B23E9&\blur4\fs40\shad8.23\4c&H92BBCF&\fnGentium Basic\frz27\pos(606.1,592.89)}rồng
+Dialogue: 1,0:07:05.11,0:07:05.15,Signs,,0,0,0,,{\alpha&H00&\fscx102.85\fscy102.85\c&H1B23E9&\blur1.03\fs40\shad8.23\4c&H92BBCF&\fnGentium Basic\frz27\pos(606.1,592.89)}rồng
+Dialogue: 0,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\alpha&HB0&\fscx102.63\fscy102.63\c&H1B23E9&\blur4\fs40\shad8.21\4c&H92BBCF&\fnGentium Basic\frz27\pos(603.87,593.38)}rồng
+Dialogue: 1,0:07:05.15,0:07:05.20,Signs,,0,0,0,,{\alpha&H00&\fscx102.63\fscy102.63\c&H1B23E9&\blur1.03\fs40\shad8.21\4c&H92BBCF&\fnGentium Basic\frz27\pos(603.87,593.38)}rồng
+Dialogue: 0,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\alpha&HB0&\fscx102.79\fscy102.79\c&H1B23E9&\blur4\fs40\shad8.22\4c&H92BBCF&\fnGentium Basic\frz27\pos(601.75,594.11)}rồng
+Dialogue: 1,0:07:05.20,0:07:05.24,Signs,,0,0,0,,{\alpha&H00&\fscx102.79\fscy102.79\c&H1B23E9&\blur1.03\fs40\shad8.22\4c&H92BBCF&\fnGentium Basic\frz27\pos(601.75,594.11)}rồng
+Dialogue: 0,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\alpha&HB0&\fscx102.9\fscy102.9\c&H1B23E9&\blur4\fs40\shad8.23\4c&H92BBCF&\fnGentium Basic\frz27\pos(599.62,594.82)}rồng
+Dialogue: 1,0:07:05.24,0:07:05.28,Signs,,0,0,0,,{\alpha&H00&\fscx102.9\fscy102.9\c&H1B23E9&\blur1.03\fs40\shad8.23\4c&H92BBCF&\fnGentium Basic\frz27\pos(599.62,594.82)}rồng
+Dialogue: 0,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\alpha&HB0&\fscx103.06\fscy103.06\c&H1B23E9&\blur4\fs40\shad8.25\4c&H92BBCF&\fnGentium Basic\frz27\pos(597.42,595.58)}rồng
+Dialogue: 1,0:07:05.28,0:07:05.32,Signs,,0,0,0,,{\alpha&H00&\fscx103.06\fscy103.06\c&H1B23E9&\blur1.03\fs40\shad8.25\4c&H92BBCF&\fnGentium Basic\frz27\pos(597.42,595.58)}rồng
+Dialogue: 0,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\alpha&HB0&\fscx103.04\fscy103.04\c&H1B23E9&\blur4\fs40\shad8.24\4c&H92BBCF&\fnGentium Basic\frz27\pos(595.18,596.27)}rồng
+Dialogue: 1,0:07:05.32,0:07:05.36,Signs,,0,0,0,,{\alpha&H00&\fscx103.04\fscy103.04\c&H1B23E9&\blur1.03\fs40\shad8.24\4c&H92BBCF&\fnGentium Basic\frz27\pos(595.18,596.27)}rồng
+Dialogue: 0,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\alpha&HB0&\fscx103.12\fscy103.12\c&H1B23E9&\blur4\fs40\shad8.25\4c&H92BBCF&\fnGentium Basic\frz27\pos(592.86,597.09)}rồng
+Dialogue: 1,0:07:05.36,0:07:05.40,Signs,,0,0,0,,{\alpha&H00&\fscx103.12\fscy103.12\c&H1B23E9&\blur1.03\fs40\shad8.25\4c&H92BBCF&\fnGentium Basic\frz27\pos(592.86,597.09)}rồng
+Dialogue: 0,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\alpha&HB0&\fscx102.98\fscy102.98\c&H1B23E9&\blur4\fs40\shad8.24\4c&H92BBCF&\fnGentium Basic\frz27\pos(589.95,597.92)}rồng
+Dialogue: 1,0:07:05.40,0:07:05.45,Signs,,0,0,0,,{\alpha&H00&\fscx102.98\fscy102.98\c&H1B23E9&\blur1.03\fs40\shad8.24\4c&H92BBCF&\fnGentium Basic\frz27\pos(589.95,597.92)}rồng
+Dialogue: 0,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\alpha&HB0&\fscx102.96\fscy102.96\c&H1B23E9&\blur4\fs40\shad8.24\4c&H92BBCF&\fnGentium Basic\frz27\pos(586.68,598.85)}rồng
+Dialogue: 1,0:07:05.45,0:07:05.49,Signs,,0,0,0,,{\alpha&H00&\fscx102.96\fscy102.96\c&H1B23E9&\blur1.03\fs40\shad8.24\4c&H92BBCF&\fnGentium Basic\frz27\pos(586.68,598.85)}rồng
+Dialogue: 0,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\alpha&HB0&\fscx103.18\fscy103.18\c&H1B23E9&\blur4\fs40\shad8.25\4c&H92BBCF&\fnGentium Basic\frz27\pos(583.25,599.84)}rồng
+Dialogue: 1,0:07:05.49,0:07:05.53,Signs,,0,0,0,,{\alpha&H00&\fscx103.18\fscy103.18\c&H1B23E9&\blur1.03\fs40\shad8.25\4c&H92BBCF&\fnGentium Basic\frz27\pos(583.25,599.84)}rồng
+Dialogue: 0,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\alpha&HB0&\fscx103.37\fscy103.37\c&H1B23E9&\blur4\fs40\shad8.27\4c&H92BBCF&\fnGentium Basic\frz27\pos(579.68,600.72)}rồng
+Dialogue: 1,0:07:05.53,0:07:05.57,Signs,,0,0,0,,{\alpha&H00&\fscx103.37\fscy103.37\c&H1B23E9&\blur1.03\fs40\shad8.27\4c&H92BBCF&\fnGentium Basic\frz27\pos(579.68,600.72)}rồng
+Dialogue: 0,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\alpha&HB0&\fscx103.22\fscy103.22\c&H1B23E9&\blur4\fs40\shad8.26\4c&H92BBCF&\fnGentium Basic\frz27\pos(575.93,601.33)}rồng
+Dialogue: 1,0:07:05.57,0:07:05.61,Signs,,0,0,0,,{\alpha&H00&\fscx103.22\fscy103.22\c&H1B23E9&\blur1.03\fs40\shad8.26\4c&H92BBCF&\fnGentium Basic\frz27\pos(575.93,601.33)}rồng
+Dialogue: 0,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\alpha&HB0&\fscx103.28\fscy103.28\c&H1B23E9&\blur4\fs40\shad8.26\4c&H92BBCF&\fnGentium Basic\frz27\pos(572.23,601.95)}rồng
+Dialogue: 1,0:07:05.61,0:07:05.66,Signs,,0,0,0,,{\alpha&H00&\fscx103.28\fscy103.28\c&H1B23E9&\blur1.03\fs40\shad8.26\4c&H92BBCF&\fnGentium Basic\frz27\pos(572.23,601.95)}rồng
+Dialogue: 0,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\alpha&HB0&\fscx103.4\fscy103.4\c&H1B23E9&\blur4\fs40\shad8.27\4c&H92BBCF&\fnGentium Basic\frz27\pos(568.53,602.51)}rồng
+Dialogue: 1,0:07:05.66,0:07:05.70,Signs,,0,0,0,,{\alpha&H00&\fscx103.4\fscy103.4\c&H1B23E9&\blur1.03\fs40\shad8.27\4c&H92BBCF&\fnGentium Basic\frz27\pos(568.53,602.51)}rồng
+Dialogue: 0,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\alpha&HB0&\fscx103.49\fscy103.49\c&H1B23E9&\blur4\fs40\shad8.28\4c&H92BBCF&\fnGentium Basic\frz27\pos(564.86,602.96)}rồng
+Dialogue: 1,0:07:05.70,0:07:05.74,Signs,,0,0,0,,{\alpha&H00&\fscx103.49\fscy103.49\c&H1B23E9&\blur1.03\fs40\shad8.28\4c&H92BBCF&\fnGentium Basic\frz27\pos(564.86,602.96)}rồng
+Dialogue: 0,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\alpha&HB0&\fscx103.44\fscy103.44\c&H1B23E9&\blur4\fs40\shad8.28\4c&H92BBCF&\fnGentium Basic\frz27\pos(561.18,603.21)}rồng
+Dialogue: 1,0:07:05.74,0:07:05.78,Signs,,0,0,0,,{\alpha&H00&\fscx103.44\fscy103.44\c&H1B23E9&\blur1.03\fs40\shad8.28\4c&H92BBCF&\fnGentium Basic\frz27\pos(561.18,603.21)}rồng
+Dialogue: 0,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\alpha&HB0&\fscx103.43\fscy103.43\c&H1B23E9&\blur4\fs40\shad8.27\4c&H92BBCF&\fnGentium Basic\frz27\pos(557.57,603.38)}rồng
+Dialogue: 1,0:07:05.78,0:07:05.82,Signs,,0,0,0,,{\alpha&H00&\fscx103.43\fscy103.43\c&H1B23E9&\blur1.03\fs40\shad8.27\4c&H92BBCF&\fnGentium Basic\frz27\pos(557.57,603.38)}rồng
+Dialogue: 0,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\alpha&HB0&\fscx103.56\fscy103.56\c&H1B23E9&\blur4\fs40\shad8.29\4c&H92BBCF&\fnGentium Basic\frz27\pos(554.06,603.55)}rồng
+Dialogue: 1,0:07:05.82,0:07:05.86,Signs,,0,0,0,,{\alpha&H00&\fscx103.56\fscy103.56\c&H1B23E9&\blur1.04\fs40\shad8.29\4c&H92BBCF&\fnGentium Basic\frz27\pos(554.06,603.55)}rồng
+Dialogue: 6,0:06:42.92,0:06:43.80,Main,,0,0,0,,Vậy thì...
+Dialogue: 6,0:06:43.80,0:06:46.97,Main,,0,0,0,,nói "một con rồng lộn, hai con l*n rộng" 3 lần đi ạ!
 Dialogue: 6,0:06:46.97,0:06:48.80,Main,,0,0,0,,Em nói có đúng đâu nào.
-Dialogue: 6,0:06:48.80,0:06:51.31,Main,@@@,0,0,0,,"" dâm dục thật chứ!
+Dialogue: 6,0:06:48.80,0:06:51.31,Main,,0,0,0,,"l*n rộng" dâm dục thật chứ!
 Dialogue: 6,0:06:51.31,0:06:53.02,Main,,0,0,0,,Chính em nói ấy chớ.
-Dialogue: 6,0:06:53.02,0:06:55.48,Main,@@@,0,0,0,,"" dâm dục thật chứ!
+Dialogue: 6,0:06:53.02,0:06:55.48,Main,,0,0,0,,"rồng lộn" dâm dục thật chứ!
 Dialogue: 6,0:06:55.48,0:06:58.48,Main,,0,0,0,,Từ đó thì đến anh cũng không hiểu là dâm dục ở đâu.
-Dialogue: 6,0:06:58.48,0:07:03.78,Main,,0,0,0,,Mà để ý mới thấy,\N để cố ý nói được từ đó không phải là dễ đâu.
-Dialogue: 6,0:07:03.78,0:07:05.11,Main,@@@,0,0,0,,"" ấy.
-Dialogue: 6,0:07:05.11,0:07:06.86,Main,@@@,0,0,0,,""!
+Dialogue: 6,0:06:58.48,0:07:03.78,Main,,0,0,0,,Mà nhá,\N để cố mà nói được từ đó không phải là dễ đâu.
+Dialogue: 6,0:07:03.78,0:07:05.11,Main,,0,0,0,,"rồng lộn lộn rồng" ấy.
+Dialogue: 6,0:07:05.11,0:07:06.86,Main,,0,0,0,,rồng lộn l*n rộng!
 Dialogue: 6,0:07:08.70,0:07:11.87,Main,,0,0,0,,Thế chuyện là sao, Araragi-san?
 Dialogue: 6,0:07:11.87,0:07:13.29,Main,,0,0,0,,Có gì đâu.
 Dialogue: 6,0:07:13.29,0:07:18.54,Main,,0,0,0,,Chỉ là thấy hơi nản \Nkhi nghĩ về việc phải đi xin lỗi em gái.
 Dialogue: 6,0:07:18.54,0:07:21.75,Main,,0,0,0,,Anh phải xin lỗi vì đã sờ ngực em gái sao?
-Dialogue: 6,0:07:21.75,0:07:24.22,Main,,0,0,0,,Anh mà đi sờ ngực em gái à.
-Dialogue: 6,0:07:24.22,0:07:28.43,Main,,0,0,0,,Chuyện là hôm nay lúc ra ngoài anh đã cãi nhau với em gái.
+Dialogue: 6,0:07:21.75,0:07:24.22,Main,,0,0,0,,Điên à mà đi sờ ngực em gái!
+Dialogue: 6,0:07:24.22,0:07:28.43,Main,,0,0,0,,Chuyện là hôm nay lúc ra ngoài,\N anh có cãi nhau với em gái.
 Dialogue: 6,0:07:28.89,0:07:32.97,Main,,0,0,0,,Nhà em thì bố mẹ toàn gây lộn với nhau.
 Dialogue: 6,0:07:32.97,0:07:35.60,Main,,0,0,0,,Không phải đụng tay đụng chân đâu,\N là lời qua tiếng lại thôi.
 Dialogue: 6,0:07:38.02,0:07:40.90,Main,,0,0,0,,Em là con gái một nên nói thế này có hơi lạ nhưng...
 Dialogue: 6,0:07:40.90,0:07:43.82,Main,,0,0,0,,theo em được biết thì ban đầu bố mẹ rất hòa hợp,
+Dialogue: 6,0:07:42.36,0:07:43.82,Signs,,0,0,0,,{\blur0.8\bord0\shad0\c&H0302DF&\fsp12\pos(960,645.6)\fscx111\fscy147}GIA ĐÌNH
+Dialogue: 6,0:07:43.82,0:07:48.36,Signs,,0,0,0,,{\blur1.4\bord0\shad0\c&HD6D7FC&\fsp12\fscx96\fscy127\pos(1045,632.6)}CON YÊU MẸ.
+Dialogue: 6,0:07:48.36,0:07:51.95,Signs,,0,0,0,,{\blur1.4\bord0\shad0\c&HF9E4D7&\fsp12\fscx96\fscy127\pos(583,636.6)}CON YÊU BỐ.
 Dialogue: 6,0:07:43.82,0:07:48.36,Main,,0,0,0,,thế nhưng bản thân em\N thì chưa bao giờ trông thấy điều đó.
 Dialogue: 6,0:07:49.03,0:07:51.95,Main,,0,0,0,,Hai người họ lúc nào cũng gây lộn với nhau.
 Dialogue: 6,0:07:55.12,0:07:58.92,Main,,0,0,0,,Em... yêu mẹ mình đúng không?
@@ -148,7 +473,7 @@ Dialogue: 6,0:08:04.26,0:08:09.55,Main,,0,0,0,,Bố mẹ em bất đồng rồi 
 Dialogue: 6,0:08:09.55,0:08:13.68,Main,,0,0,0,,em... vẫn yêu cả hai người.
 Dialogue: 6,0:08:14.14,0:08:15.22,Main,,0,0,0,,Vậy à.
 Dialogue: 6,0:08:15.22,0:08:17.81,Main,,0,0,0,,Cũng bởi vậy... bởi vậy mà em thấy lo.
-Dialogue: 6,0:08:18.23,0:08:22.69,Main,,0,0,0,,Bố em, dường như bố thực sự ghét mẹ...
+Dialogue: 6,0:08:18.23,0:08:22.69,Main,,0,0,0,,Bố em, dường như rất ghét mẹ...
 Dialogue: 6,0:08:22.69,0:08:25.48,Main,,0,0,0,,nên bố không muốn em đi gặp mẹ.
 Dialogue: 6,0:08:26.69,0:08:31.16,Main,,0,0,0,,Em sợ chẳng may \Nmột ngày nào đó em sẽ quên mẹ.
 Dialogue: 6,0:08:31.16,0:08:35.91,Main,,0,0,0,,Và nếu không được gặp mẹ trong một khoảng thời gian dài,\N em có thể sẽ hết yêu mẹ.
@@ -163,8 +488,8 @@ Dialogue: 6,0:08:57.85,0:09:03.61,Main,,0,0,0,,So với năng lực nhận diệ
 Dialogue: 6,0:09:03.61,0:09:06.40,Main,,0,0,0,,Tôi đã bao giờ thi triển được cái năng lực đó đâu!
 Dialogue: 6,0:09:07.23,0:09:08.86,Main,,0,0,0,,Ủa? Không được cơ á?
 Dialogue: 6,0:09:08.86,0:09:11.61,Main,,0,0,0,,Bớt làm bộ dạng ngạc nhiên đê!
-Dialogue: 6,0:09:11.61,0:09:15.49,Main,,0,0,0,,"Cậu có khung xương chậu rất đẹp, săn chắc, \Nthuộc dạng dễ sinh nở nên là...
-Dialogue: 6,0:09:15.49,0:09:19.12,Main,,0,0,0,,nhất định con cậu sinh ra sẽ rất khỏe mạnh."
+Dialogue: 6,0:09:11.61,0:09:15.49,Main,,0,0,0,,"Cậu có khung xương chậu rất đẹp, chắc khỏe, \Nthuộc dạng dễ sinh nở nên là...
+Dialogue: 6,0:09:15.49,0:09:19.12,Main,,0,0,0,,con cậu sinh ra nhất định sẽ rất khỏe mạnh."
 Dialogue: 6,0:09:20.87,0:09:24.00,Main,,0,0,0,,Chả phải cậu đã nói câu đó còn gì.
 Dialogue: 6,0:09:25.29,0:09:27.13,Main,,0,0,0,,Khác quái nào thằng biến thái không!
 Dialogue: 6,0:09:27.13,0:09:29.63,Main,,0,0,0,,Vậy... Hanekawa-san đã tới đúng không?
@@ -173,40 +498,40 @@ Dialogue: 6,0:09:31.34,0:09:32.76,Main,,0,0,0,,Nhưng đi rồi.
 Dialogue: 6,0:09:32.76,0:09:34.22,Main,,0,0,0,,Chỉ tình cờ đi ngang qua thôi.
 Dialogue: 6,0:09:36.68,0:09:40.68,Main,,0,0,0,,Thế Oshino đã nói cho cậu rồi chứ, Senjōgahara?
 Dialogue: 6,0:09:43.44,0:09:48.28,Main,,0,0,0,,Araragi-kun, chắc là tôi phải xin lỗi cậu.
-Dialogue: 6,0:09:48.28,0:09:51.24,Main,,0,0,0,,Đó là những gì Oshino-san đã nói.
+Dialogue: 6,0:09:48.28,0:09:51.24,Main,,0,0,0,,Đó là những gì Oshino-san bảo tôi.
 Dialogue: 6,0:09:51.24,0:09:54.74,Main,,0,0,0,,Hả?! Xin lỗi vì cái gì mới được chứ?
-Dialogue: 6,0:09:55.24,0:10:00.25,Main,,0,0,0,,Tuy sự thật chỉ có một, \Nnhưng khi nhìn nhận bằng 2 quan điểm khác nhau...
-Dialogue: 6,0:10:00.25,0:10:02.50,Main,,0,0,0,,thì sẽ tiếp nhận được thông tin khác nhau.
-Dialogue: 6,0:10:02.50,0:10:07.80,Main,,0,0,0,,Trong trường hợp như vậy, \Nthường sẽ không thể xác định được bên nào là đúng.
-Dialogue: 6,0:10:07.80,0:10:12.05,Main,,0,0,0,,Cũng không thể chứng minh được bản thân mình là đúng.
-Dialogue: 6,0:10:13.59,0:10:19.10,Main,,0,0,0,,Nhưng cũng thật sai lầm khi nghĩ rằng bản thân đã sai.
-Dialogue: 6,0:10:20.35,0:10:25.35,Main,,0,0,0,,Bởi vậy... phải nói ông ta nói cứ như\N nhìn thấu tâm can ấy ha.
-Dialogue: 6,0:10:25.35,0:10:26.40,Main,,0,0,0,,Ghét thật nhở.
+Dialogue: 6,0:09:55.24,0:10:00.25,Main,,0,0,0,,Tuy sự thật chỉ có một, \Nnhưng khi nhìn nhận qua hai quan điểm khác nhau...
+Dialogue: 6,0:10:00.25,0:10:02.50,Main,,0,0,0,,thì sẽ tiếp nhận thông tin khác nhau.
+Dialogue: 6,0:10:02.50,0:10:07.80,Main,,0,0,0,,Trong những trường hợp đó, \Nthường sẽ không thể xác định được bên nào là đúng.
+Dialogue: 6,0:10:07.80,0:10:12.05,Main,,0,0,0,,Cũng không thể chứng minh được\N bản thân mình là đúng.
+Dialogue: 6,0:10:13.38,0:10:19.10,Main,,0,0,0,,Nhưng cũng thật sai lầm \Nkhi nghĩ rằng bản thân đã sai.
+Dialogue: 6,0:10:20.35,0:10:25.35,Main,,0,0,0,,Bởi vậy... phải nói cái cách ông ta nói \Ncứ như là nhìn thấu tâm can ấy.
+Dialogue: 6,0:10:25.35,0:10:26.40,Main,,0,0,0,,Ghét thật.
 Dialogue: 6,0:10:26.40,0:10:29.02,Main,,0,0,0,,Là sao, cậu đang nói cái gì thế?
 Dialogue: 6,0:10:29.02,0:10:31.82,Main,,0,0,0,,À không phải cậu, Oshino mới đúng.
 Dialogue: 6,0:10:31.82,0:10:35.91,Main,,0,0,0,,Trong vụ này, \Nnói mấy lời đó đâu giải quyết được gì.
-Dialogue: 6,0:10:35.91,0:10:43.62,Main,,0,0,0,,Cách để thoát khỏi "Ốc Sên Bò Lạc"...\N thật ra rất đơn giản, Araragi-kun.
+Dialogue: 6,0:10:35.91,0:10:43.62,Main,,0,0,0,,Cách để thoát khỏi "Ốc Sên Bò Lạc"\N thật ra rất đơn giản, Araragi-kun.
 Dialogue: 6,0:10:44.00,0:10:50.09,Main,,0,0,0,,"Bám theo Ốc Sên, bị lạc."          "Tránh xa Ốc Sên, khỏi lạc."
 Dialogue: 6,0:10:50.09,0:10:52.38,Main,,0,0,0,,Bám theo bị lạc?
 Dialogue: 6,0:10:52.38,0:10:58.60,Main,,0,0,0,,Đối với Ốc Sên, chính người chịu ảnh hưởng\N mới là người bám theo chứ không phải chiều ngược lại.
 Dialogue: 6,0:10:58.60,0:11:03.10,Main,,0,0,0,,Thế nên, tất cả những gì Araragi-kun cần làm\N chỉ là tránh xa Ốc Sên.
 Dialogue: 6,0:11:03.10,0:11:06.06,Main,,0,0,0,,Đâu phải, nói tôi làm gì,\N đang nói về Hachikuji cơ mà.
-Dialogue: 6,0:11:08.90,0:11:11.98,Main,,0,0,0,,Nhưng mà nếu là thế\N thì chả phải kỳ lạ lắm sao?
-Dialogue: 6,0:11:11.98,0:11:15.11,Main,,0,0,0,,Hachikuji đâu có chủ động bám theo ốc sên.
-Dialogue: 6,0:11:15.11,0:11:17.87,Main,,0,0,0,,Em ấy đâu hề mong đợi điều đó.
+Dialogue: 6,0:11:08.90,0:11:11.98,Main,,0,0,0,,Nhưng nếu thế thì kỳ quá.
+Dialogue: 6,0:11:11.98,0:11:15.11,Main,,0,0,0,,Hachikuji đâu có chủ động bám theo Ốc Sên.
+Dialogue: 6,0:11:15.11,0:11:17.87,Main,,0,0,0,,Em ấy có muốn vậy đâu.
 Dialogue: 6,0:11:18.24,0:11:23.87,Main,,0,0,0,,Thế mới nói... tôi nợ cậu một lời xin lỗi, Araragi-kun.
-Dialogue: 6,0:11:25.33,0:11:28.71,Main,,0,0,0,,Nhưng mà... hãy cứ để tôi giải thích.
-Dialogue: 6,0:11:28.71,0:11:33.88,Main,,0,0,0,,Tôi không làm thế bởi có ý xấu hay cố tình gì cả.
-Dialogue: 6,0:11:33.88,0:11:37.59,Main,,0,0,0,,Tôi khẳng định đây chỉ sai lầm của tôi.
+Dialogue: 6,0:11:25.33,0:11:28.71,Main,,0,0,0,,Nhưng mà... hãy để tôi giải thích.
+Dialogue: 6,0:11:28.71,0:11:33.88,Main,,0,0,0,,Tôi không làm thế \Nvì có ý đồ gì xấu hay cố tình gì cả.
+Dialogue: 6,0:11:33.88,0:11:37.59,Main,,0,0,0,,Tôi khẳng định đây chỉ là \Nsai lầm của tôi mà thôi.
 Dialogue: 6,0:11:37.59,0:11:39.30,Main,,0,0,0,,Senjōgahara...
 Dialogue: 6,0:11:39.43,0:11:41.10,Main,,0,0,0,,Bởi cũng phải thôi.
 Dialogue: 6,0:11:41.10,0:11:45.48,Main,,0,0,0,,Trong hơn 2 năm qua, tôi không được bình thường.
-Dialogue: 6,0:11:45.48,0:11:50.81,Main,,0,0,0,,Tôi không thể không nghĩ rằng \Nnếu có chuyện gì sai, tôi chính là kẻ sai.
+Dialogue: 6,0:11:45.48,0:11:50.81,Main,,0,0,0,,Tôi không thể không nghĩ rằng nếu có chuyện gì sai...\N thì tôi chính là kẻ sai.
 Dialogue: 6,0:11:50.81,0:11:53.03,Main,,0,0,0,,Này, Senjōgahara...
-Dialogue: 6,0:11:53.03,0:11:54.99,Main,,0,0,0,,Hachikuji-chan phải không?
+Dialogue: 6,0:11:53.03,0:11:54.99,Main,,0,0,0,,Là Hachikuji-chan phải không nhỉ?
 Dialogue: 6,0:11:56.70,0:11:58.91,Main,,0,0,0,,Tức là thế này, Araragi-kun...
 Dialogue: 6,0:11:58.91,0:12:01.76,Main,,0,0,0,,Cậu cảm thấy thê thảm vào Ngày của Mẹ,\N cãi nhau với em gái,
-Dialogue: 6,0:12:01.76,0:12:04.62,Main,,0,0,0,,cậu không muốn về nhà, Araragi-kun.
+Dialogue: 6,0:12:01.76,0:12:04.12,Main,,0,0,0,,cậu không muốn về nhà, Araragi-kun.
 Dialogue: 6,0:12:05.08,0:12:06.08,Main,,0,0,0,,Cô bé đó...
 Dialogue: 6,0:12:10.25,0:12:12.13,Main,,0,0,0,,...tôi không hề nhìn thấy.
 Dialogue: 6,0:12:17.72,0:12:20.51,Main,,0,0,0,,Cách đây khoảng 10 năm...
@@ -214,7 +539,7 @@ Dialogue: 6,0:12:20.51,0:12:25.18,Main,,0,0,0,,có một cặp vợ chồng,\N m
 Dialogue: 6,0:12:25.72,0:12:29.85,Main,,0,0,0,,Cô con gái duy nhất của họ\N được quyết định là sống cùng bố.
 Dialogue: 6,0:12:30.56,0:12:33.36,Main,,0,0,0,,Mọi ký ức bị tàn phai.
 Dialogue: 6,0:12:33.36,0:12:36.15,Main,,0,0,0,,Mọi ký ức bị hao mòn.
-Dialogue: 6,0:12:36.15,0:12:39.78,Main,,0,0,0,,Thời gian lặng trôi, cô con gái duy nhất bị sốc.
+Dialogue: 6,0:12:36.15,0:12:39.78,Main,,0,0,0,,Thời gian lặng trôi, cô con gái duy nhất ấy bị sốc.
 Dialogue: 6,0:12:39.78,0:12:44.03,Main,,0,0,0,,Cô bé thậm chí còn không thể nhớ được mặt mẹ mình.
 Dialogue: 6,0:12:44.03,0:12:50.37,Main,,0,0,0,,Dù cho có nhìn vào ảnh mẹ,\N cũng không dám chắc đó có phải là mẹ mình hay không.
 Dialogue: 6,0:12:50.96,0:12:56.92,Main,,0,0,0,,Vì thế mà cô con gái duy nhất quyết định\N đến thăm mẹ mình... vào Ngày của Mẹ năm đó.
@@ -222,8 +547,8 @@ Dialogue: 6,0:12:57.59,0:13:01.51,Main,,0,0,0,,Thế nhưng cô không thể t�
 Dialogue: 6,0:13:01.51,0:13:04.10,Main,,0,0,0,,Cô chưa từng tới nhà mẹ bao giờ.
 Dialogue: 6,0:13:04.72,0:13:06.02,Main,,0,0,0,,Tại sao?
 Dialogue: 6,0:13:06.47,0:13:07.93,Main,,0,0,0,,Tại sao?
-Dialogue: 6,0:13:08.48,0:13:11.31,Main,TS yêu,0,0,0,,Tại sao lại thế cơ chứ?
-Dialogue: 6,0:13:11.31,0:13:15.32,Main,TS yêu,0,0,0,,Đèn báo đúng là đã chuyển xanh rồi mà...
+Dialogue: 6,0:13:08.48,0:13:11.31,Main,,0,0,0,,Tại sao lại thế cơ chứ?
+Dialogue: 6,0:13:11.31,0:13:15.32,Main,,0,0,0,,Đèn báo chắc chắn là đã chuyển xanh rồi mà...
 Dialogue: 6,0:13:16.40,0:13:19.49,Main,,0,0,0,,Và cô con gái duy nhất đó... là em.
 Dialogue: 6,0:13:21.82,0:13:25.37,Main,,0,0,0,,Vậy tức là... em đã đi lạc suốt sao?
 Dialogue: 6,0:13:25.91,0:13:30.79,Main,,0,0,0,,Kẻ không bao giờ tới được đích...\N cản trở đường về của kẻ khác.
@@ -231,22 +556,22 @@ Dialogue: 6,0:13:30.79,0:13:32.67,Main,,0,0,0,,"Hành hương" vòng quanh.
 Dialogue: 6,0:13:32.67,0:13:34.59,GT 2,,0,0,0,,(Hachikuji)
 Dialogue: 6,0:13:32.67,0:13:34.59,Main,,0,0,0,,Tức là... Cuộc hành hương Tám Chín.
 Dialogue: 6,0:13:36.55,0:13:37.25,Main,,0,0,0,,Nhưng mà...
-Dialogue: 6,0:13:38.67,0:13:42.09,Main,,0,0,0,,...thật sự là cậu không nhìn thấy Hachikuji sao?
+Dialogue: 6,0:13:38.67,0:13:42.09,Main,,0,0,0,,Thật sự là cậu không nhìn thấy Hachikuji sao?
 Dialogue: 6,0:13:42.09,0:13:44.72,Main,,0,0,0,,Không nhìn thấy, cũng không nghe thấy.
 Dialogue: 6,0:13:44.72,0:13:46.56,Main,,0,0,0,,Thế sao cậu chứ thản nhiên—
 Dialogue: 6,0:13:46.81,0:13:48.56,Main,,0,0,0,,{\i1}Có nhìn thấy gì đâu.{tập 3}
 Dialogue: 6,0:13:51.23,0:13:57.98,Main,,0,0,0,,Tất cả những gì tôi thấy là Araragi-kun lẩm bẩm một mình, \Nrồi cuối cùng lên cơn đấm đá cũng một mình.
-Dialogue: 6,0:13:57.98,0:14:00.86,Main,,0,0,0,,Thú thật tôi không biết cậu đang làm gì nữa.
+Dialogue: 6,0:13:57.98,0:14:00.86,Main,,0,0,0,,Thú thật tôi không biết là \Ncậu đang làm cái gì nữa.
 Dialogue: 6,0:14:03.82,0:14:06.12,Main,,0,0,0,,Nhưng nếu cậu nói ra sớm thì...
 Dialogue: 6,0:14:06.12,0:14:08.83,Main,,0,0,0,,Thì tôi nói rồi, sao mà tôi nói được.
-Dialogue: 6,0:14:09.29,0:14:10.91,Main,,0,0,0,,Sao tôi nói được chứ.
-Dialogue: 6,0:14:10.91,0:14:15.63,Main,,0,0,0,,Khi có chuyện gì đó kiểu như vậy xảy ra,\N nếu Araragi-kun nhìn thấy còn tôi thì không...
+Dialogue: 6,0:14:09.29,0:14:10.91,Main,,0,0,0,,Sao mà nói được cơ chứ.
+Dialogue: 6,0:14:10.91,0:14:15.63,Main,,0,0,0,,Khi có chuyện gì đó kiểu như vậy xảy ra,\N nếu Araragi-kun nhìn thấy, còn tôi thì không...
 Dialogue: 6,0:14:15.63,0:14:19.80,Main,,0,0,0,,thì theo lẽ thường tôi sẽ nghĩ kẻ không nhìn thấy là tôi đây\N mới chính là vấn đề.
 Dialogue: 6,0:14:20.80,0:14:21.76,Main,,0,0,0,,{\i1}Đúng rồi!
 Dialogue: 6,0:14:22.22,0:14:26.30,Main,,0,0,0,,{\i1}Senjōgahara không muốn nghĩ rằng \Ncậu ấy sẽ lại là vấn đề.
-Dialogue: 6,0:14:26.30,0:14:29.56,Main,,0,0,0,,{\i1}không muốn nghĩ rằng\N cậu ấy chính là vấn đề.
-Dialogue: 6,0:14:29.56,0:14:31.98,Main,,0,0,0,,{\i1}và cũng không muốn mình nghĩ cậu ấy như vậy.
-Dialogue: 6,0:14:31.98,0:14:35.15,Main,,0,0,0,,{\i1}Vì thế mà giả vờ nhìn thấy Hachikuji \N trong khi đúng ra là không nhìn thấy.
+Dialogue: 6,0:14:26.30,0:14:29.56,Main,,0,0,0,,{\i1}Không muốn nghĩ rằng cậu ấy chính là vấn đề.
+Dialogue: 6,0:14:29.56,0:14:31.98,Main,,0,0,0,,{\i1}Và cũng không muốn mình nghĩ cậu ấy như vậy.
+Dialogue: 6,0:14:31.98,0:14:35.15,Main,,0,0,0,,{\i1}Vì thế mà giả vờ nhìn thấy Hachikuji\N trong khi đúng ra là không thấy.
 Dialogue: 6,0:14:36.86,0:14:37.90,Main,,0,0,0,,Hiểu rồi.
 Dialogue: 6,0:14:39.90,0:14:43.36,Main,,0,0,0,,{\i1}Vậy kẻ đụng phải Ốc Sên... ra là mình?
 Dialogue: 6,0:14:43.36,0:14:46.70,Main,,0,0,0,,Araragi-kun, đây là điều mà Oshino-san đã nói.
@@ -259,22 +584,22 @@ Dialogue: 6,0:15:06.68,0:15:12.35,Main,,0,0,720,,Tuy nhiên Araragi-kun, \Nchín
 Dialogue: 6,0:15:12.35,0:15:15.94,Main,,0,0,720,,Như đã nói lúc đầu,\N cứ không bám theo, tránh xa ra là được.
 Dialogue: 6,0:15:15.94,0:15:17.48,Main,,900,0,0,,Chỉ cần vậy thôi.
 Dialogue: 6,0:15:19.48,0:15:24.49,Main,,0,0,0,,"Đây không phải xấu xa gì, \Ncũng không mang sức mạnh to lớn."
-Dialogue: 6,0:15:24.49,0:15:26.41,Main,,0,0,0,,"Hơn cả không gây thiệt hại nghiêm trọng."
+Dialogue: 6,0:15:24.49,0:15:26.41,Main,,0,0,0,,"Hơn hết là không gây thiệt hại nghiêm trọng."
 Dialogue: 6,0:15:26.41,0:15:27.36,Main,,0,0,0,,Ông ta nói thế.
 Dialogue: 6,0:15:27.36,0:15:28.41,Main,,0,0,0,,Nên là...
 Dialogue: 6,0:15:28.41,0:15:29.45,Main,,0,0,0,,Nên là?
 Dialogue: 6,0:15:29.78,0:15:31.70,Main,,0,0,0,,Nên là cái gì chứ, Senjōgahara?
 Dialogue: 6,0:15:35.16,0:15:37.46,Main,,0,0,0,,Điều tôi muốn cậu hỏi ông ta là...
-Dialogue: 6,0:15:38.08,0:15:42.88,Main,,0,0,0,,Làm sao để đưa Hachikuji trở về với mẹ được.
+Dialogue: 6,0:15:38.08,0:15:42.88,Main,,0,0,0,,Làm sao để đưa Hachikuji trở về bên mẹ được.
 Dialogue: 6,0:15:45.34,0:15:47.84,Main,,0,0,0,,Cậu không hiểu sao, Araragi-kun?
 Dialogue: 6,0:15:47.84,0:15:50.72,Main,,0,0,0,,Cô bé đó... không tồn tại ở đây.
 Dialogue: 6,0:15:50.72,0:15:54.02,Main,,0,0,0,,Không ở đó, chẳng ở đâu.
-Dialogue: 6,0:15:54.02,0:15:57.69,Main,,0,0,0,,Hachikuji... Tên em ấy là Mayoi Hachikuji nhỉ?
+Dialogue: 6,0:15:54.02,0:15:57.69,Main,,0,0,0,,Hachikuji... Tên là Hachikuji Mayoi-chan nhỉ?
 Dialogue: 6,0:15:57.69,0:15:58.69,Main,,0,0,0,,Em ấy...
 Dialogue: 6,0:16:00.98,0:16:02.61,Main,,0,0,0,,...đã chết rồi.
 Dialogue: 6,0:16:02.61,0:16:07.28,Main,,0,0,0,,Thế nên em ấy không bị ma ám...\N mà chính em ấy là ma.
 Dialogue: 6,0:16:08.11,0:16:09.49,Main,,0,0,0,,Thế thì sao nào?
-Dialogue: 6,0:16:09.49,0:16:11.91,Main,,0,0,0,,A-Araragi-san? Em đau ạ.
+Dialogue: 6,0:16:09.49,0:16:11.91,Main,,0,0,0,,A-Araragi-san? Đau em ạ.
 Dialogue: 6,0:16:13.12,0:16:18.71,Main,,0,0,0,,A-Araragi-san ơi... \NChị ấy, Senjōgahara-san nói đúng đấy ạ.
 Dialogue: 6,0:16:18.71,0:16:20.17,Main,,0,0,0,,Em...
 Dialogue: 6,0:16:20.17,0:16:21.29,Main,,0,0,0,,Em......
@@ -288,14 +613,14 @@ Dialogue: 6,0:16:42.86,0:16:45.73,Main,,0,0,0,,Để cho những người đụn
 Dialogue: 6,0:16:45.73,0:16:48.28,Main,,0,0,0,,em ấy phải nói ra những lời lẽ xúc phạm,\N cái cảm giác đó...
 Dialogue: 6,0:16:48.28,0:16:50.32,Main,,0,0,0,,...cậu có hiểu được không?
 Dialogue: 6,0:16:50.32,0:16:52.70,Main,,0,0,0,,Tôi thì không hiểu.
-Dialogue: 6,0:16:52.70,0:16:57.83,Main,,0,0,0,,Nhưng kể cả không hiểu điều đấy, \Nthì vẫn còn đó khi đang lạc lối, khi chỉ có một mình...
-Dialogue: 6,0:16:57.83,0:17:01.25,Main,,0,0,0,,mà vẫn phải vứt bỏ cảm xúc \Nđể nói ra những lời đó.
+Dialogue: 6,0:16:52.70,0:16:57.83,Main,,0,0,0,,Nhưng kể cả không hiểu, \Nthì vẫn còn đó cái tình cảnh đang lạc lối, đang chỉ có một mình...
+Dialogue: 6,0:16:57.83,0:17:01.25,Main,,0,0,0,,...mà vẫn phải vứt bỏ cảm xúc \Nđể nói ra những lời đó.
 Dialogue: 6,0:17:01.25,0:17:04.80,Main,,0,0,0,,Chả phải cả tôi và cậu\Ncũng đều đã trải qua bằng cách này hay cách khác rồi sao.
 Dialogue: 6,0:17:06.51,0:17:11.34,Main,,0,0,0,,Cậu không nhìn thấy, không nghe thấy,\N thậm chí cũng không ngửi thấy...
 Dialogue: 6,0:17:11.34,0:17:13.97,Main,,0,0,0,,Thế nhưng... chính vì thế...
 Dialogue: 6,0:17:13.97,0:17:17.22,Main,,0,0,0,,mà việc đưa em ấy bình an về bên mẹ...
 Dialogue: 6,0:17:17.22,0:17:18.73,Main,,0,0,0,,là nhiệm vụ của tôi.
-Dialogue: 6,0:17:22.81,0:17:24.77,Main,,0,0,0,,Biết là cậu nói thế mà.
+Dialogue: 6,0:17:22.81,0:17:24.77,Main,,0,0,0,,Biết là cậu sẽ nói thế mà.
 Dialogue: 6,0:17:26.44,0:17:29.44,Main,,0,0,0,,Cuối cùng tôi đã hiểu được rồi, \Nvề con người Araragi-kun.
 Dialogue: 6,0:17:30.82,0:17:32.53,Main,,0,0,0,,Này, Araragi-kun.
 Dialogue: 6,0:17:32.66,0:17:37.20,Main,,0,0,0,,Lúc Araragi-kun phát hiện ra vấn đề của tôi...
@@ -303,16 +628,16 @@ Dialogue: 6,0:17:37.20,0:17:41.75,Main,,0,0,0,,Araragi-kun ngay trong ngày hôm
 Dialogue: 6,0:17:42.96,0:17:44.29,Main,,0,0,0,,Tôi cứ thắc mắc tại sao.
 Dialogue: 6,0:17:45.38,0:17:49.46,Main,,0,0,0,,Liệu Araragi-kun cứu tôi bởi vì đó là tôi chăng?
 Dialogue: 6,0:17:50.67,0:17:52.88,Main,,0,0,0,,{\an8}Nhưng không phải vậy.
-Dialogue: 6,0:17:52.88,0:17:54.72,Main,,0,0,0,,Tôi đoán là không.
+Dialogue: 6,0:17:52.88,0:17:54.72,Main,,0,0,0,,Khả năng là không.
 Dialogue: 6,0:17:54.72,0:17:56.85,Main,,0,0,0,,Mà thay vào đó, chỉ là...
 Dialogue: 6,0:17:56.85,0:18:00.18,Main,,0,0,0,,với Araragi-kun... bất cứ ai cậu cũng {\u1}cứu{\u0}.
-Dialogue: 6,0:18:00.18,0:18:03.69,Main,,0,0,0,,Cứu gì chứ? Nó không to lớn đến thế.
-Dialogue: 6,0:18:03.69,0:18:04.81,Main,,0,0,0,,Đừng nói quá.
+Dialogue: 6,0:18:00.18,0:18:03.69,Main,,0,0,0,,Cứu gì chứ? Nói nghe to tát quá.
+Dialogue: 6,0:18:03.69,0:18:04.81,Main,,0,0,0,,Đừng nói quá lên.
 Dialogue: 6,0:18:05.15,0:18:08.36,Main,,0,0,0,,Thế nhưng... đã hơn 2 năm kể từ khi tôi gặp chuyện...
 Dialogue: 6,0:18:08.36,0:18:12.74,Main,,0,0,0,,những kẻ nhận ra được vấn đề của tôi... không hề ít.
 Dialogue: 6,0:18:12.74,0:18:16.53,Main,,900,0,0,,Và người được như Araragi-kun...\N chỉ có Araragi-kun mà thôi.
 Dialogue: 6,0:18:16.87,0:18:20.08,Main,,0,0,0,,Thì đúng rồi, tôi chỉ là tôi thôi.
-Dialogue: 6,0:18:20.08,0:18:22.16,Main,,0,0,0,,Phải ha! Phải là thế rồi.
+Dialogue: 6,0:18:20.08,0:18:22.16,Main,,0,0,0,,Phải ha! Thế là phải rồi.
 Dialogue: 6,0:18:27.04,0:18:30.01,Main,,0,0,0,,Đây là lời nhắn cuối cùng từ Oshino-san, Araragi-kun.
 Dialogue: 6,0:18:31.30,0:18:35.47,Main,,0,0,0,,"Tôi sẽ dạy một mánh\Nmà chỉ có tác dụng trong vụ này."
 Dialogue: 6,0:18:35.47,0:18:36.47,Main,,0,0,0,,Mánh?
@@ -321,8 +646,8 @@ Dialogue: 6,0:18:37.89,0:18:39.10,Main,,0,0,0,,Đi là đi đâu?
 Dialogue: 6,0:18:40.43,0:18:43.64,Main,,0,0,0,,Đương nhiên là nhà của Tsunade-san rồi.
 Dialogue: 6,0:18:43.64,0:18:45.73,Main,,0,0,0,,Và còn nữa, Araragi-kun...
 Dialogue: 6,0:18:46.10,0:18:47.02,Main,,0,0,0,,Sao?
-Dialogue: 6,0:18:57.53,0:19:00.24,Main,,0,0,0,,Cung hỷ! Cung hỷ!
-Dialogue: 6,0:19:06.08,0:19:09.96,Main,,0,0,0,,{\i1}Bò Lạc... {trong các dạng Yêu Ma Quái}nếu mà là thuộc dạng Ma...{ở đây dùng từ 怪異(kaii~chuyện quái dị, yêu, ma, quái, vật,...), ko dễ để dịch từ này, giống câu ở trên "Đây không phải xấu xa gì, cũng không mang sức mạnh to lớn.", cũng dùng 怪異(kaii) và cũng ko dịch, vẫn đủ ý là được, còn bản thân từ "Yêu Ma Quái" sẽ sát hơn với "Obake" hay "Bakemono" ~KiOZ}
+Dialogue: 6,0:18:57.53,0:19:00.24,Main,,0,0,0,,Cung hỷ lâm môn.
+Dialogue: 6,0:19:06.08,0:19:09.96,Main,,0,0,0,,{\i1}Bò Lạc... {trong các dạng Yêu Ma Quái}nếu mà thuộc dạng Ma...
 Dialogue: 6,0:19:09.96,0:19:13.34,Main,,0,0,0,,{\i1}thì sẽ không thể ghi lại "bộ nhớ ký ức".
 Dialogue: 6,0:19:13.34,0:19:16.22,Main,,0,0,0,,{\i1}"Bộ nhớ ký ức"... nói cách khác, là kiến thức.
 Dialogue: 6,0:19:18.72,0:19:19.72,Main,,0,0,0,,Đến nơi rồi.
@@ -332,7 +657,7 @@ Dialogue: 6,0:19:28.52,0:19:31.23,Main,,0,0,0,,{\i1}Nhưng... đã không biết
 Dialogue: 6,0:19:31.23,0:19:34.15,Main,,0,0,0,,{\i1}Mà không... kể cả có biết... cũng chưa chắc làm được.
 Dialogue: 6,0:19:35.20,0:19:36.99,Main,,0,0,0,,Nhưng đây là...
 Dialogue: 6,0:19:37.32,0:19:39.74,Main,,0,0,0,,{\i1}Ví dụ như... tái quy hoạch.
-Dialogue: 6,0:19:39.74,0:19:44.75,Main,,0,0,0,,{\i1}Nếu chỉ sử dụng những tuyến đường mới...\N thì Bò Lạc sẽ không làm gì được.
+Dialogue: 6,0:19:39.74,0:19:44.75,Main,,0,0,0,,{\i1}Nếu chỉ sử dụng những tuyến đường mới...\N thì Bò Lạc sẽ bó tay.
 Dialogue: 6,0:19:45.54,0:19:52.71,Main,,0,0,0,,{\i1}Sau hơn 1 tiếng để đi một quãng đường lẽ ra chỉ trong 10 phút,\N chúng tôi cuối cùng cũng tới nơi.
 Dialogue: 6,0:19:52.71,0:19:53.34,Main,,0,0,0,,{\i1}Nhưng...
 Dialogue: 6,0:20:02.81,0:20:06.06,Main,,0,0,0,,Senjōgahara, có chắc là chỗ này không thế?
@@ -344,20 +669,20 @@ Dialogue: 6,0:20:59.32,0:21:01.45,Main,,0,0,0,,Cậu cũng khá là ngầu đấ
 Dialogue: 6,0:21:01.45,0:21:04.53,Main,,0,0,0,,Người lo liệu mọi sự lần này... không phải cậu sao?
 Dialogue: 6,0:21:04.53,0:21:09.33,Main,,0,0,0,,Có thể đúng là thế nhưng... ý tôi không phải vậy... ha.
 Dialogue: 6,0:21:09.83,0:21:11.04,Main,,0,0,0,,Mà này, Araragi-kun.
-Dialogue: 6,0:21:12.00,0:21:14.71,Main,,0,0,0,,Tôi vẫn chưa được nghe câu trả lời từ cậu.
-Dialogue: 6,0:21:15.92,0:21:17.63,Main,,0,0,0,,Cậu tính như nào?
+Dialogue: 6,0:21:12.00,0:21:14.71,Main,,0,0,0,,Tôi vẫn chưa nghe được câu trả lời của cậu.
+Dialogue: 6,0:21:15.92,0:21:17.63,Main,,0,0,0,,Sao nào?
 Dialogue: 6,0:21:17.63,0:21:21.34,Main,,0,0,0,,À thì... chuyện này tôi cho là cậu có hơi nhầm lẫn.
 Dialogue: 6,0:21:21.34,0:21:24.47,Main,,0,0,0,,Thì đó, cậu chả bảo là muốn trả ơn còn gì.
 Dialogue: 6,0:21:24.47,0:21:26.31,Main,,0,0,0,,Là cái cớ thôi.
 Dialogue: 6,0:21:26.31,0:21:29.31,Main,,0,0,0,,Tôi cố để Araragi-kun là người thổ lộ trước.
-Dialogue: 6,0:21:31.73,0:21:33.52,Main,,0,0,0,,Nhưng cứ yên tâm.
+Dialogue: 6,0:21:31.73,0:21:33.52,Main,,0,0,0,,Nhưng cứ yên tâm đi.
 Dialogue: 6,0:21:33.52,0:21:38.57,Main,,0,0,0,,Thực ra tôi không cảm thấy mắc nợ Araragi-kun\N nhiều tới vậy đâu.
 Dialogue: 6,0:21:39.32,0:21:42.70,Main,,0,0,0,,Bởi vì Arraragi-kun... có là ai cậu cũng cứu.
 Dialogue: 6,0:21:44.28,0:21:47.37,Main,,0,0,0,,Nhưng ngay cả khi người được cứu không phải tôi...
-Dialogue: 6,0:21:47.37,0:21:52.87,Main,,0,0,0,,Ví dụ, chỉ cần đứng ngoài quan sát\Nnhư lần Araragi-kun cứu Hanekawa-san chẳng hạn,
-Dialogue: 6,0:21:52.87,0:21:57.55,Main,,0,0,0,,là đã đủ để cậu trở nên đặc biệt với tôi.
-Dialogue: 6,0:21:58.38,0:22:02.09,Main,,0,0,0,,Tuy cũng nói hơi quá cơ mà...
-Dialogue: 6,0:22:03.55,0:22:09.85,Main,,0,0,0,,Araragi-kun này, nếu buộc phải nói,\N thì đó đơn giản là bởi tôi rất thích trò chuyện với cậu.
+Dialogue: 6,0:21:47.37,0:21:52.87,Main,,0,0,0,,Ví dụ, như lần Araragi-kun cứu Hanekawa-san chẳng hạn,\N chỉ cần là người ngoài và đánh giá thôi...
+Dialogue: 6,0:21:52.87,0:21:57.55,Main,,0,0,0,,là đã đủ để cậu trở nên đặc biệt với tôi rồi.
+Dialogue: 6,0:21:58.38,0:22:02.09,Main,,0,0,0,,Tuy nói thế cũng hơi quá cơ mà...
+Dialogue: 6,0:22:03.55,0:22:09.85,Main,,0,0,0,,Araragi-kun này, nếu buộc phải nói,\N thì đó đơn giản là bởi tôi rất thích trò chuyện với cậu thôi.
 Dialogue: 6,0:22:10.27,0:22:13.06,Main,,0,0,0,,Nhưng... đã trò chuyện được nhiều đâu?
 Dialogue: 6,0:22:13.06,0:22:14.44,Main,,0,0,0,,Đúng rồi.
 Dialogue: 6,0:22:15.86,0:22:18.19,Main,,0,0,0,,Thế nên lại càng muốn trò chuyện.
@@ -367,16 +692,16 @@ Dialogue: 6,0:22:27.12,0:22:28.37,Main,,0,0,0,,Vậy à...
 Dialogue: 6,0:22:28.37,0:22:32.12,Main,,0,0,0,,Phải! Hay cậu cũng có thể nghĩ như này...
 Dialogue: 6,0:22:32.12,0:22:37.65,Main,,0,0,0,,Có một con dở người còn trinh, đang thèm khát tình yêu,\N sẽ yêu bất cứ ai miễn là đối xử tốt với nó...
 Dialogue: 6,0:22:37.65,0:22:40.46,Main,,0,0,0,,Và số nhọ là nó đã để mắt đến cậu.
-Dialogue: 6,0:22:40.46,0:22:41.72,Main,,0,0,0,,Được rồi.
+Dialogue: 6,0:22:40.46,0:22:41.72,Main,,0,0,0,,Rồi rồi.
 Dialogue: 6,0:22:41.72,0:22:43.47,Main,,0,0,0,,Tóm lại là nhọ ha.
 Dialogue: 6,0:22:43.47,0:22:45.18,Main,,0,0,0,,Đi mà nguyền rủa cái thói quen của cậu đi.
-Dialogue: 6,0:22:49.35,0:22:54.06,Main,,0,0,0,,"Cho tôi suy nghĩ thêm"... \Nnếu cậu mà thốt ra câu ngớ ngẩn đó...
-Dialogue: 6,0:22:54.06,0:22:56.23,Main,,0,0,0,,thì tôi khinh cậu, Araragi-kun.
+Dialogue: 6,0:22:49.35,0:22:54.06,Main,,0,0,0,,"Cho tôi suy nghĩ thêm", \Nnếu cậu mà thốt ra câu ngớ ngẩn đó...
+Dialogue: 6,0:22:54.06,0:22:56.23,Main,,0,0,0,,thì tôi khinh bỉ cậu, Araragi-kun.
 Dialogue: 6,0:22:56.23,0:22:59.15,Main,,0,0,0,,Đừng có để phụ nữ phải xấu hổ tới vậy.
 Dialogue: 6,0:22:59.15,0:23:00.69,Main,,0,0,0,,Biết rồi mà.
 Dialogue: 6,0:23:00.69,0:23:03.82,Main,,0,0,0,,Tại thời điểm này, tôi biết là mình thảm hại thế nào,
 Dialogue: 6,0:23:03.82,0:23:08.78,Main,,0,0,0,,nhưng mà Senjōgahara...\N liệu tôi có thể đưa ra một điều kiện không?
-Dialogue: 6,0:23:10.24,0:23:14.87,Main,,0,0,0,,Điều kiện nói sao nhở... kiểu kiểu lời hứa ấy.
+Dialogue: 6,0:23:10.24,0:23:14.87,Main,,0,0,0,,Điều kiện nói sao nhở... kiểu như lời hứa ấy.
 Dialogue: 6,0:23:14.87,0:23:17.75,Main,,0,0,0,,Hứa? Hứa sao cơ?
 Dialogue: 6,0:23:17.75,0:23:24.47,Main,,0,0,0,,Senjōgahara, giả vờ nhìn thấy những gì không thể nhìn thấy, \Nhay giả vờ không nhìn thấy những gì nhìn thấy.
 Dialogue: 6,0:23:24.47,0:23:27.55,Main,,0,0,0,,Những chuyện như này... cần phải chấm dứt.
@@ -408,7 +733,7 @@ Dialogue: 6,0:25:03.82,0:25:05.44,Main,,0,0,0,,Chuyện là ấy...
 Dialogue: 6,0:25:05.44,0:25:10.20,Main,,0,0,0,,Em là em... được thăng cấp một cách an toàn\N từ Ma Chôn Chân lên Ma Lang Thang ạ.
 Dialogue: 6,0:25:10.20,0:25:12.53,Main,,0,0,0,,Khuyến mãi 2 bậc đấy ạ.
 Dialogue: 6,0:25:13.74,0:25:15.62,Main,,0,0,0,,Mà Araragi-san ơi...
-Dialogue: 6,0:25:15.62,0:25:19.71,Main,,0,0,0,,Em nghĩ là em sẽ lang thang quanh khu này một thời gian.
+Dialogue: 6,0:25:15.62,0:25:19.71,Main,,0,0,0,,Em nghĩ là em sẽ lang thang quanh khu này\N một thời gian.
 Dialogue: 6,0:25:21.58,0:25:24.34,Main,,0,0,0,,Nên nếu thấy em... thì "hãy bắt chuyện với em" nha!
 Dialogue: 6,0:25:26.50,0:25:27.13,Main,,0,0,0,,{\i1}Karen đây!
 Dialogue: 6,0:25:27.13,0:25:27.76,Main,,0,0,0,,{\i1}Tsukihi có!
@@ -424,7 +749,7 @@ Dialogue: 6,0:25:35.01,0:25:37.52,Main,,0,0,0,,{\i1}Thì nhá, có loài cá cũ
 Dialogue: 6,0:25:37.52,0:25:38.56,Main,,0,0,0,,{\i1}À, akanamada chứ gì.
 Dialogue: 6,0:25:38.56,0:25:39.39,Main,,0,0,0,,{\i1}Sao em lại biết?
 Dialogue: 6,0:25:39.39,0:25:41.10,Main,,0,0,0,,{\i1}Cái gì màu đen em biết hơi bị kinh.
-Dialogue: 6,0:25:41.10,0:25:42.31,Main,,0,0,0,,{\i1}Và giờ là câu đố cho phần xem trước.
+Dialogue: 6,0:25:41.10,0:25:42.31,Main,,0,0,0,,{\i1}Và giờ là câu đố phần xem trước.
 Dialogue: 6,0:25:42.31,0:25:42.98,Main,,0,0,0,,{\i1}Đố!
 Dialogue: 6,0:25:42.98,0:25:44.11,Main,,0,0,0,,{\i1}Bạn là cầu thủ giao bóng trận bóng chày.
 Dialogue: 6,0:25:44.11,0:25:45.82,Main,,0,0,0,,{\i1}Cầu thủ giao bóng vung tay và ném!
@@ -437,9 +762,8 @@ Dialogue: 6,0:25:55.91,0:25:58.04,Main,,0,0,0,,{\i1}Không phải "thẳng" đâ
 Dialogue: 6,0:25:58.04,0:25:59.87,Main,,0,0,150,,{\i1}Kỳ tới, Khỉ Suruga, phần 1.
 Dialogue: 6,0:25:59.87,0:26:01.41,Main,,0,0,0,,{\i1}Câu hỏi "thẳng" thế còn gì.
 Dialogue: 6,0:26:01.41,0:26:02.17,Main,,0,0,0,,{\i1}Chả hay.
-Comment: 0,0:00:53.45,0:00:57.95,Mayoi OP,,0,0,0,,==================================
-Dialogue: 6,0:00:42.65,0:00:45.19,Mayoi OP,credit,0,0,0,,{\q2\blur0.9\fs48\fscx78\fscy78\bord0\shad0\c&HFFFFFF&\3c&H000000&}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
-Dialogue: 4,0:00:42.65,0:00:45.19,Mayoi OP,credit,0,0,0,,{\q2\blur0.9\fs48\fscx78\fscy78\fry0.1\bord3\shad0\c&H000000&\3c&H000000&\t(0,300,\fry-0.1)\t(300,600,\fry0.1)\t(600,900,\fry-0.1)\t(900,1200,\fry0.1)\t(1200,1500,\fry-0.1)\t(1500,1800,\fry0.1)\t(1800,2100,\fry-0.1)\t(2100,2400,\fry0.1)\t(2400,2700,\fry-0.1)}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
+Dialogue: 6,0:00:42.65,0:00:45.19,Mayoi OP,credit,0,0,0,,{\q2\blur0.9\fs48\fscx74\fscy74\bord0\shad0\c&HFFFFFF&\3c&H000000&}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE/MOCHIOKA {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
+Dialogue: 4,0:00:42.65,0:00:45.19,Mayoi OP,credit,0,0,0,,{\q2\blur0.9\fs48\fscx74\fscy74\fry0.1\bord3\shad0\c&H000000&\3c&H000000&\t(0,300,\fry-0.1)\t(300,600,\fry0.1)\t(600,900,\fry-0.1)\t(900,1200,\fry0.1)\t(1200,1500,\fry-0.1)\t(1500,1800,\fry0.1)\t(1800,2100,\fry-0.1)\t(2100,2400,\fry0.1)\t(2400,2700,\fry-0.1)}DỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE/MOCHIOKA {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
 Dialogue: 2,0:00:53.45,0:00:57.95,Mayoi OP,,0,0,0,,{\blur0.9}Ở đây Phải, tiếp theo Trái. Mù đường mất rồi.
 Dialogue: 1,0:00:53.45,0:00:57.95,Mayoi OP,,0,0,0,,{\blur0.9\bord6\c&HFFFFFF&}Ở đây Phải, tiếp theo Trái. Mù đường mất rồi.
 Dialogue: 0,0:00:53.45,0:00:57.95,Mayoi OP,,0,0,0,,{\blur0.9\bord6.75\c&HFFFFFF&\3c&H000000&}Ở đây Phải, tiếp theo Trái. Mù đường mất rồi.
@@ -491,50 +815,50 @@ Dialogue: 0,0:01:48.50,0:01:53.97,Mayoi OP,,0,0,0,,{\blur0.9\bord6.75\c&HFFFFFF&
 Dialogue: 2,0:01:53.97,0:01:59.06,Mayoi OP,,0,0,0,,{\blur0.9}Kể cả có là đường vòng thì cũng hổng có xa
 Dialogue: 1,0:01:53.97,0:01:59.06,Mayoi OP,,0,0,0,,{\blur0.9\bord6\c&HFFFFFF&}Kể cả có là đường vòng thì cũng hổng có xa
 Dialogue: 0,0:01:53.97,0:01:59.06,Mayoi OP,,0,0,0,,{\blur0.9\bord6.75\c&HFFFFFF&\3c&H000000&}Kể cả có là đường vòng thì cũng hổng có xa
-Dialogue: 0,0:02:01.06,0:02:01.56,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(897.33,804.33)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.56,0:02:01.60,Signs,,0,0,0,,{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(899.46,874.85)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.60,0:02:01.64,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(925.06,775.82)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.64,0:02:01.68,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(950.79,674.57)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.68,0:02:01.73,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(977.27,570.97)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.73,0:02:01.77,Signs,,0,0,0,,{\fscx99.94\fscy99.94\frz-19.91\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(988.55,460.56)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.77,0:02:01.81,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.64,481.62)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.81,0:02:01.85,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.36,463.61)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.85,0:02:01.89,Signs,,0,0,0,,{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1009.72,479.11)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.89,0:02:01.93,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(997.85,469.9)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.93,0:02:01.98,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.71,477.42)}Mayoi Ốc Sên
-Dialogue: 0,0:02:01.98,0:02:02.02,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(998.7,472.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:02.02,0:02:02.06,Signs,,0,0,0,,{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1003.35,475.41)}Mayoi Ốc Sên
-Dialogue: 0,0:02:02.06,0:02:02.10,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.99,474.3)}Mayoi Ốc Sên
-Dialogue: 0,0:02:02.10,0:02:03.02,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.98,474.31)}Mayoi Ốc Sên
-Dialogue: 0,0:02:03.06,0:02:03.10,Signs,,0,0,0,,{\fscx99.95\fscy99.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\frz322.5\pos(1018.666,-85.334)}Mayoi Ốc Sên
-Dialogue: 0,0:02:03.02,0:02:03.06,Signs,,0,0,0,,{\fscx99.71\fscy99.71\frz-22.38\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.3,409.81)}Mayoi Ốc Sên
-Dialogue: 0,0:02:03.94,0:02:03.98,Signs,,0,0,0,,{\fscx99.67\fscy99.67\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.34,16.91)}Mayoi Ốc Sên
-Dialogue: 0,0:02:03.98,0:02:04.02,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.35,294.67)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.02,0:02:04.06,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,517.47)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.06,0:02:04.10,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,464.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.10,0:02:04.15,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.39,499.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.15,0:02:04.19,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.38,525.72)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.19,0:02:04.23,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.35,512.51)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.23,0:02:04.27,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,521.23)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.27,0:02:04.31,Signs,,0,0,0,,{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1460.14,509.13)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.31,0:02:04.35,Signs,,0,0,0,,{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1489.53,542.56)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.35,0:02:04.40,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1492.62,510.55)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.40,0:02:04.44,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,543.42)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.44,0:02:04.48,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1462.69,514.82)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.48,0:02:04.52,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.87,539.92)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.52,0:02:04.56,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1466.55,517.56)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.56,0:02:04.60,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,537.09)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.60,0:02:04.65,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.04,519.93)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.65,0:02:04.69,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.85,535.93)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.69,0:02:04.73,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.69,520.88)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.73,0:02:04.77,Signs,,0,0,0,,{\fscx99.72\fscy99.72\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.24,534.8)\clip(m 1460 563 l 1475 557 1491 544 1496 531 1543 524 1533 752 1404 801)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.77,0:02:04.81,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,524.93)\clip(m 1457 560 l 1470 558 1483 550 1496 534 1497 509 1598 497 1539 753 1395 843)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.81,0:02:04.85,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1480.87,531.2)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.85,0:02:04.90,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.25,527.02)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.90,0:02:04.94,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1476.21,529.44)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.94,0:02:04.98,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,528.48)}Mayoi Ốc Sên
-Dialogue: 0,0:02:04.98,0:02:05.02,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.29,528.5)}Mayoi Ốc Sên
-Dialogue: 0,0:02:05.02,0:02:07.27,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,528.48)}Mayoi Ốc Sên
+Dialogue: 0,0:02:01.06,0:02:01.56,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(897.33,804.33)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.56,0:02:01.60,Signs,,0,0,0,,{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(899.46,874.85)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.60,0:02:01.64,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(925.06,775.82)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.64,0:02:01.68,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(950.79,674.57)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.68,0:02:01.73,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(977.27,570.97)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.73,0:02:01.77,Signs,,0,0,0,,{\fscx99.94\fscy99.94\frz-19.91\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(988.55,460.56)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.77,0:02:01.81,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.64,481.62)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.81,0:02:01.85,Signs,,0,0,0,,{\fscx99.93\fscy99.93\frz-19.92\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1010.36,463.61)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.85,0:02:01.89,Signs,,0,0,0,,{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1009.72,479.11)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.89,0:02:01.93,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(997.85,469.9)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.93,0:02:01.98,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.71,477.42)}Ốc Sên Mayoi
+Dialogue: 0,0:02:01.98,0:02:02.02,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(998.7,472.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:02.02,0:02:02.06,Signs,,0,0,0,,{\fscx99.94\fscy99.94\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1003.35,475.41)}Ốc Sên Mayoi
+Dialogue: 0,0:02:02.06,0:02:02.10,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-19.94\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.99,474.3)}Ốc Sên Mayoi
+Dialogue: 0,0:02:02.10,0:02:03.02,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-19.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1001.98,474.31)}Ốc Sên Mayoi
+Dialogue: 0,0:02:03.06,0:02:03.10,Signs,,0,0,0,,{\fscx99.95\fscy99.95\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\frz322.5\pos(1018.666,-85.334)}Ốc Sên Mayoi
+Dialogue: 0,0:02:03.02,0:02:03.06,Signs,,0,0,0,,{\fscx99.71\fscy99.71\frz-22.38\alpha&H00&\fnVL FertigoPro\fs50\fsp10\blur1.1\c&H0D0EFC&\pos(1005.3,409.81)}Ốc Sên Mayoi
+Dialogue: 0,0:02:03.94,0:02:03.98,Signs,,0,0,0,,{\fscx99.67\fscy99.67\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.34,16.91)}Ốc Sên Mayoi
+Dialogue: 0,0:02:03.98,0:02:04.02,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.35,294.67)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.02,0:02:04.06,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,517.47)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.06,0:02:04.10,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,464.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.10,0:02:04.15,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.39,499.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.15,0:02:04.19,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.38,525.72)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.19,0:02:04.23,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.35,512.51)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.23,0:02:04.27,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.36,521.23)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.27,0:02:04.31,Signs,,0,0,0,,{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1460.14,509.13)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.31,0:02:04.35,Signs,,0,0,0,,{\fscx99.68\fscy99.68\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1489.53,542.56)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.35,0:02:04.40,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1492.62,510.55)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.40,0:02:04.44,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.37,543.42)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.44,0:02:04.48,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1462.69,514.82)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.48,0:02:04.52,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.87,539.92)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.52,0:02:04.56,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1466.55,517.56)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.56,0:02:04.60,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,537.09)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.60,0:02:04.65,Signs,,0,0,0,,{\fscx99.69\fscy99.69\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.04,519.93)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.65,0:02:04.69,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1483.85,535.93)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.69,0:02:04.73,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1484.69,520.88)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.73,0:02:04.77,Signs,,0,0,0,,{\fscx99.72\fscy99.72\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.24,534.8)\clip(m 1460 563 l 1475 557 1491 544 1496 531 1543 524 1533 752 1404 801)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.77,0:02:04.81,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,524.93)\clip(m 1457 560 l 1470 558 1483 550 1496 534 1497 509 1598 497 1539 753 1395 843)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.81,0:02:04.85,Signs,,0,0,0,,{\fscx99.7\fscy99.7\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1480.87,531.2)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.85,0:02:04.90,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270.01\pos(1477.25,527.02)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.90,0:02:04.94,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1476.21,529.44)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.94,0:02:04.98,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.31,528.48)}Ốc Sên Mayoi
+Dialogue: 0,0:02:04.98,0:02:05.02,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.29,528.5)}Ốc Sên Mayoi
+Dialogue: 0,0:02:05.02,0:02:07.27,Signs,,0,0,0,,{\fscx99.71\fscy99.71\alpha&H00&\fnVL FertigoPro\fs30\fsp8\blur1.1\c&H0D0EFC&\frz270\pos(1477.3,528.48)}Ốc Sên Mayoi
 Dialogue: 0,0:02:01.06,0:02:01.56,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(907.81,90.28)}Yêu Ma Quái Truyện
 Dialogue: 0,0:02:01.56,0:02:01.60,Signs,,0,0,0,,{\fscx99.98\fscy99.98\frz-0.41\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(915,161.03)}Yêu Ma Quái Truyện
 Dialogue: 0,0:02:01.60,0:02:01.64,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur24\bord16\fsp1\c&H8684F4&\3c&H9184F4&\pos(1002.47,66.21)}Yêu Ma Quái Truyện
@@ -545,4 +869,3 @@ Dialogue: 1,0:02:01.56,0:02:01.60,Signs,,0,0,0,,{\fscx99.98\fscy99.98\frz-0.41\a
 Dialogue: 1,0:02:01.60,0:02:01.64,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-5.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1002.47,66.21)}Yêu Ma Quái Truyện
 Dialogue: 1,0:02:01.64,0:02:01.68,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz-10.39\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1089.83,-25.61)}Yêu Ma Quái Truyện
 Dialogue: 1,0:02:01.68,0:02:01.73,Signs,,0,0,0,,{\fscx99.95\fscy99.95\frz-15.37\alpha&H00&\fnVL TelingaterDisplay\fs150\blur1\fsp1\c&HFEFFFF&\pos(1176.55,-114.39)}Yêu Ma Quái Truyện
-Comment: 0,0:23:48.57,0:23:52.33,Main,,0,0,0,,=============================================
