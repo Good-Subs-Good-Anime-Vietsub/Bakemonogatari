@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 444
-Active Line: 452
-Video Position: 36784
+Scroll Position: 224
+Active Line: 244
+Video Position: 19853
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -259,7 +259,7 @@ Dialogue: 4,0:12:42.86,0:12:45.23,Main,,0,0,0,,Không muốn về nhà... à?
 Dialogue: 4,0:12:46.85,0:12:52.58,Main,,0,0,0,,"Thật không may", cái {\u1}con người nhỏ bé{\u0} đó của cậu,\N nằm ngoài khả năng của tôi.
 Dialogue: 4,0:12:52.58,0:12:54.30,Main,,0,0,0,,Ít nhất cũng động viên đi chớ.
 Dialogue: 4,0:12:54.30,0:13:00.15,Main,,0,0,0,,"Lẽ dĩ nhiên", cái {\u1}con người nhỏ bé{\u0} đó của cậu,\N nằm ngoài khả năng của tôi.
-Dialogue: 4,0:13:01.36,0:13:03.93,Main,,0,0,0,,Con người tôi hẳn là nhạt nhẽo.
+Dialogue: 4,0:13:01.36,0:13:03.93,Main,,0,0,0,,Con người tôi hẳn là nhỏ mọn.
 Dialogue: 4,0:13:04.24,0:13:06.91,Main,,0,0,0,,Phiền não của tôi quá ấu trĩ.
 Dialogue: 4,0:13:06.91,0:13:08.27,Main,,0,0,0,,Quá...
 Dialogue: 4,0:13:08.27,0:13:09.10,Main,,0,0,0,,Đáng ghét!
@@ -276,7 +276,7 @@ Dialogue: 4,0:13:35.33,0:13:36.64,Main,,0,0,0,,Đương nhiên không.
 Dialogue: 4,0:13:36.64,0:13:40.66,Main,,0,0,0,,Nhưng như thế ấn tượng mà, \Nhay có thể nói hấp dẫn đấy chứ.
 Dialogue: 4,0:13:40.66,0:13:42.80,Main,,0,0,0,,Sự "chán" của Araragi-kun ấy.
 Dialogue: 4,0:13:45.72,0:13:48.01,Main,,0,0,0,,Dù là rút được Đại Cát,
-Dialogue: 4,0:13:48.01,0:13:53.19,Main,,0,0,0,,nhưng khi đọc kỹ thì chẳng thấy có gì tốt đẹp,\N đấy mới gọi là "chán".
+Dialogue: 4,0:13:48.01,0:13:53.19,Main,,0,0,0,,nhưng khi đọc kỹ thì cũng chẳng tốt đẹp gì cả,\N đấy mới gọi là "chán".
 Dialogue: 4,0:13:53.89,0:13:55.10,Main,,0,0,0,,{\i1}"Chán"?
 Dialogue: 4,0:13:55.45,0:13:59.74,Main,,0,0,0,,{\an5}Cơ mà Araragi-kun, \Ncậu có vẻ rất yêu quý em gái mình.
 Dialogue: 4,0:13:59.74,0:14:01.07,Main,,0,0,0,,{\an5}Chảnh chọe suốt ngày thôi.

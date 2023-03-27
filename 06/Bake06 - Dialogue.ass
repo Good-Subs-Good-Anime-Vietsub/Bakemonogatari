@@ -15,15 +15,16 @@ Audio File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mk
 Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 4
-Video Position: 23994
+Video Zoom Percent: 0.625000
+Scroll Position: 301
+Active Line: 310
+Video Position: 25767
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4,4,2,12,12,50,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
-Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,DFGKanTeiRyu-XB,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,Adobe Clean,50,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,-1,0,0,0,100,100,0,0,3,0,0.0740741,8,10,10,30,1
 Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,100,100,0,0,1,3,1,2,12,12,40,1
 Style: Kanbaru Op,SJ Blound Bold Condensed,88,&H00E6CED7,&HFFFFFFFF,&H005E555B,&H96000000,0,0,0,0,100,100,0,0,1,4.5,0,2,0,0,38,1
@@ -46,15 +47,15 @@ Dialogue: 12,0:00:28.54,0:00:30.88,Main,,0,0,0,,Ngược lại còn rất hợp 
 Dialogue: 12,0:00:34.34,0:00:36.73,Main,,0,0,0,,Mà Araragi-san này, anh đang đi đâu thế?
 Dialogue: 12,0:00:37.27,0:00:38.30,Main,,0,0,0,,Về nhà.
 Dialogue: 12,0:00:38.30,0:00:39.89,Main,,0,0,0,,Xong rồi có ra ngoài không?
-Dialogue: 12,0:00:41.15,0:00:43.65,Main,,0,0,0,,À, có sang nhà Senjōgahara.
+Dialogue: 12,0:00:41.15,0:00:43.65,Main,,0,0,0,,Ờ, có sang nhà Senjōgahara.
 Dialogue: 12,0:00:43.65,0:00:47.96,Main,,0,0,0,,Bởi sắp "thi năng lực" nên cậu ấy hứa sẽ kèm anh học.
 Dialogue: 12,0:00:47.96,0:00:50.40,Main,,0,0,0,,Em nhớ mà đúng không? Senjōgahara ấy.
 Dialogue: 12,0:00:50.40,0:00:53.11,Main,,0,0,0,,À~ Là chị gái tsundere ấy à.
 Dialogue: 12,0:00:55.95,0:00:57.12,Main,,0,0,0,,Mà theo em nhớ...
-Dialogue: 12,0:00:57.12,0:01:02.07,Main,,0,0,0,,Araragi-san và Senjōgahara-san đang trong một mối quan hệ ha?
-Dialogue: 12,0:01:02.07,0:01:03.33,Main,,0,0,0,,Chắc thế.
-Dialogue: 12,0:01:04.29,0:01:07.04,Main,,0,0,0,,Thế thì... mặc dù là anh kêu kèm học...
-Dialogue: 12,0:01:07.04,0:01:10.34,Main,,0,0,0,,nhưng thực chất là hai người chim chuột nhau đúng không nào?
+Dialogue: 12,0:00:57.12,0:01:02.07,Main,,0,0,0,,Araragi-san và Senjōgahara-san đang yêu nhau nhỉ?
+Dialogue: 12,0:01:02.07,0:01:03.33,Main,,0,0,0,,Ừm, kiểu thế.
+Dialogue: 12,0:01:04.29,0:01:07.04,Main,,0,0,0,,Thế thì... mặc dù anh kêu là kèm học...
+Dialogue: 12,0:01:07.04,0:01:10.34,Main,,0,0,0,,nhưng thực chất là hai người chim chuột nhau đúng không!
 Dialogue: 12,0:01:12.54,0:01:15.49,Main,,0,0,0,,Ngay trước bài thi quyết định xem anh có bị lưu ban hay không...
 Dialogue: 12,0:01:15.49,0:01:18.82,Main,,0,0,0,,mà lại mò đến nhà người yêu như thế.
 Dialogue: 12,0:01:18.82,0:01:21.89,Main,,0,0,0,,Không khác gì tự sát, Araragi-san à.
@@ -62,10 +63,10 @@ Dialogue: 12,0:01:21.89,0:01:25.73,Main,,0,0,0,,Đúng nó phải là có thể 
 Dialogue: 12,0:01:25.73,0:01:28.28,Main,,0,0,0,,Với cả, tự sát cái con khỉ.
 Dialogue: 12,0:01:28.28,0:01:30.48,Main,,0,0,0,,Rõ ràng là tự sát, sao mà nghĩ khác được.
 Dialogue: 12,0:01:30.48,0:01:37.57,GT,,0,0,20,,{\c&HFFFE35&}Deru Tokoro ni Deru{\c}: \Nlà 1 cụm từ về việc đưa ra {\c&H3EFF35&}tòa{\c}, {\c&H3EFF35&}cơ quan có thẩm quyền{\c}, {\c&H3EFF35&}công khai{\c},... nghĩa đen là {\c&H3EFF35&}nơi bên ngoài{\c}, {\c&H3EFF35&}nơi lộ ra{\c},...
-Dialogue: 12,0:01:30.48,0:01:34.82,Main,,0,0,0,,Xem ra là phải "lôi em ra vạch rõ trắng đen" mới được.
+Dialogue: 12,0:01:30.48,0:01:34.82,Main,,0,0,0,,Xem chừng là phải "lôi em ra vạch rõ trắng đen" mới được.
 Dialogue: 12,0:01:35.78,0:01:37.57,Main,,0,0,0,,"Lôi em ra vạch" á?!
 Dialogue: 12,0:01:38.03,0:01:41.09,Main,,0,0,0,,Là ngực hay mông hả anh?
-Dialogue: 12,0:01:41.09,0:01:44.79,Main,,0,0,0,,Araragi-san muốn gì từ thân thể học sinh tiểu học cơ chứ?
+Dialogue: 12,0:01:41.09,0:01:44.79,Main,,0,0,0,,Araragi-san muốn gì từ cơ thể của học sinh tiểu học cơ chứ?
 Dialogue: 12,0:01:44.79,0:01:47.55,Main,,0,0,0,,Im ngay! Còn chưa nắm thóp được anh mày đâu!
 Dialogue: 12,0:01:52.75,0:01:55.21,Main,,0,0,0,,Này, Hachikuji, em ấy—
 Dialogue: 12,0:02:10.27,0:02:12.11,Main,,0,0,0,,Yo~ Araragi-senpai!
@@ -77,12 +78,12 @@ Dialogue: 12,0:04:12.10,0:04:15.65,Main,,0,0,0,,"Thế này mà cũng kêu là t
 Dialogue: 12,0:04:15.65,0:04:18.67,Main,,0,0,0,,Đó là câu mà người ta tưởng là nghĩ ra được\N nhưng lại không.
 Dialogue: 12,0:04:18.67,0:04:22.41,Main,,0,0,0,,Phải nói là quá hoàn hảo trong hoàn cảnh này.
 Dialogue: 12,0:04:22.41,0:04:24.99,Main,,0,0,0,,Đây người ta gọi là "lanh lợi nhanh trí".
-Dialogue: 12,0:04:27.72,0:04:28.70,Main,,0,0,0,,Ừm, chính xác là thế.
+Dialogue: 12,0:04:27.23,0:04:28.70,Main,,0,0,0,,Ừm, đúng là thế.
 Dialogue: 12,0:04:28.70,0:04:31.92,Main,,0,0,0,,Thực ra là em đuổi theo Araragi-senpai đấy.
 Dialogue: 12,0:04:32.90,0:04:34.80,Main,,0,0,0,,Là thế ha, anh biết mà.
 Dialogue: 12,0:04:34.80,0:04:36.76,Main,,0,0,0,,Ra vậy, ra là anh biết.
 Dialogue: 12,0:04:37.05,0:04:38.93,Main,,0,0,0,,Không hổ danh là Araragi-senpai.
-Dialogue: 12,0:04:38.93,0:04:43.25,Main,,0,0,0,,Đối với kiểu "trẻ người non dạ" như em \Nthì anh chỉ cần nhìn cái là "xuyên thấu" hết ha.
+Dialogue: 12,0:04:38.93,0:04:43.25,Main,,0,0,0,,Đối với kiểu trẻ người non dạ như em \Nthì anh chỉ cần nhìn cái là xuyên thấu hết ha.
 Dialogue: 12,0:04:45.11,0:04:50.68,Main,,0,0,0,,Dù khá xấu hổ khi bị nhìn xuyên thấu như thế, \Nnhưng thật lòng mà nói em vô cùng ngưỡng mộ.
 Dialogue: 12,0:04:54.81,0:04:58.22,Main,,0,0,600,,Thế em học xong không phải sinh hoạt CLB à?
 Dialogue: 12,0:04:58.22,0:04:59.87,Main,,0,0,600,,Nán lại chỗ này liệu ổn không?
@@ -90,7 +91,7 @@ Dialogue: 12,0:04:59.87,0:05:01.28,Main,,0,0,600,,Thì anh nhìn xem này.
 Dialogue: 12,0:05:01.28,0:05:03.24,Main,,0,0,0,,Tay em đang thế này mà.
 Dialogue: 12,0:05:04.75,0:05:07.45,Main,,0,0,0,,Thế Kanbaru... nay em muốn gì nào?
 Dialogue: 12,0:05:07.45,0:05:08.70,Main,,0,0,0,,À phải.
-Dialogue: 12,0:05:09.41,0:05:12.51,Main,,0,0,0,,Hẳn là sáng nay anh đã đọc tin báo quốc tế rồi nhở?
+Dialogue: 12,0:05:09.41,0:05:12.51,Main,,0,0,0,,Hẳn là sáng nay anh đã đọc báo quốc tế rồi nhở?
 Dialogue: 12,0:05:12.51,0:05:15.00,Main,,0,0,0,,Về tình hình chính trị của Nga tới đây ấy,
 Dialogue: 12,0:05:15.00,0:05:17.09,Main,,0,0,0,,em muốn nghe qua ý kiến của Araragi-senpai.
 Dialogue: 12,0:05:17.84,0:05:19.05,Main,,0,0,0,,Thời sự luôn mới ghê!
@@ -111,8 +112,8 @@ Dialogue: 12,0:06:02.75,0:06:04.75,Main,,0,0,0,,Nên anh được bạn ấy kè
 Dialogue: 12,0:06:09.43,0:06:10.94,Main,,0,0,0,,Senjōgahara-senpai đúng không?
 Dialogue: 12,0:06:11.65,0:06:13.43,Main,,0,0,0,,Ồ, em biết à?
 Dialogue: 12,0:06:13.43,0:06:16.32,Main,,0,0,0,,Nói tới trong lớp Araragi-senpai ai học giỏi...
-Dialogue: 12,0:06:16.32,0:06:19.39,Main,,0,0,0,,thì làm gì còn ai ngoài Senjōgahara-senpai.
-Dialogue: 12,0:06:19.39,0:06:21.48,Main,,0,0,0,,Cái này em nghe đồn lâu rồi.
+Dialogue: 12,0:06:16.32,0:06:19.39,Main,,0,0,0,,thì làm gì còn ai ngoài Senjōgahara-senpai chứ.
+Dialogue: 12,0:06:19.39,0:06:21.48,Main,,0,0,0,,Cái này em nghe đồn từ lâu rồi.
 Dialogue: 12,0:06:22.98,0:06:24.44,Main,,0,0,0,,Mà đúng là thế thật.
 Dialogue: 12,0:06:27.69,0:06:30.17,Main,,0,0,0,,Vậy em không làm vướng chân anh nữa.
 Dialogue: 12,0:06:30.17,0:06:32.52,Main,,0,0,0,,Xin phép cáo lui tại đây.
@@ -133,7 +134,7 @@ Dialogue: 12,0:07:12.97,0:07:15.42,Main,,0,0,0,,Chịu chả biết em ấy mu�
 Dialogue: 12,0:07:16.16,0:07:20.68,Main,,0,0,0,,Có khi nào là chị ta... thích Araragi-san cũng nên?
 Comment: 12,0:07:20.68,0:07:21.38,Main,,0,0,0,,Hả?
 Dialogue: 12,0:07:21.38,0:07:23.47,Main,,0,0,0,,Hoang đường.
-Dialogue: 12,0:07:23.47,0:07:26.05,Main,,0,0,0,,Có phải nam chính gal game đâu nào.
+Dialogue: 12,0:07:23.47,0:07:26.05,Main,,0,0,0,,Có phải nam chính trong gal game đâu nào.
 Dialogue: 12,0:07:26.05,0:07:29.22,Main,,0,0,0,,Lấy đâu ra chuyện tự dưng nổi tiếng được gái bu quanh.
 Dialogue: 12,0:07:29.22,0:07:32.67,Main,,0,0,0,,Bản năng phụ nữ trong em mách bảo rằng\N em không hề nhầm.
 Dialogue: 12,0:07:33.44,0:07:37.68,Main,,0,0,0,,Chị ta sớm thôi,\N khả năng cao là sẽ tỏ tình với anh đấy.
@@ -150,36 +151,37 @@ Dialogue: 12,0:08:23.88,0:08:25.16,Main,,900,0,0,,Chả phải do ngu sao?
 Dialogue: 12,0:08:27.15,0:08:32.93,Main,,0,0,600,,Từ bé tới giờ... \Nviệc học chưa bao giờ gây khó dễ cho tớ.
 Dialogue: 12,0:08:32.93,0:08:35.91,Main,,0,0,600,,Nên điều mà Araragi-kun không hiểu\N tớ cũng chịu thôi.
 Dialogue: 12,0:08:35.91,0:08:37.54,Main,,0,0,0,,Vậy á?
-Dialogue: 12,0:08:37.54,0:08:45.88,Main,,0,0,600,,Bài thi năng lực lần này cậu có thể sẽ vượt qua được, \Nnếu ngay từ bây giờ bắt tay vào học dưới sự kèm cặp của tớ.
+Dialogue: 12,0:08:37.54,0:08:42.61,Main,,0,0,600,,Bài thi năng lực lần này cậu có thể sẽ vượt qua được\Nnếu ngay từ bây giờ...
+Dialogue: 12,0:08:42.61,0:08:45.88,Main,,0,0,600,,bắt tay vào học dưới sự kèm cặp của tớ.
 Dialogue: 12,0:08:45.88,0:08:49.00,Main,,0,0,600,,Nhưng chính xác thì cậu tính làm gì sau này?
 Dialogue: 12,0:08:49.00,0:08:50.22,Main,,0,0,0,,Sau này?
 Dialogue: 12,0:08:50.92,0:08:51.85,Main,,0,0,0,,Sau tốt nghiệp!
 Dialogue: 12,0:08:51.85,0:08:55.84,Main,,0,0,0,,Sau tốt nghiệp?! Tự dưng nói cái gì thế.
 Dialogue: 12,0:08:55.84,0:08:58.88,Main,,0,0,0,,Đã là cuối tháng 5 năm 3 rồi đấy.
 Dialogue: 12,0:08:58.88,0:09:02.64,Main,,0,0,0,,Nhớ là cậu từng bảo \Nđại loại chỉ cần tốt nghiệp thôi là được.
-Dialogue: 12,0:09:02.64,0:09:07.69,Main,,0,0,0,,Có nghĩa là, Araragi-kun sẽ tìm được việc ngay sau khi tốt nghiệp?
-Dialogue: 12,0:09:06.77,0:09:07.15,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2110.39,945.6)}À thì...
-Dialogue: 12,0:09:07.15,0:09:07.19,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1693.56,945.6)}À thì...
-Dialogue: 12,0:09:07.19,0:09:07.23,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1459.55,945.6)}À thì...
-Dialogue: 12,0:09:07.23,0:09:07.27,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1246.01,945.6)}À thì...
-Dialogue: 12,0:09:07.27,0:09:07.31,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1084.26,945.6)}À thì...
-Dialogue: 12,0:09:07.31,0:09:07.35,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1005.76,945.6)}À thì...
-Dialogue: 12,0:09:07.35,0:09:07.40,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(973.79,945.6)}À thì...
-Dialogue: 12,0:09:07.40,0:09:07.44,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(961.95,945.6)}À thì...
-Dialogue: 12,0:09:07.44,0:09:08.11,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(960,945.6)}À thì...
-Dialogue: 12,0:09:08.11,0:09:08.15,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1364.58,945.6)}À thì...
-Dialogue: 12,0:09:08.15,0:09:08.19,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1556.32,945.6)}À thì...
-Dialogue: 12,0:09:08.19,0:09:08.23,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1743.55,945.6)}À thì...
-Dialogue: 12,0:09:08.23,0:09:08.27,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1906.7,945.6)}À thì...
-Dialogue: 12,0:09:08.27,0:09:08.31,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2035.56,945.6)}À thì...
-Dialogue: 12,0:09:08.31,0:09:08.36,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2086.05,945.6)}À thì...
-Dialogue: 12,0:09:08.36,0:09:08.40,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2103.17,945.6)}À thì...
-Dialogue: 12,0:09:08.40,0:09:08.44,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2109.4,945.6)}À thì...
-Dialogue: 12,0:09:08.44,0:09:08.48,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2110.45,945.6)}À thì...
-Dialogue: 12,0:09:08.48,0:09:08.69,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2110.46,945.6)}À thì...
+Dialogue: 12,0:09:02.64,0:09:07.69,Main,,0,0,0,,Có nghĩa là, Araragi-kun sẽ tìm được việc\N ngay sau khi tốt nghiệp sao?
+Dialogue: 12,0:09:06.77,0:09:07.15,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2110.39,875.6)}À thì...
+Dialogue: 12,0:09:07.15,0:09:07.19,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1693.56,875.6)}À thì...
+Dialogue: 12,0:09:07.19,0:09:07.23,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1459.55,875.6)}À thì...
+Dialogue: 12,0:09:07.23,0:09:07.27,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1246.01,875.6)}À thì...
+Dialogue: 12,0:09:07.27,0:09:07.31,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1084.26,875.6)}À thì...
+Dialogue: 12,0:09:07.31,0:09:07.35,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1005.76,875.6)}À thì...
+Dialogue: 12,0:09:07.35,0:09:07.40,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(973.79,875.6)}À thì...
+Dialogue: 12,0:09:07.40,0:09:07.44,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(961.95,875.6)}À thì...
+Dialogue: 12,0:09:07.44,0:09:08.11,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(960,875.6)}À thì...
+Dialogue: 12,0:09:08.11,0:09:08.15,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1364.58,875.6)}À thì...
+Dialogue: 12,0:09:08.15,0:09:08.19,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1556.32,875.6)}À thì...
+Dialogue: 12,0:09:08.19,0:09:08.23,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1743.55,875.6)}À thì...
+Dialogue: 12,0:09:08.23,0:09:08.27,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(1906.7,875.6)}À thì...
+Dialogue: 12,0:09:08.27,0:09:08.31,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2035.56,875.6)}À thì...
+Dialogue: 12,0:09:08.31,0:09:08.36,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2086.05,875.6)}À thì...
+Dialogue: 12,0:09:08.36,0:09:08.40,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2103.17,875.6)}À thì...
+Dialogue: 12,0:09:08.40,0:09:08.44,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2109.4,875.6)}À thì...
+Dialogue: 12,0:09:08.44,0:09:08.48,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2110.45,875.6)}À thì...
+Dialogue: 12,0:09:08.48,0:09:08.69,Main,,0,0,0,,{=0}{\bord3.6\fscx100\fscy100\frz0\1a&H00&\3a&H1E&\pos(2110.46,875.6)}À thì...
 Dialogue: 12,0:09:07.69,0:09:10.11,Main,,0,0,0,,Hay là thời gian đầu làm bán thời gian?
-Dialogue: 12,0:09:10.11,0:09:11.99,Main,,0,0,0,,Hay làm NEET?
-Dialogue: 12,0:09:11.99,0:09:16.99,Main,,0,0,0,,À, vẫn luôn còn sự lựa chọn là\N trường dạy nghề mà nhở.
+Dialogue: 12,0:09:10.11,0:09:11.99,Main,,0,0,0,,Hay là làm NEET nhỉ?
+Dialogue: 12,0:09:11.99,0:09:16.99,Main,,0,0,0,,À~ Vẫn luôn còn sự lựa chọn là\N trường dạy nghề mà nhở.
 Dialogue: 12,0:09:16.99,0:09:19.08,Main,,0,0,0,,Bộ cậu tính làm mẹ tớ à?
 Dialogue: 12,0:09:19.08,0:09:21.18,Main,,0,0,0,,Mẹ?! Nói cái gì thế?
 Dialogue: 12,0:09:23.01,0:09:24.32,Main,,0,0,0,,Người yêu mà đúng không?
@@ -195,12 +197,12 @@ Dialogue: 12,0:09:49.36,0:09:50.40,Main,,0,900,0,,Thế sao đây ta?
 Dialogue: 12,0:09:50.40,0:09:52.74,Main,,0,0,0,,Hay là sau tốt nghiệp ta sống chung?
 Dialogue: 12,0:09:53.65,0:10:00.42,Main,,0,0,0,,Bằng cách đó, ngay cả khi không đi chung đường,\N thì chúng ta vẫn có thể dành nhiều thời gian cho nhau còn gì.
 Dialogue: 12,0:10:00.42,0:10:02.49,Main,,0,900,0,,Ừ thì cũng không phải tệ.
-Dialogue: 12,0:10:03.20,0:10:05.67,Main,,0,0,600,,Cũng không phải tệ?!\N Ý là sao?
+Dialogue: 12,0:10:03.20,0:10:05.67,Main,,0,0,600,,"Cũng không phải tệ"?!\N Ý là sao hả?
 Dialogue: 12,0:10:06.13,0:10:08.29,Main,,0,0,600,,Muốn ạ! Cứ như vậy đi ạ!
 Dialogue: 12,0:10:08.29,0:10:08.97,Main,,0,0,600,,À thế à.
 Dialogue: 12,0:10:12.67,0:10:14.64,Main,,0,900,0,,{\i1}Hẹn hò rốt cuộc là như nào?
 Dialogue: 12,0:10:16.72,0:10:18.81,Main,,0,0,0,,Cậu thở dài hơi bị nhiều đấy, Araragi-kun.
-Dialogue: 12,0:10:19.47,0:10:24.15,Main,,0,0,0,,Cậu biết không?\N 1 tiếng thở dài là mất 1 miếng hạnh phúc đấy.
+Dialogue: 12,0:10:19.47,0:10:24.15,Main,,0,0,0,,Cậu biết không?\N 1 tiếng thở dài là mất đi 1 miếng hạnh phúc đấy.
 Dialogue: 12,0:10:24.15,0:10:27.35,Main,,0,900,0,,{\q2}Vầy thì chắc tớ mất cả nghìn miếng\N hạnh phúc rồi cũng nên.
 Dialogue: 12,0:10:27.69,0:10:31.86,Main,,0,0,600,,Tớ không cần biết \Ncậu đã mất bao nhiêu miếng hạnh phúc...
 Dialogue: 12,0:10:31.86,0:10:35.19,Main,,0,0,600,,nhưng trước mặt tớ thì đừng có mà thở dài.
@@ -208,11 +210,11 @@ Dialogue: 12,0:10:35.19,0:10:36.33,Main,,0,0,0,,Cảm giác bệnh lắm!
 Dialogue: 12,0:10:36.69,0:10:39.17,Main,,0,900,0,,Phải nói cậu nặng lời thật đấy.
 Dialogue: 12,0:10:39.17,0:10:40.79,Main,,0,0,0,,Dù phát bệnh thế cơ mà...
 Dialogue: 12,0:10:40.79,0:10:41.74,Main,,0,0,0,,...bệnh yêu.
-Dialogue: 12,0:10:43.91,0:10:46.42,Main,@@@,0,0,0,,Nói câu đó thì hơi khó để đáp lại ấy.
+Dialogue: 12,0:10:43.91,0:10:46.42,Main,,0,0,0,,Có hơi khó để đáp lại câu đó ấy.
 Dialogue: 12,0:10:46.42,0:10:48.63,Main,,0,0,0,,Mà cậu biết không, Araragi-kun.
 Dialogue: 12,0:10:49.58,0:10:53.04,Main,,0,0,0,,Tớ... chưa chia tay con trai bao giờ.
 Dialogue: 12,0:10:53.04,0:10:56.89,Main,,0,0,0,,Nên là, với cả Araragi-kun,\N tớ cũng không tính chia tay đâu.
-Dialogue: 12,0:10:58.48,0:11:00.72,Main,,0,0,0,,{\i1}Biểu đạt tình cảm cái kiểu này thì...
+Dialogue: 12,0:10:58.48,0:11:00.72,Main,,0,0,0,,{\i1}Thể hiện tình cảm cái kiểu này thì...
 Dialogue: 12,0:11:00.72,0:11:02.81,Main,,0,800,0,,{\i1}xem ra cả hai đứa đều dốt như nhau.
 Dialogue: 12,0:11:03.22,0:11:05.11,Main,,0,0,600,,Nè, Senjōgahara?
 Dialogue: 12,0:11:05.11,0:11:05.87,Main,,0,0,600,,Sao nào?
@@ -234,15 +236,15 @@ Dialogue: 12,0:11:44.48,0:11:45.90,Main,,0,0,0,,Cái tên hoài niệm đấy.
 Dialogue: 12,0:11:45.89,0:11:47.48,Main,,0,0,0,,Vậy à.
 Dialogue: 12,0:11:47.48,0:11:49.48,Main,,0,0,0,,{\i1}Quả nhiên là quen biết.
 Dialogue: 12,0:11:49.48,0:11:51.31,Main,,0,0,0,,{\i1}Khi mình đề cập tới học nhóm...
-Dialogue: 12,0:11:51.31,0:11:53.90,Main,,0,0,0,,{\i1}Kanbaru không đả động gì tới người giỏi nhất lớp là Hanekawa...
-Dialogue: 12,0:11:53.90,0:11:56.52,Main,,0,0,0,,{\i1}mà lại nghĩ tới Senjōgahara trước tiên.
+Dialogue: 12,0:11:51.31,0:11:53.90,Main,,0,0,0,,{\i1}Kanbaru không đả động gì tới \Nngười giỏi nhất lớp là Hanekawa...
+Dialogue: 12,0:11:53.90,0:11:56.52,Main,,0,0,0,,{\i1}mà lại đi nghĩ tới Senjōgahara trước tiên.
 Dialogue: 12,0:11:56.52,0:11:57.70,Main,,0,0,0,,{\i1}Vậy ra đây là lý do?
 Dialogue: 12,0:11:58.75,0:12:02.11,Main,,0,0,0,,Ừm, bé ấy từng là đàn em của tớ hồi cấp 2.
 Dialogue: 12,0:12:02.43,0:12:05.28,Main,,0,0,0,,Kanbaru giờ vẫn là đàn em đấy,\N vẫn cùng trường còn gì.
 Dialogue: 12,0:12:05.28,0:12:06.68,Main,,0,0,0,,Kanbaru?
 Dialogue: 12,0:12:06.68,0:12:08.24,Main,,0,0,0,,Nghe thân thiết quá nhờ.
 Dialogue: 12,0:12:12.16,0:12:14.12,Main,,0,0,0,,Có chuyện gì với em ấy hả?
-Dialogue: 12,0:12:14.12,0:12:15.46,Main,,0,0,0,,Araragi-kun?
+Dialogue: 12,0:12:14.12,0:12:15.46,Main,,0,0,0,,Araragi-kun!
 Dialogue: 12,0:12:18.56,0:12:22.99,Main,,0,0,0,,Araragi-kun ấy...\N vết thương rất mau lành đúng không nhở?
 Dialogue: 12,0:12:22.99,0:12:25.53,Main,,0,0,0,,Vậy xin tạm một nhãn cầu cũng không sao đâu nhỉ.
 Dialogue: 12,0:12:25.76,0:12:26.97,Main,,0,0,0,,Đừng đừng!
@@ -250,22 +252,22 @@ Dialogue: 12,0:12:26.97,0:12:28.80,Main,,0,0,0,,Nhãn cầu là có sao đấy.
 Dialogue: 12,0:12:28.80,0:12:31.93,Main,,0,0,0,,Tớ có làm gì nên tội đâu!\N Không có thân thiết gì hết!
 Dialogue: 12,0:12:31.93,0:12:34.43,Main,,0,0,0,,Chỉ có duy nhất Senjōgahara thôi!
 Dialogue: 12,0:12:40.07,0:12:43.08,Main,,0,0,600,,À thế à~\N Nói câu nghe mát lòng mát dạ.
-Dialogue: 12,0:12:47.42,0:12:50.37,Main,,0,0,0,,Tớ có hơi nóng vội.
+Dialogue: 12,0:12:47.42,0:12:50.37,Main,,0,0,0,,Tớ có hơi nóng chút.
 Dialogue: 12,0:12:50.37,0:12:53.00,Main,,0,0,0,,Có làm cậu giật mình không, Araragi-kun?
-Dialogue: 12,0:12:53.00,0:12:55.83,Main,,0,0,0,,Cậu... rồi có ngày giết người thật như chơi.
-Dialogue: 12,0:12:55.83,0:12:58.29,Main,,0,0,0,,Nếu thế thì sẽ là Araragi-kun.
-Dialogue: 12,0:12:58.29,0:13:00.92,Main,@@@,0,0,0,,"Đối tác" đầu tiên sẽ là Araragi-kun.
+Dialogue: 12,0:12:53.00,0:12:55.83,Main,,0,0,0,,Cậu... rồi có ngày giết người như chơi.
+Dialogue: 12,0:12:55.83,0:12:58.29,Main,,0,0,0,,Nếu thế thì sẽ giết Araragi-kun.
+Dialogue: 12,0:12:58.29,0:13:00.92,Main,,0,0,0,,"Đối tác" đầu tiên sẽ là Araragi-kun.
 Dialogue: 12,0:13:00.92,0:13:03.65,Main,,0,0,0,,Sẽ không chọn ai khác ngoài Araragi-kun. \NXin hứa!
 Dialogue: 12,0:13:03.65,0:13:05.61,Main,,0,0,0,,Cái tình yêu méo mó thì xin thôi!
 Dialogue: 12,0:13:05.61,0:13:08.20,Main,,0,0,0,,Có sao đâu nào, chấp nhận đi.
 Dialogue: 12,0:13:08.20,0:13:12.56,Main,,0,0,0,,Nếu tớ là người giết Araragi-kun, \Nthì tức là vào giây phút Araragi-kun lâm chung...
 Dialogue: 12,0:13:12.56,0:13:16.06,Main,,0,0,0,,tớ sẽ là người gần gũi với cậu nhất đó.
 Dialogue: 12,0:13:16.06,0:13:17.41,Main,,0,0,0,,Lãng mạn thế còn gì?
-Dialogue: 12,0:13:17.41,0:13:22.32,Main,,0,0,0,,Không muốn! Dù tớ có bị giết,\N thì cũng không muốn cậu là người xuống tay.
-Dialogue: 12,0:13:22.32,0:13:26.67,Main,,0,0,0,,Bất kể là bị ai giết hay giết thế nào,\N vẫn còn tốt chán so với việc bị cậu giết.
+Dialogue: 12,0:13:17.41,0:13:22.32,Main,,0,0,0,,Không muốn! Dù tớ có bị giết,\N thì cũng không muốn cậu là người ra tay.
+Dialogue: 12,0:13:22.32,0:13:26.67,Main,,0,0,0,,Bất kể là bị ai giết hay bị giết thế nào,\N vẫn còn tốt chán so với việc bị cậu giết.
 Dialogue: 12,0:13:26.67,0:13:29.50,Main,,0,0,0,,Cái gì cơ?! Tớ không thích thế đâu đấy.
 Dialogue: 12,0:13:29.50,0:13:34.63,Main,,0,0,0,,Araragi-kun mà bị kẻ nào đó giết không phải tớ,\N thì tớ sẽ giết chết kẻ đó.
-Dialogue: 12,0:13:34.63,0:13:36.80,Main,,0,0,0,,Thế là tớ vẫn giữ được "lời hứa" nhờ?
+Dialogue: 12,0:13:34.63,0:13:36.80,Main,,0,0,0,,Thế là tớ vẫn giữ được lời hứa nhờ?
 Dialogue: 12,0:13:38.06,0:13:40.60,Main,,0,0,0,,Mà nói chung, đang bàn về Kanbaru nhỉ?
 Dialogue: 12,0:13:41.25,0:13:45.92,Main,,0,0,0,,Bởi tớ là át chủ bài của CLB Điền kinh,\N còn bé ấy là CLB Bóng rổ...
 Dialogue: 12,0:13:45.92,0:13:49.41,Main,,0,0,0,,nên tuy khác khối nhưng vẫn qua lại.
@@ -273,7 +275,7 @@ Dialogue: 12,0:13:49.41,0:13:50.18,Main,,0,0,0,,Hơn nữa...
 Dialogue: 12,0:13:50.19,0:13:51.28,Main,,0,0,0,,Hơn nữa...?
 Dialogue: 12,0:13:53.60,0:13:56.51,Main,,0,0,0,,Cả trong cuộc sống cá nhân\N khi bỏ CLB qua một bên,
 Dialogue: 12,0:13:56.51,0:13:58.44,Main,,0,0,0,,khá nhiều rắc rối của bé ấy...
-Dialogue: 12,0:13:59.19,0:14:02.52,Main,,0,0,0,,có thể nói là do tớ gây ra,\N hay bé ấy khiến tớ phải bận tâm.
+Dialogue: 12,0:13:59.19,0:14:02.52,Main,,0,0,0,,có thể nói là do tớ gây ra,\N hay là bé ấy khiến tớ phải bận tâm.
 Dialogue: 12,0:14:02.65,0:14:04.11,Main,,0,0,0,,Mà khoan đã, Araragi-kun.
 Dialogue: 12,0:14:04.78,0:14:09.17,Main,,0,0,0,,Trước hết tại sao Araragi-kun \Nlại đề cập đến bé ấy ở đây vậy?
 Dialogue: 12,0:14:09.17,0:14:10.55,Main,,0,0,0,,Làm ơn giải thích được không?
@@ -289,7 +291,7 @@ Dialogue: 12,0:14:33.26,0:14:36.81,Main,,0,0,0,,Này nhá! \NCậu tính giở t
 Dialogue: 12,0:14:36.81,0:14:38.49,Main,,0,0,0,,Đùa tý thôi mà.
 Dialogue: 12,0:14:38.81,0:14:45.19,Main,,0,0,0,,Araragi-kun này,\N Kanbaru đã phát hiện ra bí mật của tớ trước cậu một năm.
 Dialogue: 12,0:14:45.19,0:14:46.40,Main,,0,0,0,,Thế sao?
-Dialogue: 12,0:14:46.40,0:14:53.03,Main,,0,0,0,,Là lúc tớ vừa sang năm 2,\N tức là lúc Kanbaru nhập học vào Naoetsu.
+Dialogue: 12,0:14:46.40,0:14:53.03,Main,,0,0,0,,Là lúc tớ vừa sang năm 2,\N tức là lúc Kanbaru mới nhập học vào Naoetsu.
 Dialogue: 12,0:14:53.03,0:14:59.46,Main,,0,0,0,,Theo tích cách của Kanbaru\N thì khả năng cao là em ấy tính cứu cậu đúng không?
 Dialogue: 12,0:14:59.46,0:15:01.15,Main,,0,0,0,,Phải, đúng là thế.
 Dialogue: 12,0:15:01.15,0:15:02.76,Main,,0,0,0,,Và tớ đã từ chối.
@@ -300,25 +302,25 @@ Dialogue: 12,0:15:14.49,0:15:16.70,Main,,0,0,0,,Nói chung quan hệ giữa bọ
 Dialogue: 12,0:15:16.70,0:15:19.28,Main,,0,0,0,,Cơ mà... từng là bạn đúng không?
 Dialogue: 12,0:15:19.98,0:15:23.29,Main,,0,0,0,,Là hồi cấp 2, giờ khác rồi.
 Dialogue: 12,0:15:23.29,0:15:24.25,Main,,0,0,0,,Người dưng nước lã thôi.
-Dialogue: 12,0:15:25.83,0:15:29.93,Main,,0,0,0,,Tuy là cũng hiểu được quan hệ giữa Kanbaru và cậu rồi...
-Dialogue: 12,0:15:29.93,0:15:32.84,Main,,0,0,0,,nhưng vẫn chả thể lý giải tại sao em ấy cứ theo dõi tớ.
+Dialogue: 12,0:15:25.83,0:15:29.93,Main,,0,0,0,,Tuy là cũng hiểu được quan hệ giữa \NKanbaru và cậu rồi...
+Dialogue: 12,0:15:29.93,0:15:32.84,Main,,0,0,0,,nhưng vẫn chả thể lý giải tại sao em ấy\N cứ theo dõi tớ.
 Dialogue: 12,0:15:32.84,0:15:38.41,Main,,0,0,0,,Hẳn là con bé đã phát hiện ra \Ntớ và Araragi-kun hẹn hò.
 Dialogue: 12,0:15:38.41,0:15:39.08,Main,,0,0,0,,Gì cơ?
-Dialogue: 12,0:15:39.50,0:15:44.21,Main,,0,0,0,,Ý là em ấy tò mò không biết\N người Senjōgahara yêu là người như nào...
-Dialogue: 12,0:15:44.21,0:15:46.85,Main,,0,0,0,,nên là đang điều tra sao?
+Dialogue: 12,0:15:39.50,0:15:44.21,Main,,0,0,0,,Ý là em ấy tò mò không biết\Nliệu người mà Senjōgahara yêu là người như nào...
+Dialogue: 12,0:15:44.21,0:15:46.85,Main,,0,0,0,,nên đang điều tra sao?
 Dialogue: 12,0:15:46.85,0:15:49.17,Main,,0,0,0,,Cũng kiểu vậy đấy.
 Dialogue: 12,0:15:49.17,0:15:51.59,Main,,0,0,0,,Xin lỗi làm phiền cậu nhé, Araragi-kun.
-Dialogue: 12,0:15:51.59,0:15:56.18,Main,,0,0,0,,Mà chính ra, \Ntớ làm gì đưa ra được lời bào chữa nào khác.
-Dialogue: 12,0:15:56.18,0:16:00.99,Main,,0,0,0,,Đây là trách nhiệm của tớ \Nvì không thể giải quyết chuyện quá khứ.
+Dialogue: 12,0:15:51.59,0:15:56.18,Main,,0,0,0,,Mà đúng ra, \Ntớ làm gì đưa ra được lời bào chữa nào khác đâu.
+Dialogue: 12,0:15:56.18,0:16:00.99,Main,,0,0,0,,Đây là trách nhiệm của tớ \Nvì không thể thu xếp chuyện quá khứ.
 Dialogue: 12,0:16:00.99,0:16:05.77,Main,,0,0,0,,Nhưng Kanbaru một năm trước...\N đã bị cậu xua đuổi thẳng thừng đúng không?
-Dialogue: 12,0:16:05.77,0:16:08.45,Main,,0,0,0,,Và kể từ đó không có gì thay đổi ha.
-Dialogue: 12,0:16:08.45,0:16:12.88,Main,,0,0,0,,Thế mà sau ngần ấy thời gian,\N tự dưng lại đi quan tâm đến chuyện yêu đương của cậu?
+Dialogue: 12,0:16:05.77,0:16:08.45,Main,,0,0,0,,Và kể từ đó không có gì thay đổi ha?
+Dialogue: 12,0:16:08.45,0:16:12.88,Main,,0,0,0,,Thế mà sau ngần ấy thời gian,\N tự dưng lại đi quan tâm đến chuyện yêu đương của cậu ư?
 Dialogue: 12,0:16:13.52,0:16:15.81,Main,,0,0,0,,Tự nói thế này nghe hơi kỳ nhưng...
-Dialogue: 12,0:16:15.81,0:16:20.58,Main,,0,0,0,,Đối với Kanbaru mà nói,\N Senjōgahara Hitagi là người đàn chị mẫu mực.
-Dialogue: 12,0:16:22.30,0:16:27.52,Main,,0,0,0,,Vì thế khi từ chối, tớ đã cẩn thận\N để sao cho thật dứt khoát, không để lại hậu quả.
-Dialogue: 12,0:16:29.50,0:16:33.69,Main,,0,0,0,,Vậy ra quả nhiên bé ấy vẫn chưa quên được tớ.
+Dialogue: 12,0:16:15.81,0:16:20.58,Main,,0,0,0,,Đối với Kanbaru mà nói,\N Senjōgahara Hitagi là người đàn chị mà bé ấy ngưỡng mộ.
+Dialogue: 12,0:16:22.30,0:16:27.52,Main,,0,0,0,,Vì thế khi từ chối, tớ đã cẩn thận để sao cho \Nthật dứt khoát không để lại hậu quả.
+Dialogue: 12,0:16:29.50,0:16:33.69,Main,,0,0,0,,Vậy ra quả nhiên là \Nbé ấy vẫn chưa quên được tớ.
 Dialogue: 12,0:16:35.01,0:16:37.54,Main,,0,0,0,,Đừng nói như thể em ấy là phiền phức chứ.
-Dialogue: 12,0:16:37.54,0:16:40.20,Main,,0,0,0,,Cũng đâu phải có ý gì xấu đâu đúng không?
+Dialogue: 12,0:16:37.54,0:16:40.20,Main,,0,0,0,,Cũng đâu có ý đồ gì xấu đúng không nào?
 Dialogue: 12,0:16:40.20,0:16:40.74,Main,,0,0,0,,Nhìn chung—
 Dialogue: 12,0:16:40.74,0:16:43.99,Main,,0,0,0,,Phiền là phiền! Ý xấu hay không không quan trọng.
 Dialogue: 12,0:16:50.00,0:16:52.58,Main,,0,0,0,,Dạ! Cảm ơn đã chờ đợi! Hanekawa đây ạ!
@@ -350,7 +352,7 @@ Dialogue: 12,0:17:58.98,0:18:00.30,Main,,0,0,0,,Và thế là có Song Tấu Val
 Dialogue: 12,0:18:00.30,0:18:03.76,Main,,0,0,0,,{\i1}Chà~ Nghĩ ra được cái tên đó hay thật ha.
 Dialogue: 12,0:18:03.76,0:18:06.69,Main,,0,0,0,,Mà, bởi họ được mệnh danh là Song Tấu ấy,
 Dialogue: 12,0:18:06.69,0:18:10.32,Main,,0,0,0,,nên nếu nói giữa họ là kiểu thù địch hay ác ý...
-Dialogue: 12,0:18:10.32,0:18:11.99,Main,,0,0,0,,thì chắc là không có đâu ha.
+Dialogue: 12,0:18:10.32,0:18:11.99,Main,,0,0,0,,thì chắc là không có đâu.
 Dialogue: 12,0:18:11.99,0:18:12.73,Main,,0,0,0,,{\i1}Vậy à.
 Dialogue: 12,0:18:12.73,0:18:17.88,Main,,1,1,0,,{\q2\fscx90\fscy92}Hơn nữa, Senjōgahara-san còn ở lại CLB Điền kinh đến tận khi tốt nghiệp...
 Dialogue: 12,0:18:17.88,0:18:21.97,Main,,1,1,0,,{\q2\fscx90\fscy92}nên tớ đoán giữa các CLB Thể thao với nhau hẳn là có giao thiệp.
@@ -373,8 +375,542 @@ Dialogue: 12,0:19:37.96,0:19:43.73,Main,,0,0,0,,Kiểu người này thường c
 Dialogue: 12,0:19:43.73,0:19:45.55,Main,,0,0,0,,Cậu thấy giống cậu không nào?
 Dialogue: 12,0:19:46.16,0:19:47.26,Main,,0,0,0,,Cả hai cậu.
 Dialogue: 12,0:19:48.08,0:19:53.93,Main,,0,0,0,,Nhưng mà nhé Araragi-kun, ngại giao tiếp với người ta\N không giống với ghét người ta.
-Dialogue: 12,0:19:54.39,0:20:00.08,Main,@@@,0,0,0,,"Annoyances come in forms none greater than the visitor,\Nbut of course I speak not of {\i1}you{\i0}, my friend." {ksp, from the novel: "Annoyances come / In forms none greater than that / Of the visitor / But then of course I speak not / Of yourself, my esteem'd friend"}{This is good, and what the TS should say}
-Dialogue: 12,0:20:00.08,0:20:01.94,Main,,0,0,0,,Ý nghĩa là gì cậu hiểu mà ha?
+Dialogue: 12,0:19:54.39,0:20:00.08,Main,,0,0,0,,"Trên đời này, việc có khách tới chơi nhà là phiền nhất,\N nhưng riêng bạn thì không"
+Dialogue: 0,0:19:54.38,0:19:54.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.4)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.42,0:19:54.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.46,0:19:54.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.50,0:19:54.54,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.93,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.54,0:19:54.58,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.9,384.4)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.58,0:19:54.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.36,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.63,0:19:54.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.67,0:19:54.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.8,383.85)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.71,0:19:54.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.75,0:19:54.79,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.29,383.79)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.79,0:19:54.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.26,384.31)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.84,0:19:54.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.88,0:19:54.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.92,0:19:54.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.95,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.96,0:19:55.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.00,0:19:55.04,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,383.76)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.04,0:19:55.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.96,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.09,0:19:55.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.81,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.13,0:19:55.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.38,384.22)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.17,0:19:55.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.21,0:19:55.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.33,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.25,0:19:55.29,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.33,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.29,0:19:55.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.34,0:19:55.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.38,0:19:55.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.42,0:19:55.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.39,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.46,0:19:55.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.81,384.38)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.50,0:19:55.54,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.54,0:19:55.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,384.37)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.59,0:19:55.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.85,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.63,0:19:55.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,384.33)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.67,0:19:55.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,383.71)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.71,0:19:55.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.39,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.75,0:19:55.79,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.32,383.79)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.79,0:19:55.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.84,0:19:55.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.92,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.88,0:19:55.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.87,384.37)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.92,0:19:55.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.32,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:55.96,0:19:56.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.00,0:19:56.04,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.04,0:19:56.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.09,0:19:56.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.13,0:19:56.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.86,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.17,0:19:56.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.21,0:19:56.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.25,0:19:56.29,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.29,0:19:56.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.97,384.38)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.34,0:19:56.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.92,383.74)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.38,0:19:56.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.42,0:19:56.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,383.72)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.46,0:19:56.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.50,0:19:56.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.55,0:19:56.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.29,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.59,0:19:56.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,383.76)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.63,0:19:56.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.86,384.38)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.67,0:19:56.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.35,383.79)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.71,0:19:56.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,384.21)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.75,0:19:56.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.88,383.84)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.80,0:19:56.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,384.36)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.84,0:19:56.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.96,383.66)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.88,0:19:56.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,384.36)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.92,0:19:56.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:56.96,0:19:57.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.35)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.00,0:19:57.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.05,0:19:57.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,384.33)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.09,0:19:57.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.83,383.83)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.13,0:19:57.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.83,384.35)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.17,0:19:57.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,383.67)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.21,0:19:57.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.3,384.23)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.25,0:19:57.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.67)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.30,0:19:57.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.83,384.22)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.34,0:19:57.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.26,383.71)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.38,0:19:57.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.94,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.42,0:19:57.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.66)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.46,0:19:57.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.33,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.50,0:19:57.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.55,0:19:57.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.59,0:19:57.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,383.66)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.63,0:19:57.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,384.22)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.67,0:19:57.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,383.72)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.71,0:19:57.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.75,0:19:57.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.67)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.80,0:19:57.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,384.35)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.84,0:19:57.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.88,0:19:57.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.35)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.92,0:19:57.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.87,383.79)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:57.96,0:19:58.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,384.35)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.00,0:19:58.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.05,0:19:58.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.3,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.09,0:19:58.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.29,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.13,0:19:58.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.87,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.17,0:19:58.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.21,0:19:58.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.26,0:19:58.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.9,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.30,0:19:58.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.34,0:19:58.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.85,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.38,0:19:58.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.93,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.42,0:19:58.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.82,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.46,0:19:58.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.96,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.51,0:19:58.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.55,0:19:58.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.59,0:19:58.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.87,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.63,0:19:58.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.67,0:19:58.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.83,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.71,0:19:58.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.32,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.76,0:19:58.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.39,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.80,0:19:58.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.81,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.84,0:19:58.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.31,383.72)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.88,0:19:58.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.35,384.37)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.92,0:19:58.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.4,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:58.96,0:19:59.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.91,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.01,0:19:59.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.33,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.05,0:19:59.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.92,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.09,0:19:59.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.29,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.13,0:19:59.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.17,0:19:59.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.21,0:19:59.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.26,0:19:59.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.30,0:19:59.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.85,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.34,0:19:59.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.38,0:19:59.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.4,384.31)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.42,0:19:59.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.93,383.84)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.46,0:19:59.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.33,384.37)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.51,0:19:59.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.35,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.55,0:19:59.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.59,0:19:59.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.9,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.63,0:19:59.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.23)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.67,0:19:59.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.72,0:19:59.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.29,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.76,0:19:59.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.87,383.66)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.80,0:19:59.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.84,0:19:59.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.43,383.66)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.88,0:19:59.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.27,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.92,0:19:59.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,383.66)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:59.97,0:20:00.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.01,0:20:00.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.05,0:20:00.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.09,0:20:00.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.32,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.13,0:20:00.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.36,384.31)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.17,0:20:00.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.22,0:20:00.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.26,0:20:00.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.76)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.30,0:20:00.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.34,0:20:00.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.88,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.38,0:20:00.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.42,0:20:00.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.77)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.47,0:20:00.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.51,0:20:00.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.74)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.55,0:20:00.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.59,0:20:00.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.97,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.63,0:20:00.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.23)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.67,0:20:00.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.94,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.72,0:20:00.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.76,0:20:00.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.91,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.80,0:20:00.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.3,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.84,0:20:00.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.32,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.88,0:20:00.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.92,0:20:00.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,383.75)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:00.97,0:20:01.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.41,384.23)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.01,0:20:01.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.05,0:20:01.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.09,0:20:01.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.63,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.13,0:20:01.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.17,0:20:01.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.22,0:20:01.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.37,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.26,0:20:01.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.30,0:20:01.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.82,384.35)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.34,0:20:01.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.94,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.38,0:20:01.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.43,0:20:01.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.95,383.67)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.47,0:20:01.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.23)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.51,0:20:01.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.84)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.55,0:20:01.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.29,384.32)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.59,0:20:01.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.63,0:20:01.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.36,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.68,0:20:01.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.98,383.75)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.72,0:20:01.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.31,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.76,0:20:01.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.80,0:20:01.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.84,0:20:01.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.9,383.74)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.88,0:20:01.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,384.32)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.93,0:20:01.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:01.97,0:20:02.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.01,0:20:02.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.36,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.05,0:20:02.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.85,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.09,0:20:02.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.13,0:20:02.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.27,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.18,0:20:02.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.4,383.72)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.22,0:20:02.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.26,0:20:02.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.33,383.75)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.30,0:20:02.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.8,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.34,0:20:02.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.34,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.38,0:20:02.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.98,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.43,0:20:02.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.47,0:20:02.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.26,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.51,0:20:02.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.55,0:20:02.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.59,0:20:02.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.63,0:20:02.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.31)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.68,0:20:02.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.96,383.67)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.72,0:20:02.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.8,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.76,0:20:02.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.80,0:20:02.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.91,384.23)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.84,0:20:02.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.83,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.88,0:20:02.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.4,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.93,0:20:02.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:02.97,0:20:03.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.3,384.23)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.01,0:20:03.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.85,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.05,0:20:03.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.95,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.09,0:20:03.14,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.4,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.14,0:20:03.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.87,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.18,0:20:03.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.79,383.84)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.22,0:20:03.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.24,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.26,0:20:03.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,383.81)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.30,0:20:03.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.27)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.34,0:20:03.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.28,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.39,0:20:03.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.22)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.43,0:20:03.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.47,0:20:03.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.32)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.51,0:20:03.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.91,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.55,0:20:03.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.25,384.32)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.59,0:20:03.64,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.64,0:20:03.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.41,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.68,0:20:03.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.96,383.75)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.72,0:20:03.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,384.22)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.76,0:20:03.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.89,383.83)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.80,0:20:03.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.36)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.84,0:20:03.89,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.29,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.89,0:20:03.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.26,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.93,0:20:03.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,383.71)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:03.97,0:20:04.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.41,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.01,0:20:04.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.41,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.05,0:20:04.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.83,384.32)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.09,0:20:04.14,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.14,0:20:04.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.92,384.22)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.18,0:20:04.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.22,0:20:04.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.26,384.37)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.26,0:20:04.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.88,383.67)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.30,0:20:04.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.34,0:20:04.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.27,383.8)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.39,0:20:04.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.33,384.36)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.43,0:20:04.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.47,0:20:04.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.62,384.39)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.51,0:20:04.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.82)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.55,0:20:04.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,384.21)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.59,0:20:04.64,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.42,383.74)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.64,0:20:04.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,384.26)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.68,0:20:04.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.72,0:20:04.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.82,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.76,0:20:04.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.76)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.80,0:20:04.85,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.86,384.3)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.85,0:20:04.89,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.69)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.89,0:20:04.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.94,384.28)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.93,0:20:04.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.26,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:04.97,0:20:05.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.95,384.25)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.01,0:20:05.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.91,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.05,0:20:05.10,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.91,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.10,0:20:05.14,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.84,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.14,0:20:05.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.36)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.18,0:20:05.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.61,383.7)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.22,0:20:05.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.31,384.35)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.26,0:20:05.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.81,383.73)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.30,0:20:05.35,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.6,384.34)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.35,0:20:05.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.38,383.78)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.39,0:20:05.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.35,384.24)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.43,0:20:05.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.39,383.68)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:20:05.47,0:20:05.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs60\c&H682B20&\pos(969.9,384.29)}Trên đời này, việc có khách tới chơi nhà
+Dialogue: 0,0:19:54.38,0:19:54.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,569)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.42,0:19:54.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.34)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.46,0:19:54.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.50,0:19:54.54,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.32,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.54,0:19:54.58,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.3,569)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.58,0:19:54.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.76,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.63,0:19:54.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.67,0:19:54.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.19,568.46)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.71,0:19:54.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.85)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.75,0:19:54.79,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.7,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.79,0:19:54.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.66,568.92)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.84,0:19:54.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.33)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.88,0:19:54.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.92,0:19:54.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.35,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:54.96,0:19:55.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.00,0:19:55.04,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.82,568.37)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.04,0:19:55.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.36,568.91)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.09,0:19:55.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.21,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.13,0:19:55.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.78,568.82)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.17,0:19:55.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.21,0:19:55.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.73,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.25,0:19:55.29,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.73,568.41)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.29,0:19:55.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.34,0:19:55.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.38,0:19:55.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.42,0:19:55.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.79,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.46,0:19:55.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.21,568.98)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.50,0:19:55.54,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.77,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.54,0:19:55.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.97)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.59,0:19:55.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.25,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.63,0:19:55.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.94)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.67,0:19:55.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.32)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.71,0:19:55.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.79,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.75,0:19:55.79,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.71,568.4)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.79,0:19:55.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.03,568.88)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.84,0:19:55.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.31,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.88,0:19:55.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.27,568.98)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.92,0:19:55.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.71,568.44)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:55.96,0:19:56.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.77,568.88)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.00,0:19:56.04,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.24,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.04,0:19:56.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.09,0:19:56.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.13,0:19:56.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.26,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.17,0:19:56.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.38)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.21,0:19:56.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.81,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.25,0:19:56.29,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.29,0:19:56.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.37,568.98)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.34,0:19:56.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.32,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.38,0:19:56.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.42,0:19:56.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.81,568.32)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.46,0:19:56.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.50,0:19:56.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.55,0:19:56.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.69,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.59,0:19:56.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.03,568.37)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.63,0:19:56.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.26,568.99)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.67,0:19:56.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.75,568.41)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.71,0:19:56.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.77,568.82)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.75,0:19:56.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.27,568.45)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.80,0:19:56.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.03,568.97)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.84,0:19:56.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.36,568.28)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.88,0:19:56.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.03,568.97)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.92,0:19:56.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.24,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:56.96,0:19:57.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.96)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.00,0:19:57.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.05,0:19:57.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.69,568.94)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.09,0:19:57.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.44)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.13,0:19:57.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.17,0:19:57.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.28)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.21,0:19:57.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.7,568.84)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.25,0:19:57.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.28)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.30,0:19:57.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.83)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.34,0:19:57.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.66,568.32)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.38,0:19:57.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.34,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.42,0:19:57.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.27)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.46,0:19:57.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.73,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.50,0:19:57.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.67,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.55,0:19:57.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.59,0:19:57.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.82,568.28)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.63,0:19:57.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.03,568.83)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.67,0:19:57.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.03,568.33)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.71,0:19:57.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.29,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.75,0:19:57.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.80,0:19:57.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.29,568.96)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.84,0:19:57.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.88,0:19:57.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.96)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.92,0:19:57.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.27,568.4)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:57.96,0:19:58.00,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.76,568.96)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.00,0:19:58.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.02,568.38)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.05,0:19:58.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.7,568.85)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.09,0:19:58.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.13,0:19:58.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.27,568.91)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.17,0:19:58.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.44)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.21,0:19:58.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.29,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.26,0:19:58.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.29,568.34)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.30,0:19:58.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.91)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.34,0:19:58.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.24,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.38,0:19:58.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.32,568.96)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.42,0:19:58.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.21,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.46,0:19:58.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.35,568.88)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.51,0:19:58.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.34)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.55,0:19:58.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.59,0:19:58.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.26,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.63,0:19:58.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.67,0:19:58.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.22,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.71,0:19:58.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.71,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.76,0:19:58.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.78,568.38)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.80,0:19:58.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.2,568.88)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.84,0:19:58.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.71,568.33)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.88,0:19:58.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.73,568.98)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.92,0:19:58.96,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.8,568.38)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:58.96,0:19:59.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.3,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.01,0:19:59.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.72,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.05,0:19:59.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.31,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.09,0:19:59.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.13,0:19:59.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.81,568.94)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.17,0:19:59.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.38)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.21,0:19:59.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.85)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.26,0:19:59.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.30,0:19:59.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.25,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.34,0:19:59.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.38,0:19:59.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.79,568.92)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.42,0:19:59.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.32,568.45)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.46,0:19:59.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.73,568.98)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.51,0:19:59.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.74,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.55,0:19:59.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.76,568.91)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.59,0:19:59.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.29,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.63,0:19:59.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.84)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.67,0:19:59.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.72,0:19:59.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.76,0:19:59.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.25,568.27)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.80,0:19:59.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.84,0:19:59.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.82,568.27)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.88,0:19:59.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.66,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.92,0:19:59.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.28)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:19:59.97,0:20:00.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.01,0:20:00.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.05,0:20:00.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.09,0:20:00.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.71,568.4)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.13,0:20:00.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.75,568.93)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.17,0:20:00.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.22,0:20:00.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.26,0:20:00.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.37)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.30,0:20:00.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.34,0:20:00.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.26,568.38)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.38,0:20:00.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.42,0:20:00.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.47,0:20:00.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.75,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.51,0:20:00.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.55,0:20:00.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.75,568.88)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.59,0:20:00.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.35,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.63,0:20:00.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.84)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.67,0:20:00.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.32,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.72,0:20:00.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.76,0:20:00.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.29,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.80,0:20:00.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.91)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.84,0:20:00.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.7,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.88,0:20:00.92,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.92,0:20:00.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.28,568.37)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:00.97,0:20:01.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.8,568.84)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.01,0:20:01.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.4)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.05,0:20:01.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.09,0:20:01.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.13,0:20:01.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.01,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.17,0:20:01.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.41)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.22,0:20:01.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.77,568.92)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.26,0:20:01.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.28,568.34)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.30,0:20:01.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.21,568.96)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.34,0:20:01.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.33,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.38,0:20:01.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.43,0:20:01.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.33,568.28)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.47,0:20:01.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.84)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.51,0:20:01.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.45)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.55,0:20:01.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.69,568.93)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.59,0:20:01.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.22,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.63,0:20:01.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.75,568.92)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.68,0:20:01.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.36,568.36)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.72,0:20:01.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.7,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.76,0:20:01.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.41)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.80,0:20:01.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.84,0:20:01.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.29,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.88,0:20:01.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.8,568.93)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.93,0:20:01.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.27,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:01.97,0:20:02.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.01,0:20:02.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.75,568.4)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.05,0:20:02.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.24,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.09,0:20:02.13,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.41)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.13,0:20:02.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.66,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.18,0:20:02.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.79,568.33)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.22,0:20:02.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.26,0:20:02.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.72,568.36)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.30,0:20:02.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.19,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.34,0:20:02.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.73,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.38,0:20:02.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.37,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.43,0:20:02.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.44)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.47,0:20:02.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.65,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.51,0:20:02.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.55,0:20:02.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.92)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.59,0:20:02.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.63,0:20:02.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.93)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.68,0:20:02.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.35,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.72,0:20:02.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.19,568.91)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.76,0:20:02.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.44)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.80,0:20:02.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.3,568.84)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.84,0:20:02.88,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.22,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.88,0:20:02.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.78,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.93,0:20:02.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.43)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:02.97,0:20:03.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.69,568.85)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.01,0:20:03.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.24,568.34)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.05,0:20:03.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.34,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.09,0:20:03.14,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.79,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.14,0:20:03.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.26,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.18,0:20:03.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.18,568.45)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.22,0:20:03.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.63,568.85)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.26,0:20:03.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.98,568.41)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.30,0:20:03.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.88)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.34,0:20:03.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.67,568.34)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.39,0:20:03.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.83)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.43,0:20:03.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.34)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.47,0:20:03.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.93)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.51,0:20:03.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.3,568.41)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.55,0:20:03.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.63,568.93)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.59,0:20:03.64,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.38)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.64,0:20:03.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.8,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.68,0:20:03.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.34,568.36)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.72,0:20:03.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.28,568.83)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.76,0:20:03.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.28,568.44)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.80,0:20:03.84,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.98,568.96)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.84,0:20:03.89,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.68,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.89,0:20:03.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.65,568.88)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.93,0:20:03.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.33)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:03.97,0:20:04.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.81,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.01,0:20:04.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.8,568.32)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.05,0:20:04.09,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.22,568.93)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.09,0:20:04.14,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.14,0:20:04.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.31,568.83)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.18,0:20:04.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.22,0:20:04.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.65,568.98)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.26,0:20:04.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.27,568.28)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.30,0:20:04.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.8,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.34,0:20:04.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.66,568.42)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.39,0:20:04.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.71,568.97)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.43,0:20:04.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.47,0:20:04.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.99)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.51,0:20:04.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.44)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.55,0:20:04.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.82)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.59,0:20:04.64,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.81,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.64,0:20:04.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.87)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.68,0:20:04.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.72,0:20:04.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.21,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.76,0:20:04.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.37)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.80,0:20:04.85,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.25,568.91)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.85,0:20:04.89,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947,568.3)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.89,0:20:04.93,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.32,568.89)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.93,0:20:04.97,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.65,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:04.97,0:20:05.01,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.34,568.86)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.01,0:20:05.05,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.31,568.31)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.05,0:20:05.10,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.3,568.85)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.10,0:20:05.14,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.23,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.14,0:20:05.18,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.98)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.18,0:20:05.22,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.32)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.22,0:20:05.26,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.7,568.97)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.26,0:20:05.30,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.2,568.35)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.30,0:20:05.35,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.99,568.95)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.35,0:20:05.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.77,568.39)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.39,0:20:05.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.74,568.85)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.43,0:20:05.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(946.77,568.29)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 0,0:20:05.47,0:20:05.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fs60\c&H6C3229&\pos(947.28,568.9)\fnGentium\b1}là phiền nhất, nhưng riêng bạn thì không
+Dialogue: 12,0:20:00.08,0:20:01.94,Main,,0,0,0,,Ý nghĩa câu đấy là gì cậu hiểu mà ha?
 Dialogue: 12,0:20:01.94,0:20:05.53,Main,,0,0,0,,Và đó cũng là những gì tớ đang muốn nói.
 Dialogue: 12,0:20:07.49,0:20:09.52,Main,,0,0,0,,Không hiểu là không hiểu thế nào.
 Dialogue: 12,0:20:09.52,0:20:13.33,Main,,0,0,0,,Muốn hiểu thêm về người con gái của đời mình\N là lẽ dĩ nhiên mà.
@@ -387,14 +923,14 @@ Dialogue: 12,0:20:31.79,0:20:35.96,Main,,0,0,0,,{\i1}Nếu có thể, tôi muố
 Dialogue: 12,0:20:35.96,0:20:37.79,Main,,0,0,0,,{\i1}những gì cậu ấy đã ném đi.
 Dialogue: 12,0:20:39.27,0:20:44.61,Main,,0,0,0,,{\i1}Tôi biết đây là đi quá giới hạn,\N là lo chuyện bao đồng làm phiền người khác.
 Dialogue: 12,0:20:44.61,0:20:47.82,Main,,0,0,0,,{\i1}Nhưng tôi không thể không màng tới.
-Dialogue: 12,0:20:47.82,0:20:51.53,Main,,0,0,0,,{\i1}Bởi đây là việc mà tôi không thể ló ngơ.
+Dialogue: 12,0:20:47.82,0:20:51.53,Main,,0,0,0,,{\i1}Bởi đây là việc mà tôi nhất quyết không thể ló ngơ.
 Dialogue: 12,0:20:53.16,0:20:56.37,Main,,0,0,0,,Cậu có thể đưa hộ tớ cái này cho Oshino-san không?
 Dialogue: 12,0:20:56.37,0:20:57.87,Main,,0,0,0,,Là gì thế?
 Dialogue: 12,0:20:58.70,0:21:01.48,Main,,0,0,0,,À~ Khoản phí của Oshino đây mà.
 Dialogue: 12,0:21:01.48,0:21:04.75,Main,,0,0,0,,Chà! Cậu chuẩn bị nhanh dữ nhỉ.
 Dialogue: 12,0:21:04.75,0:21:05.66,Main,,0,0,0,,Có làm thêm à?
-Dialogue: 12,0:21:05.66,0:21:09.88,Main,,0,0,0,,Chỉ là một chút thôi,\N tớ có giúp công việc kinh doanh của bố.
-Dialogue: 12,0:21:09.88,0:21:13.41,Main,,0,0,0,,Mà, đúng hơn là tớ ép bố phải cho tớ giúp.
+Dialogue: 12,0:21:05.66,0:21:09.88,Main,,0,0,0,,Có chút thôi à,\N tớ có hỗ trợ công việc kinh doanh của bố.
+Dialogue: 12,0:21:09.88,0:21:13.41,Main,,0,0,0,,Mà, đúng hơn là tớ ép bố phải cho tớ hỗ trợ.
 Dialogue: 12,0:21:13.41,0:21:14.89,Main,,0,0,0,,Tiền từ đó mà ra.
 Dialogue: 12,0:21:16.72,0:21:20.81,Main,,0,0,0,,Lẽ ra mình phải cầm mới phải,\N thế mà lại để quên ở nhà Senjōgahara.
 Dialogue: 12,0:22:11.14,0:22:12.05,Main,,0,0,0,,Araragi-kun.
