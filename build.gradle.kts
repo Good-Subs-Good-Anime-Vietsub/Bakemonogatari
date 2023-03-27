@@ -94,7 +94,7 @@ subs {
         chapters(chapters.item()) { lang("vie") }
 
         attach(get("fonts")) {
-            includeExtensions("ttf", "otf")
+            includeExtensions("ttf", "otf", "ttc")
         }
         verifyFonts(true)
         skipUnusedFonts(true)
