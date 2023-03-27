@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mk
 Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 3495
-Active Line: 3503
-Video Position: 31486
+Video Zoom Percent: 0.625000
+Scroll Position: 2084
+Active Line: 2089
+Video Position: 19713
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -458,8 +458,8 @@ Dialogue: 1,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\an7\fscx1.8\fscy1.8\bord0\shad
 Dialogue: 1,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\an7\fscx1.8\fscy1.8\bord0\shad0\blur0.9\p1\c&HC0BEE1&\pos(746,561.015)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 2,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\c&H6A6866&\blur4\fnGentium\b1\an7\fs19.5\pos(808.5,597.5)\alpha&HB0&\fscx82\fscy82}Không băng qua\N\N\NKhông quăng \Nđồ vật
 Dialogue: 3,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\c&H6A6866&\blur1.2\fnGentium\b1\an7\fs19.5\pos(808.5,597.5)\fscx82\fscy82}Không băng qua\N\N\NKhông quăng \Nđồ vật
-Dialogue: 2,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\blur4\an7\fs30\c&HC1B5FC&\fnGentium\b1\frz0\alpha&HB0&\fscx97\fscy88\pos(795.19,690.12)}NGUY HIỂM
-Dialogue: 3,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\blur0.9\an7\fs30\c&HC1B5FC&\fnGentium\b1\frz0\fscx97\fscy88\pos(795.19,690.12)}NGUY HIỂM
+Dialogue: 2,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\blur4\an7\fs30\c&HC1B5FC&\fnGentium\b1\frz0\alpha&HB0&\fscx97\fscy88\pos(761.86,560.79)}NGUY HIỂM
+Dialogue: 3,0:02:14.53,0:02:16.99,Signs,,0,0,0,,{\blur0.9\an7\fs30\c&HC1B5FC&\fnGentium\b1\frz0\fscx97\fscy88\pos(761.86,560.79)}NGUY HIỂM
 Dialogue: 0,0:03:46.91,0:03:46.95,Signs,,0,0,0,,{\fscx100\fscy100\fnGentium Basic\an7\blur4\fs65\c&HFFFFFF&\pos(285.46,262.5)\alpha&HB0&}Cái tên Kanbaru Suruga
 Dialogue: 0,0:03:46.95,0:03:46.99,Signs,,0,0,0,,{\fscx100\fscy100\fnGentium Basic\an7\blur4\fs65\c&HFFFFFF&\pos(285.71,263.06)\alpha&HB0&}Cái tên Kanbaru Suruga
 Dialogue: 0,0:03:46.99,0:03:47.03,Signs,,0,0,0,,{\fscx100\fscy100\fnGentium Basic\an7\blur4\fs65\c&HFFFFFF&\pos(285.46,262.7)\alpha&HB0&}Cái tên Kanbaru Suruga
@@ -2121,7 +2121,7 @@ Dialogue: 2,0:12:43.70,0:12:44.29,Signs,,0,0,0,,{\fs35\blur6.5\fnGentium\b1\c&H2
 Dialogue: 3,0:12:43.70,0:12:44.29,Signs,,0,0,0,,{\fs35\blur1.2\fnGentium\b1\c&H2C3033&\fsp-0.5\pos(377.077,797.539)\fscx66\fscy66}Một que diêm
 Dialogue: 2,0:12:43.70,0:12:44.29,Signs,,0,0,0,,{\fs35\blur6.5\fnGentium\b1\c&H2C3033&\fsp-0.5\pos(377.077,826.248)\alpha&H60&\fscx66\fscy66}cũng có thể gây cháy nhà
 Dialogue: 3,0:12:43.70,0:12:44.29,Signs,,0,0,0,,{\fs35\blur1.2\fnGentium\b1\c&H2C3033&\fsp-0.5\pos(377.077,826.248)\fscx66\fscy66}cũng có thể gây cháy nhà
-Dialogue: 0,0:13:41.25,0:13:45.92,Signs,,0,0,0,,{\an5\blur1\fs85\fnGentium Basic\pos(970,445)\c&HFEFFFE&}Attachments from the past.
+Dialogue: 0,0:13:41.25,0:13:45.92,Signs,,0,0,0,,{\an5\blur1\fs85\fnGentium Basic\pos(970,445)\c&HFEFFFE&}Ràng buộc từ quá khứ
 Dialogue: 0,0:14:04.11,0:14:06.95,Signs,,0,0,0,,{\an7\pos(960,540)\c&HDFEDF8&\blur6\p1\alpha&H80&}m 753.08 -119.758 l 963.117 -119.758 963.117 -62.087 753.08 -62.087
 Dialogue: 1,0:14:04.11,0:14:06.95,Signs,,0,0,0,,{\an7\pos(960,540)\c&HDFEDF8&\blur1.3\p1}m 753.08 -119.758 l 963.117 -119.758 963.117 -62.087 753.08 -62.087
 Dialogue: 2,0:14:04.11,0:14:06.95,Signs,,0,0,0,,{\fs50\fscy70\blur6\fsp-0.8\fnGentium\b1\c&H2C3033&\alpha&H6A&\fscx70\pos(1836.127,446.96)}Cẩn thận củi lửa
