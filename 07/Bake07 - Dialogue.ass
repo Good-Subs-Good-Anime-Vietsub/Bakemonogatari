@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 07 (BD 1080p Hi10 Opus) [E46A0EDD].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 294
-Active Line: 297
-Video Position: 21851
+Scroll Position: 40
+Active Line: 41
+Video Position: 6175
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -73,7 +73,7 @@ Dialogue: 9,0:04:02.78,0:04:06.53,Main,,0,0,0,,Bắt đầu từ đâu nhỉ, Ar
 Dialogue: 9,0:04:06.53,0:04:10.93,Main,,0,0,0,,Trước hết về chuyện tối qua,\N em chân thành xin lỗi!
 Dialogue: 9,0:04:12.83,0:04:15.91,Main,,0,0,0,,Quả nhiên... đó là... em à.
 Dialogue: 9,0:04:15.91,0:04:17.52,Main,,0,0,0,,"Quả nhiên" cơ à.
-Dialogue: 9,0:04:17.52,0:04:20.65,Main,,0,0,0,,Cách anh nói nghe cam chịu thật đấy, Araragi-senpai.
+Dialogue: 9,0:04:17.52,0:04:20.65,Main,,0,0,0,,Cách anh nói nghe khó chịu nhỉ, Araragi-senpai.
 Dialogue: 9,0:04:20.65,0:04:22.93,Main,,0,0,0,,Anh nhìn thấu hoàn toàn đúng không?
 Dialogue: 9,0:04:22.93,0:04:27.63,Main,,0,0,0,,Nếu không, Araragi-senpai đã không đến thăm nhà em.
 Dialogue: 9,0:04:27.63,0:04:29.31,Main,,0,0,0,,Không hẳn.
