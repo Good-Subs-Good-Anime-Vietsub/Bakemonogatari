@@ -16,7 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 07 (BD 1080p Hi10 Opus) [E46A0EDD].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 53
+Scroll Position: 294
+Active Line: 297
+Video Position: 21851
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,62 +32,64 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
-Dialogue: 0,0:01:22.99,0:01:22.99,Main,chptr,0,0,0,,{OP}
-Dialogue: 0,0:02:52.91,0:02:52.91,Main,chptr,0,0,0,,{Episode}
-Dialogue: 0,0:22:24.98,0:22:24.99,Main,chptr,0,0,0,,{ED}
-Dialogue: 0,0:23:54.94,0:23:54.95,Main,chptr,0,0,0,,{Preview}
-Dialogue: 9,0:00:02.19,0:00:06.40,Main,,0,0,0,,Thứ tớ đã trao cho cậu mà cậu dám để quên.
-Dialogue: 9,0:00:06.40,0:00:09.44,Main,,0,0,0,,Thế là tội tày trời đó, Araragi-kun.
+Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Intro}
+Comment: 0,0:01:22.99,0:01:22.99,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:02:52.91,0:02:52.91,Main,chptr,0,0,0,,{Episode}
+Comment: 0,0:22:24.98,0:22:24.99,Main,chptr,0,0,0,,{ED}
+Comment: 0,0:23:54.94,0:23:54.95,Main,chptr,0,0,0,,{Preview}
+Dialogue: 9,0:00:02.19,0:00:06.40,Main,,0,0,0,,Thứ tớ trao tận tay cho cậu mà cậu lại dám để quên.
+Dialogue: 9,0:00:06.40,0:00:09.44,Main,,0,0,0,,Phạm tội tày trời rồi đó, Araragi-kun.
 Dialogue: 9,0:00:09.44,0:00:11.44,Main,,0,0,0,,Ờ, cho tớ xin lỗi.
-Dialogue: 9,0:00:12.45,0:00:14.30,Main,,0,0,0,,Có xin lỗi cũng không tha.
+Dialogue: 9,0:00:12.45,0:00:14.30,Main,,0,0,0,,Có xin lỗi cũng đừng hòng tha.
 Dialogue: 9,0:00:14.30,0:00:18.54,Main,,0,0,0,,Nên tớ đuổi theo tới đây là để mắng mỏ cậu \Nmột cách không thương tiếc.
 Dialogue: 9,0:00:23.74,0:00:26.00,Main,,0,0,0,,Cậu bị xe tông à?
-Dialogue: 9,0:00:26.00,0:00:30.19,Main,,0,0,0,,{\fscx93\fscy95}Đằng kia tớ thấy cái gì đó như là chiếc xe đạp quý giá của Araragi-kun.
-Dialogue: 9,0:00:30.19,0:00:31.79,Main,,0,0,0,,Xem chừng hư hại nặng đấy.
-Dialogue: 9,0:00:31.79,0:00:33.92,Main,,0,0,0,,có thể nói là dính đét vào cột điện.
+Dialogue: 9,0:00:26.00,0:00:30.19,Main,,0,0,0,,Đằng kia tớ thấy cái gì đó như là \Nchiếc xe đạp quý giá của Araragi-kun ấy.
+Dialogue: 9,0:00:30.19,0:00:31.79,Main,,0,0,0,,Xem chừng hư hại nặng lắm đấy.
+Dialogue: 9,0:00:31.79,0:00:33.92,Main,,0,0,0,,Phải nói là dính đét vào cột điện.
 Dialogue: 9,0:00:33.92,0:00:37.43,Main,,0,0,0,,Chắc phải cỡ cả đoàn xe mới thành ra thế này được nhỉ?
 Dialogue: 9,0:00:38.10,0:00:41.77,Main,,0,0,0,,Không phải đâu, tự tớ ngã thôi.
 Dialogue: 9,0:00:41.77,0:00:44.77,Main,,0,0,0,,Vừa đạp xe vừa dùng điện thoại ấy mà.
-Dialogue: 9,0:00:44.77,0:00:46.81,Main,,0,0,0,,Thế là đâm vô cột điện.
+Dialogue: 9,0:00:44.77,0:00:46.81,Main,,0,0,0,,Thế là đâm vào cột điện.
 Dialogue: 9,0:00:47.62,0:00:48.86,Main,,0,0,0,,Ồ thế à.
-Dialogue: 9,0:00:48.86,0:00:53.68,Main,,0,0,0,,Thế nhưng... đâm đến cái mức cắm đầu vô bê tông thế kia...
-Dialogue: 9,0:00:53.68,0:00:55.57,Main,,0,0,0,,mà thương tích xem ra lại hơi nhẹ.
+Dialogue: 9,0:00:48.86,0:00:53.68,Main,,0,0,0,,Có điều... đâm đến cái mức cắm đầu vô bê tông thế kia...
+Dialogue: 9,0:00:53.68,0:00:55.57,Main,,0,0,0,,nhưng thương tích xem ra lại hơi nhẹ.
 Dialogue: 9,0:00:56.82,0:00:59.12,Main,,0,0,0,,Nể Araragi-kun quá.
 Dialogue: 9,0:00:59.64,0:01:02.58,Main,,0,0,0,,Xem nào... không cần cứu thương đâu ha?
-Dialogue: 9,0:01:02.58,0:01:06.58,Main,,0,0,0,,Ờ, nghỉ chút xíu là đi lại được ngay ấy mà.
+Dialogue: 9,0:01:02.58,0:01:06.58,Main,,0,0,0,,Ờ, nghỉ chút xíu là đi lại được ấy mà.
 Dialogue: 9,0:01:06.58,0:01:10.09,Main,,0,0,0,,Vậy à, thế để tớ thưởng lớn cho Araragi-kun nha.
 Dialogue: 9,0:01:15.84,0:01:20.10,Main,,0,0,0,,Cho đến lúc đi lại được, cứ tận hưởng đi nhé!
 Dialogue: 9,0:03:16.46,0:03:18.04,Main,,0,0,0,,Mời vào, Araragi-senpai.
 Dialogue: 9,0:03:22.23,0:03:24.22,Main,,0,0,0,,Xin lỗi hơi bừa bộn nha anh.
 Dialogue: 9,0:03:24.61,0:03:26.60,Main,,0,0,0,,Cứ tự nhiên như ở nhà.
-Dialogue: 9,0:03:26.60,0:03:33.06,Main,,0,0,0,,Em đánh giá cao việc Araragi-senpai giữ ý khi vào phòng con gái\N mà chưa quá thân, nó cho thấy anh tinh tế như thế nào cơ mà...
+Dialogue: 9,0:03:26.60,0:03:31.22,Main,,0,0,0,,Em đánh giá cao việc Araragi-senpai giữ ý\N khi vào phòng con gái mà chưa quá thân,
+Dialogue: 9,0:03:31.22,0:03:33.06,Main,,0,0,0,,nó cho thấy anh rất tinh tế cơ mà...
 Dialogue: 9,0:03:33.06,0:03:35.00,Main,,0,0,0,,lúc này thì không cần đâu.
 Dialogue: 9,0:03:42.22,0:03:43.40,Main,,0,0,0,,Kanbaru!
 Dialogue: 9,0:03:43.40,0:03:44.00,Main,,0,0,0,,Sao thế?
-Dialogue: 9,0:03:44.00,0:03:50.13,Main,,0,0,0,,1 tiếng, à không, 30 phút thôi,\N cho anh nhiêu đó thời gian để dọn dẹp đống này.
+Dialogue: 9,0:03:44.00,0:03:47.57,Main,,0,0,0,,1 tiếng, à không, 30 phút thôi,
+Dialogue: 9,0:03:47.57,0:03:50.13,Main,,0,0,0,,cho anh nhiêu đó thời gian để dọn dẹp phòng này.
 Dialogue: 9,0:04:01.56,0:04:02.78,Main,,0,0,0,,Vậy...
 Dialogue: 9,0:04:02.78,0:04:06.53,Main,,0,0,0,,Bắt đầu từ đâu nhỉ, Araragi-senpai?
 Dialogue: 9,0:04:06.53,0:04:10.93,Main,,0,0,0,,Trước hết về chuyện tối qua,\N em chân thành xin lỗi!
 Dialogue: 9,0:04:12.83,0:04:15.91,Main,,0,0,0,,Quả nhiên... đó là... em à.
 Dialogue: 9,0:04:15.91,0:04:17.52,Main,,0,0,0,,"Quả nhiên" cơ à.
-Dialogue: 9,0:04:17.52,0:04:20.65,Main,,0,0,0,,Cách anh nói nghe mà chạnh lòng, Araragi-senpai.
+Dialogue: 9,0:04:17.52,0:04:20.65,Main,,0,0,0,,Cách anh nói nghe cam chịu thật đấy, Araragi-senpai.
 Dialogue: 9,0:04:20.65,0:04:22.93,Main,,0,0,0,,Anh nhìn thấu hoàn toàn đúng không?
 Dialogue: 9,0:04:22.93,0:04:27.63,Main,,0,0,0,,Nếu không, Araragi-senpai đã không đến thăm nhà em.
 Dialogue: 9,0:04:27.63,0:04:29.31,Main,,0,0,0,,Không hẳn.
 Dialogue: 9,0:04:29.31,0:04:30.93,Main,,0,0,0,,Chỉ là đoán vu vơ thôi.
 Dialogue: 9,0:04:30.93,0:04:34.50,Main,,0,0,0,,Kiểu như qua vóc dáng, qua hình thể, qua bóng...
-Dialogue: 9,0:04:34.50,0:04:38.47,Main,,0,0,0,,Nhớ lại những người biết được là \Nanh có qua nhà Senjōgahara.
+Dialogue: 9,0:04:34.50,0:04:38.47,Main,,0,0,0,,Nhớ lại những ai biết được \Nanh có qua nhà Senjōgahara.
 Dialogue: 9,0:04:38.47,0:04:41.76,Main,,0,0,0,,Từ những dữ kiện đó\N anh thu hẹp được vùng đối tượng.
 Dialogue: 9,0:04:41.77,0:04:43.63,Main,,0,0,0,,Rồi động não là ra, vậy đấy.
 Dialogue: 9,0:04:43.98,0:04:45.40,Main,,0,0,0,,Hừm~ Ra thế.
 Dialogue: 9,0:04:45.40,0:04:46.52,Main,,0,0,0,,Sắc sảo quá!
-Dialogue: 9,0:04:46.52,0:04:51.44,Main,,0,0,0,,Người ta nói có những cậu trai\N có thể phân biệt được phụ nữ qua vòng ba.
+Dialogue: 9,0:04:46.52,0:04:51.44,Main,,0,0,0,,Người ta nói có con trai\N có thể phân biệt được phụ nữ qua vòng ba.
 Dialogue: 9,0:04:51.44,0:04:53.14,Main,,0,0,0,,Ý anh là thế nhở?
 Dialogue: 9,0:04:55.66,0:04:58.66,Main,,0,800,0,,Em xin lỗi!\NEm không cố ý làm vậy.
-Dialogue: 9,0:04:58.66,0:05:03.92,Main,,0,0,0,,Không phải. \NXin lỗi thì xin lỗi chứ cái anh muốn biết là lý do.
-Dialogue: 9,0:05:03.92,0:05:07.16,Main,,0,0,0,,Mà cũng không phải lý do,\N cái sức mạnh đó...
-Dialogue: 9,0:05:07.17,0:05:11.17,Main,,0,0,0,,Anh muốn biết về cái sức mạnh phi thường đó...\N rốt cuộc em...
+Dialogue: 9,0:04:58.66,0:05:03.92,Main,,0,0,0,,Không phải. \NXin lỗi thì xin lỗi, chứ cái anh muốn biết là lý do.
+Dialogue: 9,0:05:03.92,0:05:07.16,Main,,0,0,0,,Mà cũng không phải lý do.\N Cái sức mạnh đó...
+Dialogue: 9,0:05:07.17,0:05:11.17,Main,,0,0,0,,Anh muốn biết về cái sức mạnh phi thường đó...\N Rốt cuộc em...
 Dialogue: 9,0:05:14.54,0:05:18.38,Main,,0,0,0,,Tại cũng chưa biết bắt đầu từ đâu \Nnên chắc là để trình bày từ cái đó luôn.
 Dialogue: 9,0:05:18.38,0:05:20.04,Main,,0,0,0,,Phải rồi ha! Cơ mà...
 Dialogue: 9,0:05:21.25,0:05:28.57,Main,,0,0,0,,Trước tiên em muốn hỏi liệu Araragi-senpai có phải kiểu người\N mà có thể tin vào mấy chuyện điên khùng không?
@@ -101,7 +105,7 @@ Dialogue: 9,0:06:02.42,0:06:05.13,Main,,0,0,0,,Cả hai được gọi là Song 
 Dialogue: 9,0:06:05.13,0:06:06.67,Main,,0,0,0,,Chuẩn rồi anh!
 Dialogue: 9,0:06:06.67,0:06:09.52,Main,,0,0,0,,Thế mà Araragi-senpai cũng biết cơ à!
 Dialogue: 9,0:06:09.52,0:06:10.68,Main,,0,0,0,,Em lỡ coi nhẹ anh rồi.
-Dialogue: 9,0:06:10.68,0:06:14.05,Main,,0,0,0,,Anh biết cả nguồn gốc xuất xứ cơ mà,\N nghĩ ra được cái biệt danh hay đấy.
+Dialogue: 9,0:06:10.68,0:06:14.05,Main,,0,0,0,,Anh còn biết cả nguồn gốc xuất xứ cơ mà. \NNghĩ ra được cái biệt danh hay đấy.
 Dialogue: 9,0:06:14.05,0:06:16.49,Main,,0,0,0,,Lại chả! Là em nghĩ ra đó!
 Dialogue: 9,0:06:17.72,0:06:19.99,Main,,0,0,0,,{\i1}Tự mình nghĩ ra luôn?!
 Dialogue: 9,0:06:20.15,0:06:24.04,Main,,0,0,0,,{\i1}Lâu lắm rồi mới thấy thất vọng thế này.
@@ -115,12 +119,12 @@ Dialogue: 9,0:06:52.43,0:06:54.64,Main,,0,0,0,,Nói chung! Như anh thấy đó!
 Dialogue: 9,0:07:00.39,0:07:01.58,Main,,0,0,0,,Trông như...
 Dialogue: 9,0:07:01.81,0:07:02.74,Main,,0,0,0,,...Tay khỉ!
 Dialogue: 9,0:07:04.10,0:07:07.76,Main,,0,0,0,,Araragi-senpai phải nói là\N có con mắt tinh tường quá nhở!
-Dialogue: 9,0:07:07.76,0:07:11.66,Main,,0,0,0,,Nể thật! Nhìn cái xuyên thấu luôn!
+Dialogue: 9,0:07:07.76,0:07:11.66,Main,,0,0,0,,Nể thật! Nhìn cái thấu liền!
 Dialogue: 9,0:07:11.66,0:07:13.30,Main,,0,0,0,,Em là em ngạc nhiên lắm đấy!
 Dialogue: 9,0:07:13.30,0:07:15.32,Main,,0,0,0,,Đ-Đừng có động cái là khen!
-Dialogue: 9,0:07:15.32,0:07:19.26,Main,,0,0,0,,Anh đơn thuần chỉ là thấy gì nói thế thôi,\N chả có xuyên với thấu gì hết.
+Dialogue: 9,0:07:15.32,0:07:19.26,Main,,0,0,0,,Anh đơn thuần chỉ là thấy gì nói thế thôi,\N chả có thấu với thị gì cả.
 Dialogue: 9,0:07:19.26,0:07:20.63,Main,,0,0,0,,Thế sao?
-Dialogue: 9,0:07:20.63,0:07:25.80,Main,,0,0,0,,"Bàn tay khỉ" là tên một truyện ngắn của \NWilliam Wymark Jacobs.
+Dialogue: 9,0:07:20.63,0:07:25.80,Main,,0,0,0,,"Tay khỉ" là tên một truyện ngắn của \NWilliam Wymark Jacobs.
 Dialogue: 9,0:07:25.80,0:07:30.91,Main,,0,0,0,,Nghe nói nó giúp đạt được ước nguyện\N nhưng lại theo cái cách mà người ta không muốn.
 Dialogue: 9,0:07:30.91,0:07:32.64,Main,,0,0,0,,Chưa từng nghe qua.
 Dialogue: 9,0:07:32.64,0:07:36.78,Main,,0,0,0,,Chả biết gì mà lại có thể đoán ra được.
@@ -134,32 +138,32 @@ Dialogue: 9,0:08:06.84,0:08:08.47,Main,,0,0,0,,Đừng có kêu kỳ cục thế
 Dialogue: 9,0:08:08.47,0:08:11.13,Main,,0,0,0,,Tại Araragi-senpai sờ cái kiểu kỳ cục ấy chớ!
 Dialogue: 9,0:08:11.13,0:08:13.06,Main,,0,0,0,,Sờ thế thì có gì mà kỳ cục!
 Dialogue: 9,0:08:13.06,0:08:15.30,Main,,0,0,0,,Em có máu buồn mà.
-Dialogue: 9,0:08:15.30,0:08:19.72,Main,,0,0,0,,Kể cả thế thì cũng đừng có kêu lên cái tiếng đi ngược lại với \Nkiểu nhân vật từ trước tới giờ chứ!
+Dialogue: 9,0:08:15.30,0:08:19.72,Main,,0,0,0,,Kể cả thế thì cũng đừng có kêu lên cái tiếng đi ngược lại \N"kiểu nhân vật" từ trước tới giờ chứ!
 Dialogue: 9,0:08:20.06,0:08:21.11,Main,,0,0,0,,Thôi mà~ Thôi mà~
 Dialogue: 9,0:08:22.10,0:08:28.61,Main,,0,0,0,,Như anh thấy đấy, giờ thì nó cử động theo ý em,\N nhưng có những lúc thì không theo ý nữa.
 Dialogue: 9,0:08:28.61,0:08:32.99,Main,,0,0,0,,Mà đúng hơn phải là chống lại ý em,\N kiểu kiểu vậy.
 Dialogue: 9,0:08:32.99,0:08:34.49,Main,,0,0,0,,Chống lại ý?
 Dialogue: 9,0:08:34.49,0:08:38.74,Main,,0,0,0,,À thì, "ý" ở đây là... Khó giải thích nhở.
-Dialogue: 9,0:08:38.74,0:08:44.00,Main,,0,0,0,,Tức là thế này, Araragi-senpai, \Nngười tấn công anh tối qua đích thị là em rồi...
+Dialogue: 9,0:08:38.74,0:08:44.00,Main,,0,0,0,,Tức là thế này Araragi-senpai, \Nngười tấn công anh tối qua đích thị là em rồi...
 Dialogue: 9,0:08:44.00,0:08:46.77,Main,,0,0,0,,nhưng gần như là em chả nhớ gì hết.
-Dialogue: 9,0:08:46.77,0:08:52.05,Main,,0,0,0,,Cứ nửa tỉnh nửa mơ, mơ mơ màng màng,\N cũng không hẳn là không nhớ gì cơ mà...
+Dialogue: 9,0:08:46.77,0:08:52.05,Main,,0,0,0,,Cứ nửa tỉnh nửa mơ, mơ mơ màng màng,\N tuy cũng không hẳn là không nhớ gì.
 Dialogue: 9,0:08:52.05,0:08:53.41,Main,,0,0,0,,Trạng thái thôi miên!
 Dialogue: 9,0:08:53.41,0:08:55.80,Main,,0,0,0,,Em rơi vào trạng thái thôi miên.
 Dialogue: 9,0:08:55.80,0:08:57.05,Main,,0,0,0,,Anh biết cái này.
 Dialogue: 9,0:08:57.05,0:09:02.18,Main,,0,0,0,,Dạng Quái Dị chiếm hữu con người rồi làm nhục \Ncả về thể xác lẫn tâm trí.
 Dialogue: 9,0:09:02.18,0:09:04.32,Main,,0,0,0,,Anh hiểu biết nhở, Araragi-senpai.
 Dialogue: 9,0:09:04.32,0:09:07.55,Main,,0,0,0,,Hiểu rồi, ra nó là Quái Dị, ra thế.
-Dialogue: 9,0:09:07.55,0:09:11.15,Main,,0,0,0,,Mà cũng không phải anh hiểu biết gì đâu...
-Dialogue: 9,0:09:11.15,0:09:14.94,Main,,0,0,0,,chỉ là gần đây,\N không biết tại sao anh gặp nhiều chuyện tương tự.
-Dialogue: 9,0:09:14.94,0:09:17.49,Main,,0,0,0,,Hơn nữa, anh có quen một chuyên gia về vấn đề này.
+Dialogue: 9,0:09:07.55,0:09:11.15,Main,,0,0,0,,Mà cũng không phải anh hiểu biết gì đâu.
+Dialogue: 9,0:09:11.15,0:09:14.94,Main,,0,0,0,,Chỉ là gần đây,\N không hiểu tại sao anh hay gặp mấy vụ kiểu này.
+Dialogue: 9,0:09:14.94,0:09:17.49,Main,,0,0,0,,Hơn nữa, còn quen \Nmột chuyên gia trong lĩnh vực này nữa.
 Dialogue: 9,0:09:19.00,0:09:20.68,Main,,0,0,0,,Ừm, ra vậy.
-Dialogue: 9,0:09:20.68,0:09:23.28,GT,,0,0,0,,(Chỗ này ngược với từ "nhỏ bé" mà tập 3 Araragi dùng để nói về mình)
+Comment: 9,0:09:20.68,0:09:23.28,GT,,0,0,0,,(Chỗ này ngược với từ "nhỏ bé" mà tập 3 Araragi dùng để nói về mình)
 Dialogue: 9,0:09:20.68,0:09:23.28,Main,,0,0,0,,May mà Araragi-senpai là người "rộng mở".
-Dialogue: 9,0:09:23.28,0:09:28.11,Main,,0,0,0,,Nếu anh bỏ chạy khi thấy cánh tay này, \Nthì chúng ta đã không thể ngồi đây mà nói chuyện rồi.
-Dialogue: 9,0:09:28.11,0:09:30.75,Main,,0,0,0,,Và có lẽ em cũng sẽ bị tổn thương đôi chút.
+Dialogue: 9,0:09:23.28,0:09:28.11,Main,,0,0,0,,Nếu anh bỏ chạy khi thấy cánh tay này, \Nthì chúng ta đã không thể ngồi đây mà bàn chuyện rồi.
+Dialogue: 9,0:09:28.11,0:09:30.75,Main,,0,0,0,,Để rồi có lẽ\N em cũng sẽ bị tổn thương đôi chút.
 Dialogue: 9,0:09:30.75,0:09:33.52,Main,,0,0,0,,Thực ra thì anh cũng hơi bất ngờ.
-Dialogue: 9,0:09:33.52,0:09:36.19,Main,,0,0,0,,Nhưng được cái em bắt đầu từ phần\N bất ngờ nhất rồi...
-Dialogue: 9,0:09:36.19,0:09:39.48,Main,,0,0,0,,nên dù có nói gì đi nữa \Nthì cũng không làm anh sốc được.
+Dialogue: 9,0:09:33.52,0:09:36.19,Main,,0,0,0,,Nhưng được cái là em bắt đầu luôn\N từ phần bất ngờ nhất rồi...
+Dialogue: 9,0:09:36.19,0:09:39.48,Main,,0,0,0,,nên dù cho có nói gì đi nữa \Nthì cũng không làm anh sốc được đâu.
 Dialogue: 9,0:09:39.48,0:09:43.99,Main,,0,0,0,,Phải rồi! Chính vì thế \Nmà em để anh nhìn thấy cánh tay này trước tiên.
 Dialogue: 9,0:09:43.99,0:09:47.71,Main,,0,0,0,,Khâu khó nhất... đã vượt qua trước nhất rồi!
 Dialogue: 9,0:09:47.71,0:09:50.23,Main,,0,0,0,,Vậy em vào thẳng vấn đề đây.
@@ -169,12 +173,12 @@ Dialogue: 9,0:10:00.39,0:10:01.13,Main,,0,0,0,,Xem nào...
 Dialogue: 9,0:10:01.13,0:10:03.33,Main,,0,0,0,,Để em nói lại... Em là yuri.
 Dialogue: 9,0:10:03.33,0:10:04.70,Main,,0,0,0,,Khác quái gì nhau!
 Dialogue: 9,0:10:04.70,0:10:06.31,Main,,0,0,0,,Ể?! Mà thế là sao?
-Dialogue: 9,0:10:06.31,0:10:09.32,Main,,0,0,0,,Em và Senjōgahara là hồi cấp 2 Song Tấu Valhalla...
+Dialogue: 9,0:10:06.31,0:10:09.32,Main,,0,0,0,,Em và Senjōgahara hồi cấp 2 là Song Tấu Valhalla...
 Dialogue: 9,0:10:09.32,0:10:10.26,Main,,0,0,0,,Chị chị em em...
-Dialogue: 9,0:10:10.26,0:10:14.25,Main,,0,0,0,,Senjōgahara gọi Kanbaru là "bé ấy"...
+Dialogue: 9,0:10:10.26,0:10:14.25,Main,,0,0,0,,Senjōgahara còn gọi Kanbaru là "bé ấy"...
 Dialogue: 9,0:10:14.25,0:10:18.12,Main,,0,0,0,,Và hôm qua còn nói\N"chưa chia tay con trai bao giờ".{copy-tap-6}
 Dialogue: 9,0:10:18.12,0:10:19.01,Main,,0,0,0,,Không phải thế.
-Dialogue: 9,0:10:19.01,0:10:21.18,Main,,0,0,0,,Đối với Senjōgahara-senpai mà nói...
+Dialogue: 9,0:10:19.01,0:10:21.18,Main,,0,0,0,,Đối với Senjōgahara-senpai...
 Dialogue: 9,0:10:21.18,0:10:23.53,Main,,0,0,0,,chỉ là em đơn phương chị ấy thôi.
 Dialogue: 9,0:10:24.66,0:10:29.08,Main,,0,0,0,,Đối với em Senjōgahara-senpai thuần túy là hoàn hảo.
 Dialogue: 9,0:10:29.08,0:10:31.28,Main,,0,0,0,,Là người chị đáng ngưỡng mộ.
@@ -193,15 +197,15 @@ Dialogue: 9,0:11:11.88,0:11:15.98,Main,,0,0,0,,Nhưng em đã nhầm. \NTin đ�
 Dialogue: 9,0:11:15.98,0:11:20.60,Main,,0,0,0,,Đã có chuyện gì đó kinh khủng \Nập đến với cơ thể của Senjōgahara-senpai.
 Dialogue: 9,0:11:20.60,0:11:24.62,Main,,0,0,0,,Em đã nhận ra,\N và em nghĩ "mình cần phải làm gì đó".
 Dialogue: 9,0:11:24.62,0:11:27.09,Main,,0,0,0,,"Mình cần phải cứu Senjōgahara-senpai".
-Dialogue: 9,0:11:28.53,0:11:30.05,Main,,0,0,0,,Phải thế mà ha?
+Dialogue: 9,0:11:28.53,0:11:30.05,Main,,0,0,0,,Thế là đúng mà ha?
 Dialogue: 9,0:11:30.05,0:11:33.55,Main,,0,0,0,,Hồi cấp 2, tuy khác cả khối lẫn CLB,
 Dialogue: 9,0:11:33.55,0:11:37.06,Main,,0,0,0,,nhưng Senjōgahara-senpai đã rất tốt bụng với em.
-Dialogue: 9,0:11:37.66,0:11:41.19,Main,,0,0,0,,Vì thế lần đó... \Nem cố gắng cứu được Senjōgahara-senpai.
+Dialogue: 9,0:11:37.66,0:11:41.19,Main,,0,0,0,,Vì thế lần này... \Nem phải cố gắng cứu được Senjōgahara-senpai.
 Dialogue: 9,0:11:42.22,0:11:45.98,Main,,0,0,0,,Với thứ mà Senjōgahara-senpai phải gánh chịu,\N em tin là em có thể làm được gì đó.
-Dialogue: 9,0:11:45.98,0:11:51.69,Main,,0,0,0,,Mà kể cả không làm được, thì chỉ cần ở bên cạnh thôi,\N cũng đã có thể chữa lành trái tim chị ấy.
+Dialogue: 9,0:11:45.98,0:11:51.69,Main,,0,0,0,,Kể cả không làm được, thì chỉ cần ở bên cạnh thôi,\N cũng đã có thể chữa lành trái tim chị ấy rồi.
 Dialogue: 9,0:11:51.69,0:11:53.20,Main,,0,0,0,,Đó là em tưởng vậy.
 Dialogue: 9,0:11:54.98,0:11:57.70,Main,,0,0,0,,Nhưng rồi em bị từ chối không thương tiếc.
-Dialogue: 9,0:11:58.48,0:12:02.03,Main,,0,0,0,,"Tôi không coi em là bạn cũng như là đàn em"
+Dialogue: 9,0:11:58.48,0:12:02.03,Main,,0,0,0,,"Tôi không coi em là bạn cũng như đàn em"
 Dialogue: 9,0:12:02.03,0:12:03.21,Main,,0,0,0,,"Cả hiện tại lẫn quá khứ"
 Dialogue: 9,0:12:03.78,0:12:05.70,Main,,0,0,0,,Một cách dõng dạc, rành mạch!
 Dialogue: 9,0:12:06.16,0:12:10.08,Main,,0,0,0,,Vì thế kể từ đó em không bao giờ tiếp cận\N Senjōgahara-senpai nữa.
@@ -216,9 +220,9 @@ Dialogue: 9,0:12:34.98,0:12:37.99,Main,,0,0,0,,{\an8}...em đã biết tới Ara
 Dialogue: 9,0:12:38.40,0:12:44.03,Main,,0,0,0,,Vào sáng nọ, Senjōgahara-senpai \Nđang trò chuyện với Araragi-senpai trong lớp.
 Dialogue: 9,0:12:44.03,0:12:47.24,Main,,0,0,0,,Suốt những năm tháng cấp 2 \Nchưa một lần em thấy được...
 Dialogue: 9,0:12:47.24,0:12:49.76,Main,,0,0,0,,...nụ cười hạnh phúc ấy.
-Dialogue: 9,0:12:51.75,0:12:52.76,Main,,0,0,0,,{\an8}Anh có hiểu không!
-Dialogue: 9,0:12:53.28,0:12:58.08,Main,,0,0,0,,Araragi-senpai đã làm được những điều mà em hằng khao khát\N nhưng đã phải từ bỏ.
-Dialogue: 9,0:12:58.08,0:13:00.34,Main,,0,0,0,,Cứ như thể lẽ tự nhiên vậy!
+Dialogue: 9,0:12:51.75,0:12:52.76,Main,,0,0,0,,{\an8}Anh có hiểu không hả!
+Dialogue: 9,0:12:53.28,0:12:58.08,Main,,0,0,0,,Araragi-senpai đã làm được điều mà em hằng khao khát\N nhưng đã phải từ bỏ.
+Dialogue: 9,0:12:58.08,0:13:00.34,Main,,0,0,0,,Một cách rất tự nhiên!
 Dialogue: 9,0:12:58.56,0:12:59.46,Main,,0,0,0,,{\an8}Kanbaru?!
 Dialogue: 9,0:13:00.34,0:13:01.35,Main,,0,0,0,,Không phải, chuyện đó—
 Dialogue: 9,0:13:02.54,0:13:04.09,Main,,0,0,0,,Lúc đầu em ghen tị.
@@ -251,7 +255,7 @@ Dialogue: 9,0:14:32.77,0:14:36.08,Main,,0,0,0,,Ít nhất là trong vài giờ t
 Dialogue: 9,0:14:36.56,0:14:40.08,Main,,0,0,0,,Araragi-senpai, em hỏi câu này được không?
 Dialogue: 9,0:14:40.37,0:14:41.19,Main,,0,0,0,,Gì nào?
 Dialogue: 9,0:14:41.19,0:14:46.19,Main,,0,0,0,,Đối với Araragi-senpai... \NSenjōgahara-senpai có điểm nào cuốn hút?
-Dialogue: 9,0:14:46.51,0:14:50.66,Main,,0,0,0,,Chung lớp 2 năm không nói với nhau câu nào\N mà tự nhiên lại.
+Dialogue: 9,0:14:46.51,0:14:50.66,Main,,0,0,0,,Cùng lớp 2 năm không nói với nhau câu nào\N mà tự nhiên lại.
 Dialogue: 9,0:14:51.68,0:14:53.53,Main,,0,0,0,,Sao em lại hỏi thế?
 Dialogue: 9,0:14:56.34,0:14:57.42,Main,,0,0,0,,{\pos(538,950)}Thì tức là ấy...
 Dialogue: 9,0:14:57.42,0:15:01.42,Main,,0,0,0,,Nếu mà Araragi-senpai chỉ thèm muốn\N cơ thể của Senjougahara-senpai...
@@ -448,7 +452,7 @@ Dialogue: 9,0:15:23.69,0:15:25.67,Main,,0,0,0,,Em thực sự nghiêm túc đấ
 Dialogue: 9,0:15:25.67,0:15:28.90,Main,,0,0,0,,Araragi-senpai mà muốn thì\N khi nào cũng được, ở đâu cũng được.
 Dialogue: 9,0:15:28.90,0:15:31.65,Main,,0,0,0,,Araragi-senpai cứ "công", việc "thụ" để em.
 Dialogue: 9,0:15:31.65,0:15:32.99,Main,,0,0,0,,Công?! Thụ?!
-Dialogue: 9,0:15:32.99,0:15:35.53,Main,,0,0,0,,Sao anh phải làm thế chứ?
+Dialogue: 9,0:15:32.99,0:15:35.53,Main,,0,0,0,,Sao anh lại phải làm thế cơ chứ?
 Dialogue: 9,0:15:36.91,0:15:41.67,Main,,0,0,0,,À ra vậy, Araragi-senpai không biết gì về BL.\N Bất ngờ đấy.
 Dialogue: 9,0:15:41.67,0:15:44.19,Main,,0,0,0,,Điên à mà đi bàn BL với nữ sinh lớp dưới.
 Dialogue: 9,0:15:44.19,0:15:47.09,Main,,0,0,0,,Hửm?! BL là viết tắt cho Boy Love đó.
@@ -459,30 +463,31 @@ Dialogue: 9,0:15:57.17,0:16:01.49,Main,,0,0,0,,Thế thì Araragi-senpai \Nnãy 
 Dialogue: 9,0:16:01.49,0:16:03.72,Main,,0,0,0,,Không lẽ Araragi-senpai là thụ?
 Dialogue: 9,0:16:03.72,0:16:05.81,Main,,0,0,0,,Im ngay! Không bàn chuyện này nữa!
 Dialogue: 9,0:16:05.81,0:16:09.84,Main,,0,0,0,,Nói câu này có hơi thất lễ cơ mà, Araragi-senpai...
-Dialogue: 9,0:16:09.84,0:16:15.45,Main,,0,0,0,,nếu anh chẳng thế nói chuyện đen tối với nữ sinh lớp dưới,\N thì anh sẽ chẳng thể nào ra đời được đâu.
+Dialogue: 9,0:16:09.84,0:16:15.45,Main,,0,0,0,,nếu anh chẳng thế nói chuyện đen tối với nữ sinh lớp dưới,\N thì sẽ chẳng thể nào bước ra đời được đâu.
 Dialogue: 9,0:16:15.47,0:16:18.22,Main,,0,0,0,,Anh không muốn\N bị nữ sinh lớp dưới lên mặt dạy đời đâu.
 Dialogue: 9,0:16:18.22,0:16:20.77,Main,,0,0,0,,Có nói thế thì, Araragi-senpai...
-Dialogue: 9,0:16:20.77,0:16:26.82,Main,,0,0,0,,{\q2}Cứ dựa vào mớ ảo tưởng mỏng manh đó \Nmà yêu cầu phụ nữ phải đức hạnh thì đến chào hỏi thôi cũng khó.
+Dialogue: 9,0:16:20.77,0:16:24.99,Main,,0,0,0,,{\q2}Cứ dựa vào mớ ảo tưởng mỏng manh đó \Nmà yêu cầu phụ nữ phải đức hạnh này nọ...
+Dialogue: 9,0:16:24.99,0:16:26.82,Main,,0,0,0,,{\q2}...thì đến khâu làm quen thôi cũng khó.
 Dialogue: 9,0:16:26.82,0:16:28.23,Main,,0,0,0,,Chẳng trách được ai đâu!
-Dialogue: 9,0:16:28.23,0:16:31.86,Main,,0,0,0,,Phụ nữ nhá, \Ncũng quan tâm ecchi các thứ chứ bộ.
-Dialogue: 9,0:16:33.13,0:16:38.39,Main,,0,0,0,,Vậy! Tiếp theo ta sẽ bàn về việc Araragi-senpai\N là kiểu mặc quần briefs hay quần trunks.
+Dialogue: 9,0:16:28.23,0:16:31.86,Main,,0,0,0,,Phụ nữ ấy nhá, \Ncũng quan tâm ecchi các thứ chứ bộ.
+Dialogue: 9,0:16:33.13,0:16:38.39,Main,,0,0,0,,Vậy! Tiếp theo ta sẽ bàn về việc Araragi-senpai\N là kiểu mặc quần brief hay quần trunk.
 Dialogue: 9,0:16:38.39,0:16:40.27,Main,,0,0,0,,Dăm ba cái này cóc bàn!
-Dialogue: 9,0:16:40.27,0:16:44.73,Main,,0,0,0,,Ủa? Hay là bàn về việc \Nliệu em có mặc quần lót bên dưới quần spat không?
+Dialogue: 9,0:16:40.27,0:16:44.73,Main,,0,0,0,,Ơ kìa? Hay là ta bàn về việc \Nliệu em có mặc quần lót bên dưới quần spat không nhỉ?
 Dialogue: 9,0:16:47.23,0:16:50.11,Main,,0,0,0,,{\i1}Không mặc cơ á?! Kanbaru-san?!
-Dialogue: 9,0:16:50.11,0:16:53.61,Main,,0,0,0,,V-Vậy bên dưới quần spat lấp ló sau váy em...
-Dialogue: 9,0:16:53.61,0:16:57.36,Main,,0,0,0,,Lỡ mà thế thì cũng có gì ngạc nhiên đâu anh.
+Dialogue: 9,0:16:50.11,0:16:53.61,Main,,0,0,0,,V-Vậy đằng sau lớp quần spat lấp ló dưới váy em...
+Dialogue: 9,0:16:53.61,0:16:57.36,Main,,0,0,0,,Kể cả có thế thì cũng có gì ngạc nhiên đâu anh.
 Dialogue: 9,0:16:57.37,0:17:00.50,Main,,0,0,0,,Quần spat tính ra ban đầu cũng là đồ lót mà.
 Dialogue: 9,0:17:00.50,0:17:02.62,Main,,0,0,0,,Thế thì còn hơn cả không mặc!
-Dialogue: 9,0:17:03.08,0:17:06.10,Main,,0,0,0,,Tức là đang ngang nhiên mặc quần lót \Ncho bàn dân thiên hạ xem!
+Dialogue: 9,0:17:03.08,0:17:06.10,Main,,0,0,0,,Tức là em đang ngang nhiên mặc quần lót \Ncho bàn dân thiên hạ xem!
 Dialogue: 9,0:17:06.10,0:17:06.85,Main,,0,0,0,,Vậy đấy!
 Dialogue: 9,0:17:06.85,0:17:09.73,Main,,0,0,0,,Hừm~ Anh nói thế cũng có lý nhưng mà...
-Dialogue: 9,0:17:09.73,0:17:14.37,Main,,0,0,0,,thôi thì hãy cứ coi đây là đặc ân sang chảnh\N cho nữ vận động viên đi.
+Dialogue: 9,0:17:09.73,0:17:14.37,Main,,0,0,0,,Thôi thì hãy cứ coi đây là đặc ân sang chảnh\N cho nữ vận động viên đi.
 Dialogue: 9,0:17:14.37,0:17:16.84,Main,,0,0,0,,Méo nhá!\N Rõ ràng là biến thái thích khoe hàng!
-Dialogue: 9,0:17:16.84,0:17:18.68,Main,,0,0,0,,À em nhớ rồi.
+Dialogue: 9,0:17:16.84,0:17:18.68,Main,,0,0,0,,À phải rồi.
 Dialogue: 9,0:17:18.68,0:17:20.95,Main,,0,0,0,,Đây không phải chuyện ta đang bàn.
 Dialogue: 9,0:17:20.95,0:17:24.48,Main,,0,0,0,,Ta đang bàn về vụ\N liệu em có thế được chỗ Senjōgahara-senpai hay không.
 Dialogue: 9,0:17:26.60,0:17:27.35,Main,,0,0,0,,Gượm đã!
-Dialogue: 9,0:17:27.35,0:17:30.77,Main,,0,0,0,,Vụ này chưa xong thì đừng có lật sang vụ khác.
+Dialogue: 9,0:17:27.35,0:17:30.77,Main,,0,0,0,,Vụ này chưa xong thì đừng hòng lật sang vụ khác.
 Dialogue: 9,0:17:30.77,0:17:34.30,Main,,0,0,0,,Rốt cuộc là em có mặc hay là không?
 Dialogue: 9,0:17:34.30,0:17:35.78,Main,,0,1100,0,,Ba mặt một lời đi!
 Dialogue: 9,0:17:36.14,0:17:40.05,Main,,0,0,0,,Liệu có thể bỏ qua mấy chi tiết thô tục này được không, \NAraragi-senpai?
@@ -497,8 +502,8 @@ Dialogue: 9,0:17:58.59,0:18:01.47,Main,,0,0,0,,Những ai nghĩ là kẻ thích 
 Dialogue: 9,0:18:02.74,0:18:04.45,Main,,0,0,0,,Thích chơi chữ không!
 Dialogue: 9,0:18:04.45,0:18:06.06,Main,,0,0,0,,"Vừa là X, vừa là Y"
 Dialogue: 9,0:18:06.47,0:18:11.61,Main,,0,0,0,,Cái kiểu nói "Những ai nghĩ là X thì là X"\N"Những ai nghĩ là Y thì là Y"...
-Dialogue: 9,0:18:11.61,0:18:13.36,Main,,0,0,0,,...chỉ ngầu ở cấp 2 thôi.
-Dialogue: 9,0:18:13.36,0:18:15.35,Main,,0,0,0,,Bộ em là đám em gái anh à!
+Dialogue: 9,0:18:11.61,0:18:13.36,Main,,0,0,0,,...chỉ ngầu ở cấp 2 thôi!
+Dialogue: 9,0:18:13.36,0:18:15.35,Main,,0,0,0,,Bộ em là đám em gái nhà anh à!
 Dialogue: 9,0:18:16.55,0:18:18.09,Main,,0,0,0,,Mà nghe này, Kanbaru.
 Dialogue: 9,0:18:18.09,0:18:21.11,Main,,0,0,0,,Nghiêm túc mà nói, dù có cố gắng thế nào...
 Dialogue: 9,0:18:21.11,0:18:23.78,Main,,0,0,0,,thì em cũng không thể thế được chỗ \Ncủa Senjōgahara đâu.
@@ -517,7 +522,7 @@ Dialogue: 9,0:19:08.08,0:19:10.91,Main,,0,0,0,,Quả cười tươi rói nhất 
 Dialogue: 9,0:19:10.91,0:19:13.27,Main,,0,0,0,,Muốn ôm ẻm quá! Muốn ẻm ôm quá!
 Dialogue: 9,0:19:14.33,0:19:18.04,Main,,0,0,0,,Cơ mà này, tốt nhất đừng nên dính vô.
 Dialogue: 9,0:19:20.28,0:19:22.20,Main,,0,0,0,,Trễ quá đấy, Araragi-kun!
-Dialogue: 9,0:19:22.20,0:19:26.14,Main,,0,0,0,,Chờ cậu đến mà sắp lăn ra ngủ gậ—
+Dialogue: 9,0:19:22.20,0:19:26.14,Main,,0,0,0,,Chờ cậu đến mà ta sắp lăn ra ngủ gậ—
 Dialogue: 9,0:19:26.54,0:19:28.09,Main,,0,0,0,,Gì thế này, Araragi-kun?
 Dialogue: 9,0:19:28.09,0:19:30.68,Main,,0,0,0,,Nay lại dắt theo một cô khác ha.
 Dialogue: 9,0:19:31.06,0:19:34.56,Main,,0,0,0,,Mỗi lần gặp cậu là lại một cô mới.
@@ -527,8 +532,8 @@ Dialogue: 9,0:19:37.68,0:19:39.61,Main,,0,0,0,,Đừng có nói đi nói lại m
 Dialogue: 9,0:19:39.61,0:19:42.38,Main,,0,0,0,,À phải, tôi thấy Shinobu chỗ cầu thang.
 Dialogue: 9,0:19:42.38,0:19:44.36,Main,,0,0,0,,Sao cô ta lại ở đấy?
 Dialogue: 9,0:19:44.37,0:19:50.62,Main,,0,0,0,,À~ Ta lỡ ăn mất cái donut hiệu Mister cuối cùng,\N nên giờ Shinobu-chan đang dỗi.
-Dialogue: 9,0:19:51.38,0:19:53.51,Main,,0,0,0,,Đã như vậy từ hôm qua rồi.
-Dialogue: 9,0:19:53.51,0:19:55.37,Main,,0,0,0,,Đây mà là ma cà rồng.
+Dialogue: 9,0:19:51.38,0:19:53.51,Main,,0,0,0,,Từ qua đến giờ đã như vậy rồi.
+Dialogue: 9,0:19:53.51,0:19:55.37,Main,,0,0,0,,Cái thể loại ma cà rồng gì đây trời!
 Dialogue: 9,0:19:55.72,0:19:59.32,Main,,0,0,0,,Oshino, đây là đàn em kém tôi 1 tuổi,\NKanbaru Suruga.
 Dialogue: 9,0:19:59.32,0:20:04.70,Main,,0,0,0,,"Kanbaru" được viết gồm 2 từ \NKami trong Kamisama và Hara trong Harappa, Hara thì đọc là Baru.
 Dialogue: 9,0:20:04.70,0:20:06.43,Main,,0,0,0,,"Suruga" thì... xem nào...
@@ -548,7 +553,7 @@ Dialogue: 9,0:20:37.18,0:20:39.38,Main,,0,0,0,,Cũng vừa đúng lúc bắt đ�
 Dialogue: 9,0:20:40.39,0:20:43.38,Main,,0,0,0,,Thế... tiểu thư đây có vấn đề gì nào?
 Dialogue: 9,0:20:44.63,0:20:46.97,Main,,0,0,0,,À~ Chỗ quấn băng đó ha.
 Dialogue: 9,0:20:48.64,0:20:51.43,Main,,0,0,0,,Oshino-san, tôi—
-Dialogue: 9,0:20:51.43,0:20:53.27,Main,,0,0,0,,Từ từ, có trước có sau.
+Dialogue: 9,0:20:51.43,0:20:53.27,Main,,0,0,0,,Từ từ có trước có sau.
 Dialogue: 9,0:20:53.27,0:20:55.88,Main,,0,0,0,,Xem ra không phải chuyện gì vui vẻ.
 Dialogue: 9,0:20:55.88,0:21:00.19,Main,,0,0,0,,Xưa nay hễ dính tới tay là đều thế hết.\N Kinh nghiệm cả rồi.
 Dialogue: 9,0:21:00.19,0:21:04.18,Main,,0,0,0,,Chưa kể... tay trái thì lại càng kinh hơn.
@@ -564,7 +569,7 @@ Dialogue: 9,0:21:44.68,0:21:48.45,Main,,0,0,0,,Và nếu tay của xác ướp c
 Dialogue: 9,0:21:48.45,0:21:50.57,Main,,0,0,0,,Ta đoán nó là Quỷ Mưa.
 Dialogue: 9,0:21:50.96,0:21:52.08,Main,,0,0,0,,Mưa?
 Dialogue: 9,0:21:52.08,0:21:54.87,Main,,0,0,0,,Phải! Một loại quỷ thấp kém.
-Dialogue: 9,0:21:54.87,0:22:01.29,Main,,0,0,0,,Quỷ mà đi với áo mưa với tay khỉ,\N thì phải nói khá là hiếm.
+Dialogue: 9,0:21:54.87,0:22:01.29,Main,,0,0,0,,Quỷ mà đi với áo mưa với tay khỉ,\N thì phải nói là khá hiếm.
 Dialogue: 9,0:22:01.29,0:22:05.09,Main,,0,0,0,,Chưa kể lại còn hòa làm một được,\N đích thị là Quỷ Mưa rồi.
 Dialogue: 9,0:22:05.41,0:22:08.40,Main,,0,0,0,,Không phải Tay Khỉ, mà là Tay Quỷ.
 Dialogue: 9,0:22:08.40,0:22:10.59,Main,,0,0,0,,Và nó cũng ban điều ước được.
@@ -579,9 +584,9 @@ Dialogue: 9,0:23:57.20,0:23:58.82,Main,preview,0,0,0,,Tsukihi-chan ở CLB Trà 
 Dialogue: 9,0:23:58.82,0:24:00.72,Main,preview,0,0,0,,Ừm, Tsukihi-chan ở CLB Trà đạo đó~
 Dialogue: 9,0:24:00.72,0:24:03.47,Main,preview,0,0,0,,Thế em có biết thành phố Uji ở Kyōto \Nnổi tiếng món trà nào không?
 Dialogue: 9,0:24:03.47,0:24:04.71,Main,preview,0,0,0,,Biết chứ! Biết chứ!
-Dialogue: 9,0:24:04.71,0:24:07.30,Main,preview,0,0,0,,Hình như ở Uji người ta có cả "vòi trà" \Nnhư kiểu "vòi nước" ấy.
+Dialogue: 9,0:24:04.71,0:24:07.30,Main,preview,0,0,0,,Hình như ở Uji người ta làm cả "vòi trà" \Nnhư kiểu "vòi nước" ấy.
 Dialogue: 9,0:24:07.30,0:24:07.94,Main,preview,0,0,0,,Thật á?
-Dialogue: 9,0:24:07.94,0:24:11.32,GT 2,preview,0,0,0,,{\an4\pos(344.01,914.32)}(Jaguchi)                                 (Jacuzzi)
+Dialogue: 9,0:24:07.94,0:24:11.32,GT 2,preview,0,0,0,,{\an4\pos(368.01,924.32)}Jaguchi                               Jacuzzi
 Dialogue: 9,0:24:07.94,0:24:11.32,Main,preview,0,0,0,,Mà "vòi" với "bồn tắm sục" đọc nghe giống nhau nhở?
 Dialogue: 9,0:24:11.32,0:24:12.97,Main,preview,0,0,0,,Tìm hiểu thêm về Uji nào.
 Dialogue: 9,0:24:12.97,0:24:13.85,Main,preview,0,0,0,,Câu đố xem trước!
