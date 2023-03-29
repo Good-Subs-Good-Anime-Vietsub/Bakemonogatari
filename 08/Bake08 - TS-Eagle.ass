@@ -15,9 +15,9 @@ Audio File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakem
 Video File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 08v3 [13898D3D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 42
-Active Line: 81
+Video Zoom Percent: 0.750000
+Scroll Position: 142
+Active Line: 152
 Video Position: 27169
 
 [V4+ Styles]
@@ -33,88 +33,160 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 9,0:01:00.79,0:01:07.05,Signs,,0,0,0,nTS,{\frz0\fscx100\fscy100\alpha&H00&\fnSVN-Aaron Script\fax0.1\fs100\c&HF6F6F6&\blur0.8\1a&H00&\pos(960.47,684.28)\fsp30}~ Quỷ Mưa ~
-Dialogue: 9,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(626.86,365.9)}Lom\N khom
-Dialogue: 9,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(626.86,366.69)}Lom\N khom
-Dialogue: 9,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.87\pos(627.65,367.61)}Lom\N khom
-Dialogue: 9,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.87\pos(628.33,368.39)}Lom\N khom
-Dialogue: 9,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.88\pos(628.69,368.88)}Lom\N khom
-Dialogue: 9,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(628.8,368.97)}Lom\N khom
-Dialogue: 9,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(628.8,368.74)}Lom\N khom
-Dialogue: 9,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(628.85,368.26)}Lom\N khom
-Dialogue: 9,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(628.95,367.66)}Lom\N khom
-Dialogue: 9,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.88\pos(629.38,367.21)}Lom\N khom
-Dialogue: 9,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(630.22,367.31)}Lom\N khom
-Dialogue: 9,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(630.55,367.19)}Lom\N khom
-Dialogue: 9,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(630.23,366.95)}Lom\N khom
-Dialogue: 9,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=0}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(629.43,366.65)}Lom\N khom
-Dialogue: 9,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(628.33,366.45)}Lom\N khom
-Dialogue: 9,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=0}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.24,366.49)}Lom\N khom
-Dialogue: 9,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.98\pos(626.31,366.72)}Lom\N khom
-Dialogue: 9,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(625.93,367.1)}Lom\N khom
-Dialogue: 9,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(626.32,367.66)}Lom\N khom
-Dialogue: 9,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.07,368.15)}Lom\N khom
-Dialogue: 9,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.99\pos(627.78,368.46)}Lom\N khom
-Dialogue: 9,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=0}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.99\pos(628.38,368.53)}Lom\N khom
-Dialogue: 9,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=0}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz20.02\pos(628.83,368.47)}Lom\N khom
-Dialogue: 9,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.98\pos(629.06,368.17)}Lom\N khom
-Dialogue: 9,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=0}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(629.08,367.9)}Lom\N khom
-Dialogue: 9,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(629.09,367.75)}Lom\N khom
-Dialogue: 9,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=0}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(629.06,367.81)}Lom\N khom
-Dialogue: 9,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=0}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(628.72,367.8)}Lom\N khom
-Dialogue: 9,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=0}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(628.22,367.74)}Lom\N khom
-Dialogue: 9,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz20\pos(627.76,367.73)}Lom\N khom
-Dialogue: 9,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.39,367.72)}Lom\N khom
-Dialogue: 9,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(627.27,367.86)}Lom\N khom
-Dialogue: 9,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=0}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.98\pos(627.39,368.16)}Lom\N khom
-Dialogue: 9,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz20.01\pos(627.74,368.6)}Lom\N khom
-Dialogue: 9,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=0}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(628.17,368.92)}Lom\N khom
-Dialogue: 9,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=0}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(628.39,368.61)}Lom\N khom
-Dialogue: 9,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=1}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(766.85,451.43)}Lom\N khom
-Dialogue: 9,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=1}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(766.73,451.19)}Lom\N khom
-Dialogue: 9,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=1}{\fscx99.95\fscy99.95\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(766.35,451.04)}Lom\N khom
-Dialogue: 9,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(765.67,451.12)}Lom\N khom
-Dialogue: 9,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(765.04,451.46)}Lom\N khom
-Dialogue: 9,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=1}{\fscx100\fscy100\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(764.82,452.19)}Lom\N khom
-Dialogue: 9,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=1}{\fscx99.98\fscy99.98\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(765.14,453.07)}Lom\N khom
-Dialogue: 9,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(765.34,453.89)}Lom\N khom
-Dialogue: 9,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(765.28,454.19)}Lom\N khom
-Dialogue: 9,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=1}{\fscx99.98\fscy99.98\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(765.05,454.15)}Lom\N khom
-Dialogue: 9,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=1}{\fscx99.99\fscy99.99\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(764.81,453.76)}Lom\N khom
-Dialogue: 9,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(764.56,452.99)}Lom\N khom
-Dialogue: 9,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=1}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(764.6,452.3)}Lom\N khom
-Dialogue: 9,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=1}{\fscx100.01\fscy100.01\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(764.85,451.7)}Lom\N khom
-Dialogue: 9,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=1}{\fscx100.03\fscy100.03\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(765.34,451.65)}Lom\N khom
-Dialogue: 9,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=1}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(765.45,451.64)}Lom\N khom
-Dialogue: 9,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=1}{\fscx100.08\fscy100.08\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(764.98,451.41)}Lom\N khom
-Dialogue: 9,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=1}{\fscx100.08\fscy100.08\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.89\pos(764.28,451.18)}Lom\N khom
-Dialogue: 9,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(763.57,451.11)}Lom\N khom
-Dialogue: 9,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=1}{\fscx100.07\fscy100.07\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(762.88,451.14)}Lom\N khom
-Dialogue: 9,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=1}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.92\pos(762.54,451.33)}Lom\N khom
-Dialogue: 9,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=1}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(762.65,451.71)}Lom\N khom
-Dialogue: 9,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=1}{\fscx100.07\fscy100.07\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(763.37,452.26)}Lom\N khom
-Dialogue: 9,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=1}{\fscx100.07\fscy100.07\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(764.27,452.72)}Lom\N khom
-Dialogue: 9,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(765.22,453.11)}Lom\N khom
-Dialogue: 9,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=1}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.97\pos(765.99,453.37)}Lom\N khom
-Dialogue: 9,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=1}{\fscx100.02\fscy100.02\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.94\pos(766.5,453.34)}Lom\N khom
-Dialogue: 9,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(766.76,453.11)}Lom\N khom
-Dialogue: 9,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(766.86,452.89)}Lom\N khom
-Dialogue: 9,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.91\pos(766.88,452.67)}Lom\N khom
-Dialogue: 9,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(767.01,452.64)}Lom\N khom
-Dialogue: 9,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=1}{\fscx100.04\fscy100.04\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.93\pos(766.82,452.56)}Lom\N khom
-Dialogue: 9,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.96\pos(766.33,452.48)}Lom\N khom
-Dialogue: 9,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=1}{\fscx100.05\fscy100.05\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(765.69,452.4)}Lom\N khom
-Dialogue: 9,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=1}{\fscx100.06\fscy100.06\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.95\pos(765.08,452.47)}Lom\N khom
-Dialogue: 9,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=1}{\fscx100.11\fscy100.11\alpha&H00&\c&H676F70&\fnSJ Billy\b1\blur1.2\frz19.9\pos(764.55,452.62)}Lom\N khom
-Dialogue: 9,0:12:59.09,0:13:04.72,Signs,,0,0,0,nTS,{\c&HFFFFFF&\fnSVN-Amsi Cond\blur0.8\fs100\fsp30\pos(979.43,652)}Điều Ước Thứ Ba
-Dialogue: 9,0:18:50.15,0:18:50.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1049.14,402.86)}BA
-Dialogue: 10,0:18:50.15,0:18:50.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1049.14,402.86)}BA
-Dialogue: 9,0:18:51.15,0:18:51.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1017.14,402.86)}HAI
-Dialogue: 10,0:18:51.15,0:18:51.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1017.14,402.86)}HAI
-Dialogue: 9,0:18:52.15,0:18:52.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1040,402.86)}MỘT
-Dialogue: 10,0:18:52.15,0:18:52.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1040,402.86)}MỘT
-Dialogue: 9,0:18:53.15,0:18:53.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1040,402.86)}KHÔNG
-Dialogue: 10,0:18:53.15,0:18:53.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1040,402.86)}KHÔNG
+Dialogue: 0,0:01:00.79,0:01:07.05,Signs,,0,0,0,nTS,{\frz0\fscx100\fscy100\alpha&H00&\fnSVN-Aaron Script\fax0.1\fs100\c&HF6F6F6&\blur0.8\1a&H00&\pos(960.47,384.28)\fsp30}~ Quỷ Mưa ~
+Dialogue: 0,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(621.86,365.9)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(621.86,366.69)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.87\pos(622.65,367.61)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.87\pos(623.33,368.39)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.88\pos(623.69,368.88)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(623.8,368.97)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(623.8,368.74)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(623.85,368.26)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(623.95,367.66)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.88\pos(624.38,367.21)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(625.22,367.31)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(625.55,367.19)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(625.23,366.95)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(624.43,366.65)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(623.33,366.45)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(622.24,366.49)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.98\pos(621.31,366.72)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(620.93,367.1)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(621.32,367.66)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(622.07,368.15)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.99\pos(622.78,368.46)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.99\pos(623.38,368.53)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz20.02\pos(623.83,368.47)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.98\pos(624.06,368.17)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(624.08,367.9)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(624.09,367.75)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(624.06,367.81)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(623.72,367.8)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(623.22,367.74)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz20\pos(622.76,367.73)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(622.39,367.72)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(622.27,367.86)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.98\pos(622.39,368.16)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz20.01\pos(622.74,368.6)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(623.17,368.92)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(623.39,368.61)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(761.85,451.43)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(761.73,451.19)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(761.35,451.04)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(760.67,451.12)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(760.04,451.46)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(759.82,452.19)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(760.14,453.07)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(760.34,453.89)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(760.28,454.19)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(760.05,454.15)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(759.81,453.76)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(759.56,452.99)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(759.6,452.3)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(759.85,451.7)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(760.34,451.65)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(760.45,451.64)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(759.98,451.41)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(759.28,451.18)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(758.57,451.11)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(757.88,451.14)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(757.54,451.33)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(757.65,451.71)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(758.37,452.26)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(759.27,452.72)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(760.22,453.11)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(760.99,453.37)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(761.5,453.34)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(761.76,453.11)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(761.86,452.89)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(761.88,452.67)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(762.01,452.64)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(761.82,452.56)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(761.33,452.48)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(760.69,452.4)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(760.08,452.47)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(759.55,452.62)\fscx100\fscy85}lom\N khom
+Dialogue: 0,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(620.86,365.9)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(620.86,366.69)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.87\pos(621.65,367.61)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.87\pos(622.33,368.39)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.88\pos(622.69,368.88)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(622.8,368.97)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(622.8,368.74)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(622.85,368.26)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(622.95,367.66)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.88\pos(623.38,367.21)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(624.22,367.31)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(624.55,367.19)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(624.23,366.95)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(623.43,366.65)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(622.33,366.45)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(621.24,366.49)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.98\pos(620.31,366.72)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(619.93,367.1)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(620.32,367.66)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(621.07,368.15)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.99\pos(621.78,368.46)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.99\pos(622.38,368.53)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz20.02\pos(622.83,368.47)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.98\pos(623.06,368.17)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(623.08,367.9)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(623.09,367.75)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(623.06,367.81)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(622.72,367.8)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(622.22,367.74)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz20\pos(621.76,367.73)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(621.39,367.72)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(621.27,367.86)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.98\pos(621.39,368.16)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz20.01\pos(621.74,368.6)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(622.17,368.92)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=0}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(622.39,368.61)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.61,0:03:00.66,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(760.85,451.43)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.66,0:03:00.70,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(760.73,451.19)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.70,0:03:00.74,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(760.35,451.04)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.74,0:03:00.78,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(759.67,451.12)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.78,0:03:00.82,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(759.04,451.46)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.82,0:03:00.86,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(758.82,452.19)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.86,0:03:00.91,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(759.14,453.07)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.91,0:03:00.95,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(759.34,453.89)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.95,0:03:00.99,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(759.28,454.19)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:00.99,0:03:01.03,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(759.05,454.15)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.03,0:03:01.07,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(758.81,453.76)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.07,0:03:01.11,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(758.56,452.99)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.11,0:03:01.16,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(758.6,452.3)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.16,0:03:01.20,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(758.85,451.7)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.20,0:03:01.24,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(759.34,451.65)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.24,0:03:01.28,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(759.45,451.64)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.28,0:03:01.32,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(758.98,451.41)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.32,0:03:01.36,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.89\pos(758.28,451.18)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.36,0:03:01.41,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(757.57,451.11)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.41,0:03:01.45,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(756.88,451.14)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.45,0:03:01.49,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.92\pos(756.54,451.33)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.49,0:03:01.53,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(756.65,451.71)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.53,0:03:01.57,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(757.37,452.26)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.57,0:03:01.61,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(758.27,452.72)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.61,0:03:01.66,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(759.22,453.11)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.66,0:03:01.70,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.97\pos(759.99,453.37)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.70,0:03:01.74,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.94\pos(760.5,453.34)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.74,0:03:01.78,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(760.76,453.11)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.78,0:03:01.82,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(760.86,452.89)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.82,0:03:01.86,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.91\pos(760.88,452.67)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.86,0:03:01.91,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(761.01,452.64)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.91,0:03:01.95,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.93\pos(760.82,452.56)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.95,0:03:01.99,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.96\pos(760.33,452.48)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:01.99,0:03:02.03,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(759.69,452.4)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:02.03,0:03:02.07,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.95\pos(759.08,452.47)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:03:02.07,0:03:02.11,Signs,,0,0,0,nTS,{=1}{\alpha&H00&\c&H676F70&\fnEPSON 行書体Ｍ\b0\blur1.3\frz19.9\pos(758.55,452.62)\fscx100\fscy85\1a&H14&}lom\N khom
+Dialogue: 0,0:12:59.09,0:13:04.72,Signs,,0,0,0,nTS,{\c&HFFFFFF&\fnSVN-Amsi Cond\blur0.8\fs100\fsp30\pos(977.43,398)\fscx120\fscy120}Điều Ước Thứ Ba
+Dialogue: 0,0:18:50.15,0:18:50.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\pos(1049.14,402.86)\fscx123\fscy123}BA
+Dialogue: 1,0:18:50.15,0:18:50.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\pos(1049.14,402.86)\fscx123\fscy123}BA
+Dialogue: 0,0:18:51.15,0:18:51.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\fscx134\fscy134\pos(1050.28,402.86)}HAI
+Dialogue: 1,0:18:51.15,0:18:51.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\fscx134\fscy134\pos(1050.28,402.86)}HAI
+Dialogue: 0,0:18:52.15,0:18:52.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\fscx126\fscy126\pos(1054.67,402.86)}MỘT
+Dialogue: 1,0:18:52.15,0:18:52.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HFFFFFF&\1a&H64&\fscx126\fscy126\pos(1054.67,402.86)}MỘT
+Dialogue: 0,0:18:53.15,0:18:53.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur1.2\fs120\fsp150\fscx116\fscy116\pos(1042.67,382.86)\c&HEDEFFE&}KHÔNG
+Dialogue: 1,0:18:53.15,0:18:53.32,Signs,,0,0,0,nTS,{\fnSVN-Amsi Cond\blur5\fs120\fsp150\c&HEEF2FF&\1a&H64&\fscx116\fscy116\pos(1042.67,382.86)}KHÔNG
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"2fee9fed-737b-4b74-a930-48f93c603a8e"#2C"originalText"#3A"{\\c&H676F70&\\fnSJ Billy\\b1\\blur1.2\\frz19.89\\pos(626.86#2C365.9)}Lom\\N khom"}

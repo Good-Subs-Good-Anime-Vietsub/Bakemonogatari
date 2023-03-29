@@ -10,13 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Bakemonogatari/raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
-Video File: ../../Bakemonogatari/raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
+Audio File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
+Video File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 3
-Video Position: 8997
+Video Zoom Percent: 0.500000
+Scroll Position: 21
+Active Line: 22
+Video Position: 2732
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,32 +32,32 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:04:51.03,0:04:51.03,Main,chptr,0,0,0,,{Intro}
-Dialogue: 5,0:04:51.03,0:04:51.03,Main,chptr,0,0,0,,{OP}
-Dialogue: 5,0:06:20.95,0:06:20.95,Main,chptr,0,0,0,,{Episode}
-Dialogue: 0,0:23:54.91,0:23:54.92,Main,chptr,0,0,0,,{Preview}
+Comment: 0,0:04:51.03,0:04:51.03,Main,chptr,0,0,0,,{Intro}
+Comment: 0,0:04:51.03,0:04:51.03,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:06:20.95,0:06:20.95,Main,chptr,0,0,0,,{Episode}
+Comment: 0,0:23:54.91,0:23:54.92,Main,chptr,0,0,0,,{Preview}
 Dialogue: 9,0:00:06.48,0:00:09.11,Main,,0,0,0,,{\i1}Bên trong chiếc hộp gỗ hông, có cái tay xác ướp.
 Dialogue: 9,0:00:09.36,0:00:12.37,Main,,0,0,0,,{\i1}Là thứ mà người mẹ quá cố của Kanbaru trao cho.
 Dialogue: 9,0:00:12.37,0:00:13.62,Main,,0,0,0,,{\i1}Và lần đầu tiên em ấy dùng tới...
-Dialogue: 9,0:00:14.04,0:00:16.62,Main,,0,0,0,,{\i1}là vào hồi tiểu học lớp 4.
+Dialogue: 9,0:00:14.04,0:00:16.62,Main,,0,0,0,,{\i1}là vào hồi lớp 4 tiểu học.
 Dialogue: 9,0:00:16.62,0:00:19.12,Main,,0,0,0,,{\i1}"Tôi muốn chạy thật nhanh"
 Dialogue: 9,0:00:19.87,0:00:25.31,Main,,0,0,0,,{\i1}Vào thời điểm đó, Kanbaru vừa chuyển đến trường mới \Nsau khi cha mẹ qua đời nên không hòa nhập được.
 Dialogue: 9,0:00:25.31,0:00:29.25,Main,,0,0,0,,{\i1}Ngoài ra, còn vì chạy chậm mà bị trêu trọc.
 Dialogue: 9,0:00:30.51,0:00:35.16,Main,,0,0,0,,{\i1}Vì vậy, em ấy nghĩ nếu giành chiến thắng trong cuộc thi chạy\N tại hội thao sắp tới...
-Dialogue: 9,0:00:35.16,0:00:37.90,Main,,0,0,0,,{\i1}thì biết đâu đấy mọi người sẽ nhìn nhận em ấy khác đi.
+Dialogue: 9,0:00:35.16,0:00:37.90,Main,,0,0,0,,{\i1}thì biết đâu đấy mọi người sẽ nhìn nhận khác đi.
 Dialogue: 9,0:00:37.90,0:00:40.26,Main,,0,0,0,,{\i1}Và thế là em ấy ước.
 Dialogue: 9,0:01:00.79,0:01:07.04,Main,,0,0,0,,{\i1}Yêu Ma Quái đã tấn công 4 học sinh cùng thi chạy với Kanbaru.
 Dialogue: 9,0:01:07.04,0:01:11.34,Main,,0,0,0,,{\i1}Ngày hôm sau, tất cả đều vắng mặt.
 Dialogue: 9,0:01:13.03,0:01:17.18,Main,,0,0,0,,{\i1}Không lâu sau Kanbaru tình cờ đọc được "Tay Khỉ" của Jacobs.
-Dialogue: 9,0:01:17.18,0:01:20.76,Main,,0,0,0,,{\i1}Và rồi... câu chuyện trong sách khiến em ấy kinh sợ.
+Dialogue: 9,0:01:17.18,0:01:20.76,Main,,0,0,0,,{\i1}Và rồi... câu chuyện trong sách đã khiến em ấy kinh sợ.
 Dialogue: 9,0:01:28.15,0:01:33.46,Main,,0,0,0,,{\i1}Thông thường, người ta sẽ dùng điều ước 2 để hủy điều ước 1.
 Dialogue: 9,0:01:33.46,0:01:38.12,Main,,0,0,0,,{\i1}Thế nhưng... vì đã tìm hiểu kỹ về xác ướp, Kanbaru thấy sợ.
 Dialogue: 9,0:01:38.12,0:01:43.41,Main,,0,0,0,,{\i1}Bởi không thể biết rằng điều thứ 2 sẽ được thực hiện theo cách nào.
 Dialogue: 9,0:01:43.41,0:01:52.19,Main,,0,0,0,,{\i1}Vào buổi tập chạy hôm sau, Kanbaru được xếp vào một nhóm 5 học sinh mới, khác với 4 người trước đó.
-Dialogue: 9,0:01:53.92,0:01:58.03,Main,,0,0,0,,Thế nên em chạy, chạy hết mình nhanh nhất có thể.
+Dialogue: 9,0:01:53.92,0:01:58.03,Main,,0,0,0,,Thế nên em chạy, chạy hết sức mình nhanh nhất có thể.
 Dialogue: 9,0:01:58.03,0:02:02.51,Main,,0,0,0,,Bởi nếu không làm gì cả... thì hậu quả đã rõ như ban ngày rồi.
 Dialogue: 9,0:02:06.18,0:02:08.71,Main,,0,0,0,,{\i1}Kanbaru không tham gia CLB Điền kinh.
-Dialogue: 9,0:02:09.33,0:02:13.69,Main,,0,0,0,,{\i1}Bởi chẳng thể nào biết được \Nliệu điều ước với tay khỉ có hiệu lực trong bao lâu,
+Dialogue: 9,0:02:09.33,0:02:13.69,Main,,0,0,0,,{\i1}Bởi chẳng thể nào biết được \Nliệu điều ước với Tay Khỉ có hiệu lực trong bao lâu,
 Dialogue: 9,0:02:13.69,0:02:18.82,Main,,0,0,0,,{\i1}nên không thể để bản thân \Nrơi vào hoàn cảnh có người chạy nhanh hơn được.
 Dialogue: 9,0:02:37.59,0:02:43.75,Main,,0,0,0,,Rồi một ngày, Senjōgahara-senpai đến sân tập tìm em\N sau khi nghe thiên hạ đồn thổi.
 Dialogue: 9,0:02:43.75,0:02:46.98,Main,,0,0,0,,Bởi Senjōgahara-senpai là con át chủ bài của CLB Điền kinh.
@@ -66,9 +67,10 @@ Dialogue: 9,0:02:56.13,0:03:00.61,Main,,0,0,0,,Và em đã phải rất cực nh
 Dialogue: 9,0:03:02.11,0:03:04.14,Main,,0,0,0,,Người đàn chị tuyệt vời.
 Dialogue: 9,0:03:06.14,0:03:08.57,Main,,0,0,0,,Tuy không phải yêu từ cái nhìn đầu tiên nhưng...
 Dialogue: 9,0:03:08.57,0:03:14.25,Main,,0,0,0,,cho đến ngày thứ 3 trò chuyện với chị ấy \Nthì em đã xiêu lòng.
-Dialogue: 9,0:03:14.47,0:03:18.26,Main,,0,0,0,,Senjōgahara-senpai đã chữa lành em.
-Dialogue: 9,0:03:18.88,0:03:23.39,Main,,0,0,0,,{\i1}Kể từ đó, Kanbaru dường như đã có thể\N loại bỏ cái tay xác ướp khỏi tâm trí.
-Dialogue: 9,0:03:23.39,0:03:29.02,Main,,0,0,0,,{\i1}Nhưng kể cả thế, vẫn có những lúc bị cán dỗ\N muốn được dùng tiếp.
+Dialogue: 9,0:03:14.47,0:03:18.26,Main,,0,0,0,,Em đã được Senjōgahara-senpai chữa lành.
+Dialogue: 9,0:03:18.88,0:03:23.39,Main,,0,0,0,,{\i1}Kể từ đấy, Kanbaru dường như đã có thể loại bỏ\N cái tay xác ướp đó ra khỏi tâm trí.
+Dialogue: 9,0:03:23.39,0:03:24.52,Main,,0,0,0,,{\i1}Nhưng kể cả thế,
+Dialogue: 9,0:03:25.03,0:03:29.02,Main,,0,0,0,,{\i1}vẫn có những lúc bị nó cán dỗ muốn được dùng tiếp.
 Dialogue: 9,0:03:29.75,0:03:33.32,Main,,0,0,0,,{\i1}Như là khi có trận bóng rổ tầm cỡ với đối thủ mạnh.
 Dialogue: 9,0:03:33.32,0:03:35.51,Main,,0,0,0,,{\i1}Hay khi gây gổ mâu thuẫn với bạn bè.
 Dialogue: 9,0:03:36.18,0:03:37.29,Main,,0,0,0,,{\i1}Và...
@@ -77,11 +79,11 @@ Dialogue: 9,0:03:41.45,0:03:44.54,Main,,0,0,0,,Sau cùng thì em vẫn không đ
 Dialogue: 9,0:03:44.54,0:03:48.21,Main,,0,0,0,,Vào lúc đó, em đã hiểu tại sao \Nmẹ lại trao cho em chiếc hộp xác ướp.
 Dialogue: 9,0:03:48.21,0:03:55.44,Main,,0,0,0,,Mẹ muốn em có thể tự thân giải quyết \Nmọi vấn đề vướng mắc.
 Dialogue: 9,0:03:55.44,0:03:59.92,Main,,0,0,0,,{\i1}Vì thế mà Kanbaru đã im lặng và tránh xa Senjōgahara.
-Dialogue: 9,0:03:59.92,0:04:08.13,Main,,0,0,0,,{\i1}Dù có thể giải quyết vấn đề bí ẩn của Senjōgahara \Nbằng cách dùng xác ướp, nhưng đã không làm thế.
+Dialogue: 9,0:03:59.92,0:04:08.13,Main,,0,0,0,,{\i1}Dù đã có thể giải quyết cái vấn đề mà Senjōgahara che giấu \Nbằng cách sử dụng xác ướp, nhưng đã không làm thế.
 Dialogue: 9,0:04:08.13,0:04:09.43,Main,,0,0,0,,{\i1}Thế nhưng 1 năm sau...
 Dialogue: 9,0:04:10.02,0:04:13.44,Main,,0,0,0,,{\i1}Kanbaru đã biết về tôi.
 Dialogue: 9,0:04:13.44,0:04:16.69,Main,,0,0,0,,{\i1}Em ấy thấy tôi ở bên Senjōgahara.
-Dialogue: 9,0:04:28.16,0:04:33.66,Main,,0,0,0,,{\i1}Kanbaru còn chẳng nhớ nổi \Nkhi nào mà em ấy lôi xác ướp ra khỏi hộp.
+Dialogue: 9,0:04:28.16,0:04:33.66,Main,,0,0,0,,{\i1}Kanbaru còn chẳng nhớ nổi \Nvào lúc nào mà em ấy lôi cái xác ướp ra khỏi hộp.
 Dialogue: 9,0:04:34.09,0:04:40.43,Main,,0,0,0,,{\i1}Còn nữa, lẽ ra nó chỉ dài tới cổ tay,\N mà giờ lại dài tới khuỷu tay.
 Dialogue: 9,0:04:40.43,0:04:43.80,Main,,0,0,0,,{\i1}Em ấy thậm chí còn chả thèm thắc mắc.
 Dialogue: 9,0:04:43.82,0:04:45.43,Main,,0,0,0,,{\i1}Và rồi tới khi nhận ra...
@@ -89,7 +91,7 @@ Dialogue: 9,0:06:41.81,0:06:44.88,Main,,0,0,0,,Araragi-kun... và tiểu thư n�
 Dialogue: 9,0:06:44.90,0:06:50.45,Main,,0,0,0,,Chuyện ra sao ta nắm rõ rồi,\N vậy tiếp theo cô cậu tính thế nào?
 Dialogue: 9,0:06:51.28,0:06:52.99,Main,,0,0,0,,Thế nào là thế nào?
 Dialogue: 9,0:06:52.99,0:06:56.77,Main,,0,0,0,,Thế này nhé, Araragi-kun,\N ta thì là chuyên gia chính hiệu ấy.
-Dialogue: 9,0:06:56.77,0:06:59.73,Main,@@@,0,0,0,,với tư cách thùng đặc vờ làm thùng rỗng...
+Dialogue: 9,0:06:56.77,0:06:59.73,Main,@@@,0,0,0,,Với tư cách "thùng đặc" vờ làm "thùng rỗng"...
 Dialogue: 9,0:06:59.73,0:07:04.17,Main,,0,0,0,,trong vụ này, ta không ngần ngại giúp chút sức.
 Dialogue: 9,0:07:04.17,0:07:06.15,Main,,0,0,0,,C-Chú sẽ cứu tôi sao?
 Dialogue: 9,0:07:06.50,0:07:09.28,Main,,0,0,0,,Không cứu! Mà là giúp chút sức thôi!
@@ -100,21 +102,22 @@ Dialogue: 9,0:07:19.29,0:07:24.79,Main,,0,0,0,,Tức là, chính xác thì lần
 Dialogue: 9,0:07:25.20,0:07:30.41,Main,,0,0,0,,Có 2 cách đơn giản\N để giải quyết vụ này trong nháy mắt.
 Dialogue: 9,0:07:30.41,0:07:34.55,Main,,0,0,0,,Thứ nhất là, Araragi-kun để Quỷ Mưa giết.
 Dialogue: 9,0:07:35.56,0:07:36.68,Main,,0,0,0,,Cách còn lại là...
-Dialogue: 9,0:07:38.18,0:07:40.27,Main,,0,0,0,,...cánh tay của cái thứ ấy...
+Dialogue: 9,0:07:38.18,0:07:40.27,Main,,0,0,0,,...cái cánh tay của nó...
 Dialogue: 9,0:07:40.27,0:07:42.56,Main,,0,0,0,,...chặt phăng đi luôn!
-Dialogue: 9,0:07:45.46,0:07:49.44,Main,,0,0,0,,C-Chặt là sao?! Chặt phần bị quỷ ám đi được á?
+Dialogue: 9,0:07:45.46,0:07:49.44,Main,,0,0,0,,C-Chặt là sao?!\N Có thể chặt phần bị quỷ ám đi được á?
 Dialogue: 9,0:07:49.44,0:07:51.83,Main,,0,0,0,,Sau đó thì mọc lại được à?
-Dialogue: 9,0:07:51.83,0:07:56.58,Main,,0,0,0,,Có phải đuôi thằn lằn quái đâu! \NTiện thế thì mỡ mà húp!
+Dialogue: 9,0:07:51.83,0:07:54.11,Main,,0,0,0,,Có phải đuôi thằn lằn quái đâu.
+Dialogue: 9,0:07:54.11,0:07:56.58,Main,,0,0,0,,Tiện thế thì mỡ mà húp nhé.
 Dialogue: 9,0:07:56.58,0:08:02.58,Main,,0,0,0,,Nhưng chỉ mất có một cánh tay \Nmà giải quyết xong vụ này thì vẫn còn rẻ chán.
 Dialogue: 9,0:08:04.08,0:08:07.71,Main,,0,0,0,,Dù chú nói thế nhưng... đối với tôi có hơi—
 Dialogue: 9,0:08:08.02,0:08:10.52,Main,,0,0,0,,Thế cô tính giết người hả?
 Dialogue: 9,0:08:10.52,0:08:13.22,Main,,0,0,0,,Thế mới là tiền trao cháo múc phải không?
-Dialogue: 9,0:08:13.24,0:08:16.34,Main,,0,0,0,,Tôi hiểu ý ông cơ mà... khoan đã Oshino.
+Dialogue: 9,0:08:13.24,0:08:16.34,Main,,0,0,0,,Tôi hiểu được ý ông cơ mà...\N Khoan đã Oshino.
 Dialogue: 9,0:08:16.85,0:08:20.96,Main,,0,0,0,,"Tính giết người" như ông nói,\N ý Kanbaru không phải thế.
 Dialogue: 9,0:08:20.98,0:08:23.56,Main,,0,0,0,,Kanbaru chỉ là— ở bên Senjōgahara—
 Dialogue: 9,0:08:23.56,0:08:25.23,Main,,0,0,0,,Chỉ muốn ở bên thôi sao?!
 Dialogue: 9,0:08:25.23,0:08:26.82,Main,,0,0,0,,Nực cười!
-Dialogue: 9,0:08:26.82,0:08:29.69,Main,,0,0,0,,Araragi-kun phải nói tốt bụng quá thể.
+Dialogue: 9,0:08:26.82,0:08:29.69,Main,,0,0,0,,Araragi-kun phải nói là tốt bụng quá thể.
 Dialogue: 9,0:08:29.69,0:08:32.26,Main,,0,0,0,,Tốt bụng đến buồn nôn.
 Dialogue: 9,0:08:32.26,0:08:35.42,Main,,0,0,0,,Thực sự "chỉ muốn ở bên" cơ à...
 Dialogue: 9,0:08:35.42,0:08:37.99,Main,,0,0,0,,Cậu tin vào mấy lời ngon ngọt đó thật sao?
@@ -128,17 +131,18 @@ Dialogue: 9,0:09:00.87,0:09:02.60,Main,,0,0,0,,Nhưng có phải Tay Khỉ đâu
 Dialogue: 9,0:09:03.60,0:09:07.87,Main,,0,0,0,,Quỷ Mưa có thể là loài quỷ cấp thấp, \Nnhưng khế ước là khế ước.
 Dialogue: 9,0:09:07.87,0:09:12.86,Main,,0,0,0,,Nếu ước nhanh hơn thì sẽ nhanh hơn.
 Dialogue: 9,0:09:13.24,0:09:16.76,Main,,0,0,0,,Phang bạn cùng lớp thì nhanh hơn được sao?
-Dialogue: 9,0:09:17.08,0:09:19.07,Main,,0,0,0,,Bảo không lạ đi.
+Dialogue: 9,0:09:17.08,0:09:19.07,Main,,0,0,0,,Lại bảo không lạ đi.
 Dialogue: 9,0:09:19.75,0:09:24.00,Main,,0,0,0,,Thế tại sao?! Sao Yêu Ma Quái mặc áo mưa đó\N lại đi đánh bạn cùng lớp?
 Dialogue: 9,0:09:24.00,0:09:27.52,Main,,0,0,0,,Bởi tiểu thư đây\N muốn làm họ bị thương đúng không?
 Dialogue: 9,0:09:28.79,0:09:34.27,Main,,0,0,0,,Đau lòng vì bố mẹ mới mất,\Nvà nếu ở trường lại còn bị bắt nạt...
 Dialogue: 9,0:09:34.27,0:09:37.53,Main,,0,0,0,,thì sẽ chẳng có gì lạ\N khi nghĩ đến việc trả đũa.
 Dialogue: 9,0:09:38.47,0:09:39.51,Main,,0,0,0,,Tôi...
-Dialogue: 9,0:09:39.51,0:09:44.10,Main,,0,0,0,,Tất nhiên khả năng đây là điều ước \Nxuất phát từ trong tiềm thức.
+Dialogue: 9,0:09:39.51,0:09:44.10,Main,,0,0,0,,Tất nhiên khả năng đây là \Nđiều ước xuất phát từ trong tiềm thức.
 Dialogue: 9,0:09:44.10,0:09:48.31,Main,,0,0,0,,Theo đánh giá của ta,\N quả đúng là tiểu thư đã ước được nhanh hơn.
 Dialogue: 9,0:09:48.31,0:09:50.40,Main,,0,0,0,,Nhưng đây chỉ là mặt sáng và mặt tối.
 Dialogue: 9,0:09:50.40,0:09:55.91,Main,,0,0,0,,Mặt tối của cái điều ước đó chính là \Ndục vọng đen tối muốn đánh đập bạn cùng lớp.
-Dialogue: 9,0:09:56.90,0:10:02.38,Main,,0,0,0,,Và dù đây chỉ là trong tiềm thức,\N nhưng hẳn là tiểu thư cũng nhận ra được mình thực sự muốn gì.
+Dialogue: 9,0:09:56.90,0:09:58.67,Main,,0,0,0,,Và dù đây chỉ là trong tiềm thức,
+Dialogue: 9,0:09:58.67,0:10:02.38,Main,,0,0,0,,nhưng hẳn là tiểu thư cũng đã nhận ra được\N mình thực sự muốn cái gì.
 Dialogue: 9,0:10:02.38,0:10:07.31,Main,,0,0,0,,Nhưng bản thân lại không muốn thừa nhận,\N vì vậy đi tìm lối biện minh khác.{chuẩn chuẩn, ai cũng thế}
 Dialogue: 9,0:10:07.31,0:10:08.42,Main,,0,0,0,,Và thế là...
 Dialogue: 9,0:10:08.42,0:10:09.41,Main,,0,0,0,,Tay Khỉ!
@@ -148,26 +152,26 @@ Dialogue: 9,0:10:20.43,0:10:21.68,Main,,0,0,0,,Nhưng mà Oshino—
 Dialogue: 9,0:10:21.68,0:10:26.18,Main,,0,0,0,,Cậu tính hỏi bằng chứng đâu mà nói thế chứ gì, \NAraragi-kun?
 Dialogue: 9,0:10:26.62,0:10:29.37,Main,,0,0,0,,Chuyện chả rõ rành rành ra đấy còn gì.
 Dialogue: 9,0:10:29.37,0:10:32.82,Main,,0,0,0,,Cánh tay của tiểu thư đây... hồi tiểu học như nào nhỉ?
-Dialogue: 9,0:10:33.70,0:10:37.86,Main,,0,0,0,,Cho đến tận ngày hôm sau khi tiểu thư đến lớp \Nmới phát hiện ra 4 học sinh vắng mặt.
+Dialogue: 9,0:10:33.70,0:10:37.86,Main,,0,0,0,,Cho đến tận ngày hôm sau, khi tiểu thư đến lớp \Nmới phát hiện ra 4 học sinh vắng mặt.
 Dialogue: 9,0:10:37.86,0:10:40.70,Main,,0,0,0,,Còn trước đó thì không nhận ra gì đúng không?
 Dialogue: 9,0:10:40.87,0:10:44.79,Main,,0,0,0,,Nếu tay trái của tiểu thư lúc đó\N mà cũng lông lá như bây giờ,
-Dialogue: 9,0:10:44.79,0:10:48.09,Main,,0,0,0,,thì chí ít cô cũng đã nhận ra được là\Ncó chuyện gì đó rồi.
-Dialogue: 9,0:10:48.09,0:10:51.69,Main,,0,0,0,,nhưng ban nãy lại không thấy cô đề cập đến ha?
-Dialogue: 9,0:10:53.17,0:10:56.88,Main,,0,0,0,,Tức là thứ Quái Dị này, \Nchỉ trong 1 đêm mà cô không hề hay biết,
-Dialogue: 9,0:10:56.88,0:11:02.60,Main,,0,0,0,,đã hợp làm một với tay trái của cô, \Nrồi đánh bạn cùng lớp và hoàn thành ước nguyện.
-Dialogue: 9,0:11:02.60,0:11:07.68,Main,,0,0,0,,Và thứ Quái Dị này... hẳn đã tách khỏi tay trái của cô\N trước khi cô kịp nhận ra đúng không nào?
+Dialogue: 9,0:10:44.79,0:10:48.09,Main,,0,0,0,,thì chí ít tiểu thư cũng đã \Nnhận ra được là có chuyện gì đó rồi.
+Dialogue: 9,0:10:48.09,0:10:51.69,Main,,0,0,0,,nhưng ban nãy lại không thấy đề cập đến ha?
+Dialogue: 9,0:10:53.17,0:10:56.88,Main,,0,0,0,,Tức là thứ Quái Dị này, \Nchỉ trong 1 đêm mà tiểu thư không hề hay biết,
+Dialogue: 9,0:10:56.88,0:11:02.60,Main,,0,0,0,,đã hợp làm một với tay trái của tiểu thư, \Nrồi đánh bạn cùng lớp và hoàn thành ước nguyện.
+Dialogue: 9,0:11:02.60,0:11:07.68,Main,,0,0,0,,Và thứ Quái Dị này... hẳn đã tách khỏi tay trái của tiểu thư\N trước khi tiểu thư kịp nhận ra đúng không nào?
 Dialogue: 9,0:11:08.23,0:11:10.50,Main,,0,0,0,,Lý do giờ nó thành Cánh Tay thay vì Bàn Tay...
-Dialogue: 9,0:11:10.50,0:11:15.32,Main,,0,0,0,,là vì nó đã phát triển\N nhờ việc hút linh hồn của cô thông qua điều ước.
+Dialogue: 9,0:11:10.50,0:11:15.32,Main,,0,0,0,,là vì nó đã phát triển nhờ việc hút linh hồn của tiểu thư\N thông qua điều ước.
 Dialogue: 9,0:11:15.32,0:11:17.69,Main,,0,0,0,,Thế—Này, Oshino, vậy là—
 Dialogue: 9,0:11:19.33,0:11:24.58,Main,,0,0,0,,Tin vào lời bào chữa của kẻ đánh mình,\N cậu tốt bụng quá thể, Araragi-kun à.
-Dialogue: 9,0:11:24.93,0:11:31.57,Main,,0,0,0,,Đã là ghen tuông thì chẳng có gì lạ khi muốn giết chết gã đàn ông \Nđã đánh cắp người đàn chị trong mơ của mình.
+Dialogue: 9,0:11:24.93,0:11:31.57,Main,,0,0,0,,Đã là ghen tuông thì chẳng có gì lạ khi muốn giết chết cái thằng cha \Nđã cướp đi người đàn chị trong mơ của mình.
 Dialogue: 9,0:11:31.57,0:11:35.84,Main,,0,0,0,,Việc tấn công Araragi-kun \Nkhông hề trái ý muốn của tiểu thư đây.
 Dialogue: 9,0:11:35.84,0:11:40.90,Main,,0,0,0,,Mà ngược lại đánh cậu \Nchính là ước muốn của cô ấy.
-Dialogue: 9,0:11:48.82,0:11:49.81,Main,,0,0,0,,Thôi đủ rồi nhỉ.
+Dialogue: 9,0:11:48.82,0:11:49.81,Main,,0,0,0,,Thôi đủ rồi nhỉ?
 Dialogue: 9,0:12:07.77,0:12:09.70,Main,,0,0,0,,Ta chờ cậu nãy giờ, Araragi-kun.
 Dialogue: 9,0:12:10.14,0:12:12.34,Main,,0,0,0,,Có vẻ lâu hơn ta tưởng.
 Dialogue: 9,0:12:12.34,0:12:16.93,Main,,0,0,0,,À thì, tại có hơi khó để biết đâu là giới hạn.
-Dialogue: 9,0:12:16.93,0:12:21.82,Main,,0,0,0,,Có vẻ vẫn chưa đủ đâu\Nnhưng như vậy vẫn tốt hơn là nhiều quá đúng chứ?
+Dialogue: 9,0:12:16.93,0:12:21.82,Main,,0,0,0,,Có vẻ vẫn chưa đủ đâu...\Nnhưng như vậy vẫn tốt hơn là nhiều quá đúng chứ?
 Dialogue: 9,0:12:21.82,0:12:24.22,Main,,0,0,0,,Cả cho tôi lẫn cho Shinobu.
 Dialogue: 9,0:12:24.63,0:12:30.93,Main,,0,0,0,,Araragi-kun sắp phải\N đánh một trận long trời lở đất với quỷ ấy.
 Dialogue: 9,0:12:30.93,0:12:34.31,Main,,0,0,0,,Nên ta nghĩ giờ không phải lúc để phân tâm\Nvào mấy việc này đâu.
@@ -180,11 +184,11 @@ Dialogue: 9,0:12:55.20,0:12:59.09,Main,,0,0,0,,Nghe này, Araragi-kun, \Nnếu k
 Dialogue: 9,0:12:59.55,0:13:04.72,Main,,0,0,0,,Nếu quỷ không thể thực hiện điều ước của tiểu thư, \Nđiều ước đó sẽ bị vô hiệu.
 Dialogue: 9,0:13:04.72,0:13:08.23,Main,,0,0,0,,Có nghĩa là... nếu quỷ không thể giết tôi à...
 Dialogue: 9,0:13:08.23,0:13:09.97,Main,,0,0,0,,Đúng thế.
-Dialogue: 9,0:13:10.36,0:13:16.73,Main,,0,0,0,,Tất nhiên, ngay cả khi Araragi-kun tăng sức mạnh \Nbằng cách cho Shinobu-chan hút máu tới cực hạn...
-Dialogue: 9,0:13:17.17,0:13:23.74,Main,,0,0,0,,thì cũng chỉ mạnh tầm 1/10 so với \Nkhi cậu còn là Ma cà rồng hồi kỳ nghỉ xuân thôi.
-Dialogue: 9,0:13:25.48,0:13:27.19,Main,,0,0,0,,Cũng khá đấy nhở.
-Dialogue: 9,0:13:27.19,0:13:31.28,Main,,0,0,0,,Dù là thế... cũng không được nhờ Shinobu giúp.
-Dialogue: 9,0:13:31.70,0:13:36.92,Main,,0,0,0,,Nếu nhờ... coi như xong chuyện...\N nhưng sẽ buộc phải chặt bỏ cánh tay tiểu thư.
+Dialogue: 9,0:13:10.36,0:13:16.73,Main,,0,0,0,,Tất nhiên, dù là bây giờ Araragi-kun đã tăng sức mạnh \Nnhờ việc cho Shinobu-chan hút máu tới cực hạn...
+Dialogue: 9,0:13:17.17,0:13:23.74,Main,,0,0,0,,thì cũng chỉ mạnh tầm khoảng 1/10 so với \Nkhi cậu còn là Ma cà rồng hồi kỳ nghỉ xuân thôi.
+Dialogue: 9,0:13:25.48,0:13:27.19,Main,,0,0,0,,Cũng ra gì đấy nhở.
+Dialogue: 9,0:13:27.19,0:13:31.28,Main,,0,0,0,,Thế mới nói... \Nđừng nghĩ tới chuyện nhờ Shinobu-chan giúp.
+Dialogue: 9,0:13:31.70,0:13:36.92,Main,,0,0,0,,Nếu nhờ... vấn đề được giải quyết...\N nhưng sẽ buộc phải chặt bỏ cánh tay của tiểu thư.
 Dialogue: 9,0:13:36.92,0:13:40.15,Main,,0,0,0,,Araragi-kun phải là kẻ đánh bại nó,\N như thế mới có ý nghĩa.
 Dialogue: 9,0:13:43.04,0:13:47.99,Main,,0,0,0,,Mà, cặp với đống đồ giá trị,\N mang đây ta giữ, Araragi-kun.{Ref tới tập 1}
 Dialogue: 9,0:13:47.99,0:13:50.54,Main,,0,0,0,,Giữ chúng sẽ bất tiện cho chiến đấu \Nđúng không nào?{Ref tới tập 1}
@@ -193,23 +197,23 @@ Dialogue: 9,0:13:53.05,0:13:54.56,Main,,0,0,0,,Vậy, chờ tôi chút.
 Dialogue: 9,0:14:00.94,0:14:03.69,Main,,0,0,0,,Ta hỏi một câu được không, Araragi-kun?
 Dialogue: 9,0:14:04.04,0:14:05.02,Main,,0,0,0,,Hỏi gì?
 Dialogue: 9,0:14:05.02,0:14:09.95,Main,,0,0,0,,Tại sao Araragi-kun lại đi cố cứu một người\N đã cố giết mình?
-Dialogue: 9,0:14:10.45,0:14:16.96,Main,,0,0,0,,Tiểu thư đó trong tiềm thức,\N coi cậu là kẻ cướp đi tình yêu của cô ấy đấy.
-Dialogue: 9,0:14:16.96,0:14:22.00,Main,,0,0,0,,Ngay từ đầu Araragi-kun \Nđã biết kẻ trong bộ áo mưa là tiểu thư đó,
+Dialogue: 9,0:14:10.45,0:14:16.96,Main,,0,0,0,,Tiểu thư ấy trong tiềm thức,\N coi cậu là tình địch cướp đi tình yêu của cô ấy đấy.
+Dialogue: 9,0:14:16.96,0:14:22.00,Main,,0,0,0,,Ngay từ đầu Araragi-kun \Nđã biết kẻ đội lốt bộ áo mưa là tiểu thư ấy,
 Dialogue: 9,0:14:22.00,0:14:26.47,Main,,0,0,0,,vậy thì tại sao cậu vẫn còn muốn nghe\N cô ta trình bày?
-Dialogue: 9,0:14:26.90,0:14:32.34,Main,,0,0,0,,Lẽ ra cậu phải lờ tiểu thư đó đi\Nvà đến thẳng chỗ ta chứ.
-Dialogue: 9,0:14:33.91,0:14:37.35,Main,,0,0,0,,Ai mà chả có người họ ghét đúng không.
+Dialogue: 9,0:14:26.90,0:14:32.34,Main,,0,0,0,,Lẽ ra cậu phải lờ tiểu thư ấy đi\Nvà đến thẳng chỗ ta chứ.
+Dialogue: 9,0:14:33.91,0:14:37.35,Main,,0,0,0,,Ai mà chả có người họ ghét đúng không nào.
 Dialogue: 9,0:14:38.10,0:14:40.48,Main,,0,0,0,,Việc bị giết thì cũng có muốn đâu,
-Dialogue: 9,0:14:41.00,0:14:46.36,Main,,0,0,0,,nhưng nếu Kanbaru ghét tôi\N vì khao khát của em ấy với Senjōgahara thì...
+Dialogue: 9,0:14:41.00,0:14:46.36,Main,,0,0,0,,nhưng nếu việc Kanbaru ghét tôi\N xuất phát từ khao khát của em ấy với Senjōgahara thì...
 Dialogue: 9,0:14:47.06,0:14:49.11,Main,,0,0,0,,Chả sao cả... tôi tha thứ.
-Dialogue: 9,0:14:51.11,0:14:56.50,Main,,0,0,0,,Ồ vậy à! Nếu Araragi-kun đã quyết thế...\N thì thế là ổn.
-Dialogue: 9,0:14:57.02,0:15:00.29,Main,,0,0,0,,Ta hoàn toàn đồng ý,\N cũng đâu có liên quan gì.
+Dialogue: 9,0:14:51.11,0:14:56.50,Main,,0,0,0,,Vậy cơ à! Nếu Araragi-kun đã quyết thế... thì là thế.
+Dialogue: 9,0:14:57.02,0:15:00.29,Main,,0,0,0,,Ta hoàn toàn đồng ý.\N Dù sao cũng chả liên quan.
 Dialogue: 9,0:15:01.00,0:15:04.75,Main,,0,0,0,,Vậy Araragi-kun, vào đó tiếp sức cho tiểu thư đi.
-Dialogue: 9,0:15:04.75,0:15:10.40,Main,,0,0,0,,Có điều này, một khi đã bước vào, \Ncậu sẽ không thể rời khỏi cho đến khi xong chuyện.
-Dialogue: 9,0:15:10.40,0:15:14.05,Main,,0,0,0,,Bởi cửa không thể mở được từ bên trong đâu.
+Dialogue: 9,0:15:04.75,0:15:10.40,Main,,0,0,0,,Có điều này, một khi đã bước vào, \Nsẽ không thể rời khỏi cho đến khi xong chuyện.
+Dialogue: 9,0:15:10.40,0:15:14.05,Main,,0,0,0,,Bởi từ bên trong thì không mở cửa được đâu.
 Dialogue: 9,0:15:14.05,0:15:20.12,Main,,0,0,0,,Và đương nhiên, bất kể chuyện gì xảy ra, \Ncả ta và Shinobu-chan cũng sẽ không vào cứu cậu.
 Dialogue: 9,0:15:20.12,0:15:21.34,Main,,0,0,0,,Nhớ cho kỹ đấy.
 Dialogue: 9,0:15:21.34,0:15:22.27,Main,,0,0,0,,Ờ.
-Dialogue: 9,0:15:23.41,0:15:24.51,Main,,0,0,0,,Không làm phiền đâu.
+Dialogue: 9,0:15:23.41,0:15:24.51,Main,,0,0,0,,Yên tâm không làm phiền đâu.
 Dialogue: 9,0:15:26.01,0:15:27.02,Main,,0,0,0,,Được rồi.
 Comment: 9,0:15:37.85,0:15:38.81,Main,,0,0,0,,Yo~
 Dialogue: 9,0:15:59.06,0:16:00.26,Main,,0,0,0,,Kanbaru! Thứ lỗi cho anh!
@@ -236,17 +240,17 @@ Dialogue: 9,0:17:15.35,0:17:16.84,Main,,0,0,0,,Có thôi đi không! Oshino!
 Dialogue: 9,0:17:17.32,0:17:18.75,Main,,0,0,0,,Này, Kanbaru!
 Dialogue: 9,0:17:18.75,0:17:21.40,Main,,0,0,0,,Đừng để tâm đến chuyện đó.
 Dialogue: 9,0:17:21.40,0:17:24.61,Main,,0,0,0,,Em không nên quy trách nhiệm về mình.
-Dialogue: 9,0:17:24.61,0:17:30.23,Main,,0,800,0,,Tất cả là do Tay Khỉ... còn gì...\N À ý là do con Quỷ Mưa đó.
+Dialogue: 9,0:17:24.61,0:17:30.23,Main,,0,720,0,,Tất cả là do Tay Khỉ... còn gì...\N À ý là do con Quỷ Mưa đó, do Quái Dị.
 Dialogue: 9,0:17:30.23,0:17:32.98,Main,,0,0,0,,Quái Dị... chỉ đáp ứng điều ước thôi cơ mà?
 Dialogue: 9,0:17:33.61,0:17:36.25,Main,,0,0,0,,Ước gì thì làm nấy thôi cơ mà?
 Dialogue: 9,0:17:36.25,0:17:39.80,Main,,0,0,0,,Chẳng phải Tsundere-chan cũng vậy sao?
 Dialogue: 9,0:17:41.59,0:17:43.73,Main,,0,0,0,,Em không quan tâm đâu, Araragi-senpai.
 Dialogue: 9,0:17:43.73,0:17:46.42,Main,,0,0,0,,Quan tâm chứ! Sao lại không quan tâm được!
 Dialogue: 9,0:17:46.42,0:17:47.68,Main,,0,0,0,,Em nói cái gì thế hả?!
-Dialogue: 9,0:17:47.68,0:17:50.70,Main,,0,0,0,,Rồi còn chuyện với Senjōgahara thì sao?
+Dialogue: 9,0:17:47.68,0:17:50.70,Main,,0,0,0,,Rồi còn cả chuyện với Senjōgahara thì sao?
 Dialogue: 9,0:17:50.70,0:17:52.75,Main,,0,0,0,,Anh muốn em và Senjōgahara—
 Dialogue: 9,0:17:52.75,0:17:54.46,Main,,0,0,0,,Thôi đủ rồi.
-Dialogue: 9,0:17:54.46,0:17:57.28,Main,,0,0,0,,Senjōgahara có ra sao thế nào... đủ rồi!
+Dialogue: 9,0:17:54.46,0:17:57.28,Main,,0,0,0,,Senjōgahara có ra sao thế nào... Đủ rồi!
 Dialogue: 9,0:17:59.16,0:18:00.56,Main,,0,0,0,,Đủ lắm rồi!
 Dialogue: 9,0:18:00.56,0:18:02.44,Main,,0,0,0,,{\t(186,0,1,\c&H000000&)}Em từ bỏ.
 Dialogue: 9,0:18:09.86,0:18:10.77,Main,,0,0,0,,{\fad(0,200)\an8}Ghét!
@@ -261,39 +265,39 @@ Dialogue: 9,0:18:14.83,0:18:15.65,Main,,0,0,0,,{\fad(0,200)\an8}Ghét!
 Dialogue: 9,0:18:15.65,0:18:16.48,Main,,0,0,0,,{\fad(0,200)\an8}Ghét!
 Dialogue: 9,0:18:16.48,0:18:17.36,Main,,0,0,0,,{\fad(0,200)\an8}Ghét!
 Dialogue: 9,0:18:17.36,0:18:18.16,Main,,0,0,0,,{\fad(0,200)\an8}Ghét!
-Dialogue: 9,0:18:11.51,0:18:13.01,Main,,0,0,0,,Em không thể thế này được.
+Dialogue: 9,0:18:11.51,0:18:13.01,Main,,0,0,0,,Em không thể như thế này được.
 Dialogue: 9,0:18:13.37,0:18:14.65,Main,,0,0,0,,Kanbaru Suruga!
-Dialogue: 9,0:18:44.98,0:18:46.89,Main,,0,0,0,,Xem ra đang tận hưởng nhỉ.
-Dialogue: 9,0:18:57.96,0:19:01.09,Main,,0,0,0,,Có vẻ thiếu tớ cậu vui nhỉ, Araragi-kun.
-Dialogue: 9,0:19:01.09,0:19:02.04,Main,,0,0,0,,Làm tớ khó chịu đấy!
+Dialogue: 9,0:18:44.98,0:18:46.89,Main,,0,0,0,,Xem ra đang vui vẻ quá nhỉ.
+Dialogue: 9,0:18:57.96,0:19:01.09,Main,,0,0,0,,Có vẻ thiếu vắng tớ cậu vui nhỉ, Araragi-kun.
+Dialogue: 9,0:19:01.09,0:19:02.04,Main,,0,0,0,,Tớ hơi bị khó chịu đấy.
 Dialogue: 9,0:19:02.04,0:19:04.28,Main,,0,0,0,,S-Senjōgahara...
 Dialogue: 9,0:19:06.20,0:19:09.04,Main,,0,0,0,,{\i1}Oshino... dùng điện thoại của mình à?
-Dialogue: 9,0:19:12.00,0:19:15.15,Main,,0,0,0,,Araragi-kun... cậu lừa dối tớ.
-Dialogue: 9,0:19:17.67,0:19:23.44,Main,,0,0,0,,Nói dối tớ là đâm vào cột điện\N để che giấu chuyện của Kanbaru.
+Dialogue: 9,0:19:12.00,0:19:15.15,Main,,0,0,0,,Araragi-kun, cậu lừa dối tớ.
+Dialogue: 9,0:19:17.67,0:19:23.44,Main,,0,0,0,,Nói dối tớ là đâm vào cột điện\N để bao che chuyện của Kanbaru.
 Dialogue: 9,0:19:23.44,0:19:26.13,Main,,0,0,0,,Lúc mới hẹn hò, chả phải đã hứa rồi sao?
 Dialogue: 9,0:19:26.13,0:19:29.08,Main,,0,0,0,,Rằng chúng ta sẽ không làm như thế nữa.
 Dialogue: 9,0:19:29.08,0:19:34.11,Main,,0,0,0,,Giữa chúng ta khi động đến Quái Dị, \Nthì không được giấu giếm nhau.
 Dialogue: 9,0:19:34.86,0:19:35.82,Main,,0,0,0,,À thì...
 Dialogue: 9,0:19:35.82,0:19:37.68,Main,,0,0,0,,Vạn lần đáng chết!
 Dialogue: 9,0:19:39.57,0:19:44.95,Main,,0,0,0,,Cơ mà ấy...\N có vẻ Araragi-kun đã chết vạn lần rồi.
-Dialogue: 9,0:19:44.95,0:19:47.44,Main,,0,0,0,,Nên chắc lần này chiếu cố tha thứ nhở.
+Dialogue: 9,0:19:44.95,0:19:47.44,Main,,0,0,0,,Nên chắc lần này chiếu cố cho qua nhở.
 Dialogue: 9,0:19:53.21,0:19:56.22,Main,,0,0,0,,Araragi-kun, \Ntớ đoán trong cái đầu ngu ngốc của cậu,
 Dialogue: 9,0:19:56.22,0:20:01.60,Main,,0,0,0,,đang tính là sẽ dùng cái chết của mình \Nđể mọi chuyện êm xuôi đúng không nào?
 Dialogue: 9,0:20:03.35,0:20:05.39,Main,,0,0,0,,Đừng có đùa!
 Dialogue: 9,0:20:05.39,0:20:10.85,Main,,0,0,0,,Araragi-kun mà chết, \Ntớ sẽ giết Kanbaru bằng mọi giá không nhớ sao?
 Dialogue: 9,0:20:10.85,0:20:14.10,Main,,0,0,0,,Araragi-kun, đang cố biến tớ thành sát nhân à?
 Dialogue: 9,0:20:14.10,0:20:15.84,Main,,0,900,0,,{\i1}Nhìn thấu hết à.
-Dialogue: 9,0:20:15.84,0:20:18.11,Main,,0,900,0,,{\i1}Thật là! Sống tình cảm quá!
+Dialogue: 9,0:20:15.84,0:20:18.11,Main,,0,900,0,,{\i1}Thật là! \NNgười đâu mà sống tình cảm quá!
 Dialogue: 9,0:20:21.61,0:20:27.09,Main,,0,0,0,,Điều tớ ghét nhất là...\Nngay cả khi Araragi-kun không có cơ thể đó...
 Dialogue: 9,0:20:27.09,0:20:32.37,Main,,0,0,0,,thì cậu vẫn sẽ cắm đầu vào vụ này\N theo cùng một cách.
 Dialogue: 9,0:20:33.63,0:20:38.04,Main,,0,0,0,,Nếu cậu đơn giản chỉ là ngu ngốc,\N cậy mình có cơ thể bất tử...
 Dialogue: 9,0:20:38.04,0:20:41.14,Main,,0,0,0,,thì tớ đã có thể kệ cậu muốn làm gì thì làm.
 Dialogue: 9,0:20:41.14,0:20:46.97,Main,,0,0,0,,Thế nhưng đằng này Araragi-kun lại coi đây là lẽ tự nhiên,\N cứ thế thuận theo để rồi thành ra như này.
-Dialogue: 9,0:20:46.97,0:20:48.29,Main,,0,0,0,,Cạn lời!
+Dialogue: 9,0:20:46.97,0:20:48.29,Main,,0,0,0,,Cạn lời luôn.
 Dialogue: 9,0:20:49.14,0:20:53.88,Main,,0,0,0,,Mà, dù là quan tâm quá nhiều,\N hay can thiệp quá sâu, hay làm phúc không đâu,
 Dialogue: 9,0:20:53.88,0:20:57.76,Main,,0,0,0,,miễn sao chúng đến từ Araragi-kun,\N thì tớ cho là tớ không thấy phiền hà gì cả.
-Dialogue: 9,0:21:01.23,0:21:08.41,Main,,0,0,0,,{\i1}Nếu có một cách cho tôi là áp đảo ác quỷ, \Nvà khiến điều ước {\u1}mặt tối{\u0} của Kanbaru không thể thành sự thật thì...
-Dialogue: 9,0:21:08.41,0:21:13.79,Main,,0,0,0,,{\i1}vẫn còn một cách khác là để cho Senjōgahara\N biết được Kanbaru đang cố giết tôi,
+Dialogue: 9,0:21:01.23,0:21:08.41,Main,,0,0,0,,{\i1}Nếu có một cách cho tôi là áp đảo ác quỷ, \Ntừ đó khiến điều ước {\u1}mặt tối{\u0} của Kanbaru không thể thành sự thật thì...
+Dialogue: 9,0:21:08.41,0:21:13.79,Main,,0,0,0,,{\i1}Vẫn còn một cách khác là để cho Senjōgahara\N biết được Kanbaru đang cố giết tôi,
 Dialogue: 9,0:21:13.79,0:21:18.42,Main,,0,0,0,,{\i1}từ đó khiến điều ước {\u1}mặt sáng{\u0} của Kanbaru\N không thể thành sự thật.
 Dialogue: 9,0:21:18.78,0:21:25.18,Main,,0,0,0,,{\i1}Và bây giờ, Senjōgahara thậm chí còn thề\N trước mặt con quỷ là cậu ấy sẽ giết Kanbaru nếu tôi chết.
 Dialogue: 9,0:21:25.59,0:21:27.75,Main,,0,0,0,,{\i1}Không thể lấy cớ là không biết được.
@@ -309,13 +313,13 @@ Dialogue: 9,0:22:02.16,0:22:04.46,Main,,0,0,0,,Nhưng kể cả thế em vẫn �
 Dialogue: 9,0:22:05.51,0:22:08.21,Main,,0,0,0,,Để em chờ bấy lâu nay, cho chị xin lỗi nha!
 Dialogue: 9,0:22:09.22,0:22:12.90,GT,@@@,0,0,0,,{\fscx112\fscy112\an7\pos(60.67,30)}Kamaseinu: \N- Chiếu dưới trong đánh nhau, không có cơ hội thắng.\N- Tình tay 3, kamaseinu (C) là người ở dưới cùng. C yêu B, B yêu A, A không yêu B lẫn C.
 Dialogue: 9,0:22:09.22,0:22:12.90,Main,@@@,0,0,0,,{\i1}Chán luôn! Thôi coi như làm "kamaseinu" vậy!{かませ犬(kamaseinu)}
-Dialogue: 9,0:22:12.90,0:22:15.85,Main,,0,0,0,,{\i1}Có thể nói tôi đã đóng "vai hạng ba gây hài"\N cả đời mình rồi.
-Dialogue: 9,0:22:16.35,0:22:23.99,Main,,0,0,0,,{\i1}Lẽ ra tôi nên biết từ lâu rằng Senjōgahara là mẫu phụ nữ\N không chịu từ bỏ và tham lam tới mới nào.
-Dialogue: 9,0:22:23.99,0:22:29.86,Main,,0,0,0,,{\i1}Nếu có điều gì đó thực sự quan trọng, \NSenjōgahara sẽ không bỏ cuộc.
+Dialogue: 9,0:22:12.90,0:22:15.85,Main,,0,0,0,,{\i1}Dù sao tôi cũng đã đóng "vai hạng ba gây hài"\N cả đời mình rồi.
+Dialogue: 9,0:22:16.35,0:22:23.99,Main,,0,0,0,,{\i1}Lẽ ra tôi nên biết Senjōgahara là mẫu phụ nữ\N không chịu từ bỏ và tham lam từ lâu rồi mới phải.
+Dialogue: 9,0:22:23.99,0:22:29.86,Main,,0,0,0,,{\i1}Nếu có điều gì đó thực sự quan trọng, \NSenjōgahara sẽ không từ bỏ.
 Dialogue: 9,0:22:30.27,0:22:34.52,Main,,0,0,0,,{\i1}Quan tâm quá nhiều, \Ncan thiệp quá sâu, làm phúc không đâu...
 Dialogue: 9,0:22:35.26,0:22:38.25,Main,,0,0,0,,{\i1}Nhưng mà... dù sao thì, nói sao nhở...
-Dialogue: 9,0:22:38.25,0:22:41.49,Main,,0,0,0,,{\i1}phải nói người này, người kia, thật sự...
-Dialogue: 9,0:22:41.49,0:22:43.41,Main,,0,0,0,,{\i1}...ai cũng xoắn ai cũng vẹo!
+Dialogue: 9,0:22:38.25,0:22:41.49,Main,,0,0,0,,{\i1}Phải nói là cả người này, lẫn người kia, thật sự...
+Dialogue: 9,0:22:41.49,0:22:43.41,Main,,0,0,0,,{\i1}...ai cũng xoắn cũng vẹo!
 Dialogue: 9,0:22:48.26,0:22:50.24,Main,,0,0,0,,Nī-chan! Sáng bảnh mắt rồi đấy!
 Dialogue: 9,0:22:50.24,0:22:52.14,Main,,0,0,0,,Còn ngủ nữa là hỏng đấy.
 Dialogue: 9,0:22:52.14,0:22:53.15,Main,,0,0,0,,Này!
@@ -329,11 +333,11 @@ Dialogue: 9,0:23:13.12,0:23:15.12,Main,,0,0,0,,À~ Để em mang cặp cho.
 Dialogue: 9,0:23:15.12,0:23:16.87,Main,,0,0,660,,Nào! Đi thôi Senpai!
 Dialogue: 9,0:23:18.12,0:23:20.88,Main,,0,0,0,,Cơ mà... CLB em tính sao?
 Dialogue: 9,0:23:21.25,0:23:23.51,Main,,0,0,660,,Chủ Nhật có buổi tập mà đúng không?
-Dialogue: 9,0:23:23.51,0:23:27.24,Main,,0,0,660,,Thì đó, sắp tới đợt "nghỉ sau thi" rồi,\N phải hừng hực khí thế chứ.
+Dialogue: 9,0:23:23.51,0:23:27.24,Main,,0,0,660,,Thì đó, sắp tới "đợt nghỉ sau thi" rồi,\N phải hừng hực khí thế chứ.
 Dialogue: 9,0:23:27.24,0:23:30.37,Main,,0,0,660,,Không, em không thể chơi bóng rổ nữa.
 Dialogue: 9,0:23:31.13,0:23:33.14,Main,,0,0,660,,Còn sớm nhưng em sẽ giải nghệ.
-Dialogue: 9,0:23:33.14,0:23:36.02,Main,,0,0,0,,Mọi chuyện coi như đã giải quyết một nửa.
-Dialogue: 9,0:23:36.02,0:23:39.88,Main,,0,0,0,,Quỷ đã bỏ đi, nhưng sau cùng \Ncánh tay của em không trở lại bình thường.
+Dialogue: 9,0:23:33.14,0:23:36.02,Main,,0,0,0,,Mọi chuyện coi như đã giải quyết được một nửa rồi.
+Dialogue: 9,0:23:36.02,0:23:39.88,Main,,0,0,0,,Quỷ đã bỏ đi, nhưng sau cùng thì \Ncánh tay của em không trở lại bình thường.
 Dialogue: 9,0:23:40.39,0:23:44.90,Main,,0,0,0,,Dù thế nào đi nữa, \Nem không thể tiếp tục chơi bóng rổ với cánh tay này được.
 Dialogue: 9,0:23:44.90,0:23:49.40,Main,,0,0,0,,Nhưng nó vẫn còn mạnh chán, cũng khá là tiện dụng.
 Dialogue: 9,0:23:50.72,0:23:53.41,Main,,900,0,0,,Trả cái cặp đây!
@@ -343,7 +347,7 @@ Dialogue: 9,0:23:57.14,0:23:58.78,Main,,0,0,0,,{\i1}Chà, "Koyomi" rõ ràng là
 Dialogue: 9,0:23:58.78,0:23:59.59,Main,,0,0,0,,{\i1}Nii-chan ha!
 Dialogue: 9,0:23:59.59,0:24:01.24,GT 2,,0,0,0,,{\fs40\bord2\pos(836,951.34)\i1}(koyomi)
 Comment: 9,0:23:59.59,0:24:01.24,GT 2,,0,0,0,,(Sanrinbō - Ngày kỵ cho xây nhà, cháy 3 nhà hàng xóm)
-Dialogue: 9,0:23:59.59,0:24:01.24,Main,,0,0,0,,{\i1}Chị biết ngày lịch Sanrinbō không?
+Dialogue: 9,0:23:59.59,0:24:01.24,Main,,0,0,0,,{\i1}Chị biết 'ngày lịch' Sanrinbō không?
 Dialogue: 9,0:24:01.24,0:24:02.09,Main,,0,0,0,,{\i1}Sanrinbō?!
 Dialogue: 9,0:24:02.09,0:24:07.32,Main,,0,0,0,,{\i1}Nếu xây nhà vào ngày đó \Nlà sẽ có đám cháy lớn thiêu rụi 3 nhà hàng xóm.
 Dialogue: 9,0:24:07.32,0:24:08.36,Main,,0,0,0,,{\i1}Sợ kinh khủng khiếp!
