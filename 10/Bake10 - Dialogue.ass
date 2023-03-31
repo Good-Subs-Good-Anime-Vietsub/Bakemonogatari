@@ -15,9 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mk
 Video File: ../raws/[OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.125000
-Active Line: 4
-Video Position: 21449
+Video Zoom Percent: 0.500000
+Scroll Position: 240
+Active Line: 255
+Video Position: 31499
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,106 +38,116 @@ Comment: 0,0:01:46.00,0:01:46.01,Main,chptr,0,0,0,,{OP}
 Comment: 0,0:03:15.96,0:03:15.98,Main,chptr,0,0,0,,{Episode}
 Comment: 0,0:22:25.03,0:22:25.04,Main,chptr,0,0,0,,{ED}
 Comment: 0,0:23:54.99,0:23:55.00,Main,chptr,0,0,0,,{Preview}
-Dialogue: 10,0:00:02.98,0:00:04.48,Main,,0,0,0,,Rắn Trói Dây.
-Dialogue: 10,0:00:04.49,0:00:08.23,Main,,0,0,0,,Thế thì phải là Rắn Cắt Dây, Araragi-kun.
-Dialogue: 10,0:00:08.73,0:00:11.61,Main,,0,0,0,,Rắn Cắt, Rắn Dây, Rắn Cắt Dây.
+Dialogue: 10,0:00:02.98,0:00:04.48,Main,,0,0,0,,Jagirinawa
+Dialogue: 10,0:00:04.49,0:00:08.23,Main,,0,0,0,,Thế thì phải là Jagirinawa, Araragi-kun.
+Dialogue: 10,0:00:08.73,0:00:11.61,Main,,0,0,0,,Jagiri, Janawa, Jagirinawa.
 Dialogue: 10,0:00:11.61,0:00:15.24,Main,,0,0,0,,Đôi khi còn được gọi là Chằn.
 Dialogue: 10,0:00:15.24,0:00:17.99,Main,,0,0,0,,Chằn? Tức là Rắn ấy à?
-Dialogue: 10,0:00:18.39,0:00:21.51,Main,,0,0,0,,Oshino, Rắn Cắt Dây là thuộc dạng Quái Dị nào?
+Dialogue: 10,0:00:18.39,0:00:21.51,GT 2,,0,0,0,,{\pos(700,954)}(Jagirinawa)
+Dialogue: 10,0:00:18.39,0:00:21.51,Main,,0,0,0,,Oshino, Rắn Xén Dây là thuộc dạng Quái Dị nào?
 Dialogue: 10,0:00:22.02,0:00:24.51,Main,,0,0,0,,Là dạng được sinh ra từ dã tâm của ai đó.
-Dialogue: 10,0:00:24.89,0:00:26.98,Main,,0,0,0,,Mà cũng không nhất thiết là dã tâm,
-Dialogue: 10,0:00:26.98,0:00:30.27,Main,,0,0,0,,nhưng gửi cho nhau Rắn Cắt Dây thế này,\Nthì chắc chắn là dã tâm rồi.
+Dialogue: 10,0:00:24.89,0:00:26.98,Main,,0,0,0,,Mà cũng không nhất thiết phải là dã tâm,
+Dialogue: 10,0:00:26.98,0:00:30.27,Main,,0,0,0,,nhưng trao cho nhau Rắn Xén Dây thế này,\Nthì chắc chắn là dã tâm rồi.
 Dialogue: 10,0:00:30.76,0:00:33.77,Main,,0,0,0,,Ờ~ tôi cũng nghe Sengoku nhắc tới rồi.
-Dialogue: 10,0:00:34.44,0:00:37.10,Main,,0,0,0,,Người nguyền rủa lên em ấy là một người bạn cùng lớp.
+Dialogue: 10,0:00:34.44,0:00:37.10,Main,,0,0,0,,Người nguyền rủa em ấy là một bạn cùng lớp.
 Dialogue: 10,0:00:37.10,0:00:40.01,Main,,0,0,0,,Mà hình như đây là một lời nguyền khá phổ biến ở cấp 2.
-Dialogue: 10,0:00:42.01,0:00:45.65,Main,,0,0,0,,Rắn Cắt Dây không phải thứ mà tay mơ có thể lo liệu.
-Dialogue: 10,0:00:45.98,0:00:50.37,Main,,0,0,0,,Mà ngay từ đầu, sao cô bé lại bị bạn nguyền rủa?
-Dialogue: 10,0:00:50.78,0:00:53.00,Main,,0,0,0,,Khả năng là yêu đương.
+Dialogue: 10,0:00:42.01,0:00:45.65,Main,,0,0,0,,Rắn Xén Dây không phải thứ mà tay mơ lo liệu nổi đâu.
+Dialogue: 10,0:00:45.98,0:00:50.37,Main,,0,0,0,,Mà ngay từ đầu, sao cô bé lại bị bạn nguyền rủa vậy?
+Dialogue: 10,0:00:50.78,0:00:53.00,Main,,0,0,0,,Khả năng là chuyện yêu đương.
 Dialogue: 10,0:00:54.22,0:00:57.50,Main,,0,0,0,,Cậu bé mà cô bạn của Sengoku thích đã thổ lộ với em ấy,
-Dialogue: 10,0:00:57.50,0:01:00.00,Main,,0,0,0,,còn Sengoku thì từ chối mà không biết gì cả,
-Dialogue: 10,0:01:00.00,0:01:01.58,Main,,0,0,0,,và nó khiến cô bạn kia bực tức.
+Dialogue: 10,0:00:57.50,0:01:00.00,Main,,0,0,0,,và em ấy đã từ chối mà không biết gì cả,
+Dialogue: 10,0:01:00.00,0:01:01.58,Main,,0,0,0,,thế là khiến cô bạn kia bực tức.
 Dialogue: 10,0:01:01.59,0:01:02.84,Main,,0,0,0,,Kiểu kiểu vậy.
 Dialogue: 10,0:01:03.83,0:01:06.10,Main,,0,0,0,,Sau khi Sengoku phát hiện ra em ấy bị nguyền rủa,
-Dialogue: 10,0:01:06.10,0:01:08.21,Main,,0,0,0,,thì đi đọc "Tuyển tập chú nguyền về rắn".
-Dialogue: 10,0:01:08.21,0:01:11.48,Main,,0,0,0,,Rồi có vẻ sau đó\N thì tự mình đi tìm và thực hiện các nghi lễ để hóa giải.
+Dialogue: 10,0:01:06.10,0:01:08.21,Main,,0,0,0,,thì đi đọc "Tuyển tập Xà Chú".
+Dialogue: 10,0:01:08.21,0:01:11.48,Main,,0,0,0,,Rồi có vẻ sau đó thì tự mình đi tìm và thực hiện \Ncác nghi lễ để hóa giải.
 Dialogue: 10,0:01:11.97,0:01:16.41,Main,,0,0,0,,Hóa giải rắn bằng cách giết rắn, nghe có vẻ không ổn cho lắm.
-Dialogue: 10,0:01:16.41,0:01:20.97,Main,,0,0,0,,Trên thực tế, từ lúc bắt đầu giết rắn,\N tình hình càng trở nên tồi tệ hơn.
+Dialogue: 10,0:01:16.41,0:01:20.97,Main,,0,0,0,,Trên thực tế, kể từ lúc bắt đầu giết rắn,\N tình hình càng trở nên tồi tệ hơn.
 Dialogue: 10,0:01:21.39,0:01:23.48,Main,,0,0,0,,Không đâu, Araragi-kun.
-Dialogue: 10,0:01:23.48,0:01:27.35,Main,,0,0,0,,Phanh thây rắn đúng thật là một cách để hóa giải Rắn Cắt Dây.
+Dialogue: 10,0:01:23.48,0:01:27.35,Main,,0,0,0,,Phanh thây rắn thực ra đúng là một cách \Nđể hóa giải Rắn Xén Dây.
 Dialogue: 10,0:01:27.35,0:01:28.77,Main,,0,0,0,,Có thể nói là chuẩn chỉ.
 Dialogue: 10,0:01:28.77,0:01:30.49,Main,,0,0,0,,Thế thì tại sao lại?
-Dialogue: 10,0:01:30.49,0:01:32.37,Main,,0,0,0,,Là sai quy trình.
+Dialogue: 10,0:01:30.49,0:01:32.37,Main,,0,0,0,,Là do sai quy trình.
 Dialogue: 10,0:01:33.36,0:01:37.03,Main,,0,0,0,,Hóa giải lời nguyền khó hơn đi nguyền.
 Dialogue: 10,0:01:37.03,0:01:40.38,Main,,0,0,0,,Hiểu biết hạn hẹp thì chỉ làm tình hình trở nên tồi tệ hơn.
-Dialogue: 10,0:01:42.24,0:01:45.36,Main,,0,0,0,,Hơn nữa... còn không gặp may.
+Dialogue: 10,0:01:42.24,0:01:43.49,Main,,0,0,0,,Hơn nữa...
+Dialogue: 10,0:01:43.49,0:01:45.36,Main,,0,0,0,,lại còn không gặp may.
 Dialogue: 10,0:03:39.75,0:03:41.08,Main,,0,0,0,,Anh về rồi đây.
 Dialogue: 10,0:03:41.07,0:03:43.34,Main,,0,0,0,,Mừng anh về, Koyomi-onīchan.
 Dialogue: 10,0:03:43.34,0:03:44.82,Main,,0,0,0,,Thế nào rồi, Araragi-senpai?
-Dialogue: 10,0:03:46.08,0:03:49.34,Main,,0,0,0,,Nó đây, với nó có thể hóa giải lời nguyền cho Sengoku.
+Dialogue: 10,0:03:46.08,0:03:46.90,Main,,0,0,0,,Nó đây.
+Dialogue: 10,0:03:46.90,0:03:49.34,Main,,0,0,0,,Với nó có thể hóa giải lời nguyền cho Sengoku.
 Dialogue: 10,0:03:50.33,0:03:51.29,Main,,0,0,0,,Thật ạ?
 Dialogue: 10,0:03:51.29,0:03:53.60,Main,,0,0,0,,Ờ, có thể xóa đi các vết vảy hằn đó.
-Dialogue: 10,0:03:55.51,0:03:59.64,Main,,0,0,0,,Chỉ là... để hóa giải lời nguyền, \Nthì phải thực hiện một nghi lễ tại ngôi đền đó.
-Dialogue: 10,0:03:59.64,0:04:03.11,Main,,0,0,0,,Để đề phòng, tốt nhất nên làm ngay tối nay.
-Dialogue: 10,0:04:03.42,0:04:06.08,Main,,0,0,0,,Sengoku, em có về muộn được không?
+Dialogue: 10,0:03:55.51,0:03:56.22,Main,,0,0,0,,Chỉ là...
+Dialogue: 10,0:03:56.22,0:03:59.64,Main,,0,0,0,,để hóa giải lời nguyền\N thì phải thực hiện một nghi lễ tại ngôi đền đó.
+Dialogue: 10,0:03:59.64,0:04:03.11,Main,,0,0,0,,Để đề phòng, \Ntốt nhất nên làm ngay trong tối nay.
+Dialogue: 10,0:04:03.42,0:04:06.08,Main,,0,0,0,,Sengoku, em về muộn được chứ?
 Dialogue: 10,0:04:06.08,0:04:11.11,Main,,0,0,0,,Được ạ! Không sao đâu.\N Em sẽ báo với mẹ là ở lại nhà bạn.
 Dialogue: 10,0:04:12.21,0:04:15.08,Main,,0,0,0,,Nghi lễ sẽ đòi hỏi một vài thứ.
-Dialogue: 10,0:04:15.08,0:04:18.85,Main,,0,0,0,,Anh sẽ đi chuẩn bị, còn Sengoku, em đi gọi điện đi.
-Dialogue: 10,0:04:22.36,0:04:27.63,Main,,0,0,0,,À phải, sẽ cần mang theo nhiều đồ đấy,\N Kanbaru đi cùng hỗ trợ nhé.
+Dialogue: 10,0:04:15.08,0:04:18.85,Main,,0,0,0,,Anh sẽ đi chuẩn bị, còn Sengoku đi gọi điện đi.
+Dialogue: 10,0:04:22.36,0:04:23.62,Main,,0,0,0,,À phải...
+Dialogue: 10,0:04:23.62,0:04:27.63,Main,,0,0,0,,Sẽ cần mang theo nhiều đồ ấy,\N Kanbaru đi phụ anh tý nhé.
 Dialogue: 10,0:04:28.03,0:04:29.08,Main,,0,0,0,,Em biết rồi.
 Dialogue: 10,0:04:33.46,0:04:34.83,Main,,0,0,0,,Sengoku đang gặp nguy.
 Dialogue: 10,0:04:35.83,0:04:39.46,Main,,0,0,0,,Tối nay mà không hành động,\N có khả năng sẽ chết.
-Dialogue: 10,0:04:43.01,0:04:46.20,Main,,0,0,0,,Rắn Cắt Dây là loại rắn vô hình.
-Dialogue: 10,0:04:46.20,0:04:48.32,Main,,0,0,0,,Ngay lúc này đây, Sengoku đang bị siết chặt.
-Dialogue: 10,0:04:49.10,0:04:51.32,Main,,0,0,0,,Vết vảy hằn là minh chứng rõ ràng.
-Dialogue: 10,0:04:52.43,0:04:56.59,Main,,0,0,0,,Theo Oshino, một khi vết vảy hằn đó lên tới mặt,\N sẽ là dấu chấm hết.
-Dialogue: 10,0:04:57.40,0:05:03.32,Main,,0,0,0,,Bị siết chặt như thế... mà... Sengoku-chan không thấy đau sao?
+Dialogue: 10,0:04:43.01,0:04:46.20,Main,,0,0,0,,Rắn Xén Dây là loại rắn vô hình.
+Dialogue: 10,0:04:46.20,0:04:48.32,Main,,0,0,0,,Ngay lúc này đây, Sengoku vẫn đang bị siết chặt.
+Dialogue: 10,0:04:49.10,0:04:51.32,Main,,0,0,0,,Vết vảy hằn chính là minh chứng rõ ràng.
+Dialogue: 10,0:04:52.43,0:04:53.70,Main,,0,0,0,,Theo Oshino nói...
+Dialogue: 10,0:04:53.70,0:04:56.59,Main,,0,0,0,,một khi vết hằn đó lên tới mặt, sẽ là dấu chấm hết.
+Dialogue: 10,0:04:57.40,0:05:00.45,Main,,0,0,0,,Bị siết chặt như thế... mà...
+Dialogue: 10,0:05:00.45,0:05:03.32,Main,,0,0,0,,Sengoku-chan không thấy đau gì sao?
 Dialogue: 10,0:05:03.32,0:05:06.45,Main,,0,0,0,,Cực kỳ đau, theo lời Oshino.
 Dialogue: 10,0:05:06.45,0:05:09.45,Main,,0,0,0,,Có thể... em ấy đang cố chịu đựng.
 Dialogue: 10,0:05:09.99,0:05:16.25,Main,,0,0,0,,Cô bạn cùng lớp đó, chỉ vì Sengoku-chan từ chối \Nngười mình thích mà lại gây ra chuyện này...
 Dialogue: 10,0:05:16.25,0:05:19.64,Main,,0,0,0,,Không, bản thân lời nguyền không phải vấn đề.
-Dialogue: 10,0:05:20.41,0:05:25.63,Main,,0,0,0,,Thậm chí ban đầu nó còn không tác dụng.
+Dialogue: 10,0:05:20.41,0:05:25.63,Main,,0,0,0,,Thậm chí ban đầu nó còn không có tác dụng\N do người thực hiện là tay mơ.
 Dialogue: 10,0:05:27.14,0:05:28.97,Main,,0,0,0,,Thế tại sao?
-Dialogue: 10,0:05:28.97,0:05:31.42,Main,,0,0,0,,Có vẻ là đã phạm sai lầm khi cố gắng hóa giải.
-Dialogue: 10,0:05:33.02,0:05:36.49,Main,,0,0,0,,Và còn... không gặp may.
-Dialogue: 10,0:05:38.23,0:05:44.50,Main,,0,0,0,,Ngôi đền nơi tiểu thư phanh thây những con rắn...\N đúng ra là một nơi tầm thường.
-Dialogue: 10,0:05:45.03,0:05:47.11,Main,,0,0,0,,Nhưng Shinobu-chan đã tới vùng này.
-Dialogue: 10,0:05:47.92,0:05:50.38,Main,,0,0,0,,Ma cà rồng Quý tộc trong truyền thuyết.
+Dialogue: 10,0:05:28.97,0:05:31.42,Main,,0,0,0,,Có thể là do sai lầm trong lúc cố gắng hóa giải.
+Dialogue: 10,0:05:33.02,0:05:34.02,Main,,0,0,0,,Và còn...
+Dialogue: 10,0:05:34.59,0:05:36.49,Main,,0,0,0,,Không gặp may.
+Dialogue: 10,0:05:38.23,0:05:44.50,Main,,0,0,0,,Ngôi đền nơi tiểu thư phanh thây những con rắn...\N đúng ra là một nơi rất tầm thường.
+Dialogue: 10,0:05:45.03,0:05:47.11,Main,,0,0,0,,Nhưng Shinobu-chan đã tới vùng này nhớ không?
+Dialogue: 10,0:05:47.92,0:05:50.38,Main,,0,0,0,,Ma cà rồng Cao quý trong truyền thuyết.
 Dialogue: 10,0:05:51.02,0:05:52.72,Main,,0,0,0,,Vua của Quái Dị - Ma cà rồng.
 Dialogue: 10,0:05:53.33,0:05:57.42,Main,,0,0,0,,Vì thế, những thứ xấu xa tụ lại quanh đền.
-Dialogue: 10,0:05:57.42,0:06:00.43,Main,,0,0,0,,Cũng vì thế mà Kanbaru cảm thấy mệt.
+Dialogue: 10,0:05:57.42,0:06:00.43,Main,,0,0,0,,Cũng vì thế mà Kanbaru mới cảm thấy mệt.
 Dialogue: 10,0:06:00.99,0:06:01.68,Main,,0,0,0,,Vậy...
-Dialogue: 10,0:06:01.88,0:06:06.94,Main,,0,0,0,,Ờ, Rắn Cắt Dây đã có tác dụng \Nvì em ấy đã giết rắn tại ngôi đền đó.
+Dialogue: 10,0:06:01.88,0:06:06.94,Main,,0,0,0,,Ờ, Rắn Xén Dây có tác dụng \Nlà bởi em ấy đã giết rắn tại ngôi đền đó.
 Dialogue: 10,0:06:07.44,0:06:10.97,Main,,0,0,0,,Nếu ở nơi khác, thì đã không bị làm sao rồi.
 Dialogue: 10,0:06:11.39,0:06:16.36,Main,,0,0,0,,Sengoku-chan... \Ncứ như tự mình hằn sâu vết thương vậy.
-Dialogue: 10,0:06:17.23,0:06:23.27,Main,,0,0,0,,Vậy, Araragi-senpai, làm lễ hóa giải ở ngôi đền đó\N chả phải sẽ nguy hiểm sao?
-Dialogue: 10,0:06:23.27,0:06:28.95,Main,,0,0,0,,Không... Nếu làm đúng quy trình,\N nơi đó sẽ khiến Rắn Cắt Dây hiện hình.
+Dialogue: 10,0:06:17.23,0:06:23.27,Main,,0,0,0,,Vậy, Araragi-senpai, làm lễ hóa giải ở ngôi đền đó\N chả phải sẽ nguy hiểm lắm sao?
+Dialogue: 10,0:06:23.27,0:06:28.95,Main,,0,0,0,,Không... Nếu làm đúng quy trình,\N nơi đó sẽ khiến Rắn Xén Dây hiện hình.
 Dialogue: 10,0:06:28.95,0:06:30.24,Main,,0,0,0,,Như thế sẽ tiện hơn.
 Dialogue: 10,0:06:42.59,0:06:44.10,Main,,0,0,0,,Anh bảo này, Sengoku...
 Dialogue: 10,0:06:45.76,0:06:48.16,Main,,0,0,0,,Gì thế ạ, Koyomi-onīchan?
-Dialogue: 10,0:06:48.63,0:06:53.22,Main,,0,0,0,,Em ấy... những vết hằn đó rất đau đúng không?
+Dialogue: 10,0:06:48.63,0:06:52.21,Main,,0,0,0,,Em ấy... những vết hằn đó...
+Dialogue: 10,0:06:52.21,0:06:53.22,Main,,0,0,0,,...rất đau đúng không?
 Dialogue: 10,0:06:54.64,0:06:56.70,Main,,0,0,0,,Có chịu được không?
 Dialogue: 10,0:06:59.48,0:07:03.02,Main,,0,0,0,,À... à thì... Đừng giận nha, Koyomi-onīchan.
 Dialogue: 10,0:07:03.02,0:07:06.10,Main,,0,0,0,,Làm gì có, anh có trách khứ gì em đâu.
-Dialogue: 10,0:07:06.10,0:07:08.50,Main,,0,0,0,,Chỉ là lo không biết em có ổn không?
+Dialogue: 10,0:07:06.10,0:07:08.50,Main,,0,0,0,,Chỉ là lo không biết em có ổn không thôi?
 Dialogue: 10,0:07:09.74,0:07:14.88,Main,,0,0,0,,Nó đau như bị siết chặt ấy, \Nnhưng không đến mức không chịu được.
-Dialogue: 10,0:07:15.37,0:07:18.91,Main,,0,0,0,,Chịu đựng được hay không... không phải vấn đề.
+Dialogue: 10,0:07:15.37,0:07:17.29,Main,,0,0,0,,Chịu đựng được hay không...
+Dialogue: 10,0:07:17.29,0:07:18.91,Main,,0,0,0,,Vấn đề không nằm ở đó.
 Dialogue: 10,0:07:21.62,0:07:24.14,Main,,0,0,0,,Khi em đau, thì hãy nói đau.
 Dialogue: 10,0:07:24.75,0:07:26.64,Main,,0,0,0,,Đúng rồi đấy.
-Dialogue: 10,0:07:27.47,0:07:33.55,Main,,0,0,0,,Bị trói là một chuyện, chịu được bị trói tức là...\N thân thể phải rất ấn tượng.
-Dialogue: 10,0:07:33.55,0:07:38.89,Main,,0,0,0,,"Là một chuyện" là không được nhá,\N chưa kể còn ngụ ý nó không tổn hại về mặt tâm lý nữa.
-Dialogue: 10,0:07:38.89,0:07:41.31,Main,,0,0,0,,Anh không tài nào hiểu nổi, Kanbaru!
+Dialogue: 10,0:07:27.47,0:07:33.55,Main,,0,0,0,,Bị trói là một chuyện, chịu được bị trói suốt như thế...\N cũng đỏi hỏi cơ thể phải dẻo dai ha.
+Dialogue: 10,0:07:33.55,0:07:38.89,Main,,0,0,0,,Em nói "là một chuyện" là không được nhá! \NVả lại không thấy em đả động tới việc tinh thần cũng phải rắn rỏi.
+Dialogue: 10,0:07:38.89,0:07:41.31,Main,,0,0,0,,Anh đây không tài nào hiểu nổi, Kanbaru!
 Dialogue: 10,0:07:50.15,0:07:52.15,Main,,0,0,0,,Nào! Đi thôi!
 Dialogue: 10,0:08:29.82,0:08:31.66,Main,,0,0,0,,Mà này, Sengoku...
 Dialogue: 10,0:08:31.66,0:08:32.32,Main,,0,0,0,,Gì ạ?
 Dialogue: 10,0:08:34.07,0:08:38.80,Main,,0,0,0,,Em bảo được một bạn nam tỏ tình,\N sao em lại từ chối thế?
 Dialogue: 10,0:08:39.45,0:08:40.84,Main,,0,0,0,,Chuyện đó...
-Dialogue: 10,0:08:44.17,0:08:47.31,Main,,0,0,0,,...vì em đã có người mình thích rồi.
+Dialogue: 10,0:08:44.17,0:08:47.31,Main,,0,0,0,,Là vì em đã có người mình thích rồi.
 Dialogue: 10,0:08:49.92,0:08:55.18,Main,,0,0,0,,Nè, Koyomi-onīchan...\N chuyện hồi xưa anh có nhớ không?
 Dialogue: 10,0:08:55.18,0:08:58.10,Main,,0,0,0,,À thì... nói thật là anh không nhớ lắm.
 Dialogue: 10,0:08:58.10,0:09:00.61,Main,,0,0,0,,Tại trí nhớ anh kém ấy.
 Dialogue: 10,0:09:02.48,0:09:03.87,Main,,0,0,0,,Vậy ạ...
 Dialogue: 10,0:09:04.60,0:09:07.99,Main,,0,0,0,,Anh ngạc nhiên là Sengoku nhớ anh rõ thế đấy.
-Dialogue: 10,0:09:07.99,0:09:12.00,Main,,0,0,0,,Bởi Nadeko chơi bời ít mà.
+Dialogue: 10,0:09:07.99,0:09:12.00,Main,,0,0,0,,Bởi Nadeko ít chơi bời này nọ mà.
 Dialogue: 10,0:09:15.99,0:09:21.70,Main,,0,0,0,,Hồi đó, người bạn duy nhất chơi với em \Nsau giờ học là Rara-chan...
 Dialogue: 10,0:09:21.70,0:09:23.75,Main,,0,0,0,,Rara-chan là... Tsukihi-chan ấy à?
 Dialogue: 10,0:09:24.50,0:09:28.22,Main,,0,0,0,,Mặc dù Rara-chan và em không học cùng trường cấp 2,
@@ -149,7 +160,7 @@ Dialogue: 10,0:09:57.28,0:09:59.55,Main,,0,0,0,,Kanbaru, em thấy trong ngườ
 Dialogue: 10,0:09:59.55,0:10:04.22,Main,,0,0,0,,Ừm, lần này có chuẩn bị trước rồi nên ổn hơn em nghĩ.
 Dialogue: 10,0:10:04.22,0:10:06.66,Main,,0,0,0,,Vậy, sẵn sàng nào!
 Dialogue: 10,0:10:08.67,0:10:09.83,Main,,0,0,0,,Kanbaru...
-Dialogue: 10,0:10:10.24,0:10:16.72,Main,,0,0,600,,Đúng là anh đã bảo em chuẩn bị quần áo\N sao cho dễ nhìn thấy được xem vết hằn đã biến mất hay chưa,
+Dialogue: 10,0:10:10.24,0:10:16.72,Main,,0,0,600,,Đúng là anh đã bảo em cần chuẩn bị quần áo sao cho\N dễ nhìn thấy được xem vết hằn đã biến mất hay chưa,
 Dialogue: 10,0:10:16.72,0:10:20.18,Main,,0,0,0,,nhưng thế quái nào lại là đồ bơi học sinh hả?
 Dialogue: 10,0:10:20.18,0:10:24.47,Main,,0,0,0,,Thì em chiều theo khẩu vị của Araragi-senpai mà.
 Dialogue: 10,0:10:24.47,0:10:25.64,Main,,0,0,0,,Chiều con khỉ!
@@ -162,15 +173,15 @@ Dialogue: 10,0:10:47.09,0:10:50.60,Main,,0,0,0,,Gì ấy à... có lẽ là... v
 Dialogue: 10,0:10:51.33,0:10:53.98,Main,,0,0,0,,Em hiểu rồi, em sẽ cố.
 Dialogue: 10,0:10:58.35,0:11:01.86,Main,,0,0,0,,Koyomi-onīchan... anh sẽ để ý em nhỉ?
 Dialogue: 10,0:11:02.32,0:11:03.60,Main,,0,0,0,,Cứ để anh lo!
-Dialogue: 10,0:11:03.60,0:11:07.10,Main,,0,0,0,,Anh sẽ để mắt đến Nadeko ha.
+Dialogue: 10,0:11:03.60,0:11:07.10,Main,,0,0,0,,Anh sẽ để mắt đến Nadeko nhỉ?
 Dialogue: 10,0:11:07.10,0:11:09.74,Main,,0,0,0,,Ờ, cứ yên tâm ở anh.
 Dialogue: 10,0:11:20.86,0:11:24.74,Main,,0,0,0,,{\i1}Để mắt tới em đi, Koyomi-onīchan!
 Dialogue: 10,0:11:35.63,0:11:37.14,Main,,0,0,600,,C-Chuyện đó...
-Dialogue: 10,0:11:38.71,0:11:41.86,Main,,0,0,0,,Chuyện đó... không đâu ạ.
+Dialogue: 10,0:11:38.71,0:11:41.86,Main,,0,0,0,,Chuyện đó... không phải đâu ạ.
 Dialogue: 10,0:11:43.14,0:11:47.74,Main,,0,0,600,,Anh học lớp 6 ấy, \Nnhưng em không cảm thấy sợ đâu ạ.
 Dialogue: 10,0:11:47.74,0:11:50.64,Main,,0,0,600,,Anh không bắt nạt gì Nadeko cả.
 Dialogue: 10,0:11:50.66,0:11:51.91,Main,,0,0,0,,Và còn...
-Dialogue: 10,0:11:52.90,0:11:55.23,Main,,0,0,600,,...anh rất tốt bụng.
+Dialogue: 10,0:11:52.90,0:11:55.23,Main,,0,0,600,,...rất tốt bụng.
 Dialogue: 10,0:11:55.23,0:11:58.90,Main,,0,0,600,,Thậm chí hôm nọ \Nanh còn sửa xe đạp cho Nadeko nữa.
 Dialogue: 10,0:12:01.40,0:12:03.34,Main,,0,0,600,,Chuyện đó...
 Dialogue: 10,0:12:04.95,0:12:06.58,Main,,0,0,600,,...vâng ạ!{ko hiểu sao jap sub là "nai desu" trong khi nói "hai desu"}
@@ -179,23 +190,24 @@ Dialogue: 10,0:12:12.46,0:12:14.32,Main,,0,0,600,,À... à thưa...
 Dialogue: 10,0:12:18.00,0:12:19.81,Main,,0,0,0,,Em có thể gọi anh là... {\alpha&HFF&}Koyomi-onīchan... được không ạ?
 Dialogue: 10,0:12:19.81,0:12:23.01,Main,,0,0,0,,Em có thể gọi anh là... Koyomi-onīchan... {\alpha&HFF&}được không ạ?
 Dialogue: 10,0:12:23.01,0:12:25.72,Main,,0,0,0,,Em có thể gọi anh là... Koyomi-onīchan... được không ạ?
-Dialogue: 10,0:12:27.74,0:12:28.49,Main,,0,0,0,,Đằng kia...
+Dialogue: 10,0:12:27.74,0:12:28.49,Main,,0,0,0,,Xem kìa...
 Dialogue: 10,0:12:54.46,0:12:56.64,Main,,0,0,0,,Có vẻ suôn sẻ ha.
 Dialogue: 10,0:12:58.23,0:13:02.67,Main,,600,0,0,,Cơ mà Araragi-senpai,\Nanh lại mắc nợ Oshino-san nữa rồi.
-Dialogue: 10,0:13:03.23,0:13:07.98,Main,,0,0,0,,Với một thứ mạnh như thế này, \Nsẽ là một khoản phí khá lớn nhở?
+Dialogue: 10,0:13:03.23,0:13:07.98,Main,,0,0,0,,Với một thứ mạnh như này, \Nsẽ là một khoản phí khá lớn nhở?
 Dialogue: 10,0:13:08.60,0:13:12.16,Main,,0,0,0,,Không, lần này thì không nợ nần gì cả.
-Dialogue: 10,0:13:13.43,0:13:18.56,Main,,0,0,0,,Kanbaru, có nhớ là anh từng bảo nơi này là\N nơi những thứ xấu xa tụ về không?
-Dialogue: 10,0:13:19.75,0:13:25.46,Main,,0,0,0,,Thì đấy, tùy vào tình hình mà có thể biến thành Đại chiến Yêu Ma,\N nói chung rất nguy hiểm.
-Dialogue: 10,0:13:26.84,0:13:31.34,Main,,0,0,0,,Bằng cách dán bùa tại ngôi đền này,\N chúng ta ngăn chặn khả năng đó.
+Dialogue: 10,0:13:13.43,0:13:18.56,Main,,0,0,0,,Kanbaru, có nhớ là anh từng bảo nơi này là nơi\N những thứ xấu xa tụ về không?
+Dialogue: 10,0:13:19.75,0:13:20.59,Main,,0,0,0,,Thì đấy.
+Dialogue: 10,0:13:20.59,0:13:25.46,Main,,0,0,0,,Tùy vào tình hình mà có thể biến thành Đại chiến Yêu Ma,\N nói chung rất nguy hiểm.
+Dialogue: 10,0:13:26.84,0:13:31.34,Main,,0,0,0,,Bằng cách dán lá bùa tại ngôi đền này,\N chúng ta đã ngăn chặn khả năng đó.
 Dialogue: 10,0:13:32.29,0:13:34.50,Main,,0,0,0,,Lớn chuyện thế cơ à.
 Dialogue: 10,0:13:34.50,0:13:39.85,Main,,0,0,0,,Ờ, lá bùa đó... kiểu như... chút tiền lẻ thừa.
 Dialogue: 10,0:13:53.84,0:13:58.10,Main,,0,0,0,,Nghi lễ hóa giải... chắc phải mất một lúc ha.
-Dialogue: 10,0:13:58.10,0:14:01.37,Main,,0,0,0,,Ờ, thì... chỉ biết chờ đợi thôi mà.
+Dialogue: 10,0:13:58.10,0:14:01.37,Main,,0,0,0,,Ờ... thì... chỉ biết chờ đợi thôi mà.
 Dialogue: 10,0:14:01.83,0:14:05.69,Main,,0,0,0,,Này, Araragi-senpai, \NSengoku-chan mệt lắm rồi ấy.
-Dialogue: 10,0:14:05.69,0:14:09.90,Main,,0,0,0,,Rắn Cắt Dây... không một phát hạ luôn được sao?
-Dialogue: 10,0:14:09.90,0:14:15.62,Main,,0,0,0,,Oshino cũng nói là có thể tóm lấy rồi kéo ra...
+Dialogue: 10,0:14:05.69,0:14:09.90,Main,,0,0,0,,Rắn Xén Dây... không một phát hạ được luôn sao?
+Dialogue: 10,0:14:09.90,0:14:15.62,Main,,0,0,0,,Oshino cũng có nói...\N hình như anh có thể tóm lấy Rắn Xén Dây rồi kéo ra...
 Dialogue: 10,0:14:16.92,0:14:18.95,Main,,0,0,0,,Tốt nhất là không nên.
-Dialogue: 10,0:14:18.95,0:14:24.09,Main,,0,500,0,,Nếu Araragi-kun mà làm thế, \NRắn Cắt Dây sẽ quay ra tấn công cậu đúng chứ?
+Dialogue: 10,0:14:18.95,0:14:24.09,Main,,0,500,0,,Nếu Araragi-kun mà làm thế, \NRắn Xén Dây sẽ quay ra tấn công cậu đúng chứ?
 Dialogue: 10,0:14:24.63,0:14:25.59,Main,,0,0,0,,Chưa kể...
 Dialogue: 10,0:14:26.65,0:14:28.96,Main,,0,0,0,,...ngay cả khi tránh được...
 Dialogue: 10,0:14:28.96,0:14:33.65,Main,,0,0,0,,thì nó sẽ quay về nguyền rủa cô bạn cùng lớp kia.
@@ -204,23 +216,23 @@ Dialogue: 10,0:14:39.88,0:14:42.11,Main,,0,0,0,,"Nguyền rủa người khác c
 Dialogue: 10,0:14:42.11,0:14:48.61,Main,,0,0,0,,Araragi-kun, tuy nhắc lại cơ mà... \Nta muốn cậu ghi nhớ những lời này, suy nghĩ thật cẩn thận.
 Dialogue: 10,0:14:49.61,0:14:54.63,Main,,0,0,0,,Ta không biết Araragi-kun nghĩ gì nhưng...\N rồi sẽ có ngày ta rời khỏi vùng này.
 Dialogue: 10,0:14:56.12,0:15:01.12,Main,,0,0,0,,Tới lúc đó, ta sẽ không còn ở đây\Nđể cậu nhờ vả hay hỗ trợ nữa đâu.
-Dialogue: 10,0:15:02.13,0:15:06.46,Main,,0,0,0,,Quái dị ấy... không phải là thứ để cậu\N đi tới đâu lục tới đó đâu.
-Dialogue: 10,0:15:06.46,0:15:11.26,Main,,0,0,0,,Nhưng Araragi-kun lại có xu hướng cố gắng xen vô\N ngay cả khi có thể để yên.
+Dialogue: 10,0:15:02.13,0:15:06.46,Main,,0,0,0,,Quái dị ấy... \Nkhông phải là thứ để cậu đi tới đâu lục tới đó.
+Dialogue: 10,0:15:06.46,0:15:11.26,Main,,0,0,0,,Nhưng Araragi-kun lại có cái xu hướng cố gắng xen vô\N ngay cả khi có thể để nó yên.
 Dialogue: 10,0:15:11.26,0:15:15.39,Main,,0,0,0,,Nhưng mà... lỡ tôi phát hiện ra, thì biết làm gì giờ?
 Dialogue: 10,0:15:15.39,0:15:17.03,Main,,0,0,0,,Đâu thể nhắm mắt làm ngơ được.
-Dialogue: 10,0:15:18.52,0:15:22.40,Main,,0,0,0,,Như bé lớp trưởng chẳng hạn, cậu có thể quên đi cơ mà.
+Dialogue: 10,0:15:18.52,0:15:22.40,Main,,0,0,0,,Cứ như bé lớp trưởng ấy, \Ncậu có thể quên đi cơ mà.
 Dialogue: 10,0:15:22.40,0:15:24.16,Main,,0,0,0,,Quên là quên thế nào...
 Dialogue: 10,0:15:24.65,0:15:26.54,Main,,0,0,0,,Mà giờ bàn cũng bằng hòa ha.
 Dialogue: 10,0:15:27.40,0:15:29.23,Main,,0,0,0,,Nói chung, cứ yên tâm đi.
 Dialogue: 10,0:15:29.23,0:15:34.55,Main,,0,0,0,,Chúng ta cũng gọi là thân thiết rồi,\N nên không có chuyện ta chẳng nói chẳng rằng mà rời đi đâu.
 Dialogue: 10,0:15:34.55,0:15:38.79,Main,,0,0,0,,Ta cũng có tuổi rồi, ta biết ta cần làm gì.
 Dialogue: 10,0:15:38.79,0:15:40.05,Main,,0,0,0,,Nhưng...
-Dialogue: 10,0:15:40.05,0:15:45.06,Main,,0,0,0,,trong lúc cậu suy nghĩ về tương lai sau này,\N thì hãy suy nghĩ cả về nó nữa.
+Dialogue: 10,0:15:40.05,0:15:45.06,Main,,0,0,0,,trong lúc cậu suy nghĩ tốt nghiệp xong làm gì,\N thì hãy suy nghĩ cả về nó nữa.
 Dialogue: 10,0:15:45.84,0:15:49.56,Main,,0,0,0,,Ý ông là việc tôi thản nhiên giúp đỡ người ta\N là vô trách nhiệm à?
 Dialogue: 10,0:15:49.92,0:15:53.34,Main,,0,0,0,,Nhưng mà Oshino, tôi không giống ông.
 Dialogue: 10,0:15:53.34,0:15:55.30,Main,,0,0,0,,Tôi có 1 phần là Ma cà rồng...
 Dialogue: 10,0:15:55.30,0:15:57.60,Main,,800,0,0,,hay tức là Quái Dị.
-Dialogue: 10,0:15:57.60,0:16:00.18,Main,,0,0,0,,Tôi không thể đứng về phe con người rồi đi {\i1}trừ tà{\i0} được.
+Dialogue: 10,0:15:57.60,0:16:00.18,Main,,0,0,0,,Tôi không thể đứng về phe con người\N rồi đi {\i1}trừ tà{\i0} được.
 Dialogue: 10,0:16:00.93,0:16:01.94,Main,,0,0,0,,Araragi-kun.
 Dialogue: 10,0:16:03.19,0:16:08.33,Main,,0,0,0,,Araragi-kun hoàn toàn có thể trở lại làm người\N nếu từ bỏ Shinobu-chan.
 Dialogue: 10,0:16:08.73,0:16:11.82,Main,,0,0,0,,Riêng ta thì mong là cậu không quên điều đó.
@@ -232,10 +244,10 @@ Dialogue: 10,0:16:31.08,0:16:33.61,Main,,0,0,0,,Có phải thế không, Araragi
 Dialogue: 10,0:16:34.44,0:16:36.18,Main,,0,0,0,,Không! Sao có thể...
 Dialogue: 10,0:16:44.08,0:16:45.19,Main,,0,900,0,,Hiểu rồi.
 Dialogue: 10,0:16:49.46,0:16:51.46,Main,,0,0,0,,Kanbaru, nhầm mất rồi.
-Dialogue: 10,0:16:52.33,0:16:56.07,Main,,0,0,0,,Nếu chúng ta nhìn thấy được Rắn Cắt Dây...
-Dialogue: 10,0:16:56.07,0:16:58.36,Main,,0,0,0,,thì đã có thể hiểu ngay lập tức rồi.
-Dialogue: 10,0:16:59.03,0:17:00.34,Main,,0,0,0,,Tức là sao anh?
-Dialogue: 10,0:17:00.34,0:17:03.87,Main,,0,0,0,,Không chỉ có 1 con Rắn Cắt Dây.
+Dialogue: 10,0:16:52.33,0:16:56.07,Main,,0,0,0,,Nếu chúng ta nhìn thấy được Rắn Xén Dây...
+Dialogue: 10,0:16:56.07,0:16:58.36,Main,,0,0,0,,thì đã có thể hiểu ngay lập tức rồi nhưng mà.
+Dialogue: 10,0:16:59.03,0:17:00.34,Main,,0,0,0,,T-Tức là sao?
+Dialogue: 10,0:17:00.34,0:17:03.87,Main,,0,0,0,,Không chỉ có 1 con Rắn Xén Dây.
 Dialogue: 10,0:17:03.89,0:17:05.21,Main,,0,0,0,,Có tới 2 con.
 Dialogue: 10,0:17:06.22,0:17:07.22,Main,,0,0,0,,Khốn nạn!
 Dialogue: 10,0:17:21.39,0:17:23.60,Main,,0,0,0,,Chạy đi! Kanbaru!
@@ -245,7 +257,7 @@ Dialogue: 10,0:17:33.07,0:17:38.09,Main,,0,0,0,,{\i1}Cậu bé bị Sengoku từ
 Dialogue: 10,0:17:42.58,0:17:43.84,Main,,0,0,0,,Dù cho không nhìn thấy...
 Dialogue: 10,0:17:45.83,0:17:47.60,Main,,0,0,0,,nhưng vẫn có thể chạm vào.
 Dialogue: 10,0:19:08.89,0:19:09.76,Main,,0,0,0,,Mình làm được.
-Dialogue: 10,0:19:11.92,0:19:14.06,Main,,0,0,0,,{\i1}Không thể nhìn thấy Rắn Cắt Dây nhưng...
+Dialogue: 10,0:19:11.92,0:19:14.06,Main,,0,0,0,,{\i1}Không thể nhìn thấy Rắn Xén Dây nhưng...
 Dialogue: 10,0:19:15.57,0:19:18.47,Main,,0,0,0,,{\i1}dấu vết di chuyển của nó thì thấy rõ.
 Dialogue: 10,0:19:18.47,0:19:21.05,Main,,0,0,0,,{\i1}Bằng cách nhìn vào cỏ và nền đất...
 Dialogue: 10,0:19:22.32,0:19:25.22,Main,,0,0,0,,{\i1}thì có thể đoán được nó ở đâu.
@@ -255,52 +267,56 @@ Dialogue: 10,0:20:00.47,0:20:02.27,Main,,0,0,0,,Ka-Kanbaru...
 Dialogue: 10,0:20:02.27,0:20:04.23,Main,,0,0,0,,Đừng nói gì cả! Đừng kích động quá!
 Dialogue: 10,0:20:04.66,0:20:07.36,Main,,0,0,0,,Kích động quá sẽ bị dính độc, Araragi-senpai.
 Dialogue: 10,0:20:07.75,0:20:11.31,Main,,0,0,0,,Rắn rất máu lạnh nhưng cũng hèn nhát.
-Dialogue: 10,0:20:11.31,0:20:14.08,Main,,0,0,0,,Chỉ cần mặc kệ nó thì nó sẽ bỏ đi.
-Dialogue: 10,0:20:15.06,0:20:21.78,Main,,0,0,0,,Nhưng mà Kanbaru... thế thì...\N cậu bé bị Sengoku từ chối... sẽ bị rắn...
+Dialogue: 10,0:20:11.31,0:20:14.08,Main,,0,0,0,,Chỉ cần mặc kệ nó thì nó sẽ bỏ đi thôi.
+Dialogue: 10,0:20:15.06,0:20:18.00,Main,,0,0,0,,Nhưng mà Kanbaru... thế thì...
+Dialogue: 10,0:20:18.00,0:20:21.78,Main,,0,0,0,,cậu bé bị Sengoku từ chối... sẽ bị rắn...
 Dialogue: 10,0:20:21.78,0:20:24.96,Main,,0,0,0,,Araragi-senpai! Xin anh đấy!
-Dialogue: 10,0:20:24.96,0:20:28.13,Main,,0,0,0,,Xin anh đừng cứu nhầm người.
+Dialogue: 10,0:20:24.96,0:20:26.79,Main,,0,0,0,,Xin anh đừng cứu...
+Dialogue: 10,0:20:26.79,0:20:28.13,Main,,0,0,0,,...nhầm người mà.
 Dialogue: 10,0:20:51.89,0:20:53.62,Main,,0,0,0,,{\i1}Thôi muộn rồi!
 Dialogue: 10,0:20:53.62,0:20:57.66,Main,,0,0,0,,{\i1}Dù giờ có đuổi theo thì cũng đâu nhìn thấy được\N nên chỉ tốn công thôi.
 Dialogue: 10,0:20:58.77,0:21:00.67,Main,,0,0,0,,Araragi-senpai...
-Dialogue: 10,0:21:03.21,0:21:06.38,Main,,0,0,0,,Anh xin lỗi... vì đã ép em phải làm thế.
+Dialogue: 10,0:21:03.21,0:21:06.38,Main,,0,0,0,,Anh xin lỗi... vì đã khiến em phải nhẫn tâm làm thế.
 Dialogue: 10,0:21:07.28,0:21:08.14,Main,,0,0,0,,Xin lỗi.
-Dialogue: 10,0:21:08.71,0:21:11.93,Main,,0,0,0,,Đừng xin lỗi mà anh! Em khó xử lắm.
+Dialogue: 10,0:21:08.71,0:21:11.93,Main,,0,0,0,,Đừng xin lỗi mà anh! Làm em khó xử lắm.
 Dialogue: 10,0:21:13.64,0:21:14.68,Main,,0,0,0,,Xin lỗi.
 Dialogue: 10,0:21:16.14,0:21:18.43,Main,,0,0,0,,Anh xin lỗi, Kanbaru.
 Dialogue: 10,0:21:20.81,0:21:23.44,Main,,0,0,0,,Thật lòng xin lỗi.
-Dialogue: 10,0:21:33.73,0:21:35.70,Main,,0,0,0,,{\i1}Con rắn đã trở về...
-Dialogue: 10,0:21:35.70,0:21:37.49,Main,,0,0,0,,{\i1}về nơi người gửi nó đi...
+Dialogue: 10,0:21:33.73,0:21:35.70,Main,,0,0,0,,{\i1}Con rắn đã trở về,
+Dialogue: 10,0:21:35.70,0:21:37.49,Main,,0,0,0,,{\i1}về nơi nó được gửi đi,
 Dialogue: 10,0:21:38.44,0:21:40.95,Main,,0,0,0,,{\i1}và mang theo cả lời nguyền.
-Dialogue: 10,0:21:43.98,0:21:45.46,Main,,0,0,0,,Koyomi-onīchan.
+Dialogue: 10,0:21:43.98,0:21:45.46,Main,,0,0,0,,Koyomi-onīchan~
 Dialogue: 10,0:21:46.15,0:21:48.21,Main,,0,0,600,,{\i1}Nhận định của Kanbaru là đúng.
-Dialogue: 10,0:21:48.74,0:21:52.67,Main,,0,0,600,,{\i1}Thứ Quái Dị giả tạo như tôi...\N thì đào đâu ra chuyện đối phó được Quái Dị chính chủ.
-Dialogue: 10,0:21:53.45,0:21:56.40,Main,,0,0,0,,{\i1}Đơn thuần là... không thể bỏ cuộc.
+Dialogue: 10,0:21:48.74,0:21:52.67,Main,,0,0,600,,{\i1}Thứ Quái Dị giả tạo như tôi...\N thì đào đâu ra chuyện đối phó được Quái Dị chính chủ,
+Dialogue: 10,0:21:53.45,0:21:56.40,Main,,0,0,0,,{\i1}đơn thuần là... không thể bỏ cuộc.
 Dialogue: 10,0:21:57.59,0:22:01.21,Main,,0,0,0,,Koyomi-onīchan! Cảm ơn anh đã cứu em.
-Dialogue: 10,0:22:01.81,0:22:04.98,Main,,0,0,0,,{\i1}Đừng nói thế, Sengoku, anh xin em.
-Dialogue: 10,0:22:05.42,0:22:08.22,Main,,0,0,0,,{\i1}Lời cảm ơn, xin em đừng.
-Dialogue: 10,0:22:10.55,0:22:13.72,Main,,0,0,0,,{\i1}Anh không xứng đáng nhận những lời đó từ em.
-Dialogue: 10,0:22:14.40,0:22:17.98,Main,,0,0,0,,{\i1}Anh đã... đối với người nguyền rủa em...
+Dialogue: 10,0:22:01.81,0:22:03.61,Main,,0,0,0,,{\i1}Đừng nói thế mà, Sengoku.
+Dialogue: 10,0:22:03.61,0:22:04.98,Main,,0,0,0,,{\i1}Anh xin em.
+Dialogue: 10,0:22:05.42,0:22:07.01,Main,,0,0,0,,{\i1}Lời cảm ơn...
+Dialogue: 10,0:22:07.01,0:22:08.22,Main,,0,0,0,,{\i1}xin em đừng.
+Dialogue: 10,0:22:10.55,0:22:13.72,Main,,0,0,0,,{\i1}Anh không xứng đáng nhận những lời đó của em.
+Dialogue: 10,0:22:14.40,0:22:17.98,Main,,0,0,0,,{\i1}Anh đã... đối với kẻ nguyền rủa em...
 Dialogue: 10,0:22:19.05,0:22:21.02,Main,,0,0,0,,{\i1}thậm chí còn muốn cứu.
-Dialogue: 10,0:23:55.96,0:23:56.67,Main,Tsukihi,0,0,0,,Karen đây!
-Dialogue: 10,0:23:56.67,0:23:57.31,Main,Karen,0,0,0,,Tsukihi có!
-Dialogue: 10,0:23:57.31,0:24:00.29,Main,Tsukihi,0,0,0,,Đã đến lúc tiết lộ chúng ta là ai \Nvà giới thiệu một cách đàng hoàng rồi!
-Dialogue: 10,0:24:00.29,0:24:03.00,Main,Karen,0,0,0,,Đã quá muộn! Đã quá trễ!
-Dialogue: 10,0:24:03.00,0:24:06.50,Main,Tsukihi,0,0,0,,Hẳn là mọi người đều kiểu \Nhai đứa này rốt cuộc là ai nhờ?
-Dialogue: 10,0:24:06.52,0:24:07.26,Main,Karen,0,0,0,,Ai cũng thế nhờ.
-Dialogue: 10,0:24:07.26,0:24:09.97,Main,Tsukihi,0,0,0,,Tớ là Araragi Karen, em gái của Araragi Koyomi!
-Dialogue: 10,0:24:09.97,0:24:12.56,Main,Karen,0,0,0,,Còn tớ là Araragi Tsukihi, em gái của Araragi Koyomi!
-Dialogue: 10,0:24:12.56,0:24:14.11,Main,Tsukihi,0,0,0,,Võ sĩ lớp 9!
-Dialogue: 10,0:24:14.11,0:24:15.86,Main,Karen,0,0,0,,Võ sĩ lớp 8!
-Dialogue: 10,0:24:15.86,0:24:17.94,Main,both,0,0,0,,Và 2 người bọn tớ là Hỏa Tỷ Muội.
-Dialogue: 10,0:24:18.70,0:24:20.57,Main,Tsukihi,0,0,0,,Đùa thôi chứ tớ là Tsukihi!
-Dialogue: 10,0:24:20.57,0:24:22.48,Main,Karen,0,0,0,,Đùa thôi chứ tớ là Karen.
-Dialogue: 10,0:24:22.48,0:24:24.20,Main,Tsukihi,0,0,0,,Đổi cho vui ấy mà.
-Dialogue: 10,0:24:24.20,0:24:25.70,Main,Karen,0,0,0,,Đổi cho vui ấy.
-Dialogue: 10,0:24:25.70,0:24:26.69,Main,Tsukihi,0,0,0,,Dám cá là các bạn bị lừa ha~
-Dialogue: 10,0:24:26.69,0:24:28.16,Main,Karen,0,0,0,,Dám cá là các bạn bị lừa ha!
-Dialogue: 10,0:24:28.16,0:24:30.00,Main,both,0,0,150,,Kỳ tới, Mèo Tsubasa, phần 1.
-Dialogue: 10,0:24:30.00,0:24:31.33,Main,Tsukihi,0,0,0,,Thế giờ tớ là ai nhở?
-Dialogue: 10,0:24:31.33,0:24:32.50,Main,Karen,0,0,0,,Câu đố xem trước!
+Dialogue: 10,0:23:55.96,0:23:56.67,Main,Tsukihi,0,0,0,,{\i1}Karen đây!
+Dialogue: 10,0:23:56.67,0:23:57.31,Main,Karen,0,0,0,,{\i1}Tsukihi có!
+Dialogue: 10,0:23:57.31,0:24:00.29,Main,Tsukihi,0,0,0,,{\i1}Đã đến lúc tiết lộ chúng ta là ai \Nvà giới thiệu một cách đàng hoàng rồi!
+Dialogue: 10,0:24:00.29,0:24:03.00,Main,Karen,0,0,0,,{\i1}Đã quá muộn! Đã quá trễ!
+Dialogue: 10,0:24:03.00,0:24:06.50,Main,Tsukihi,0,0,0,,{\i1}Hẳn là mọi người đều kiểu \Nhai đứa này rốt cuộc là ai nhờ?
+Dialogue: 10,0:24:06.52,0:24:07.26,Main,Karen,0,0,0,,{\i1}Ai cũng thế nhờ.
+Dialogue: 10,0:24:07.26,0:24:09.97,Main,Tsukihi,0,0,0,,{\i1}Tớ là Araragi Karen, em gái của Araragi Koyomi!
+Dialogue: 10,0:24:09.97,0:24:12.56,Main,Karen,0,0,0,,{\i1}Còn tớ là Araragi Tsukihi, em gái của Araragi Koyomi!
+Dialogue: 10,0:24:12.56,0:24:14.11,Main,Tsukihi,0,0,0,,{\i1}Võ sĩ lớp 9!
+Dialogue: 10,0:24:14.11,0:24:15.86,Main,Karen,0,0,0,,{\i1}Võ sĩ lớp 8!
+Dialogue: 10,0:24:15.86,0:24:17.94,Main,both,0,0,0,,{\i1}Và 2 người bọn tớ là Hỏa Tỷ Muội.
+Dialogue: 10,0:24:18.70,0:24:20.57,Main,Tsukihi,0,0,0,,{\i1}Đùa thôi chứ tớ là Tsukihi!
+Dialogue: 10,0:24:20.57,0:24:22.48,Main,Karen,0,0,0,,{\i1}Đùa thôi chứ tớ là Karen.
+Dialogue: 10,0:24:22.48,0:24:24.20,Main,Tsukihi,0,0,0,,{\i1}Đổi cho vui ấy mà.
+Dialogue: 10,0:24:24.20,0:24:25.70,Main,Karen,0,0,0,,{\i1}Đổi cho vui ấy.
+Dialogue: 10,0:24:25.70,0:24:26.69,Main,Tsukihi,0,0,0,,{\i1}Dám cá là các bạn bị lừa ha~
+Dialogue: 10,0:24:26.69,0:24:28.16,Main,Karen,0,0,0,,{\i1}Dám cá là các bạn bị lừa ha!
+Dialogue: 10,0:24:28.16,0:24:30.00,Main,both,0,0,150,,{\i1}Kỳ tới, Mèo Tsubasa, phần 1.
+Dialogue: 10,0:24:30.00,0:24:31.33,Main,Tsukihi,0,0,0,,{\i1}Thế giờ tớ là ai nhở?
+Dialogue: 10,0:24:31.33,0:24:32.50,Main,Karen,0,0,0,,{\i1}Câu đố xem trước!
 Dialogue: 0,0:01:46.00,0:01:46.97,Nadeko Op,,0,0,0,,{\blur7.5\bord4\3c&H83A478&\c&HCDEED7&}Hai Ba...
 Dialogue: 0,0:01:46.97,0:01:47.21,Nadeko Op,,0,0,0,,{\bord4\blur7.5\3c&H83A478&\c&HCDEED7&}Mà như thế... không được!
 Dialogue: 0,0:01:47.21,0:01:49.17,Nadeko Op,,0,0,0,,{\bord2\blur7.5\c&HE3FCFE&\3c&H4C44F3&}Mà như thế... không được!
