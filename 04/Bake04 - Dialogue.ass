@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 386
-Active Line: 395
-Video Position: 34890
+Scroll Position: 248
+Active Line: 256
+Video Position: 21783
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -287,7 +287,7 @@ Dialogue: 7,0:14:52.66,0:14:55.29,Main,,0,0,0,,À thì... kiểu giết thời g
 Dialogue: 7,0:14:55.29,0:14:57.84,Main,,0,0,0,,À ha, ra vậy à?
 Dialogue: 7,0:14:58.13,0:15:00.25,Main,,0,0,0,,Tớ cũng đang giết thời gian.
 Dialogue: 7,0:15:00.25,0:15:04.55,Main,,0,0,0,,Tớ thì không ngồi yên ở nhà được,\N Chủ Nhật là ngày để ra ngoài đi dạo mà.
-Dialogue: 7,0:15:06.18,0:15:08.55,Main,,0,0,0,,Tớ thấy cậu nghĩ hơi quá rồi.
+Dialogue: 7,0:15:06.18,0:15:08.55,Main,,0,0,0,,Cậu có vẻ lo nghĩ hơi quá nhỉ.
 Dialogue: 7,0:15:10.39,0:15:12.52,Main,,0,0,0,,Mà này, Araragi-kun.
 Dialogue: 7,0:15:12.52,0:15:14.18,Main,,0,0,0,,Cô bé kia... là em gái cậu à?
 Dialogue: 7,0:15:14.18,0:15:16.52,Main,,0,0,0,,À thì là trẻ lạc.
