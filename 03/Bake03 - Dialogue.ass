@@ -14,10 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 144
-Active Line: 151
-Video Position: 13107
+Video Zoom Percent: 0.375000
+Scroll Position: 123
+Active Line: 142
+Video Position: 12384
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -166,16 +166,15 @@ Dialogue: 4,0:07:59.50,0:08:01.45,Main,,0,0,720,,{\an2}Thật đấy, gì cũng 
 Dialogue: 4,0:08:01.45,0:08:05.05,Main,,0,0,720,,{\an2}Ví dụ như trong vòng 1 tuần\N thêm "nyu" vào cuối câu khi nói này.
 Dialogue: 4,0:08:05.05,0:08:08.33,Main,,0,0,720,,{\an2}Hay trong vòng 1 tuần\N đi học mà không mặc quần lót này.
 Dialogue: 4,0:08:09.36,0:08:13.47,Main,,0,0,0,,Hay trong vòng 1 tuần\N mặc tạp dề khỏa thân đánh thức cậu này.
-Dialogue: 4,0:08:13.47,0:08:17.18,Main,,0,0,0,,Hay trong vòng 1 tuần\Ncùng cậu {\i1}ăn kiêng thụt tháo làm sạch ruột{\i0} này.
+Dialogue: 4,0:08:13.47,0:08:17.18,Main,,0,0,0,,Hay trong vòng 1 tuần\Ncùng cậu {\i1}ăn kiêng thụt tháo thông ruột{\i0} này.
 Dialogue: 4,0:08:17.18,0:08:19.68,Main,,0,0,0,,Dám cá là Araragi-kun \Ncũng có sở thích biến thái này nọ đúng không?
 Dialogue: 4,0:08:19.68,0:08:20.80,Main,,0,0,0,,Cậu...
-Dialogue: 4,0:08:20.80,0:08:23.77,Main,,0,0,0,,coi tôi là thằng biến thái bệnh hoạn thế à?
+Dialogue: 4,0:08:20.80,0:08:23.77,Main,,0,0,0,,coi tôi là thằng "biến thái điên cuồng" như thế à?
 Dialogue: 4,0:08:24.19,0:08:26.35,Main,,0,0,0,,Bất kể hoàn cảnh nào!\NThế là quá thô lỗ!
-Dialogue: 4,0:08:26.36,0:08:29.10,Main,,0,0,0,,À nhầm, cho tôi xin lỗi nhá.
-Dialogue: 4,0:08:29.10,0:08:34.36,Main,,0,0,0,,Đúng là tôi có nói "gì cũng được"\N nhưng mấy việc vừa rồi thì cả đời này e là không thể.
-Dialogue: 4,0:08:34.36,0:08:36.50,Main,,0,0,0,,Không! Không nhá! Không nhá!
-Dialogue: 4,0:08:36.50,0:08:39.52,Main,,0,0,0,,Độ "nghiện" của tôi \Ncòn kinh khủng hơn cậu tưởng tượng nhiều nhá!
-Dialogue: 4,0:08:39.52,0:08:41.21,Main,,0,0,0,,Đây không thèm bực!
+Dialogue: 4,0:08:26.36,0:08:29.10,Main,,0,0,0,,À nhầm, cho tôi xin lỗi chứ...
+Dialogue: 4,0:08:29.10,0:08:34.36,Main,,0,0,0,,đúng là tôi có nói "gì cũng được",\N nhưng mấy việc vừa rồi mà phải làm cả đời thì e là không thể.
+Dialogue: 4,0:08:34.36,0:08:36.50,Main,,0,0,0,,Không! Nhầm nhá! Nhầm nhá!
+Dialogue: 4,0:08:36.50,0:08:41.21,Main,,0,0,0,,Tôi không hề bực vì cậu lỡ đánh giá thấp\N độ "điên cuồng" của tôi nhá!
 Dialogue: 4,0:08:41.64,0:08:42.53,Main,,0,0,0,,Ồ vậy sao?
 Dialogue: 4,0:08:43.25,0:08:46.72,Main,,0,0,0,,Thế để tôi gợi ý, là ý kiến cá nhân thôi.
 Dialogue: 4,0:08:46.72,0:08:50.01,Main,,0,0,0,,Hay là mỗi sáng mặc tạp dề khỏa thân\N đánh thức cậu nhé.
