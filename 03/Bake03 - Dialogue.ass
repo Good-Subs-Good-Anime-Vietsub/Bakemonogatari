@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 269
-Active Line: 286
-Video Position: 22576
+Scroll Position: 136
+Active Line: 142
+Video Position: 12384
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -174,7 +174,7 @@ Dialogue: 4,0:08:24.19,0:08:26.35,Main,,0,0,0,,Bất kể hoàn cảnh nào!\NTh
 Dialogue: 4,0:08:26.36,0:08:29.10,Main,,0,0,0,,À nhầm, cho tôi xin lỗi chứ...
 Dialogue: 4,0:08:29.10,0:08:34.36,Main,,0,0,0,,đúng là tôi có nói "gì cũng được",\N nhưng mấy việc vừa rồi mà phải làm cả đời thì e là không thể.
 Dialogue: 4,0:08:34.36,0:08:36.50,Main,,0,0,0,,Không! Nhầm nhá! Nhầm nhá!
-Dialogue: 4,0:08:36.50,0:08:41.21,Main,,0,0,0,,Tôi không hề bực vì cậu lỡ đánh giá thấp\N độ "cuồng" của tôi nhá!
+Dialogue: 4,0:08:36.50,0:08:41.21,Main,,0,0,0,,Tôi không hề bực về việc \Ncậu lỡ đánh giá thấp độ "cuồng" của tôi nhá!
 Dialogue: 4,0:08:41.64,0:08:42.53,Main,,0,0,0,,Ồ ra thế.
 Dialogue: 4,0:08:43.25,0:08:46.72,Main,,0,0,0,,Thế để tôi gợi ý, là ý kiến cá nhân thôi.
 Dialogue: 4,0:08:46.72,0:08:50.01,Main,,0,0,0,,Hay là mỗi sáng mặc tạp dề khỏa thân\N đánh thức cậu nhé.
