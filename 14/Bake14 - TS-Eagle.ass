@@ -15,10 +15,10 @@ Audio File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakem
 Video File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 14v3 [439F61E7].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 0.500000
 Scroll Position: 18
 Active Line: 24
-Video Position: 15764
+Video Position: 15729
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,81 +34,79 @@ Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:32.97,0:00:33.01,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.71,419.72)}CĂNG THẲNG
-Dialogue: 10,0:00:33.01,0:00:33.05,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.41,420.4)}CĂNG THẲNG
-Dialogue: 10,0:00:33.05,0:00:33.09,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.91,419.78)}CĂNG THẲNG
-Dialogue: 10,0:00:33.09,0:00:33.13,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.37,420.29)}CĂNG THẲNG
-Dialogue: 10,0:00:33.13,0:00:33.17,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0\fscx99.99\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,419.72)}CĂNG THẲNG
-Dialogue: 10,0:00:33.17,0:00:33.22,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.89,420.27)}CĂNG THẲNG
-Dialogue: 10,0:00:33.22,0:00:33.26,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0\fscx99.99\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,419.79)}CĂNG THẲNG
-Dialogue: 10,0:00:33.26,0:00:33.30,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0\fscx99.99\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.45,420.35)}CĂNG THẲNG
-Dialogue: 10,0:00:33.30,0:00:33.34,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(982.01,419.78)}CĂNG THẲNG
-Dialogue: 10,0:00:33.34,0:00:33.38,Signs,,0,0,0,nTS,{=0}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.43,420.29)}CĂNG THẲNG
-Dialogue: 10,0:00:33.38,0:00:33.42,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0\fscx99.99\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,419.79)}CĂNG THẲNG
-Dialogue: 10,0:00:33.42,0:00:33.47,Signs,,0,0,0,nTS,{=0}{\fscy99.99\frz0\fscx99.99\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,420.28)}CĂNG THẲNG
-Dialogue: 10,0:00:46.60,0:00:46.65,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,419.72)}CĂNG THẲNG
-Dialogue: 10,0:00:46.65,0:00:46.69,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,420.28)}CĂNG THẲNG
-Dialogue: 10,0:00:46.69,0:00:46.73,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,419.76)}CĂNG THẲNG
-Dialogue: 10,0:00:46.73,0:00:46.77,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(982.02,420.25)}CĂNG THẲNG
-Dialogue: 10,0:00:46.77,0:00:46.81,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(982,419.76)}CĂNG THẲNG
-Dialogue: 10,0:00:46.81,0:00:46.85,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.38,420.28)}CĂNG THẲNG
-Dialogue: 10,0:00:46.85,0:00:46.90,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,419.71)}CĂNG THẲNG
-Dialogue: 10,0:00:46.90,0:00:46.94,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.48,420.38)}CĂNG THẲNG
-Dialogue: 10,0:00:46.94,0:00:46.98,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.43,419.84)}CĂNG THẲNG
-Dialogue: 10,0:00:46.98,0:00:47.02,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(982,420.27)}CĂNG THẲNG
-Dialogue: 10,0:00:47.02,0:00:47.06,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.9,419.72)}CĂNG THẲNG
-Dialogue: 10,0:00:47.06,0:00:47.11,Signs,,0,0,0,nTS,{=1}{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.5,420.3)}CĂNG THẲNG
-Dialogue: 9,0:10:56.01,0:10:56.05,Signs,,0,0,0,nTS,{=3}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur5\fs70\fsp5\pos(968,444)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.05,0:10:56.09,Signs,,0,0,0,nTS,{=3}{\fscy100\frz0.01\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur5\fs70\fsp5\pos(968.03,444.58)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.09,0:10:56.13,Signs,,0,0,0,nTS,{=3}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur5\fs70\fsp5\pos(968.05,444.06)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.13,0:10:56.17,Signs,,0,0,0,nTS,{=3}{\fscy99.98\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.98\blur5\fs70\fsp5\pos(968.4,444.48)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.17,0:10:56.21,Signs,,0,0,0,nTS,{=3}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur5\fs70\fsp5\pos(968.05,444.01)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.21,0:10:56.26,Signs,,0,0,0,nTS,{=3}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur5\fs70\fsp5\pos(968.23,444.44)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.26,0:10:56.30,Signs,,0,0,0,nTS,{=3}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur5\fs70\fsp5\pos(968.25,444.05)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.30,0:10:56.34,Signs,,0,0,0,nTS,{=3}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur5\fs70\fsp5\pos(967.76,444.57)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.34,0:10:56.38,Signs,,0,0,0,nTS,{=3}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(968.05,443.98)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.38,0:10:56.42,Signs,,0,0,0,nTS,{=3}{\fscy99.99\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.99\blur5\fs70\fsp5\pos(968.32,444.45)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.42,0:10:56.46,Signs,,0,0,0,nTS,{=3}{\fscy100.03\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(967.86,443.98)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.46,0:10:56.51,Signs,,0,0,0,nTS,{=3}{\fscy99.99\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.99\blur5\fs70\fsp5\pos(968.38,444.49)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.51,0:10:56.55,Signs,,0,0,0,nTS,{=3}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur5\fs70\fsp5\pos(968.25,444.02)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.55,0:10:56.59,Signs,,0,0,0,nTS,{=3}{\fscy99.99\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.99\blur5\fs70\fsp5\pos(968.38,444.49)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.59,0:10:56.63,Signs,,0,0,0,nTS,{=3}{\fscy100.03\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(968.06,444.02)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.63,0:10:56.67,Signs,,0,0,0,nTS,{=3}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur5\fs70\fsp5\pos(967.72,444.45)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.67,0:10:56.71,Signs,,0,0,0,nTS,{=3}{\fscy100.03\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(968.06,444.03)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.71,0:10:56.76,Signs,,0,0,0,nTS,{=3}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur5\fs70\fsp5\pos(968.23,444.48)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.76,0:10:56.80,Signs,,0,0,0,nTS,{=3}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(967.77,443.94)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.80,0:10:56.84,Signs,,0,0,0,nTS,{=3}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(968.04,444.51)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.84,0:10:56.88,Signs,,0,0,0,nTS,{=3}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(968.39,443.99)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.88,0:10:56.92,Signs,,0,0,0,nTS,{=3}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur5\fs70\fsp5\pos(967.77,444.6)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.92,0:10:56.96,Signs,,0,0,0,nTS,{=3}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur5\fs70\fsp5\pos(968.33,444)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 9,0:10:56.96,0:10:57.01,Signs,,0,0,0,nTS,{=3}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur5\fs70\fsp5\pos(967.83,444.51)\c&HFFFFFF&\1a&HC8&}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.01,0:10:56.05,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur1.2\fs70\fsp5\pos(968,444)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.05,0:10:56.09,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0.01\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur1.2\fs70\fsp5\pos(968.03,444.58)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.09,0:10:56.13,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur1.2\fs70\fsp5\pos(968.05,444.06)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.13,0:10:56.17,Signs,,0,0,0,nTS,{=2}{\fscy99.98\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.98\blur1.2\fs70\fsp5\pos(968.4,444.48)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.17,0:10:56.21,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur1.2\fs70\fsp5\pos(968.05,444.01)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.21,0:10:56.26,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur1.2\fs70\fsp5\pos(968.23,444.44)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.26,0:10:56.30,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur1.2\fs70\fsp5\pos(968.25,444.05)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.30,0:10:56.34,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur1.2\fs70\fsp5\pos(967.76,444.57)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.34,0:10:56.38,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(968.05,443.98)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.38,0:10:56.42,Signs,,0,0,0,nTS,{=2}{\fscy99.99\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.99\blur1.2\fs70\fsp5\pos(968.32,444.45)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.42,0:10:56.46,Signs,,0,0,0,nTS,{=2}{\fscy100.03\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(967.86,443.98)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.46,0:10:56.51,Signs,,0,0,0,nTS,{=2}{\fscy99.99\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.99\blur1.2\fs70\fsp5\pos(968.38,444.49)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.51,0:10:56.55,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur1.2\fs70\fsp5\pos(968.25,444.02)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.55,0:10:56.59,Signs,,0,0,0,nTS,{=2}{\fscy99.99\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx94.99\blur1.2\fs70\fsp5\pos(968.38,444.49)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.59,0:10:56.63,Signs,,0,0,0,nTS,{=2}{\fscy100.03\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(968.06,444.02)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.63,0:10:56.67,Signs,,0,0,0,nTS,{=2}{\fscy100\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95\blur1.2\fs70\fsp5\pos(967.72,444.45)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.67,0:10:56.71,Signs,,0,0,0,nTS,{=2}{\fscy100.03\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(968.06,444.03)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.71,0:10:56.76,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur1.2\fs70\fsp5\pos(968.23,444.48)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.76,0:10:56.80,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(967.77,443.94)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.80,0:10:56.84,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(968.04,444.51)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.84,0:10:56.88,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(968.39,443.99)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.88,0:10:56.92,Signs,,0,0,0,nTS,{=2}{\fscy100.01\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur1.2\fs70\fsp5\pos(967.77,444.6)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.92,0:10:56.96,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.01\blur1.2\fs70\fsp5\pos(968.33,444)}" Tạm Biệt Bạn Hiền "
-Dialogue: 10,0:10:56.96,0:10:57.01,Signs,,0,0,0,nTS,{=2}{\fscy100.02\frz0\alpha&H00&\fnUVN Anh Hai Nhe\fscx95.02\blur1.2\fs70\fsp5\pos(967.83,444.51)}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:00:32.97,0:00:33.01,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.71,359.72)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.01,0:00:33.05,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.41,360.4)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.05,0:00:33.09,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.91,359.78)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.09,0:00:33.13,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.37,360.29)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.13,0:00:33.17,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,359.72)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.17,0:00:33.22,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.89,360.27)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.22,0:00:33.26,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,359.79)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.26,0:00:33.30,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.45,360.35)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.30,0:00:33.34,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(982.01,359.78)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.34,0:00:33.38,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.43,360.29)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.38,0:00:33.42,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,359.79)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:33.42,0:00:33.47,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&H2A2A3A&\pos(981.68,360.28)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.60,0:00:46.65,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,359.72)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.65,0:00:46.69,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,360.28)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.69,0:00:46.73,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,359.76)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.73,0:00:46.77,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(982.02,360.25)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.77,0:00:46.81,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(982,359.76)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.81,0:00:46.85,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.38,360.28)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.85,0:00:46.90,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.71,359.71)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.90,0:00:46.94,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.48,360.38)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.94,0:00:46.98,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.43,359.84)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:46.98,0:00:47.02,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(982,360.27)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:47.02,0:00:47.06,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.9,359.72)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:00:47.06,0:00:47.11,Signs,,0,0,0,nTS,{\frz0\alpha&H00&\blur1.2\fnUVN Ai Cap\b0\fs100\fsp50\c&HFCFDFE&\pos(981.5,360.3)\fscx147\fscy147}CĂNG THẲNG
+Dialogue: 0,0:10:56.01,0:10:56.05,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968,444)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.05,0:10:56.09,Signs,,0,0,0,nTS,{=3}{\frz0.01\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.03,444.58)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.09,0:10:56.13,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.05,444.06)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.13,0:10:56.17,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.4,444.48)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.17,0:10:56.21,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.05,444.01)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.21,0:10:56.26,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.23,444.44)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.26,0:10:56.30,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.25,444.05)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.30,0:10:56.34,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(967.76,444.57)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.34,0:10:56.38,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.05,443.98)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.38,0:10:56.42,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.32,444.45)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.42,0:10:56.46,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(967.86,443.98)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.46,0:10:56.51,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.38,444.49)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.51,0:10:56.55,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.25,444.02)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.55,0:10:56.59,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.38,444.49)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.59,0:10:56.63,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.06,444.02)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.63,0:10:56.67,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(967.72,444.45)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.67,0:10:56.71,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.06,444.03)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.71,0:10:56.76,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.23,444.48)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.76,0:10:56.80,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(967.77,443.94)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.80,0:10:56.84,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.04,444.51)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.84,0:10:56.88,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.39,443.99)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.88,0:10:56.92,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(967.77,444.6)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.92,0:10:56.96,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(968.33,444)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 0,0:10:56.96,0:10:57.01,Signs,,0,0,0,nTS,{=3}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur5\fs70\fsp5\pos(967.83,444.51)\c&HFFFFFF&\1a&HAD&\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.01,0:10:56.05,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968,444)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.05,0:10:56.09,Signs,,0,0,0,nTS,{=2}{\frz0.01\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.03,444.58)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.09,0:10:56.13,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.05,444.06)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.13,0:10:56.17,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.4,444.48)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.17,0:10:56.21,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.05,444.01)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.21,0:10:56.26,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.23,444.44)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.26,0:10:56.30,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.25,444.05)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.30,0:10:56.34,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(967.76,444.57)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.34,0:10:56.38,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.05,443.98)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.38,0:10:56.42,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.32,444.45)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.42,0:10:56.46,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(967.86,443.98)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.46,0:10:56.51,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.38,444.49)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.51,0:10:56.55,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.25,444.02)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.55,0:10:56.59,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.38,444.49)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.59,0:10:56.63,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.06,444.02)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.63,0:10:56.67,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(967.72,444.45)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.67,0:10:56.71,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.06,444.03)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.71,0:10:56.76,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.23,444.48)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.76,0:10:56.80,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(967.77,443.94)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.80,0:10:56.84,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.04,444.51)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.84,0:10:56.88,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.39,443.99)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.88,0:10:56.92,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(967.77,444.6)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.92,0:10:56.96,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(968.33,444)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
+Dialogue: 1,0:10:56.96,0:10:57.01,Signs,,0,0,0,nTS,{=2}{\frz0\alpha&H00&\fnSVN-Book Antiqua\blur1.2\fs70\fsp5\pos(967.83,444.51)\fscx106\fscy118}" Tạm Biệt Bạn Hiền "
 
 [Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"161ebaf0-38ac-4048-acc9-f8a40ca00803"#2C"originalText"#3A"{\\fscy100\\frz0\\fscx100\\alpha&H00&\\blur1.2\\fnUVN Ai Cap\\b0\\fs100\\fsp50\\c&H2A2A3A&\\pos(981.71#2C419.72)}C#C4#82NG TH#E1#BA#B2NG"}
-Data: 1,a-mo,e{"uuid"#3A"184af0cd-91f8-4f76-b0ec-1c40598a1390"#2C"originalText"#3A"{\\fscy100\\frz0\\fscx100\\alpha&H00&\\blur1.2\\fnUVN Ai Cap\\b0\\fs100\\fsp50\\c&HFCFDFE&\\pos(981.71#2C419.72)}C#C4#82NG TH#E1#BA#B2NG"}
 Data: 2,a-mo,e{"uuid"#3A"5a88fe63-58d0-448c-8855-34586f69bc93"#2C"originalText"#3A"{\\fnUVN Anh Hai Nhe\\fscx95\\blur1.2\\fs70\\fsp5\\pos(972.57#2C444)}\" T#E1#BA#A1m Bi#E1#BB#87t B#E1#BA#A1n Hi#E1#BB#81n \""}
 Data: 3,a-mo,e{"uuid"#3A"784a7060-5ef9-4639-a211-235d18fbdc21"#2C"originalText"#3A"{\\fnUVN Anh Hai Nhe\\fscx95\\blur5\\fs70\\fsp5\\pos(972.57#2C444)\\c&HFFFFFF&\\1a&H96&}\" T#E1#BA#A1m Bi#E1#BB#87t B#E1#BA#A1n Hi#E1#BB#81n \""}

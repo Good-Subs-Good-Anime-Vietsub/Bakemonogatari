@@ -15,10 +15,8 @@ Audio File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakem
 Video File: ../../../../../Torrent/[MTBB] Bakemonogatari (BD 1080p)/[MTBB] Bakemonogatari - 13v3 [806CE878].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 9
-Active Line: 13
-Video Position: 9261
+Video Zoom Percent: 0.500000
+Video Position: 17487
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +34,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:12:09.33,0:12:11.83,Signs,,0,0,0,nTS,{\fscx90\an8\blur1.2\fs37.5\1c&H717670&\frz7.602\fnSVN-Bradley Hand\b1\pos(904.04,316.18)}Đài \Nphát \Nthanh \Nthành \Nphố \NNaoetsu\N\N\N\NGửi \Ntới \Nchương \Ntrình \NRadio\N Đêm \NKhuya
 Dialogue: 0,0:12:09.33,0:12:11.83,Signs,,0,0,0,nTS,{\\fscx90\an8\blur1.2\fs37.5\1c&H717670&\frz7.602\fnSVN-Bradley Hand\b1\pos(649.73,544.84)}Tên \Nradio: \N\NNgười\N Yêu\N Gấu \NMèo\N Lớn
 Dialogue: 0,0:12:11.83,0:12:18.46,Signs,,0,0,0,nTS,{\an7\pos(0,0)\p1\blur1\c&HF1F8FD&}m 182 -16 l 181 1143 1444 1088 1446 -68
-Dialogue: 1,0:12:11.83,0:12:18.46,Signs,,0,0,0,nTS,{\an7\blur2\fs125\fscx90\1c&H31433F&\fnSVN-Bradley Hand\b1\1a&H00&\pos(288,56)\clip(256,35.43,1448,1080)\frz358.8}Dù trong manga và anime\N được miêu tả trông khá \Ndễ dàng, chứ thực chất làm \Nhầu gái vô cùng khó. \NHọ gần như không có thời gian \Nnghỉ ngơi. Đây là chính họ \Nkể với tôi trong buổi hẹn tập thể \Nhôm trước, nên không sai đâu.
+Dialogue: 1,0:12:11.83,0:12:18.46,Signs,,0,0,0,nTS,{\an7\blur2\fs125\1c&H31433F&\fnSJ Murbia\b0\1a&H00&\frz358.8\clip(178,7.43,1448,1080)\pos(244.34,15.09)\fscx113\fscy102}Dù trong manga và anime\N được miêu tả trông khá \Ndễ dàng, chứ thực chất làm \Nhầu gái vô cùng khó. \NHọ gần như không có thời gian \Nnghỉ ngơi. Đây là chính họ \Nkể với tôi trong buổi hẹn nhóm \Nhôm trước, nên không sai đâu.
 Dialogue: 0,0:13:16.77,0:13:20.90,Signs,,0,0,0,nTS,{\fscx90\an8\blur3\fs37.5\c&H4B5853&\frz7.602\fnSVN-Bradley Hand\b1\pos(850.33,307.04)\1a&H64&}Đài \Nphát \Nthanh \Nthành \Nphố \NNaoetsu\N\N\N\NGửi \Ntới \Nchương \Ntrình \NRadio\N Đêm \NKhuya
 Dialogue: 1,0:13:16.77,0:13:20.90,Signs,,0,0,0,nTS,{\fscx90\an8\blur1.2\fs37.5\1c&H4B5853&\frz7.602\fnSVN-Bradley Hand\b1\pos(850.33,307.04)}Đài \Nphát \Nthanh \Nthành \Nphố \NNaoetsu\N\N\N\NGửi \Ntới \Nchương \Ntrình \NRadio\N Đêm \NKhuya
 Dialogue: 0,0:13:16.77,0:13:20.90,Signs,,0,0,0,nTS,{\\fscx90\an8\blur3\fs37.5\c&H4B5853&\frz7.602\fnSVN-Bradley Hand\b1\pos(649.73,544.84)\1a&H64&}Tên \Nradio: \N\NQuân\NGiận\NNhân\NĐôi
