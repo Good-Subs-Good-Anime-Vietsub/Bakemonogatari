@@ -21,7 +21,7 @@ Video Position: 2732
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4,4,2,12,12,50,1
+Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,4,2,2,12,12,50,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Kanbaru Op,SJ Blound Bold Condensed,88,&H00E6CED7,&HFFFFFFFF,&H005E555B,&H96000000,0,0,0,0,100,100,0,0,1,4.5,0,2,0,0,38,1
 Style: EDeng,take_out_the_garbage,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,30,1

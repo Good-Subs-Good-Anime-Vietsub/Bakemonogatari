@@ -22,7 +22,7 @@ Video Position: 31499
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4,4,2,12,12,50,1
+Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,4,2,2,12,12,50,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,Adobe Clean,50,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,-1,0,0,0,100,100,0,0,3,0,0.0740741,8,10,10,30,1
