@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 402
-Active Line: 452
-Video Position: 36636
+Scroll Position: 415
+Active Line: 453
+Video Position: 36645
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -260,7 +260,7 @@ Dialogue: 12,0:11:41.47,0:11:42.91,Main,,0,0,0,,Mà này, Oshino.
 Dialogue: 12,0:11:42.91,0:11:46.22,Main,,0,0,0,,Cái gì mà Cua ấy, \Ncó dễ mà diệt được không?
 Dialogue: 12,0:11:47.10,0:11:49.85,Main,,0,0,0,,Đầu óc cậu hoang dã quá nhở, Araragi-kun.
 Dialogue: 12,0:11:50.22,0:11:52.76,Main,,0,0,0,,Có gì hay ho đã xảy ra sao?
-Dialogue: 12,0:11:52.76,0:11:58.74,Main,,0,0,0,,Mặc dù Shinobu-chan và con mèo dâm dục đó\N đã có ác ý tấn công Araragi-kun và bé lớp trưởng...
+Dialogue: 12,0:11:52.76,0:11:58.74,Main,,0,0,0,,Mặc dù Shinobu-chan và con Mèo dâm dục đó\N đã có ác ý tấn công Araragi-kun và bé lớp trưởng...
 Dialogue: 12,0:11:58.74,0:12:01.15,Main,,0,0,0,,nhưng vụ Cua lần này thì khác.
 Dialogue: 12,0:12:01.15,0:12:02.24,Main,,0,0,0,,Tức là sao?
 Dialogue: 12,0:12:02.74,0:12:05.93,GT 2,,0,0,0,,(tập trước mình dịch là Chúa, vì chơi chữ Cua-Chúa/Kani-Kami, nhưng tập này thì để Thần cho thuận miệng)
@@ -277,7 +277,7 @@ Dialogue: 12,0:12:21.97,0:12:26.80,Main,,0,0,0,,Họ thường không nỡ từ 
 Dialogue: 12,0:12:26.80,0:12:30.94,Main,,0,0,0,,Mà Thần Thánh trông vậy thôi,\N chứ cũng khá là qua loa đại khái.
 Dialogue: 12,0:12:30.94,0:12:32.68,Main,,0,0,0,,Qua loa đại khái?
 Dialogue: 12,0:12:32.68,0:12:35.83,Main,,0,0,0,,Vấn đề cá nhân của loài người,\N ra sao họ kệ.
-Dialogue: 12,0:12:35.83,0:12:41.07,Main,,0,0,0,,Thực ra trước mặt Thần, cả 3 chúng ta,\N từ tuổi tác, giới tính tới cân nặng họ không phân biệt được đâu.
+Dialogue: 12,0:12:35.83,0:12:41.07,Main,,0,0,0,,Thực chất trước mặt Thần, cả 3 chúng ta,\N từ tuổi tác, giới tính tới cân nặng họ không phân biệt được đâu.
 Dialogue: 12,0:12:41.37,0:12:41.94,Main,,0,0,0,,Này!
 Dialogue: 12,0:12:42.87,0:12:46.20,Main,,0,0,0,,Con Cua đó... hiện đang ở cạnh tôi sao?
 Dialogue: 12,0:12:47.38,0:12:51.29,Main,,0,0,0,,Phải! Ở ngay đó, ở khắp mọi nơi.
@@ -353,7 +353,7 @@ Dialogue: 12,0:16:40.47,0:16:44.14,Main,,0,0,0,,Vâng! Nhưng tôi không thể 
 Dialogue: 12,0:16:44.14,0:16:51.88,Main,,0,0,0,,Nếu lúc đó tôi không kháng cự, \Nthì có lẽ đã không rơi vào tình cảnh tồi tệ như thế.
 Dialogue: 12,0:16:51.88,0:16:54.25,Main,,0,0,0,,Tình cảm mẹ con đã không đổ vỡ.
 Dialogue: 12,0:16:54.25,0:16:58.74,Main,,0,0,0,,Thế này nhé, tiểu thư... đó là cảm xúc của cô.
-Dialogue: 12,0:16:58.74,0:17:03.30,Main,,0,0,0,,Dù có nặng đến đâu,\N đó là những thứ mà cô phải gánh lấy.
+Dialogue: 12,0:16:58.74,0:17:03.30,Main,,0,0,0,,Dù có nặng đến đâu,\N đó là những gì mà cô phải gánh lấy.
 Dialogue: 12,0:17:03.30,0:17:05.50,Main,,0,0,0,,Cô không thể trút lên ai khác.
 Dialogue: 12,0:17:06.70,0:17:08.75,Main,,0,0,0,,Trút lên ai khác...?
 Dialogue: 12,0:17:09.25,0:17:11.08,Main,,0,0,0,,Đừng ngoảnh mặt đi.
@@ -459,7 +459,7 @@ Dialogue: 12,0:23:20.84,0:23:21.37,Main,,0,0,0,,{\i1}Cơ mà...
 Dialogue: 12,0:23:21.37,0:23:22.63,Main,,0,0,0,,Ầy ầy!~
 Dialogue: 12,0:23:23.04,0:23:24.19,Main,,0,0,0,,{\i1}Hiểu rồi.
 Dialogue: 12,0:23:24.19,0:23:27.67,Main,,0,0,0,,{\i1}Thần với chả Thánh... đúng là qua loa đại khái!
-Dialogue: 12,0:25:00.93,0:25:01.44,Main,,0,0,0,,Karen đây!
+Dialogue: 12,0:25:00.93,0:25:01.44,Main,,0,0,0,,{\i1}Karen đây!
 Dialogue: 12,0:25:01.44,0:25:02.29,Main,,0,0,0,,{\i1}Tsukihi có!
 Dialogue: 12,0:25:02.29,0:25:03.37,Main,,0,0,0,,{\i1}Nói là Rừng-Gym nhờ.
 Dialogue: 12,0:25:03.37,0:25:04.52,Main,,0,0,0,,{\i1}Chị cũng nói thế.
@@ -484,7 +484,7 @@ Dialogue: 12,0:25:23.54,0:25:25.00,Main,,0,0,0,,{\i1}Lược bớt nhiều thế
 Dialogue: 12,0:25:25.00,0:25:26.88,Main,,0,0,150,,{\i1}Kỳ tới, Ốc Sên Mayoi, Phần 1.
 Dialogue: 12,0:25:26.88,0:25:28.01,Main,,0,0,150,,{\i1}À vâng, là tên bạn đó.
 Dialogue: 12,0:25:28.01,0:25:28.40,Main,,0,0,0,,{\i1}À vâng, là tên bạn đó.
-Dialogue: 12,0:25:28.40,0:25:29.87,Main,,0,0,0,,Như đánh lạc hướng trong ảo thuật ấy.
+Dialogue: 12,0:25:28.40,0:25:29.87,Main,,0,0,0,,{\i1}Như đánh lạc hướng trong ảo thuật ấy.
 Dialogue: 9,0:00:56.20,0:00:59.79,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}Vẫn chưa quá muộn,
 Dialogue: 9,0:00:59.79,0:01:03.63,OPvie,,0,0,40,,{\c&H0801FE&\blur0.67\an2\fs72\b1}em nên mau chóng rút lui thôi,
 Dialogue: 9,0:01:03.63,0:01:08.72,OPvie,,0,0,40,,{\c&H00CAF5&\blur0.67\an2\fs72\b1}trước khi sự hiểu nhầm tồi tệ hơn.
