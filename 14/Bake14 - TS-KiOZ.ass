@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 14 (BD 1080p Hi10 Opus) [A478DE50].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1785
-Active Line: 1803
-Video Position: 7952
+Scroll Position: 285
+Active Line: 289
+Video Position: 34758
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -320,10 +320,10 @@ Dialogue: 0,0:22:22.27,0:22:22.48,Signs,,0,0,0,,{\blur6\fnVL DellaRobbia BT\an5\
 Dialogue: 1,0:22:22.27,0:22:22.48,Signs,,0,0,0,,{\blur1.2\fnVL DellaRobbia BT\an5\fs60\c&H4155EB&\pos(966.4,205.6)}Yêu Ma Quái Truyện
 Dialogue: 0,0:22:22.48,0:22:25.03,Signs,,0,0,0,,{\1a&H84&\blur6\fs100\fnVL DellaRobbia BT\pos(961.6,740.6)}Còn Nữa
 Dialogue: 1,0:22:22.48,0:22:25.03,Signs,,0,0,0,,{\blur1\fs100\fnVL DellaRobbia BT\c&HFCFDFD&\pos(961.6,740.6)}Còn Nữa
-Dialogue: 0,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur6\fnGentium\b1\c&HFFFFFD&\pos(964,176.5)\alpha&H40&}HÌNH VẼ
+Dialogue: 0,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur6\fnGentium\b1\c&HFFFFFD&\pos(964,176.5)\alpha&H40&}Hình Khối
 Dialogue: 0,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur6\fnGentium\b1\an7\fs60\c&HFFFFFD&\pos(673.029,851.857)\alpha&H40&}TAM
 Dialogue: 0,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur6\an7\fs60\fnGentium\b1\c&HFFFFFD&\pos(1163.29,850.2)\alpha&H40&}GIÁC
-Dialogue: 1,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur1\fnGentium\b1\c&HFFFFFD&\pos(964,176.5)}HÌNH VẼ
+Dialogue: 1,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur1\fnGentium\b1\c&HFFFFFD&\pos(964,176.5)}Hình Khối
 Dialogue: 1,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur1\fnGentium\b1\an7\fs60\c&HFFFFFD&\pos(673.029,851.857)}TAM
 Dialogue: 1,0:24:09.67,0:24:10.88,Signs,,0,0,0,,{\blur1\an7\fs60\fnGentium\b1\c&HFFFFFD&\pos(1163.29,850.2)}GIÁC
 Dialogue: 1,0:24:24.52,0:24:26.52,Signs,,0,0,0,,{\blur0.9\fs80\fnGentium Basic\c&HFFFFFF&\pos(959.334,218.167)}Kỳ Tới
