@@ -15,13 +15,13 @@ Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 429
-Active Line: 649
-Video Position: 4105
+Scroll Position: 415
+Active Line: 628
+Video Position: 36578
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,102,0,0,1,4,4,2,12,12,50,1
+Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,-1,0,0,0,100,100,0,0,1,4,2,2,12,12,50,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,30,30,170,1
 Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,15,15,30,1
@@ -54,10 +54,10 @@ Dialogue: 12,0:04:27.03,0:04:29.42,Main,,0,0,0,,Việc học thi đại học qu
 Dialogue: 12,0:04:30.38,0:04:33.13,Main,,0,0,0,,Trước hết, \Nchúng ta sẽ rút gọn ứng cử viên...
 Dialogue: 12,0:04:33.13,0:04:36.46,Main,,0,0,0,,để mọi người bầu chọn rồi đưa ra quyết định.
 Dialogue: 12,0:04:36.47,0:04:37.42,Main,,0,0,0,,Được đấy nhỉ?
-Dialogue: 12,0:04:37.42,0:04:38.88,Main,,0,0,0,,Được quá chứ!
-Dialogue: 12,0:04:38.88,0:04:41.26,Main,,0,0,0,,Nghe rất dân chủ.
+Dialogue: 12,0:04:37.42,0:04:38.88,Main,,0,0,0,,Tại sao không chứ.
+Dialogue: 12,0:04:38.88,0:04:41.26,Main,,0,0,0,,Nghe dân chủ thế cơ mà.
 Dialogue: 12,0:04:41.26,0:04:45.03,Main,,0,0,0,,Araragi-kun vẫn cứ cái kiểu nói khó nghe đó.
-Dialogue: 12,0:04:45.03,0:04:46.93,Main,,0,0,0,,Kiểu kiểu ông cụ non ấy.{ひねてる(hineteru)}
+Dialogue: 12,0:04:45.03,0:04:46.93,Main,,0,0,0,,Kiểu kiểu cợt nhả ấy.
 Dialogue: 12,0:04:53.64,0:04:56.97,Main,,0,0,0,,{\i1}Hanekawa Tsubasa, lớp trưởng lớp tôi.
 Dialogue: 12,0:04:56.97,0:05:01.61,Main,,0,0,0,,{\i1}Kỷ luật... Lịch thiệp...\NVô cùng nghiêm túc... Trò cưng của giáo viên.
 Dialogue: 12,0:05:01.61,0:05:03.74,Main,,0,0,0,,{\i1}Là lớp trưởng của lớp trưởng.
@@ -82,7 +82,7 @@ Dialogue: 12,0:05:52.33,0:05:53.78,Main,,0,0,0,,tên của cậu ta cơ.
 Dialogue: 12,0:05:53.78,0:05:56.36,Main,,0,0,0,,Tên của Senjōgahara-san à...
 Dialogue: 12,0:05:56.36,0:05:57.66,Main,,0,0,0,,là Hitagi nhở?
 Dialogue: 12,0:05:57.66,0:05:59.75,Main,,0,0,0,,Cũng khá là lạ ha.
-Dialogue: 12,0:05:59.75,0:06:03.76,Main,,0,0,0,,{\be1}"Hitagi" nghe cứ như\N thuật ngữ trong xây dựng ấy.
+Dialogue: 12,0:05:59.75,0:06:03.76,Main,,0,0,0,,{\be1}"Hitagi" nghe cứ như\N thuật ngữ trong ngành xây dựng ấy.
 Dialogue: 12,0:06:03.76,0:06:05.72,Main,,0,0,0,,Cậu cái gì cũng biết hết nhở.{omae wa nani demo shitteru na}
 Dialogue: 12,0:06:05.72,0:06:09.18,Main,,0,0,0,,Không biết hết đâu, biết gì biết nấy thôi.{nandemo wa shiranai wa yo, shitteru koto dake}
 Dialogue: 12,0:06:21.73,0:06:23.16,Main,,0,900,0,,Hiếm thấy nhỉ.
@@ -518,7 +518,7 @@ Dialogue: 12,0:18:19.72,0:18:22.66,Main,,0,0,0,,Dù có là thật thì cậu c�
 Dialogue: 12,0:18:22.66,0:18:24.58,Main,,0,0,0,,Tự biết luôn à?
 Dialogue: 12,0:18:25.16,0:18:31.34,Main,,0,0,0,,Dù sao thì tòa nhà này trông như sắp sập đến nơi rồi.\N Vậy mà ông Oshino này vẫn ở được.
 Dialogue: 12,0:18:31.34,0:18:34.60,Main,,0,0,0,,Ờ, ông ta cũng khá lập dị mà.
-Dialogue: 12,0:18:34.60,0:18:38.63,Main,,0,0,0,,Nhưng những vụ như của tôi và Senjōgahara \Nthì ông ấy là chuyên gia rồi.
+Dialogue: 12,0:18:34.60,0:18:38.63,Main,,0,0,0,,Nhưng những vụ như của tôi và Senjōgahara \Nthì ông ta là chuyên gia rồi.
 Dialogue: 12,0:18:40.64,0:18:42.22,Main,,0,0,0,,Ồ, Araragi-kun!
 Dialogue: 12,0:18:42.22,0:18:43.76,Main,,0,0,0,,Cuối cùng cũng tới à.
 Dialogue: 12,0:18:47.06,0:18:49.15,Main,,0,0,0,,Gì thế này, Araragi-kun?
@@ -553,7 +553,7 @@ Dialogue: 12,0:19:52.63,0:19:53.76,Main,,0,0,0,,là sao?
 Dialogue: 12,0:19:54.06,0:19:56.81,Main,,0,0,0,,À, không cần để tâm đâu.
 Dialogue: 12,0:19:56.81,0:19:58.08,Main,,0,0,0,,Không hình, không bóng.
 Dialogue: 12,0:19:58.08,0:19:59.85,Main,,0,0,0,,Không tên tuổi, không tồn tại.
-Dialogue: 12,0:19:59.85,0:20:00.80,Main,,0,0,0,,Con bé là thế đấy.
+Dialogue: 12,0:19:59.85,0:20:00.80,Main,,0,0,0,,Là thế đấy.
 Dialogue: 12,0:20:00.80,0:20:02.64,Main,,0,0,0,,Ấy ấy, Araragi-kun.
 Dialogue: 12,0:20:02.64,0:20:04.76,Main,,0,0,0,,Qua ta đặt tên cho nó rồi.
 Dialogue: 12,0:20:04.76,0:20:07.35,Main,,0,0,0,,Tuần Lễ Vàng nó chăm chỉ làm việc lắm đấy.
@@ -579,7 +579,7 @@ Dialogue: 7,0:20:15.61,0:20:20.17,GT 2,,0,0,0,,{\blur6\bord0\shad0\fnVL DellaRob
 Dialogue: 7,0:20:15.61,0:20:20.17,GT 2,,0,0,0,,{\blur6\bord0\shad0\fnDFPHSMincho-W9\an5\b0\c&HFFA33A&\fscx300\fscy300\fs50\pos(617.26,224)\alpha&H90&}刃
 Dialogue: 7,0:20:15.61,0:20:20.17,GT 2,,0,0,0,,{\blur6\bord0\shad0\fnVL DellaRobbia BT\an5\b0\c&HFFA33A&\fs50\fscx73\fscy73\pos(763.86,224)\alpha&H90&}(yaiba)\N(lưỡi kiếm)
 Dialogue: 12,0:20:13.73,0:20:15.61,Main,,0,0,0,,{\pos(524,640)}"Trái Tim bên dưới Lưỡi Kiếm"
-Dialogue: 12,0:20:15.61,0:20:17.57,Main,,0,0,0,,{\pos(524,640)}Tên hợp với con bé mà đúng chứ?
+Dialogue: 12,0:20:15.61,0:20:17.57,Main,,0,0,0,,{\pos(524,640)}Tên hợp với {\i1}cổ{\i0} mà đúng chứ?
 Dialogue: 12,0:20:17.57,0:20:20.17,Main,,0,0,0,,{\pos(524,640)}Còn họ thì lấy từ họ của ta.
 Dialogue: 12,0:20:20.61,0:20:22.03,Main,,0,0,0,,Được đấy chứ.
 Dialogue: 12,0:20:22.03,0:20:24.62,Main,,0,0,0,,Đã bảo là... đứa bé đó rốt cuộc là sao?
@@ -659,7 +659,7 @@ Dialogue: 12,0:23:35.22,0:23:38.01,Main,,0,0,0,,Nói chung được rồi, ta đ
 Dialogue: 12,0:23:38.01,0:23:41.16,Main,,0,0,0,,Nếu muốn lấy lại cân nặng, ta sẽ {\u1}giúp{\u0}.
 Dialogue: 12,0:23:41.69,0:23:43.56,Main,,600,0,0,,Được Araragi-kun giới thiệu cơ mà.
 Dialogue: 12,0:23:45.73,0:23:47.69,Main,,0,0,0,,Chú sẽ {\u1}cứu{\u0} tôi sao?
-Dialogue: 12,0:25:25.25,0:25:26.06,Main,,0,0,0,,{\i0}Karen đây!
+Dialogue: 12,0:25:25.25,0:25:26.06,Main,,0,0,0,,{\i1}Karen đây!
 Dialogue: 12,0:25:26.06,0:25:26.87,Main,,0,0,0,,{\i1}Tsukihi có!
 Dialogue: 12,0:25:26.87,0:25:28.18,Main,,0,0,0,,{\i1}Người ta nói kiến thợ ấy.
 Dialogue: 12,0:25:28.18,0:25:29.04,Main,,0,0,0,,{\i1}Nói ha~
