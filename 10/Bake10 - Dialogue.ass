@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 240
-Active Line: 255
-Video Position: 31499
+Scroll Position: 160
+Active Line: 183
+Video Position: 21630
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,7 +130,7 @@ Dialogue: 10,0:07:03.02,0:07:06.10,Main,,0,0,0,,Làm gì có, anh có trách kh�
 Dialogue: 10,0:07:06.10,0:07:08.50,Main,,0,0,0,,Chỉ là lo không biết em có ổn không thôi?
 Dialogue: 10,0:07:09.74,0:07:14.88,Main,,0,0,0,,Nó đau như bị siết chặt ấy, \Nnhưng không đến mức không chịu được.
 Dialogue: 10,0:07:15.37,0:07:17.29,Main,,0,0,0,,Chịu đựng được hay không...
-Dialogue: 10,0:07:17.29,0:07:18.91,Main,,0,0,0,,Vấn đề không nằm ở đó.
+Dialogue: 10,0:07:17.29,0:07:18.91,Main,,0,0,0,,thì cũng là quá ngược đời.
 Dialogue: 10,0:07:21.62,0:07:24.14,Main,,0,0,0,,Khi em đau, thì hãy nói đau.
 Dialogue: 10,0:07:24.75,0:07:26.64,Main,,0,0,0,,Đúng rồi đấy.
 Dialogue: 10,0:07:27.47,0:07:33.55,Main,,0,0,0,,Bị trói là một chuyện, chịu được bị trói suốt như thế...\N cũng đỏi hỏi cơ thể phải dẻo dai ha.
@@ -151,16 +151,16 @@ Dialogue: 10,0:09:07.99,0:09:12.00,Main,,0,0,0,,Bởi Nadeko ít chơi bời nà
 Dialogue: 10,0:09:15.99,0:09:21.70,Main,,0,0,0,,Hồi đó, người bạn duy nhất chơi với em \Nsau giờ học là Rara-chan...
 Dialogue: 10,0:09:21.70,0:09:23.75,Main,,0,0,0,,Rara-chan là... Tsukihi-chan ấy à?
 Dialogue: 10,0:09:24.50,0:09:28.22,Main,,0,0,0,,Mặc dù Rara-chan và em không học cùng trường cấp 2,
-Dialogue: 10,0:09:28.22,0:09:33.51,Main,,0,0,0,,nhưng những kỷ niệm vui đùa với Koyomi-onīchan và Rara-chan\N rất quan trọng đối với em.
+Dialogue: 10,0:09:28.22,0:09:33.51,Main,,0,0,0,,nhưng tất cả những kỷ niệm vui đùa với\N Koyomi-onīchan và Rara-chan rất quan trọng đối với em.
 Dialogue: 10,0:09:35.34,0:09:36.48,Main,,0,0,0,,Thế à.
 Dialogue: 10,0:09:37.38,0:09:40.51,Main,,0,0,0,,Hơn nữa, Nadeko còn là con một.
 Dialogue: 10,0:09:40.51,0:09:42.01,Main,,0,0,0,,Việc có anh trai...
 Dialogue: 10,0:09:43.27,0:09:44.89,Main,,0,0,0,,...em ghen tị ấy~
 Dialogue: 10,0:09:57.28,0:09:59.55,Main,,0,0,0,,Kanbaru, em thấy trong người ổn chứ?
 Dialogue: 10,0:09:59.55,0:10:04.22,Main,,0,0,0,,Ừm, lần này có chuẩn bị trước rồi nên ổn hơn em nghĩ.
-Dialogue: 10,0:10:04.22,0:10:06.66,Main,,0,0,0,,Vậy, sẵn sàng nào!
+Dialogue: 10,0:10:04.22,0:10:06.66,Main,,0,0,0,,Vậy, chuẩn bị sẵn sàng nào!
 Dialogue: 10,0:10:08.67,0:10:09.83,Main,,0,0,0,,Kanbaru...
-Dialogue: 10,0:10:10.24,0:10:16.72,Main,,0,0,600,,Đúng là anh đã bảo em cần chuẩn bị quần áo sao cho\N dễ nhìn thấy được xem vết hằn đã biến mất hay chưa,
+Dialogue: 10,0:10:10.24,0:10:16.72,Main,,0,0,600,,Đúng là anh đã bảo em, cần chuẩn bị quần áo sao cho \Ndễ nhìn được xem vết hằn đã biến mất hay chưa,
 Dialogue: 10,0:10:16.72,0:10:20.18,Main,,0,0,0,,nhưng thế quái nào lại là đồ bơi học sinh hả?
 Dialogue: 10,0:10:20.18,0:10:24.47,Main,,0,0,0,,Thì em chiều theo khẩu vị của Araragi-senpai mà.
 Dialogue: 10,0:10:24.47,0:10:25.64,Main,,0,0,0,,Chiều con khỉ!
@@ -202,7 +202,7 @@ Dialogue: 10,0:13:26.84,0:13:31.34,Main,,0,0,0,,Bằng cách dán lá bùa tại
 Dialogue: 10,0:13:32.29,0:13:34.50,Main,,0,0,0,,Lớn chuyện thế cơ à.
 Dialogue: 10,0:13:34.50,0:13:39.85,Main,,0,0,0,,Ờ, lá bùa đó... kiểu như... chút tiền lẻ thừa.
 Dialogue: 10,0:13:53.84,0:13:58.10,Main,,0,0,0,,Nghi lễ hóa giải... chắc phải mất một lúc ha.
-Dialogue: 10,0:13:58.10,0:14:01.37,Main,,0,0,0,,Ờ... thì... chỉ biết chờ đợi thôi mà.
+Dialogue: 10,0:13:58.10,0:14:01.37,Main,,0,0,0,,Ờ... thì... chỉ biết chờ thôi chứ sao giờ.
 Dialogue: 10,0:14:01.83,0:14:05.69,Main,,0,0,0,,Này, Araragi-senpai, \NSengoku-chan mệt lắm rồi ấy.
 Dialogue: 10,0:14:05.69,0:14:09.90,Main,,0,0,0,,Rắn Xén Dây... không một phát hạ được luôn sao?
 Dialogue: 10,0:14:09.90,0:14:15.62,Main,,0,0,0,,Oshino cũng có nói...\N hình như anh có thể tóm lấy Rắn Xén Dây rồi kéo ra...
@@ -216,7 +216,7 @@ Dialogue: 10,0:14:39.88,0:14:42.11,Main,,0,0,0,,"Nguyền rủa người khác c
 Dialogue: 10,0:14:42.11,0:14:48.61,Main,,0,0,0,,Araragi-kun, tuy nhắc lại cơ mà... \Nta muốn cậu ghi nhớ những lời này, suy nghĩ thật cẩn thận.
 Dialogue: 10,0:14:49.61,0:14:54.63,Main,,0,0,0,,Ta không biết Araragi-kun nghĩ gì nhưng...\N rồi sẽ có ngày ta rời khỏi vùng này.
 Dialogue: 10,0:14:56.12,0:15:01.12,Main,,0,0,0,,Tới lúc đó, ta sẽ không còn ở đây\Nđể cậu nhờ vả hay hỗ trợ nữa đâu.
-Dialogue: 10,0:15:02.13,0:15:06.46,Main,,0,0,0,,Quái dị ấy... \Nkhông phải là thứ để cậu đi tới đâu lục tới đó.
+Dialogue: 10,0:15:02.13,0:15:06.46,Main,,0,0,0,,Quái dị ấy... \Nkhông phải thứ để cậu lục lọi khắp nơi đâu.
 Dialogue: 10,0:15:06.46,0:15:11.26,Main,,0,0,0,,Nhưng Araragi-kun lại có cái xu hướng cố gắng xen vô\N ngay cả khi có thể để nó yên.
 Dialogue: 10,0:15:11.26,0:15:15.39,Main,,0,0,0,,Nhưng mà... lỡ tôi phát hiện ra, thì biết làm gì giờ?
 Dialogue: 10,0:15:15.39,0:15:17.03,Main,,0,0,0,,Đâu thể nhắm mắt làm ngơ được.

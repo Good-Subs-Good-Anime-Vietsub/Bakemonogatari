@@ -15,9 +15,9 @@ Audio File: ../raws/[OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mk
 Video File: ../raws/[OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 3493
-Active Line: 3501
+Video Zoom Percent: 0.375000
+Scroll Position: 3074
+Active Line: 3083
 Video Position: 10058
 
 [V4+ Styles]
@@ -499,29 +499,29 @@ Dialogue: 0,0:03:21.13,0:03:21.18,Signs,,0,0,0,,{=20}{\alpha&H00&\fscx100\fscy10
 Dialogue: 0,0:03:21.18,0:03:21.22,Signs,,0,0,0,,{=20}{\alpha&H00&\fscx100\fscy100\an5\fnGentium\b1\blur1\fs55\1c&HABB3BB&\pos(449.56,801.72)}Mèo, Cua, Ốc Sên và Khỉ\N chẳng thể đem ra so sánh với Rắn.
 Dialogue: 0,0:03:21.22,0:03:21.26,Signs,,0,0,0,,{=20}{\alpha&H00&\fscx100\fscy100\an5\fnGentium\b1\blur1\fs55\1c&HABB3BB&\pos(450.13,802.39)}Mèo, Cua, Ốc Sên và Khỉ\N chẳng thể đem ra so sánh với Rắn.
 Dialogue: 0,0:03:21.26,0:03:21.30,Signs,,0,0,0,,{=20}{\alpha&H00&\fscx100\fscy100\an5\fnGentium\b1\blur1\fs55\1c&HABB3BB&\pos(449.48,801.68)}Mèo, Cua, Ốc Sên và Khỉ\N chẳng thể đem ra so sánh với Rắn.
-Dialogue: 0,0:03:21.30,0:03:21.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.5,268.94)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.34,0:03:21.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.57,269.44)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.38,0:03:21.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.3,268.96)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.43,0:03:21.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.54,269.42)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.47,0:03:21.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.29,268.96)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.51,0:03:21.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(651.96,269.36)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.55,0:03:21.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.54,269)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.59,0:03:21.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.3,269.43)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.63,0:03:21.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.02,268.85)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.68,0:03:21.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.1,269.41)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.72,0:03:21.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.3,269)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 0,0:03:21.76,0:03:21.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.58,269.4)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác đó hoàn toàn đúng,\N \h Araragi-kun à."
-Dialogue: 1,0:03:21.80,0:03:21.84,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.62,826.39)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:21.84,0:03:21.88,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.36,826.9)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:21.88,0:03:21.93,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.85,826.36)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:21.93,0:03:21.97,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.62,826.85)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:21.97,0:03:22.01,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.39,826.36)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:22.01,0:03:22.05,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.62,826.95)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:22.05,0:03:22.09,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.87,826.41)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:22.09,0:03:22.13,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.61,826.88)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:22.13,0:03:22.18,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.9,826.42)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:22.18,0:03:22.22,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.89,826.87)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
-Dialogue: 1,0:03:22.22,0:03:22.26,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.82,826.35)}"Từ xa xưa \Nngười ta đã quan niệm \NRắn là như thế rồi."
+Dialogue: 0,0:03:21.30,0:03:21.34,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.5,268.94)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.34,0:03:21.38,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.57,269.44)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.38,0:03:21.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.3,268.96)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.43,0:03:21.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.54,269.42)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.47,0:03:21.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.29,268.96)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.51,0:03:21.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(651.96,269.36)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.55,0:03:21.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.54,269)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.59,0:03:21.63,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.3,269.43)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.63,0:03:21.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.02,268.85)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.68,0:03:21.72,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.1,269.41)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.72,0:03:21.76,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.3,269)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 0,0:03:21.76,0:03:21.80,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\fsp3\an7\blur1.2\fs65\pos(652.58,269.4)\c&HFEFFFD&}"Chà—\N \h Cái cảm giác thế là chuẩn rồi đấy,\N \h Araragi-kun à."
+Dialogue: 1,0:03:21.80,0:03:21.84,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.62,826.39)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:21.84,0:03:21.88,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.36,826.9)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:21.88,0:03:21.93,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.85,826.36)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:21.93,0:03:21.97,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.62,826.85)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:21.97,0:03:22.01,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.39,826.36)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:22.01,0:03:22.05,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.62,826.95)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:22.05,0:03:22.09,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.87,826.41)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:22.09,0:03:22.13,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.61,826.88)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:22.13,0:03:22.18,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.9,826.42)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:22.18,0:03:22.22,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.89,826.87)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
+Dialogue: 1,0:03:22.22,0:03:22.26,Signs,,0,0,0,,{=24}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs59\1c&H817BF3&\pos(1404.82,826.35)}"Từ xa xưa \Nngười ta đã quan niệm \Nvề Rắn như thế rồi."
 Dialogue: 0,0:03:22.26,0:03:22.30,Signs,,0,0,0,,{=36}{\fscx100\fscy100\fnGentium\an4\blur2\fs55\pos(159.61,97.51)\fsp2\c&HFFFFFF&\alpha&H80&}"Nhưng nói đi cũng phải nói lại, vẫn có nơi Rắn là linh vật,
 Dialogue: 0,0:03:22.30,0:03:22.34,Signs,,0,0,0,,{=36}{\fscx100\fscy100\fnGentium\an4\blur2\fs55\pos(159.95,97.93)\fsp2\c&HFFFFFF&\alpha&H80&}"Nhưng nói đi cũng phải nói lại, vẫn có nơi Rắn là linh vật,
 Dialogue: 0,0:03:22.34,0:03:22.38,Signs,,0,0,0,,{=36}{\fscx100\fscy100\fnGentium\an4\blur2\fs55\pos(159.66,97.52)\fsp2\c&HFFFFFF&\alpha&H80&}"Nhưng nói đi cũng phải nói lại, vẫn có nơi Rắn là linh vật,
@@ -622,14 +622,14 @@ Dialogue: 1,0:03:22.51,0:03:22.55,Signs,,0,0,0,,{=43}{\alpha&H00&\fscx100\fscy10
 Dialogue: 1,0:03:22.55,0:03:22.59,Signs,,0,0,0,,{=43}{\alpha&H00&\fscx100\fscy100\fnGentium\an4\blur1\fs55\pos(176.2,834.99)\fsp2\c&HFFFFFF&}Đó là Rắn.
 Dialogue: 1,0:03:22.59,0:03:22.64,Signs,,0,0,0,,{=43}{\alpha&H00&\fscx100\fscy100\fnGentium\an4\blur1\fs55\pos(175.66,834.44)\fsp2\c&HFFFFFF&}Đó là Rắn.
 Dialogue: 1,0:03:22.64,0:03:22.68,Signs,,0,0,0,,{=43}{\alpha&H00&\fscx100\fscy100\fnGentium\an4\blur1\fs55\pos(176.2,834.98)\fsp2\c&HFFFFFF&}Đó là Rắn.
-Dialogue: 0,0:03:22.68,0:03:22.72,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.76,918.79)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
-Dialogue: 0,0:03:22.72,0:03:22.76,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.5,919.22)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
-Dialogue: 0,0:03:22.76,0:03:22.80,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.8,918.68)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
-Dialogue: 0,0:03:22.80,0:03:22.84,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.5,919.22)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
-Dialogue: 0,0:03:22.84,0:03:22.89,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.83,918.66)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
-Dialogue: 0,0:03:22.89,0:03:22.93,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.51,919.19)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
-Dialogue: 0,0:03:22.93,0:03:22.97,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.79,918.64)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
-Dialogue: 0,0:03:22.97,0:03:23.01,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.26,919.22)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn ghê sợ."
+Dialogue: 0,0:03:22.68,0:03:22.72,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.76,918.79)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
+Dialogue: 0,0:03:22.72,0:03:22.76,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.5,919.22)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
+Dialogue: 0,0:03:22.76,0:03:22.80,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.8,918.68)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
+Dialogue: 0,0:03:22.80,0:03:22.84,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.5,919.22)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
+Dialogue: 0,0:03:22.84,0:03:22.89,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.83,918.66)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
+Dialogue: 0,0:03:22.89,0:03:22.93,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.51,919.19)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
+Dialogue: 0,0:03:22.93,0:03:22.97,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.79,918.64)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
+Dialogue: 0,0:03:22.97,0:03:23.01,Signs,,0,0,0,,{=46}{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs60\1c&H8480F5&\pos(1011.26,919.22)}"Dù sao, nói thế nào thì\N tôi vẫn thấy Rắn đáng sợ."
 Dialogue: 0,0:03:23.01,0:03:23.05,Signs,,0,0,0,,{=48}{\fscx100\fscy100\fnGentium\an5\blur4\fs57\pos(960,448)\c&HFBFBFF&\alpha&HB0&}"Tôi chịu chả hiểu sao lại có người đi thờ cúng Rắn."
 Dialogue: 0,0:03:23.05,0:03:23.09,Signs,,0,0,0,,{=48}{\fscx100\fscy100\fnGentium\an5\blur4\fs57\pos(960.01,448.61)\c&HFBFBFF&\alpha&HB0&}"Tôi chịu chả hiểu sao lại có người đi thờ cúng Rắn."
 Dialogue: 0,0:03:23.09,0:03:23.14,Signs,,0,0,0,,{=48}{\fscx100\fscy100\fnGentium\an5\blur4\fs57\pos(959.52,447.94)\c&HFBFBFF&\alpha&HB0&}"Tôi chịu chả hiểu sao lại có người đi thờ cúng Rắn."
@@ -646,14 +646,14 @@ Dialogue: 1,0:03:23.18,0:03:23.22,Signs,,0,0,0,,{=47}{\alpha&H00&\fscx100\fscy10
 Dialogue: 1,0:03:23.22,0:03:23.26,Signs,,0,0,0,,{=47}{\alpha&H00&\fscx100\fscy100\fnGentium\an5\blur0.9\fs57\pos(959.48,448.58)\c&HFBFBFF&}"Tôi chịu chả hiểu sao lại có người đi thờ cúng Rắn."
 Dialogue: 1,0:03:23.26,0:03:23.30,Signs,,0,0,0,,{=47}{\alpha&H00&\fscx100\fscy100\fnGentium\an5\blur0.9\fs57\pos(959.49,448.1)\c&HFBFBFF&}"Tôi chịu chả hiểu sao lại có người đi thờ cúng Rắn."
 Dialogue: 1,0:03:23.30,0:03:23.34,Signs,,0,0,0,,{=47}{\alpha&H00&\fscx100\fscy100\fnGentium\an5\blur0.9\fs57\pos(960.03,448.61)\c&HFBFBFF&}"Tôi chịu chả hiểu sao lại có người đi thờ cúng Rắn."
-Dialogue: 0,0:03:23.34,0:03:23.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.79,101.78)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
-Dialogue: 0,0:03:23.39,0:03:23.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(908.02,102.27)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
-Dialogue: 0,0:03:23.43,0:03:23.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.79,101.75)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
-Dialogue: 0,0:03:23.47,0:03:23.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.79,102.43)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
-Dialogue: 0,0:03:23.51,0:03:23.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.45,101.79)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
-Dialogue: 0,0:03:23.55,0:03:23.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.62,102.44)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
-Dialogue: 0,0:03:23.59,0:03:23.64,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.81,101.89)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
-Dialogue: 0,0:03:23.64,0:03:23.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.55,102.43)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy ghê sợ."
+Dialogue: 0,0:03:23.34,0:03:23.39,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.79,101.78)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
+Dialogue: 0,0:03:23.39,0:03:23.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(908.02,102.27)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
+Dialogue: 0,0:03:23.43,0:03:23.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.79,101.75)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
+Dialogue: 0,0:03:23.47,0:03:23.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.79,102.43)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
+Dialogue: 0,0:03:23.51,0:03:23.55,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.45,101.79)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
+Dialogue: 0,0:03:23.55,0:03:23.59,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.62,102.44)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
+Dialogue: 0,0:03:23.59,0:03:23.64,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.81,101.89)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
+Dialogue: 0,0:03:23.64,0:03:23.68,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\fnGentium\b1\an5\blur1\fs55\c&H7C76F9&\pos(907.55,102.43)\fsp1.5}"Nhắc đến Rắn, \Nchắc chỉ có Tsuchinoko là tôi không thấy đáng sợ."
 Dialogue: 0,0:03:23.68,0:03:23.72,Signs,,0,0,0,,{\an4\fscx100\fscy100\fnGentium\b1\blur3\fsp2\fs60\c&HFEFCF7&\pos(241,284.33)\alpha&H90&}"Nói chung, riêng tôi, tôi sợ rắn,
 Dialogue: 0,0:03:23.72,0:03:23.76,Signs,,0,0,0,,{\an4\fscx100\fscy100\fnGentium\b1\blur3\fsp2\fs60\c&HFEFCF7&\pos(240.71,284.84)\alpha&H90&}"Nói chung, riêng tôi, tôi sợ rắn,
 Dialogue: 0,0:03:23.76,0:03:23.80,Signs,,0,0,0,,{\an4\fscx100\fscy100\fnGentium\b1\blur3\fsp2\fs60\c&HFEFCF7&\pos(241.23,284.35)\alpha&H90&}"Nói chung, riêng tôi, tôi sợ rắn,
@@ -718,11 +718,11 @@ Dialogue: 0,0:03:24.51,0:03:24.55,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\bl
 Dialogue: 0,0:03:24.55,0:03:24.60,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(82.45,722.37)\fscx95\fscy95}"Kiểu như xem cá bơi trên cạn vậy.
 Dialogue: 0,0:03:24.60,0:03:24.64,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(82.58,722.86)\fscx95\fscy95}"Kiểu như xem cá bơi trên cạn vậy.
 Dialogue: 0,0:03:24.64,0:03:24.68,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(82.42,722.3)\fscx95\fscy95}"Kiểu như xem cá bơi trên cạn vậy.
-Dialogue: 0,0:03:24.47,0:03:24.51,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(94.74,769.27)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người coi chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
-Dialogue: 0,0:03:24.51,0:03:24.55,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.18,769.85)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người coi chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
-Dialogue: 0,0:03:24.55,0:03:24.60,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.19,769.37)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người coi chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
-Dialogue: 0,0:03:24.60,0:03:24.64,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.31,769.85)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người coi chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
-Dialogue: 0,0:03:24.64,0:03:24.68,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.16,769.3)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người coi chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
+Dialogue: 0,0:03:24.47,0:03:24.51,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(94.74,769.27)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người thấy chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
+Dialogue: 0,0:03:24.51,0:03:24.55,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.18,769.85)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người thấy chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
+Dialogue: 0,0:03:24.55,0:03:24.60,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.19,769.37)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người thấy chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
+Dialogue: 0,0:03:24.60,0:03:24.64,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.31,769.85)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người thấy chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
+Dialogue: 0,0:03:24.64,0:03:24.68,Signs,,0,0,0,,{\alpha&H00&\fnGentium\b1\an7\blur1\fs47\c&HE5D079&\pos(95.16,769.3)\fscx95\fscy95}Chúng chắc chắn là khác thường, \N nên việc mọi người thấy chúng thật quái đản\N xét cho cùng cũng là lẽ dĩ nhiên.
 Dialogue: 0,0:03:24.68,0:03:24.72,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(960,240)}Xoay Chuyển
 Dialogue: 0,0:03:24.72,0:03:24.76,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(960,240.5)}Xoay Chuyển
 Dialogue: 0,0:03:24.76,0:03:24.80,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(960,240)}Xoay Chuyển
@@ -796,44 +796,44 @@ Dialogue: 1,0:03:26.31,0:03:26.35,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGent
 Dialogue: 1,0:03:26.35,0:03:26.39,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.65,115.65)\fscx86\fscy86}"Và hên hết, Rắn có sức sống mãnh liệt.
 Dialogue: 1,0:03:26.39,0:03:26.43,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.42,116.37)\fscx86\fscy86}"Và hên hết, Rắn có sức sống mãnh liệt.
 Dialogue: 1,0:03:26.43,0:03:26.47,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.66,116.23)\fscx86\fscy86}"Và hên hết, Rắn có sức sống mãnh liệt.
-Dialogue: 0,0:03:25.68,0:03:25.72,Signs,,0,0,0,,{\an5\blur4\fnGentium\fsp2\fs65\pos(960,183.34)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:25.72,0:03:25.76,Signs,,0,0,0,,{\an5\blur4\fnGentium\fsp2\fs65\pos(959.91,184.11)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:25.76,0:03:25.80,Signs,,0,0,0,,{\an5\blur4\fnGentium\fsp2\fs65\pos(959.87,183.88)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:25.80,0:03:25.85,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(959.68,184.6)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:25.85,0:03:25.89,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(960.01,184.29)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:25.89,0:03:25.93,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(959.98,184.97)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:25.93,0:03:25.97,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(959.44,184.8)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:25.97,0:03:26.01,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.5,185.49)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.01,0:03:26.06,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.45,185.25)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.06,0:03:26.10,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.46,185.82)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.10,0:03:26.14,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.45,185.63)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.14,0:03:26.18,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.66,186.34)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.18,0:03:26.22,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.45,186.06)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.22,0:03:26.26,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.67,186.78)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.26,0:03:26.31,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.91,186.51)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.31,0:03:26.35,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.34,187.16)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.35,0:03:26.39,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.65,186.94)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.39,0:03:26.43,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.42,187.62)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 0,0:03:26.43,0:03:26.47,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.66,187.43)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.68,0:03:25.72,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(960,183.34)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.72,0:03:25.76,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.91,184.11)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.76,0:03:25.80,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.87,183.88)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.80,0:03:25.85,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.68,184.6)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.85,0:03:25.89,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(960.01,184.29)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.89,0:03:25.93,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.98,184.97)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.93,0:03:25.97,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.44,184.8)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:25.97,0:03:26.01,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.5,185.49)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.01,0:03:26.06,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.45,185.25)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.06,0:03:26.10,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.46,185.82)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.10,0:03:26.14,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.45,185.63)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.14,0:03:26.18,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.66,186.34)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.18,0:03:26.22,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.45,186.06)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.22,0:03:26.26,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.67,186.78)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.26,0:03:26.31,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.91,186.51)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.31,0:03:26.35,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.34,187.16)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.35,0:03:26.39,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.65,186.94)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.39,0:03:26.43,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.42,187.62)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
-Dialogue: 1,0:03:26.43,0:03:26.47,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.66,187.43)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà chết được luôn."
+Dialogue: 0,0:03:25.68,0:03:25.72,Signs,,0,0,0,,{\an5\blur4\fnGentium\fsp2\fs65\pos(960,183.34)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:25.72,0:03:25.76,Signs,,0,0,0,,{\an5\blur4\fnGentium\fsp2\fs65\pos(959.91,184.11)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:25.76,0:03:25.80,Signs,,0,0,0,,{\an5\blur4\fnGentium\fsp2\fs65\pos(959.87,183.88)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:25.80,0:03:25.85,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(959.68,184.6)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:25.85,0:03:25.89,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(960.01,184.29)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:25.89,0:03:25.93,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(959.98,184.97)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:25.93,0:03:25.97,Signs,,0,0,0,,{\an5\blur3.99\fnGentium\fsp2\fs65\pos(959.44,184.8)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:25.97,0:03:26.01,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.5,185.49)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.01,0:03:26.06,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.45,185.25)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.06,0:03:26.10,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.46,185.82)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.10,0:03:26.14,Signs,,0,0,0,,{\an5\blur3.98\fnGentium\fsp2\fs65\pos(959.45,185.63)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.14,0:03:26.18,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.66,186.34)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.18,0:03:26.22,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.45,186.06)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.22,0:03:26.26,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.67,186.78)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.26,0:03:26.31,Signs,,0,0,0,,{\an5\blur3.97\fnGentium\fsp2\fs65\pos(959.91,186.51)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.31,0:03:26.35,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.34,187.16)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.35,0:03:26.39,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.65,186.94)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.39,0:03:26.43,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.42,187.62)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 0,0:03:26.43,0:03:26.47,Signs,,0,0,0,,{\an5\blur3.96\fnGentium\fsp2\fs65\pos(959.66,187.43)\alpha&HB0&\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.68,0:03:25.72,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(960,183.34)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.72,0:03:25.76,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.91,184.11)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.76,0:03:25.80,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.87,183.88)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.80,0:03:25.85,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.68,184.6)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.85,0:03:25.89,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(960.01,184.29)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.89,0:03:25.93,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.98,184.97)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.93,0:03:25.97,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.44,184.8)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:25.97,0:03:26.01,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.5,185.49)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.01,0:03:26.06,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.45,185.25)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.06,0:03:26.10,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.9\fnGentium\fsp2\fs65\pos(959.46,185.82)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.10,0:03:26.14,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.45,185.63)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.14,0:03:26.18,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.66,186.34)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.18,0:03:26.22,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.45,186.06)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.22,0:03:26.26,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.67,186.78)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.26,0:03:26.31,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.91,186.51)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.31,0:03:26.35,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.34,187.16)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.35,0:03:26.39,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.65,186.94)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.39,0:03:26.43,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.42,187.62)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
+Dialogue: 1,0:03:26.43,0:03:26.47,Signs,,0,0,0,,{\alpha&H00&\an5\blur0.89\fnGentium\fsp2\fs65\pos(959.66,187.43)\fscx86\fscy86}Giết chúng không hề đơn giản, không phải một cái mà giết được luôn."
 Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\blur0.9\an4\c&HFFFFFF&\fs40\fnVL DellaRobbia BT\pos(264.001,903.429)}Phông chữ dùng cho minh hoạ: \N\NGentium (Basic) và VL DellaRobbia BT
 Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\blur1\fsp3\c&HFFFFFF&\fs50\fnVL DellaRobbia BT\pos(805.667,304.143)}Rắn Nadeko,\NPhần 2
 Dialogue: 0,0:03:26.57,0:03:30.99,Signs,,0,0,0,,{\c&HFFFFFF&\blur0.9\fsp5\fs50\fnVL DellaRobbia BT\pos(1380.166,303.263)}Tập \NMười
