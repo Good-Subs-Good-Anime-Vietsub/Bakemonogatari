@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 09 (BD 1080p Hi10 Opus) [578467C2].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 321
-Active Line: 336
-Video Position: 36954
+Scroll Position: 157
+Active Line: 158
+Video Position: 19674
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,7 +117,7 @@ Dialogue: 5,0:08:32.03,0:08:33.28,Main,,0,0,0,,Kanbaru?
 Dialogue: 5,0:08:33.60,0:08:34.53,Main,,0,0,0,,Kanbaru!
 Dialogue: 5,0:08:48.57,0:08:49.22,Main,,0,0,0,,Kanbaru!
 Dialogue: 5,0:08:51.71,0:08:54.42,Main,,0,0,0,,Ui~ Ra là Araragi-senpai à.
-Dialogue: 5,0:08:54.42,0:08:57.41,Main,,0,0,0,,Nài nài~ Cái phản ứng đó là sao?!
+Dialogue: 5,0:08:54.42,0:08:57.41,Main,,0,0,0,,Nài nài~ Cái {\i1}kiểu chào hỏi{\i0} đó là sao?!
 Dialogue: 5,0:08:57.41,0:08:59.14,Main,,0,0,0,,Ôi, em xin lỗi!
 Dialogue: 5,0:08:59.47,0:09:02.14,Main,,0,0,0,,Em hơi kích động xíu.
 Dialogue: 5,0:09:02.50,0:09:05.01,Main,,0,0,0,,Trông em nhợt nhạt lắm, có sao không thế?
@@ -191,7 +191,7 @@ Dialogue: 5,0:13:28.94,0:13:32.58,Main,,0,660,0,,Liệu có ổn không\N khi qu
 Dialogue: 5,0:13:32.58,0:13:35.16,Main,,0,660,0,,Thân tàng tàng thì cũng tốt...
 Dialogue: 5,0:13:35.16,0:13:37.17,Main,,0,0,0,,nhưng khoác tay nhau thì to chuyện rồi còn.
 Dialogue: 5,0:13:37.17,0:13:40.55,Main,,0,0,0,,Sao mà khác được!\N Thân thiện với nhau cả mà!
-Dialogue: 5,0:13:40.55,0:13:43.38,Main,,0,0,0,,Cậu lôi cái đó ra làm cái cớ sao?
+Dialogue: 5,0:13:40.55,0:13:43.38,Main,,0,0,0,,Cậu lôi đó ra làm cái cớ sao?
 Dialogue: 5,0:13:43.38,0:13:44.38,Main,,0,0,0,,À thì...
 Dialogue: 5,0:13:45.38,0:13:47.05,Main,,0,0,0,,Cơ mà ấy...
 Dialogue: 5,0:13:47.05,0:13:49.89,Main,,0,0,0,,Tớ... là được Senjōgahara bảo thế.
@@ -302,11 +302,11 @@ Dialogue: 5,0:20:25.14,0:20:30.18,Main,,0,0,0,,Vụ đó chỉ xảy ra khi đá
 Dialogue: 5,0:20:30.18,0:20:32.12,Main,,0,0,0,,Đủ rồi đấy! \NCòn không mau ngồi im một góc!
 Dialogue: 5,0:20:32.12,0:20:37.90,Main,,0,0,0,,Cơ mà ấy! Việc tìm ra khẩu vị của Araragi-senpai với em\Nkhông hề phí công vô ích.
 Dialogue: 5,0:20:37.90,0:20:40.76,Main,,0,0,0,,{\an8}Đối với anh mày thì vô dụng! \NThậm chí còn có hại!
-Dialogue: 5,0:20:42.28,0:20:44.63,Main,,0,0,0,,Phải! Những cuốn sách có hại...
-Dialogue: 5,0:20:47.16,0:20:49.23,Main,,0,0,0,,Sách có hại ở đây là em chứ ai!
+Dialogue: 5,0:20:42.28,0:20:44.63,Main,,0,0,0,,Phải! Chính là những cuốn sách có hại...
+Dialogue: 5,0:20:47.16,0:20:49.23,Main,,0,0,0,,Sách có hại sống sờ sờ ở đây là em chứ ai!
 Dialogue: 5,0:20:49.23,0:20:51.59,Main,,0,800,0,,Một là ngồi yên đó!\N Hai là nhảy ra ngoài cửa sổ!
 Dialogue: 5,0:20:51.59,0:20:53.14,Main,,0,800,0,,Tự quyết đi! Kanbaru!
-Dialogue: 5,0:20:54.60,0:20:59.23,Main,,0,0,0,,Khẩu vị này nọ của Araragi-senpai... \Ntừ cái hồi em theo dõi anh ấy...
+Dialogue: 5,0:20:54.60,0:20:59.23,Main,,0,0,0,,Khẩu vị này nọ của Araragi-senpai,\Ntừ cái hồi em theo dõi anh ấy...
 Dialogue: 5,0:20:59.23,0:21:00.75,Main,,0,0,0,,...đã tra ra hết rồi.
 Dialogue: 5,0:21:00.75,0:21:04.28,Main,,0,0,0,,Gần đây Araragi-senpai đã mua loại sách đồi trụy nào...
 Dialogue: 5,0:21:04.28,0:21:06.30,Main,,0,0,0,,...em nắm được hết.

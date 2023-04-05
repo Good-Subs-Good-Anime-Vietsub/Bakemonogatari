@@ -15,9 +15,9 @@ Audio File: ../raws/[OZR] Bakemonogatari - 09 (BD 1080p Hi10 Opus) [578467C2].mk
 Video File: ../raws/[OZR] Bakemonogatari - 09 (BD 1080p Hi10 Opus) [578467C2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 4463
-Video Position: 34197
+Video Zoom Percent: 1.000000
+Active Line: 4
+Video Position: 1457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,116 +32,118 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:23:50.36,0:23:53.37,Signs,,0,0,0,***,{\an4\blur10\c&H0F1412&\fn123Marker\fs60\fax0.47\frz18.91\pos(1031.4,564.4)\alpha&HD0&}K{*\fax0.475}o{*\fax0.481}y{*\fax0.486}o{*\fax0.491}m{*\fax0.497}i{*\fax0.502}-{*\fax0.507}o{*\fax0.513}n{*\fax0.518}i{*\fax0.523}i{*\fax0.529}c{*\fax0.534}h{*\fax0.539}a{*\fax0.545}n{\fax0.55}
-Dialogue: 6,0:23:50.36,0:23:53.37,Signs,,0,0,0,***,{\an4\blur1.3\c&H0F1412&\fn123Marker\fs60\fax0.47\frz18.91\pos(1031.4,564.4)}K{*\fax0.475}o{*\fax0.481}y{*\fax0.486}o{*\fax0.491}m{*\fax0.497}i{*\fax0.502}-{*\fax0.507}o{*\fax0.513}n{*\fax0.518}i{*\fax0.523}i{*\fax0.529}c{*\fax0.534}h{*\fax0.539}a{*\fax0.545}n{\fax0.55}
-Dialogue: 0,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H030304&\fsp3\blur4\fs59\pos(1047.04,288.15)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H090A0B&\fsp3\blur4\fs59\pos(1046.02,290.67)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H0E1012&\fsp3\blur4\fs59\pos(1044.72,293.07)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H14161A&\fsp3\blur4\fs59\pos(1043.32,294.67)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H1A1D21&\fsp3\blur4\fs59\pos(1041.96,295.53)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H202328&\fsp3\blur4\fs59\pos(1040.65,295.87)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H262A30&\fsp3\blur4\fs59\pos(1039.5,295.62)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H2C3037&\fsp3\blur4\fs59\pos(1038.58,294.81)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H32373F&\fsp3\blur4\fs59\pos(1037.95,293.56)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H32383F&\fsp3\blur4\fs59\pos(1037.67,291.95)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H343A41&\fsp3\blur4\fs59\pos(1037.87,290.12)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H363D44&\fsp3\blur4\fs59\pos(1038.47,288.29)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H3C434A&\fsp3\blur4\fs59\pos(1039.6,286.57)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H434B52&\fsp3\blur4\fs59\pos(1041.37,285.01)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H4B545C&\fsp3\blur4\fs59\pos(1043.78,283.92)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H555F67&\fsp3\blur4\fs59\pos(1046.99,283.53)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H606B74&\fsp3\blur4\fs59\pos(1050.86,283.83)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 1,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H030304&\fsp3\blur1.2\fs59\pos(1047.04,288.15)}Koyomi-onī-chan
-Dialogue: 1,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H090A0B&\fsp3\blur1.2\fs59\pos(1046.02,290.67)}Koyomi-onī-chan
-Dialogue: 1,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H0E1012&\fsp3\blur1.2\fs59\pos(1044.72,293.07)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H14161A&\fsp3\blur1.2\fs59\pos(1043.32,294.67)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H1A1D21&\fsp3\blur1.2\fs59\pos(1041.96,295.53)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H202328&\fsp3\blur1.2\fs59\pos(1040.65,295.87)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H262A30&\fsp3\blur1.2\fs59\pos(1039.5,295.62)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H2C3037&\fsp3\blur1.2\fs59\pos(1038.58,294.81)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H32373F&\fsp3\blur1.2\fs59\pos(1037.95,293.56)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H32383F&\fsp3\blur1.2\fs59\pos(1037.67,291.95)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H343A41&\fsp3\blur1.2\fs59\pos(1037.87,290.12)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H363D44&\fsp3\blur1.2\fs59\pos(1038.47,288.29)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H3C434A&\fsp3\blur1.2\fs59\pos(1039.6,286.57)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H434B52&\fsp3\blur1.2\fs59\pos(1041.37,285.01)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H4B545C&\fsp3\blur1.2\fs59\pos(1043.78,283.92)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H555F67&\fsp3\blur1.2\fs59\pos(1046.99,283.53)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H606B74&\fsp3\blur1.2\fs59\pos(1050.86,283.83)}Koyomi-onī-chan
-Dialogue: 2,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HF9&\blur1.2\fs59\pos(993.64,310.32)}Koyomi-onī-chan
-Dialogue: 2,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HF0&\blur1.2\fs59\pos(992.8,311.67)}Koyomi-onī-chan
-Dialogue: 2,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HE7&\blur1.2\fs59\pos(991.86,312.94)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HDE&\blur1.2\fs59\pos(990.88,314.02)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HD4&\blur1.2\fs59\pos(989.82,315.12)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HCB&\blur1.2\fs59\pos(988.8,316.06)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HC2&\blur1.2\fs59\pos(987.74,317.07)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HB9&\blur1.2\fs59\pos(986.67,318.06)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HB0&\blur1.2\fs59\pos(985.55,318.96)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HAE&\blur1.2\fs59\pos(984.46,319.84)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HAC&\blur1.2\fs59\pos(983.34,320.7)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA9&\blur1.2\fs59\pos(982.24,321.48)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA8&\blur1.2\fs59\pos(981.15,322.2)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA6&\blur1.2\fs59\pos(980.04,323.02)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA3&\blur1.2\fs59\pos(978.99,323.63)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA1&\blur1.2\fs59\pos(977.84,324.34)}Koyomi-onī-chan
-Dialogue: 2,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA0&\blur1.2\fs59\pos(976.76,324.86)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H12161B&\fsp3\blur4\fs59\pos(932.64,343.92)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur4\fs59\pos(931.91,343.55)\alpha&HB0&\c&H161C22&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur4\fs59\pos(931.55,343.42)\alpha&HB0&\c&H1F262C&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur4\fs59\pos(930.49,342.84)\alpha&HB0&\c&H283036&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H323A41&\fsp3\blur4\fs59\pos(929.58,342.34)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H3A424A&\fsp3\blur4\fs59\pos(928.59,341.69)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H414A52&\fsp3\blur4\fs59\pos(927.65,341.11)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H49525B&\fsp3\blur4\fs59\pos(926.71,340.41)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H515A63&\fsp3\blur4\fs59\pos(925.78,339.84)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H58636C&\fsp3\blur4\fs59\pos(924.8,339.16)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 0,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H606B74&\fsp3\blur4\fs59\pos(923.86,338.68)\alpha&HB0&}Koyomi-onī-chan
-Dialogue: 1,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H0C1116&\fsp3\blur1.1\fs59\pos(932.64,343.92)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H12161B&\fsp3\blur1.2\fs59\pos(932.64,343.92)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur1.2\fs59\pos(931.91,343.55)\c&H161C22&}Koyomi-onī-chan
-Dialogue: 1,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur1.2\fs59\pos(931.55,343.42)\c&H1C2229&}Koyomi-onī-chan
-Dialogue: 1,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur1.2\fs59\pos(930.49,342.84)\c&H232B31&}Koyomi-onī-chan
-Dialogue: 1,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H2D343C&\fsp3\blur1.2\fs59\pos(929.58,342.34)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H363E46&\fsp3\blur1.2\fs59\pos(928.59,341.69)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H414A52&\fsp3\blur1.2\fs59\pos(927.65,341.11)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H49525B&\fsp3\blur1.2\fs59\pos(926.71,340.41)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H515A63&\fsp3\blur1.2\fs59\pos(925.78,339.84)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H58636C&\fsp3\blur1.2\fs59\pos(924.8,339.16)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H606B74&\fsp3\blur1.2\fs59\pos(923.86,338.68)}Koyomi-onī-chan
-Dialogue: 0,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.95\fscy99.95\c&H030303&\fsp3\blur4\fs59\alpha&HA0&\pos(1029.36,365.02)}Koyomi-onī-chan
-Dialogue: 0,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H08090A&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.97,365.76)}Koyomi-onī-chan
-Dialogue: 0,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H0D0F11&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.73,366.51)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.98\fscy99.98\c&H131618&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.51,367.47)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H191C1F&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.31,368.38)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H1E2226&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.15,369.43)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H23282D&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.06,370.54)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H292F34&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.05,371.66)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H2F353B&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.02,372.66)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H343B42&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.11,373.83)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H3A4249&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.22,375.05)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H3F474E&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.38,376.27)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H4D545B&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.63,377.55)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H62696F&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.97,378.84)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H7E848A&\fsp3\blur4\fs59\alpha&HA0&\pos(1029.39,380.23)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&HA1A5AA&\fsp3\blur4\fs59\alpha&HA0&\pos(1029.84,381.6)}Koyomi-onī-chan
-Dialogue: 0,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&HC9CCD0&\fsp3\blur4\fs59\alpha&HA0&\pos(1030.41,382.98)}Koyomi-onī-chan
-Dialogue: 1,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.95\fscy99.95\c&H030303&\fsp3\blur1.2\fs59\pos(1029.36,365.02)}Koyomi-onī-chan
-Dialogue: 1,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H08090A&\fsp3\blur1.2\fs59\pos(1028.97,365.76)}Koyomi-onī-chan
-Dialogue: 1,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H0D0F11&\fsp3\blur1.2\fs59\pos(1028.73,366.51)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.98\fscy99.98\c&H131618&\fsp3\blur1.2\fs59\pos(1028.51,367.47)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H191C1F&\fsp3\blur1.2\fs59\pos(1028.31,368.38)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H1E2226&\fsp3\blur1.2\fs59\pos(1028.15,369.43)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H23282D&\fsp3\blur1.2\fs59\pos(1028.06,370.54)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H292F34&\fsp3\blur1.2\fs59\pos(1028.05,371.66)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H2F353B&\fsp3\blur1.2\fs59\pos(1028.02,372.66)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H343B42&\fsp3\blur1.2\fs59\pos(1028.11,373.83)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H3A4249&\fsp3\blur1.2\fs59\pos(1028.22,375.05)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H3F474E&\fsp3\blur1.2\fs59\pos(1028.38,376.27)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H4D545B&\fsp3\blur1.2\fs59\pos(1028.63,377.55)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H62696F&\fsp3\blur1.2\fs59\pos(1028.97,378.84)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H7E848A&\fsp3\blur1.2\fs59\pos(1029.39,380.23)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&HA1A5AA&\fsp3\blur1.2\fs59\pos(1029.84,381.6)}Koyomi-onī-chan
-Dialogue: 1,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\alpha&H10&\3c&H000000&\fnGentium\fscx100\fscy100\c&HC9CCD0&\fsp3\blur1.2\fs59\pos(1030.41,382.98)}Koyomi-onī-chan
+Dialogue: 0,0:23:50.36,0:23:53.37,Signs,,0,0,0,***,{\an4\blur10\c&H0F1412&\fn123Marker\fs60\fax0.47\frz18.91\pos(1031.4,564.4)\alpha&HD0&}K{*\fax0.475}o{*\fax0.481}y{*\fax0.486}o{*\fax0.491}m{*\fax0.497}i{*\fax0.502}-{*\fax0.507}o{*\fax0.513}n{*\fax0.518}{*\fax0.523}i{*\fax0.529}c{*\fax0.534}h{*\fax0.539}a{*\fax0.545}n{\fax0.55}
+Dialogue: 1,0:23:50.36,0:23:53.37,Signs,,0,0,0,***,{\an4\blur1.3\c&H0F1412&\fn123Marker\fs60\fax0.47\frz18.91\pos(1031.4,564.4)}K{*\fax0.475}o{*\fax0.481}y{*\fax0.486}o{*\fax0.491}m{*\fax0.497}i{*\fax0.502}-{*\fax0.507}o{*\fax0.513}n{*\fax0.518}i{*\fax0.523}{*\fax0.529}c{*\fax0.534}h{*\fax0.539}a{*\fax0.545}n{\fax0.55}
+Dialogue: 0,0:23:50.36,0:23:53.37,Signs,,0,0,0,***,{\an4\blur10\c&H0F1412&\fn123Marker\fs60\fax0.47\frz18.91\alpha&HD0&\pos(1247.4,471.07)}-
+Dialogue: 1,0:23:50.36,0:23:53.37,Signs,,0,0,0,***,{\an4\blur1.3\c&H0F1412&\fn123Marker\fs60\fax0.47\frz18.91\pos(1247.4,471.07)}-
+Dialogue: 0,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H030304&\fsp3\blur4\fs59\pos(1047.04,288.15)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H090A0B&\fsp3\blur4\fs59\pos(1046.02,290.67)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H0E1012&\fsp3\blur4\fs59\pos(1044.72,293.07)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H14161A&\fsp3\blur4\fs59\pos(1043.32,294.67)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H1A1D21&\fsp3\blur4\fs59\pos(1041.96,295.53)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H202328&\fsp3\blur4\fs59\pos(1040.65,295.87)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H262A30&\fsp3\blur4\fs59\pos(1039.5,295.62)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H2C3037&\fsp3\blur4\fs59\pos(1038.58,294.81)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H32373F&\fsp3\blur4\fs59\pos(1037.95,293.56)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H32383F&\fsp3\blur4\fs59\pos(1037.67,291.95)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H343A41&\fsp3\blur4\fs59\pos(1037.87,290.12)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H363D44&\fsp3\blur4\fs59\pos(1038.47,288.29)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H3C434A&\fsp3\blur4\fs59\pos(1039.6,286.57)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H434B52&\fsp3\blur4\fs59\pos(1041.37,285.01)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H4B545C&\fsp3\blur4\fs59\pos(1043.78,283.92)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H555F67&\fsp3\blur4\fs59\pos(1046.99,283.53)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\1c&H606B74&\fsp3\blur4\fs59\pos(1050.86,283.83)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 1,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H030304&\fsp3\blur1.2\fs59\pos(1047.04,288.15)}Koyomi-onīchan
+Dialogue: 1,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H090A0B&\fsp3\blur1.2\fs59\pos(1046.02,290.67)}Koyomi-onīchan
+Dialogue: 1,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H0E1012&\fsp3\blur1.2\fs59\pos(1044.72,293.07)}Koyomi-onīchan
+Dialogue: 1,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H14161A&\fsp3\blur1.2\fs59\pos(1043.32,294.67)}Koyomi-onīchan
+Dialogue: 1,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H1A1D21&\fsp3\blur1.2\fs59\pos(1041.96,295.53)}Koyomi-onīchan
+Dialogue: 1,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H202328&\fsp3\blur1.2\fs59\pos(1040.65,295.87)}Koyomi-onīchan
+Dialogue: 1,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H262A30&\fsp3\blur1.2\fs59\pos(1039.5,295.62)}Koyomi-onīchan
+Dialogue: 1,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H2C3037&\fsp3\blur1.2\fs59\pos(1038.58,294.81)}Koyomi-onīchan
+Dialogue: 1,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H32373F&\fsp3\blur1.2\fs59\pos(1037.95,293.56)}Koyomi-onīchan
+Dialogue: 1,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H32383F&\fsp3\blur1.2\fs59\pos(1037.67,291.95)}Koyomi-onīchan
+Dialogue: 1,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H343A41&\fsp3\blur1.2\fs59\pos(1037.87,290.12)}Koyomi-onīchan
+Dialogue: 1,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H363D44&\fsp3\blur1.2\fs59\pos(1038.47,288.29)}Koyomi-onīchan
+Dialogue: 1,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H3C434A&\fsp3\blur1.2\fs59\pos(1039.6,286.57)}Koyomi-onīchan
+Dialogue: 1,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H434B52&\fsp3\blur1.2\fs59\pos(1041.37,285.01)}Koyomi-onīchan
+Dialogue: 1,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H4B545C&\fsp3\blur1.2\fs59\pos(1043.78,283.92)}Koyomi-onīchan
+Dialogue: 1,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H555F67&\fsp3\blur1.2\fs59\pos(1046.99,283.53)}Koyomi-onīchan
+Dialogue: 1,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H606B74&\fsp3\blur1.2\fs59\pos(1050.86,283.83)}Koyomi-onīchan
+Dialogue: 2,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HF9&\blur1.2\fs59\pos(993.64,310.32)}Koyomi-onīchan
+Dialogue: 2,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HF0&\blur1.2\fs59\pos(992.8,311.67)}Koyomi-onīchan
+Dialogue: 2,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HE7&\blur1.2\fs59\pos(991.86,312.94)}Koyomi-onīchan
+Dialogue: 2,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HDE&\blur1.2\fs59\pos(990.88,314.02)}Koyomi-onīchan
+Dialogue: 2,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HD4&\blur1.2\fs59\pos(989.82,315.12)}Koyomi-onīchan
+Dialogue: 2,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HCB&\blur1.2\fs59\pos(988.8,316.06)}Koyomi-onīchan
+Dialogue: 2,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HC2&\blur1.2\fs59\pos(987.74,317.07)}Koyomi-onīchan
+Dialogue: 2,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HB9&\blur1.2\fs59\pos(986.67,318.06)}Koyomi-onīchan
+Dialogue: 2,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HB0&\blur1.2\fs59\pos(985.55,318.96)}Koyomi-onīchan
+Dialogue: 2,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HAE&\blur1.2\fs59\pos(984.46,319.84)}Koyomi-onīchan
+Dialogue: 2,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HAC&\blur1.2\fs59\pos(983.34,320.7)}Koyomi-onīchan
+Dialogue: 2,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA9&\blur1.2\fs59\pos(982.24,321.48)}Koyomi-onīchan
+Dialogue: 2,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA8&\blur1.2\fs59\pos(981.15,322.2)}Koyomi-onīchan
+Dialogue: 2,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA6&\blur1.2\fs59\pos(980.04,323.02)}Koyomi-onīchan
+Dialogue: 2,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA3&\blur1.2\fs59\pos(978.99,323.63)}Koyomi-onīchan
+Dialogue: 2,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA1&\blur1.2\fs59\pos(977.84,324.34)}Koyomi-onīchan
+Dialogue: 2,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\fnGentium\fscx100\fscy100\c&HD4D6D9&\fsp3\alpha&HA0&\blur1.2\fs59\pos(976.76,324.86)}Koyomi-onīchan
+Dialogue: 0,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H12161B&\fsp3\blur4\fs59\pos(932.64,343.92)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur4\fs59\pos(931.91,343.55)\alpha&HB0&\c&H161C22&}Koyomi-onīchan
+Dialogue: 0,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur4\fs59\pos(931.55,343.42)\alpha&HB0&\c&H1F262C&}Koyomi-onīchan
+Dialogue: 0,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur4\fs59\pos(930.49,342.84)\alpha&HB0&\c&H283036&}Koyomi-onīchan
+Dialogue: 0,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H323A41&\fsp3\blur4\fs59\pos(929.58,342.34)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H3A424A&\fsp3\blur4\fs59\pos(928.59,341.69)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H414A52&\fsp3\blur4\fs59\pos(927.65,341.11)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H49525B&\fsp3\blur4\fs59\pos(926.71,340.41)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H515A63&\fsp3\blur4\fs59\pos(925.78,339.84)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H58636C&\fsp3\blur4\fs59\pos(924.8,339.16)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 0,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H606B74&\fsp3\blur4\fs59\pos(923.86,338.68)\alpha&HB0&}Koyomi-onīchan
+Dialogue: 1,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H0C1116&\fsp3\blur1.1\fs59\pos(932.64,343.92)}Koyomi-onīchan
+Dialogue: 1,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H12161B&\fsp3\blur1.2\fs59\pos(932.64,343.92)}Koyomi-onīchan
+Dialogue: 1,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur1.2\fs59\pos(931.91,343.55)\c&H161C22&}Koyomi-onīchan
+Dialogue: 1,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur1.2\fs59\pos(931.55,343.42)\c&H1C2229&}Koyomi-onīchan
+Dialogue: 1,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\fsp3\blur1.2\fs59\pos(930.49,342.84)\c&H232B31&}Koyomi-onīchan
+Dialogue: 1,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H2D343C&\fsp3\blur1.2\fs59\pos(929.58,342.34)}Koyomi-onīchan
+Dialogue: 1,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H363E46&\fsp3\blur1.2\fs59\pos(928.59,341.69)}Koyomi-onīchan
+Dialogue: 1,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H414A52&\fsp3\blur1.2\fs59\pos(927.65,341.11)}Koyomi-onīchan
+Dialogue: 1,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H49525B&\fsp3\blur1.2\fs59\pos(926.71,340.41)}Koyomi-onīchan
+Dialogue: 1,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H515A63&\fsp3\blur1.2\fs59\pos(925.78,339.84)}Koyomi-onīchan
+Dialogue: 1,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H58636C&\fsp3\blur1.2\fs59\pos(924.8,339.16)}Koyomi-onīchan
+Dialogue: 1,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H606B74&\fsp3\blur1.2\fs59\pos(923.86,338.68)}Koyomi-onīchan
+Dialogue: 0,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.95\fscy99.95\c&H030303&\fsp3\blur4\fs59\alpha&HA0&\pos(1029.36,365.02)}Koyomi-onīchan
+Dialogue: 0,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H08090A&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.97,365.76)}Koyomi-onīchan
+Dialogue: 0,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H0D0F11&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.73,366.51)}Koyomi-onīchan
+Dialogue: 0,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.98\fscy99.98\c&H131618&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.51,367.47)}Koyomi-onīchan
+Dialogue: 0,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H191C1F&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.31,368.38)}Koyomi-onīchan
+Dialogue: 0,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H1E2226&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.15,369.43)}Koyomi-onīchan
+Dialogue: 0,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H23282D&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.06,370.54)}Koyomi-onīchan
+Dialogue: 0,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H292F34&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.05,371.66)}Koyomi-onīchan
+Dialogue: 0,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H2F353B&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.02,372.66)}Koyomi-onīchan
+Dialogue: 0,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H343B42&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.11,373.83)}Koyomi-onīchan
+Dialogue: 0,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H3A4249&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.22,375.05)}Koyomi-onīchan
+Dialogue: 0,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H3F474E&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.38,376.27)}Koyomi-onīchan
+Dialogue: 0,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H4D545B&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.63,377.55)}Koyomi-onīchan
+Dialogue: 0,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H62696F&\fsp3\blur4\fs59\alpha&HA0&\pos(1028.97,378.84)}Koyomi-onīchan
+Dialogue: 0,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&H7E848A&\fsp3\blur4\fs59\alpha&HA0&\pos(1029.39,380.23)}Koyomi-onīchan
+Dialogue: 0,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&HA1A5AA&\fsp3\blur4\fs59\alpha&HA0&\pos(1029.84,381.6)}Koyomi-onīchan
+Dialogue: 0,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\3c&H000000&\fnGentium\fscx100\fscy100\c&HC9CCD0&\fsp3\blur4\fs59\alpha&HA0&\pos(1030.41,382.98)}Koyomi-onīchan
+Dialogue: 1,0:00:57.91,0:00:57.95,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.95\fscy99.95\c&H030303&\fsp3\blur1.2\fs59\pos(1029.36,365.02)}Koyomi-onīchan
+Dialogue: 1,0:00:57.95,0:00:57.99,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H08090A&\fsp3\blur1.2\fs59\pos(1028.97,365.76)}Koyomi-onīchan
+Dialogue: 1,0:00:57.99,0:00:58.03,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H0D0F11&\fsp3\blur1.2\fs59\pos(1028.73,366.51)}Koyomi-onīchan
+Dialogue: 1,0:00:58.03,0:00:58.07,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.98\fscy99.98\c&H131618&\fsp3\blur1.2\fs59\pos(1028.51,367.47)}Koyomi-onīchan
+Dialogue: 1,0:00:58.07,0:00:58.12,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H191C1F&\fsp3\blur1.2\fs59\pos(1028.31,368.38)}Koyomi-onīchan
+Dialogue: 1,0:00:58.12,0:00:58.16,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H1E2226&\fsp3\blur1.2\fs59\pos(1028.15,369.43)}Koyomi-onīchan
+Dialogue: 1,0:00:58.16,0:00:58.20,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H23282D&\fsp3\blur1.2\fs59\pos(1028.06,370.54)}Koyomi-onīchan
+Dialogue: 1,0:00:58.20,0:00:58.24,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.96\fscy99.96\c&H292F34&\fsp3\blur1.2\fs59\pos(1028.05,371.66)}Koyomi-onīchan
+Dialogue: 1,0:00:58.24,0:00:58.28,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H2F353B&\fsp3\blur1.2\fs59\pos(1028.02,372.66)}Koyomi-onīchan
+Dialogue: 1,0:00:58.28,0:00:58.32,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx99.99\fscy99.99\c&H343B42&\fsp3\blur1.2\fs59\pos(1028.11,373.83)}Koyomi-onīchan
+Dialogue: 1,0:00:58.32,0:00:58.37,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H3A4249&\fsp3\blur1.2\fs59\pos(1028.22,375.05)}Koyomi-onīchan
+Dialogue: 1,0:00:58.37,0:00:58.41,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H3F474E&\fsp3\blur1.2\fs59\pos(1028.38,376.27)}Koyomi-onīchan
+Dialogue: 1,0:00:58.41,0:00:58.45,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.01\fscy100.01\c&H4D545B&\fsp3\blur1.2\fs59\pos(1028.63,377.55)}Koyomi-onīchan
+Dialogue: 1,0:00:58.45,0:00:58.49,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100.02\fscy100.02\c&H62696F&\fsp3\blur1.2\fs59\pos(1028.97,378.84)}Koyomi-onīchan
+Dialogue: 1,0:00:58.49,0:00:58.53,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&H7E848A&\fsp3\blur1.2\fs59\pos(1029.39,380.23)}Koyomi-onīchan
+Dialogue: 1,0:00:58.53,0:00:58.58,Signs,,0,0,0,,{\alpha&H00&\3c&H000000&\fnGentium\fscx100\fscy100\c&HA1A5AA&\fsp3\blur1.2\fs59\pos(1029.84,381.6)}Koyomi-onīchan
+Dialogue: 1,0:00:58.58,0:00:58.62,Signs,,0,0,0,,{\alpha&H10&\3c&H000000&\fnGentium\fscx100\fscy100\c&HC9CCD0&\fsp3\blur1.2\fs59\pos(1030.41,382.98)}Koyomi-onīchan
 Dialogue: 0,0:01:15.38,0:01:15.43,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs62\pos(966,346.1)\c&HFDFFFD&}Thế nhưng, sự hối tiếc đó, {\s1}đối với em ấy{\s0}, hay đối với Quái Dị,\N hẳn là chẳng có nghĩa lý gì cả.
 Dialogue: 0,0:01:15.43,0:01:15.47,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs62\pos(966.1,346.62)\c&HFDFFFD&}Thế nhưng, sự hối tiếc đó, {\s1}đối với em ấy{\s0}, hay đối với Quái Dị,\N hẳn là chẳng có nghĩa lý gì cả.
 Dialogue: 0,0:01:15.47,0:01:15.51,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium\b1\fs62\pos(965.49,346.11)\c&HFDFFFD&}Thế nhưng, sự hối tiếc đó, {\s1}đối với em ấy{\s0}, hay đối với Quái Dị,\N hẳn là chẳng có nghĩa lý gì cả.
@@ -878,18 +880,18 @@ Dialogue: 0,0:16:28.75,0:16:28.80,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\3c&
 Dialogue: 0,0:17:01.33,0:17:02.21,Signs,,0,0,0,,{\pos(967,427)\blur0.9\fnGentium\b1\fsp3.5\fs110\c&HFEFFFF&}Nadeko
 Dialogue: 0,0:17:09.84,0:17:10.84,Signs,,0,0,0,,{\an5\blur0.8\fnGentium\b1\fs112.5\pos(960,700)\c&HFFFFFF&}Chú Thuật
 Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an5\blur0.9\fs110\fnGentium\b1\pos(955,770)\c&HFDFFFF&\fscx78\fscy78}Huyền bí
-Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(281,469)\c&HEFF1ED&\alpha&90&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật         Chú Thuật
-Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(281,469)\c&HEFF1ED&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật         Chú Thuật
+Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(281,469)\c&HEFF1ED&\alpha&90&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật
+Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(281,469)\c&HEFF1ED&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật
 Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(281,343)\c&HF6F9F5&\alpha&90&}Chú Thuật
 Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(281,343)\c&HF6F9F5&}Chú Thuật
 Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(281,595)\c&HEFF1ED&\alpha&90&}Chú Thuật
 Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(281,595)\c&HEFF1ED&}Chú Thuật
-Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an6\blur1.8\fs29\pos(1642,469)\fnGentium\b1\c&HFEFEFB&\alpha&90&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật         Chú Thuật
-Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an6\blur0.7\fs29\pos(1642,469)\fnGentium\b1\c&HFEFEFB&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật         Chú Thuật
-Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(1581,343)\c&HF6F9F5&\alpha&90&}Chú Thuật
-Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(1581,343)\c&HF6F9F5&}Chú Thuật
-Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(1581,595)\c&HEFF1ED&\alpha&90&}Chú Thuật
-Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(1581,595)\c&HEFF1ED&}Chú Thuật
+Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an6\blur1.8\fs29\pos(1662,469)\fnGentium\b1\c&HFEFEFB&\alpha&90&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật
+Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an6\blur0.7\fs29\pos(1662,469)\fnGentium\b1\c&HFEFEFB&}Chú Thuật          Chú Thuật          Chú Thuật          Chú Thuật
+Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(1551,343)\c&HF6F9F5&\alpha&90&}Chú Thuật
+Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(1551,343)\c&HF6F9F5&}Chú Thuật
+Dialogue: 0,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur1.8\fnGentium\b1\fs29\pos(1551,595)\c&HEFF1ED&\alpha&90&}Chú Thuật
+Dialogue: 1,0:17:14.35,0:17:15.22,Signs,,0,0,0,,{\an4\blur0.7\fnGentium\b1\fs29\pos(1551,595)\c&HEFF1ED&}Chú Thuật
 Dialogue: 0,0:17:15.22,0:17:15.26,Signs,,0,0,0,,{=12}{\fscx100\fscy100\frz0\alpha&H00&\c&H4E888B&\3c&H4E888B&\bord2\fs30\fnGentium\b1\blur0.9\pos(1003.63,145.29)}Tuyển tập\N Xà Chú
 Dialogue: 0,0:17:15.26,0:17:15.30,Signs,,0,0,0,,{=12}{\fscx100\fscy100\frz0\alpha&H00&\c&H4E888B&\3c&H4E888B&\bord2\fs30\fnGentium\b1\blur0.9\pos(1003.51,145.21)}Tuyển tập\N Xà Chú
 Dialogue: 0,0:17:15.30,0:17:15.34,Signs,,0,0,0,,{=12}{\fscx100\fscy100\frz0\alpha&H00&\c&H4E888B&\3c&H4E888B&\bord2\fs30\fnGentium\b1\blur0.9\pos(1003.38,145.13)}Tuyển tập\N Xà Chú
