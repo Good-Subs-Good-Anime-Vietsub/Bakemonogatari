@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 3120
-Active Line: 3128
-Video Position: 29486
+Video Zoom Percent: 0.500000
+Scroll Position: 3024
+Active Line: 3032
+Video Position: 25830
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3064,7 +3064,7 @@ Dialogue: 0,0:17:49.79,0:17:49.84,Signs,,0,0,0,,{\fsp1\alpha&HA0&\fs30\blur0.7\f
 Dialogue: 1,0:17:49.84,0:17:49.88,Signs,,0,0,0,,{\fscx102\fscy102\alpha&HB9&\fs40\blur0.81\fn000 Frank Bellamy iCiel\c&H0B0F0E&\frz325.7\pos(332,348)}Giờ thì không.
 Dialogue: 0,0:17:49.84,0:17:49.88,Signs,,0,0,0,,{\fsp1\alpha&H60&\fs30\blur0.7\fnUVN Chim Bien Nang\fscx90\c&H010101&\pos(246.96,236.262)}Bất tử
 Dialogue: 1,0:17:49.88,0:17:52.67,Signs,,0,0,0,,{\fad(0,1391)\fsp1\fs30\blur0.7\fnUVN Chim Bien Nang\fscx90\c&H010101&\pos(246.96,236.262)}Bất tử
-Dialogue: 1,0:17:51.31,0:17:57.49,Signs,,0,0,0,,{\blur1.3\fs30\fnUVN Chim Bien Nang\fad(1363,0)\1c&HCDCFDB&\fscx75\pos(1787,982.5)}Senjōgahara
+Dialogue: 1,0:17:51.31,0:17:57.49,Signs,,0,0,0,,{\blur1.3\fs30\fnGentium Basic\b1\fad(1363,0)\1c&HCDCFDB&\pos(1787,982.5)\fscx92\fscy123}Senjōgahara
 Dialogue: 1,0:17:51.31,0:17:57.49,Signs,,0,0,0,,{\blur1.1\fnUVN Chim Bien Nang\fad(1363,0)\fscx90\fs22\1c&H593230&\pos(1660.603,384.182)}Cô gái nhẹ \Nlạ thường
 Dialogue: 1,0:17:51.31,0:17:57.49,Signs,,0,0,0,,{\fad(1363,0)\1c&H111731&\blur2.3\fs35\fnUVN Chim Bien Nang\pos(1031.445,193.111)\fscx88\fscy88}Cánh tay
 Dialogue: 1,0:17:51.31,0:17:57.49,Signs,,0,0,0,,{\blur1.7\fs27\fnUVN Chim Bien Nang\fad(1363,0)\1c&HD9D4D0&\pos(1255.666,860.666)}Mồ hôi
