@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mk
 Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 2084
-Active Line: 2089
-Video Position: 19713
+Video Zoom Percent: 0.500000
+Scroll Position: 1218
+Active Line: 1233
+Video Position: 5655
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1039,26 +1039,26 @@ Dialogue: 1,0:03:53.04,0:03:53.08,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an7
 Dialogue: 1,0:03:53.08,0:03:53.12,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an7\blur1\fnGentium\b1\fs65\c&H38B4FD&\pos(1025.23,750.02)}gầy gầy mảnh khảnh
 Dialogue: 1,0:03:53.12,0:03:53.17,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an7\blur1\fnGentium\b1\fs65\c&H38B4FD&\pos(1025.37,750.48)}gầy gầy mảnh khảnh
 Dialogue: 1,0:03:53.17,0:03:53.21,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an7\blur1\fnGentium\b1\fs65\c&H38B4FD&\pos(1025,749.96)}gầy gầy mảnh khảnh
-Dialogue: 0,0:03:53.21,0:03:53.25,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(960,435)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.25,0:03:53.29,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.37,435.56)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.29,0:03:53.33,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.98,435.03)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.33,0:03:53.37,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.96,435.57)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.37,0:03:53.42,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.65,435.03)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.42,0:03:53.46,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.46,0:03:53.50,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.65,435.12)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.50,0:03:53.54,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.93,435.56)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.54,0:03:53.58,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.46,435.12)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 0,0:03:53.58,0:03:53.62,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.21,0:03:53.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(960,435)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.25,0:03:53.29,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.37,435.56)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.29,0:03:53.33,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.98,435.03)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.33,0:03:53.37,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.96,435.57)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.37,0:03:53.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.65,435.03)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.42,0:03:53.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.46,0:03:53.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.65,435.12)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.50,0:03:53.54,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.93,435.56)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.54,0:03:53.58,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.46,435.12)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
-Dialogue: 1,0:03:53.58,0:03:53.62,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng dịu dàng".
+Dialogue: 0,0:03:53.21,0:03:53.25,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(960,435)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.25,0:03:53.29,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.37,435.56)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.29,0:03:53.33,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.98,435.03)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.33,0:03:53.37,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.96,435.57)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.37,0:03:53.42,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.65,435.03)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.42,0:03:53.46,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.46,0:03:53.50,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.65,435.12)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.50,0:03:53.54,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.93,435.56)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.54,0:03:53.58,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.46,435.12)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 0,0:03:53.58,0:03:53.62,Signs,,0,0,0,,{\fscx100\fscy100\an5\blur4\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&\alpha&HB0&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.21,0:03:53.25,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(960,435)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.25,0:03:53.29,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.37,435.56)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.29,0:03:53.33,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.98,435.03)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.33,0:03:53.37,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.96,435.57)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.37,0:03:53.42,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.65,435.03)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.42,0:03:53.46,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.46,0:03:53.50,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.65,435.12)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.50,0:03:53.54,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.93,435.56)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.54,0:03:53.58,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.46,435.12)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
+Dialogue: 1,0:03:53.58,0:03:53.62,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an5\blur1\fnGentium Basic\fs78\pos(959.67,435.58)\c&HFEFFFF&}Chuẩn chỉ của từ "duyên dáng mi nhon".
 Dialogue: 0,0:03:53.62,0:03:53.67,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an7\blur1\fnGentium\b1\fs70\c&H3DB4FD&\pos(359.24,732.67)}Nhưng Kanbaru Suruga—\N mà nhảy thì.
 Dialogue: 0,0:03:53.67,0:03:53.71,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an7\blur1\fnGentium\b1\fs70\c&H3DB4FD&\pos(358.66,733.18)}Nhưng Kanbaru Suruga—\N mà nhảy thì.
 Dialogue: 0,0:03:53.71,0:03:53.75,Signs,,0,0,0,,{\alpha&H00&\fscx100\fscy100\an7\blur1\fnGentium\b1\fs70\c&H3DB4FD&\pos(358.96,732.69)}Nhưng Kanbaru Suruga—\N mà nhảy thì.
@@ -1265,31 +1265,31 @@ Dialogue: 1,0:03:55.67,0:03:55.71,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 1,0:03:55.71,0:03:55.75,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(960.03,239.86)}Liên Quan
 Dialogue: 1,0:03:55.75,0:03:55.79,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(960.49,240.44)}Liên Quan
 Dialogue: 1,0:03:55.79,0:03:55.84,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(960.28,239.88)}Liên Quan
-Dialogue: 0,0:03:55.84,0:03:55.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(960.52,242)}Băng Bọc
-Dialogue: 0,0:03:55.88,0:03:55.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(960.33,242.63)}Băng Bọc
-Dialogue: 0,0:03:55.92,0:03:55.96,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(959.97,242.04)}Băng Bọc
-Dialogue: 0,0:03:55.96,0:03:56.00,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(960.54,242.65)}Băng Bọc
+Dialogue: 0,0:03:55.84,0:03:55.88,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(960.52,242)}Băng Bó
+Dialogue: 0,0:03:55.88,0:03:55.92,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(960.33,242.63)}Băng Bó
+Dialogue: 0,0:03:55.92,0:03:55.96,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(959.97,242.04)}Băng Bó
+Dialogue: 0,0:03:55.96,0:03:56.00,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0035DD&\pos(960.54,242.65)}Băng Bó
 Dialogue: 0,0:03:56.00,0:03:56.04,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(960,240)}Liên Quan
 Dialogue: 0,0:03:56.04,0:03:56.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(959.78,239.5)}Liên Quan
 Dialogue: 0,0:03:56.09,0:03:56.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(959.74,240.07)}Liên Quan
 Dialogue: 1,0:03:56.00,0:03:56.04,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(960,240)}Liên Quan
 Dialogue: 1,0:03:56.04,0:03:56.09,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(959.78,239.5)}Liên Quan
 Dialogue: 1,0:03:56.09,0:03:56.13,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(959.74,240.07)}Liên Quan
-Dialogue: 0,0:03:56.13,0:03:56.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.52,242)}Băng Bọc
-Dialogue: 0,0:03:56.17,0:03:56.21,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.23,241.44)}Băng Bọc
-Dialogue: 0,0:03:56.21,0:03:56.25,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.49,241.96)}Băng Bọc
-Dialogue: 0,0:03:56.25,0:03:56.29,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.49,241.46)}Băng Bọc
+Dialogue: 0,0:03:56.13,0:03:56.17,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.52,242)}Băng Bó
+Dialogue: 0,0:03:56.17,0:03:56.21,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.23,241.44)}Băng Bó
+Dialogue: 0,0:03:56.21,0:03:56.25,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.49,241.96)}Băng Bó
+Dialogue: 0,0:03:56.25,0:03:56.29,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.49,241.46)}Băng Bó
 Dialogue: 0,0:03:56.29,0:03:56.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(960,240)}Liên Quan
 Dialogue: 0,0:03:56.34,0:03:56.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(959.73,240.55)}Liên Quan
 Dialogue: 0,0:03:56.38,0:03:56.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&HB0&\fnGentium\b1\blur4\fs170\c&HFFFFFF&\pos(960.27,239.97)}Liên Quan
 Dialogue: 1,0:03:56.29,0:03:56.34,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(960,240)}Liên Quan
 Dialogue: 1,0:03:56.34,0:03:56.38,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(959.73,240.55)}Liên Quan
 Dialogue: 1,0:03:56.38,0:03:56.42,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&HFFFFFF&\pos(960.27,239.97)}Liên Quan
-Dialogue: 1,0:03:56.42,0:03:56.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.52,242)}Băng Bọc
-Dialogue: 1,0:03:56.46,0:03:56.50,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.66,242.52)}Băng Bọc
-Dialogue: 1,0:03:56.50,0:03:56.54,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.89,241.9)}Băng Bọc
-Dialogue: 1,0:03:56.54,0:03:56.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.89,242.59)}Băng Bọc
-Dialogue: 1,0:03:56.59,0:03:56.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.89,241.9)}Băng Bọc
+Dialogue: 1,0:03:56.42,0:03:56.46,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.52,242)}Băng Bó
+Dialogue: 1,0:03:56.46,0:03:56.50,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.66,242.52)}Băng Bó
+Dialogue: 1,0:03:56.50,0:03:56.54,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.89,241.9)}Băng Bó
+Dialogue: 1,0:03:56.54,0:03:56.59,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.89,242.59)}Băng Bó
+Dialogue: 1,0:03:56.59,0:03:56.63,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnGentium\b1\blur1.1\fs170\c&H0031DC&\pos(960.89,241.9)}Băng Bó
 Dialogue: 0,0:03:56.63,0:03:56.67,Signs,,0,0,0,,{\fscx100.92\fscy100.92\an7\fnGentium\b1\blur4.04\fs53\pos(1144.3,866.29)\c&HFCFFFF&\alpha&HD0&}Đấy là tôi nhìn nhận thế.\N Tôi cho là vậy.
 Dialogue: 0,0:03:56.67,0:03:56.71,Signs,,0,0,0,,{\fscx100.87\fscy100.87\an7\fnGentium\b1\blur4.03\fs53\pos(1144.52,866.62)\c&HFCFFFF&\alpha&HD0&}Đấy là tôi nhìn nhận thế.\N Tôi cho là vậy.
 Dialogue: 0,0:03:56.71,0:03:56.75,Signs,,0,0,0,,{\fscx100.81\fscy100.81\an7\fnGentium\b1\blur4.03\fs53\pos(1144.27,865.9)\c&HFCFFFF&\alpha&HD0&}Đấy là tôi nhìn nhận thế.\N Tôi cho là vậy.

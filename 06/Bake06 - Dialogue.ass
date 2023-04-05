@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 301
-Active Line: 310
-Video Position: 25767
+Scroll Position: 903
+Active Line: 905
+Video Position: 34431
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -243,7 +243,7 @@ Dialogue: 12,0:11:58.75,0:12:02.11,Main,,0,0,0,,Ừm, bé ấy từng là đàn 
 Dialogue: 12,0:12:02.43,0:12:05.28,Main,,0,0,0,,Kanbaru giờ vẫn là đàn em đấy,\N vẫn cùng trường còn gì.
 Dialogue: 12,0:12:05.28,0:12:06.68,Main,,0,0,0,,Kanbaru?
 Dialogue: 12,0:12:06.68,0:12:08.24,Main,,0,0,0,,Nghe thân thiết quá nhờ.
-Dialogue: 12,0:12:12.16,0:12:14.12,Main,,0,0,0,,Có chuyện gì với em ấy hả?
+Dialogue: 12,0:12:12.16,0:12:14.12,Main,,0,0,0,,Có chuyện gì với bé ấy hả?
 Dialogue: 12,0:12:14.12,0:12:15.46,Main,,0,0,0,,Araragi-kun!
 Dialogue: 12,0:12:18.56,0:12:22.99,Main,,0,0,0,,Araragi-kun ấy...\N vết thương rất mau lành đúng không nhở?
 Dialogue: 12,0:12:22.99,0:12:25.53,Main,,0,0,0,,Vậy xin tạm một nhãn cầu cũng không sao đâu nhỉ.
@@ -328,12 +328,12 @@ Dialogue: 12,0:16:54.04,0:16:59.01,Main,,0,0,0,,Ơ sao thế? Tự dưng Araragi
 Dialogue: 12,0:17:01.66,0:17:02.81,Main,,0,0,0,,À được chứ!
 Dialogue: 12,0:17:02.81,0:17:04.72,Main,,0,0,0,,Tớ chỉ học qua tý ấy mà.
 Dialogue: 12,0:17:12.75,0:17:14.48,Main,,0,0,0,,Ừm, đúng rồi.
-Dialogue: 12,0:17:16.73,0:17:18.82,Main,,0,0,0,,Đương nhiên thế rồi.
+Dialogue: 12,0:17:16.73,0:17:18.82,Main,,0,0,0,,Đương nhiên là biết rồi.
 Dialogue: 12,0:17:19.81,0:17:21.40,Main,,0,0,0,,Ồ, thế sao?
 Dialogue: 12,0:17:24.20,0:17:25.32,Main,,0,0,0,,Song Tấu Valhalla.
 Dialogue: 12,0:17:26.22,0:17:28.94,Main,,0,0,0,,Song Tấu Valhalla ấy... là người ta gọi thế.
-Dialogue: 12,0:17:29.29,0:17:32.97,Main,,0,0,0,,Senjōgahara từ Điền kinh và Kanbaru từ Bóng rổ.
-Dialogue: 12,0:17:32.96,0:17:34.22,Main,,0,0,0,,Song Tấu Valhalla.
+Dialogue: 12,0:17:29.29,0:17:32.95,Main,,0,0,0,,Senjōgahara từ Điền kinh và Kanbaru từ Bóng rổ.
+Dialogue: 12,0:17:32.95,0:17:34.22,Main,,0,0,0,,Song Tấu Valhalla.
 Dialogue: 12,0:17:34.22,0:17:35.56,Main,,0,0,0,,{\i1}Song Tấu Valhalla?
 Dialogue: 12,0:17:35.56,0:17:37.64,Main,,0,0,0,,{\i1}"Valhalla" tức là sao?
 Dialogue: 12,0:17:37.64,0:17:40.80,Main,,0,0,0,,Ghép "baru" trong Kanbaru và "hara" trong Senjōgahara...
@@ -937,26 +937,26 @@ Dialogue: 12,0:22:11.14,0:22:12.05,Main,,0,0,0,,Araragi-kun.
 Dialogue: 12,0:22:17.14,0:22:18.95,Main,,0,600,0,,Yo~ Lâu rồi không gặp~
 Dialogue: 12,0:22:20.56,0:22:23.50,Main,,0,0,0,,Tớ tới để đưa đồ cậu để quên.
 Comment: 12,0:22:20.56,0:22:23.50,Main,,0,0,0,,===============================
-Dialogue: 12,0:23:56.04,0:23:56.89,Main,,0,0,0,,Đây không phải Karen!
-Dialogue: 12,0:23:56.89,0:23:57.83,Main,,0,0,0,,Cũng chả phải Tsukihi!
-Dialogue: 12,0:23:57.83,0:23:58.67,Main,,0,0,0,,Thế là ai?                   Thế là ai?
-Dialogue: 12,0:23:58.67,0:24:00.44,Main,,0,0,0,,Số Má nhưng chả thấy Số đâu.
-Dialogue: 12,0:24:00.44,0:24:02.20,Main,,0,0,0,,Bú Đá mà chẳng phải Đá.
-Dialogue: 12,0:24:02.20,0:24:04.00,Main,,0,0,0,,Bảng Tổng Sắt mà chả thấy Sắt đâu.
-Dialogue: 12,0:24:04.00,0:24:05.59,Main,,0,0,0,,Đại Tu mà không thấy ai đi Tu.
-Dialogue: 12,0:24:05.59,0:24:07.26,Main,,0,0,0,,Sốt Sắng mà không ai bị Sốt.
-Dialogue: 12,0:24:07.26,0:24:08.88,Main,,0,0,0,,Bóng Râm nhưng hổng Dâm?
-Dialogue: 12,0:24:08.88,0:24:11.84,Main,,0,0,0,,Bắt Bẻ người ta mà chả Bắt chả Bẻ.
-Dialogue: 12,0:24:11.84,0:24:14.66,Main,,0,0,0,,Siêu Âm hay là Siêu-Âm?
-Dialogue: 12,0:24:14.66,0:24:15.24,Main,,0,0,0,,Không phải đâu nhể?
-Dialogue: 12,0:24:15.24,0:24:16.18,Main,,0,0,0,,Không phải ha.
-Dialogue: 12,0:24:16.18,0:24:17.06,Main,,0,0,0,,Câu đố phần xem trước!
-Dialogue: 12,0:24:17.06,0:24:17.60,Main,,0,0,0,,Câu đố!
-Dialogue: 12,0:24:17.60,0:24:18.08,Main,,0,0,0,,Không phải.
-Dialogue: 12,0:24:18.08,0:24:18.60,Main,,0,0,0,,Không phải gì?
-Dialogue: 12,0:24:18.60,0:24:20.91,Main,,0,0,150,,Kỳ tới, Khỉ Suruga, phần 2.
-Dialogue: 12,0:24:20.91,0:24:22.44,Main,,0,0,0,,Ơ thế không phải câu đố thì là gì?
-Dialogue: 12,0:24:22.44,0:24:23.20,Main,,0,0,0,,Chả câu đố thì gì.
+Dialogue: 12,0:23:56.04,0:23:56.89,Main,,0,0,0,,{\i1}Đây không phải Karen!
+Dialogue: 12,0:23:56.89,0:23:57.83,Main,,0,0,0,,{\i1}Cũng chả phải Tsukihi!
+Dialogue: 12,0:23:57.83,0:23:58.67,Main,,0,0,0,,{\i1}Thế là ai?                   Thế là ai?
+Dialogue: 12,0:23:58.67,0:24:00.44,Main,,0,0,0,,{\i1}Số Má nhưng chả thấy Số đâu.
+Dialogue: 12,0:24:00.44,0:24:02.20,Main,,0,0,0,,{\i1}Bú Đá mà chẳng phải Đá.
+Dialogue: 12,0:24:02.20,0:24:04.00,Main,,0,0,0,,{\i1}Bảng Tổng Sắt mà chả thấy Sắt đâu.
+Dialogue: 12,0:24:04.00,0:24:05.59,Main,,0,0,0,,{\i1}Đại Tu mà không thấy ai đi Tu.
+Dialogue: 12,0:24:05.59,0:24:07.26,Main,,0,0,0,,{\i1}Sốt Sắng mà không ai bị Sốt.
+Dialogue: 12,0:24:07.26,0:24:08.88,Main,,0,0,0,,{\i1}Bóng Râm nhưng hổng Dâm?
+Dialogue: 12,0:24:08.88,0:24:11.84,Main,,0,0,0,,{\i1}Bắt Bẻ người ta mà chả Bắt chả Bẻ.
+Dialogue: 12,0:24:11.84,0:24:14.66,Main,,0,0,0,,{\i1}Siêu Âm hay là Siêu-Âm?
+Dialogue: 12,0:24:14.66,0:24:15.24,Main,,0,0,0,,{\i1}Không phải đâu nhể?
+Dialogue: 12,0:24:15.24,0:24:16.18,Main,,0,0,0,,{\i1}Không phải ha.
+Dialogue: 12,0:24:16.18,0:24:17.06,Main,,0,0,0,,{\i1}Câu đố phần xem trước!
+Dialogue: 12,0:24:17.06,0:24:17.60,Main,,0,0,0,,{\i1}Câu đố!
+Dialogue: 12,0:24:17.60,0:24:18.08,Main,,0,0,0,,{\i1}Không phải.
+Dialogue: 12,0:24:18.08,0:24:18.60,Main,,0,0,0,,{\i1}Không phải gì?
+Dialogue: 12,0:24:18.60,0:24:20.91,Main,,0,0,150,,{\i1}Kỳ tới, Khỉ Suruga, phần 2.
+Dialogue: 12,0:24:20.91,0:24:22.44,Main,,0,0,0,,{\i1}Ơ thế không phải câu đố thì là gì?
+Dialogue: 12,0:24:22.44,0:24:23.20,Main,,0,0,0,,{\i1}Chả câu đố thì gì.
 Comment: 12,0:24:22.44,0:24:23.20,Main,,0,0,0,,==============================
 Dialogue: 0,0:02:28.96,0:02:34.38,Kanbaru Op,,0,0,0,,{\c&HAF7227&\3c&HAF7227&\blur0.9}Khung cảnh mà ta vô thức bắt gặp...
 Dialogue: 1,0:02:28.96,0:02:34.38,Kanbaru Op,,0,0,0,,{\bord0\c&HA4F7FD&\blur0.75}Khung cảnh mà ta vô thức bắt gặp...
