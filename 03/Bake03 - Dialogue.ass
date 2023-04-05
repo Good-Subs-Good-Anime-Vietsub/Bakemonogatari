@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 427
-Active Line: 439
-Video Position: 34325
+Scroll Position: 116
+Active Line: 117
+Video Position: 10739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -149,7 +149,7 @@ Dialogue: 4,0:07:14.12,0:07:16.66,Main,,0,0,0,,Chỉ khi trả ơn xong \Nthì c
 Dialogue: 4,0:07:16.66,0:07:19.74,Main,,0,800,0,,trở thành đôi bạn bình đẳng được.
 Dialogue: 4,0:07:21.71,0:07:23.21,Main,,0,0,0,,Bạn?
 Dialogue: 4,0:07:23.46,0:07:25.17,Main,,0,0,0,,{\i1}Bạn!
-Dialogue: 4,0:07:25.17,0:07:29.79,Main,,0,0,0,,Nên là Araragin-kun! \NCậu có muốn tôi làm gì cho cậu không?
+Dialogue: 4,0:07:25.17,0:07:29.79,Main,,0,0,0,,Nên là Araragi-kun! \NCậu có muốn tôi làm gì cho cậu không?
 Dialogue: 4,0:07:30.17,0:07:32.63,Main,,0,0,0,,Một điều thôi, gì cũng nghe hết.
 Dialogue: 4,0:07:32.64,0:07:34.09,Main,,0,0,0,,G-Gì cũng nghe?
 Dialogue: 4,0:07:34.41,0:07:36.39,Main,,0,0,820,,Thật, gì cũng được hết.

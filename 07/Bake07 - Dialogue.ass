@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 07 (BD 1080p Hi10 Opus) [E46A0EDD].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 40
-Active Line: 41
-Video Position: 6175
+Scroll Position: 559
+Active Line: 566
+Video Position: 35050
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,13 +40,13 @@ Comment: 0,0:23:54.94,0:23:54.95,Main,chptr,0,0,0,,{Preview}
 Dialogue: 9,0:00:02.19,0:00:06.40,Main,,0,0,0,,Thứ tớ trao tận tay cho cậu mà cậu lại dám để quên.
 Dialogue: 9,0:00:06.40,0:00:09.44,Main,,0,0,0,,Phạm tội tày trời rồi đó, Araragi-kun.
 Dialogue: 9,0:00:09.44,0:00:11.44,Main,,0,0,0,,Ờ, cho tớ xin lỗi.
-Dialogue: 9,0:00:12.45,0:00:14.30,Main,,0,0,0,,Có xin lỗi cũng đừng hòng tha.
+Dialogue: 9,0:00:12.45,0:00:14.30,Main,,0,0,0,,Có xin lỗi cũng không tha.
 Dialogue: 9,0:00:14.30,0:00:18.54,Main,,0,0,0,,Nên tớ đuổi theo tới đây là để mắng mỏ cậu \Nmột cách không thương tiếc.
 Dialogue: 9,0:00:23.74,0:00:26.00,Main,,0,0,0,,Cậu bị xe tông à?
 Dialogue: 9,0:00:26.00,0:00:30.19,Main,,0,0,0,,Đằng kia tớ thấy cái gì đó như là \Nchiếc xe đạp quý giá của Araragi-kun ấy.
 Dialogue: 9,0:00:30.19,0:00:31.79,Main,,0,0,0,,Xem chừng hư hại nặng lắm đấy.
-Dialogue: 9,0:00:31.79,0:00:33.92,Main,,0,0,0,,Phải nói là dính đét vào cột điện.
-Dialogue: 9,0:00:33.92,0:00:37.43,Main,,0,0,0,,Chắc phải cỡ cả đoàn xe mới thành ra thế này được nhỉ?
+Dialogue: 9,0:00:31.79,0:00:33.92,Main,,0,0,0,,Có thể nói là dính đét vào cột điện.
+Dialogue: 9,0:00:33.92,0:00:37.43,Main,,0,0,0,,Chắc phải cỡ cả đoàn xe mới ra nông nỗi này được nhỉ?
 Dialogue: 9,0:00:38.10,0:00:41.77,Main,,0,0,0,,Không phải đâu, tự tớ ngã thôi.
 Dialogue: 9,0:00:41.77,0:00:44.77,Main,,0,0,0,,Vừa đạp xe vừa dùng điện thoại ấy mà.
 Dialogue: 9,0:00:44.77,0:00:46.81,Main,,0,0,0,,Thế là đâm vào cột điện.
@@ -84,7 +84,7 @@ Dialogue: 9,0:04:38.47,0:04:41.76,Main,,0,0,0,,Từ những dữ kiện đó\N a
 Dialogue: 9,0:04:41.77,0:04:43.63,Main,,0,0,0,,Rồi động não là ra, vậy đấy.
 Dialogue: 9,0:04:43.98,0:04:45.40,Main,,0,0,0,,Hừm~ Ra thế.
 Dialogue: 9,0:04:45.40,0:04:46.52,Main,,0,0,0,,Sắc sảo quá!
-Dialogue: 9,0:04:46.52,0:04:51.44,Main,,0,0,0,,Người ta nói có con trai\N có thể phân biệt được phụ nữ qua vòng ba.
+Dialogue: 9,0:04:46.52,0:04:51.44,Main,,0,0,0,,Người ta nói con trai\N có thể phân biệt được phụ nữ qua vòng ba.
 Dialogue: 9,0:04:51.44,0:04:53.14,Main,,0,0,0,,Ý anh là thế nhở?
 Dialogue: 9,0:04:55.66,0:04:58.66,Main,,0,800,0,,Em xin lỗi!\NEm không cố ý làm vậy.
 Dialogue: 9,0:04:58.66,0:05:03.92,Main,,0,0,0,,Không phải. \NXin lỗi thì xin lỗi, chứ cái anh muốn biết là lý do.
@@ -254,11 +254,11 @@ Dialogue: 9,0:14:28.30,0:14:32.77,Main,,0,0,0,,Ừm, ngược lại thì miễn 
 Dialogue: 9,0:14:32.77,0:14:36.08,Main,,0,0,0,,Ít nhất là trong vài giờ tới sẽ không sao.
 Dialogue: 9,0:14:36.56,0:14:40.08,Main,,0,0,0,,Araragi-senpai, em hỏi câu này được không?
 Dialogue: 9,0:14:40.37,0:14:41.19,Main,,0,0,0,,Gì nào?
-Dialogue: 9,0:14:41.19,0:14:46.19,Main,,0,0,0,,Đối với Araragi-senpai... \NSenjōgahara-senpai có điểm nào cuốn hút?
+Dialogue: 9,0:14:41.19,0:14:46.19,Main,,0,0,0,,Đối với Araragi-senpai... \NSenjōgahara-senpai cuốn hút ở điểm nào?
 Dialogue: 9,0:14:46.51,0:14:50.66,Main,,0,0,0,,Cùng lớp 2 năm không nói với nhau câu nào\N mà tự nhiên lại.
 Dialogue: 9,0:14:51.68,0:14:53.53,Main,,0,0,0,,Sao em lại hỏi thế?
 Dialogue: 9,0:14:56.34,0:14:57.42,Main,,0,0,0,,{\pos(538,950)}Thì tức là ấy...
-Dialogue: 9,0:14:57.42,0:15:01.42,Main,,0,0,0,,Nếu mà Araragi-senpai chỉ thèm muốn\N cơ thể của Senjougahara-senpai...
+Dialogue: 9,0:14:57.42,0:15:01.42,Main,,0,0,0,,Nếu mà Araragi-senpai chỉ thèm muốn\N cơ thể của Senjōgahara-senpai...
 Dialogue: 9,0:15:01.42,0:15:03.12,Main,,0,0,0,,thì em có thể thế chỗ chị ấy.
 Dialogue: 9,0:15:04.13,0:15:06.65,Main,,0,0,0,,{\pos(578,952)}Em nghĩ em dù sao cũng khá dễ thương.
 Dialogue: 9,0:15:08.51,0:15:08.55,Main,,0,0,400,track.dialog,{=5}{\pos(960,680)}Nếu em nuôi tóc\N thì chắc nhìn cũng nữ tính hơn này.
@@ -455,8 +455,8 @@ Dialogue: 9,0:15:31.65,0:15:32.99,Main,,0,0,0,,Công?! Thụ?!
 Dialogue: 9,0:15:32.99,0:15:35.53,Main,,0,0,0,,Sao anh lại phải làm thế cơ chứ?
 Dialogue: 9,0:15:36.91,0:15:41.67,Main,,0,0,0,,À ra vậy, Araragi-senpai không biết gì về BL.\N Bất ngờ đấy.
 Dialogue: 9,0:15:41.67,0:15:44.19,Main,,0,0,0,,Điên à mà đi bàn BL với nữ sinh lớp dưới.
-Dialogue: 9,0:15:44.19,0:15:47.09,Main,,0,0,0,,Hửm?! BL là viết tắt cho Boy Love đó.
-Dialogue: 9,0:15:47.09,0:15:49.36,Main,,0,0,0,,Ai chả biết! \NChả có ai nhầm ở đây hết!
+Dialogue: 9,0:15:44.19,0:15:47.09,Main,,0,0,0,,Hửm?! BL là viết tắt cho Boys Love đó.
+Dialogue: 9,0:15:47.09,0:15:49.36,Main,,0,0,0,,Ai chả biết! \NChả có ai hiểu nhầm ở đây hết!
 Dialogue: 9,0:15:49.55,0:15:53.57,Main,,0,0,0,,{\i1}Ờ đúng rồi, \Nlẽ ra mình nên chú ý từ lúc dọn phòng cho Kanbaru.
 Dialogue: 9,0:15:55.05,0:15:57.17,Main,,0,0,0,,Không hiểu nhầm à?
 Dialogue: 9,0:15:57.17,0:16:01.49,Main,,0,0,0,,Thế thì Araragi-senpai \Nnãy giờ cứ bực tức cái gì thế?
@@ -578,27 +578,27 @@ Dialogue: 9,0:22:14.17,0:22:15.12,Main,,0,0,0,,Linh hồn?
 Dialogue: 9,0:22:16.37,0:22:20.10,Main,,0,0,0,,3 điều ước 1 linh hồn.
 Dialogue: 9,0:22:20.47,0:22:22.40,Main,,0,0,0,,Đương nhiên rồi.
 Dialogue: 9,0:22:22.40,0:22:23.48,Main,,0,0,0,,Là quỷ cơ mà.
-Dialogue: 9,0:23:55.78,0:23:56.48,Main,preview,0,0,0,,Karen đây!
-Dialogue: 9,0:23:56.48,0:23:57.20,Main,preview,0,0,0,,Tsukihi có!
-Dialogue: 9,0:23:57.20,0:23:58.82,Main,preview,0,0,0,,Tsukihi-chan ở CLB Trà đạo nhở?
-Dialogue: 9,0:23:58.82,0:24:00.72,Main,preview,0,0,0,,Ừm, Tsukihi-chan ở CLB Trà đạo đó~
-Dialogue: 9,0:24:00.72,0:24:03.47,Main,preview,0,0,0,,Thế em có biết thành phố Uji ở Kyōto \Nnổi tiếng món trà nào không?
-Dialogue: 9,0:24:03.47,0:24:04.71,Main,preview,0,0,0,,Biết chứ! Biết chứ!
-Dialogue: 9,0:24:04.71,0:24:07.30,Main,preview,0,0,0,,Hình như ở Uji người ta làm cả "vòi trà" \Nnhư kiểu "vòi nước" ấy.
-Dialogue: 9,0:24:07.30,0:24:07.94,Main,preview,0,0,0,,Thật á?
-Dialogue: 9,0:24:07.94,0:24:11.32,GT 2,preview,0,0,0,,{\an4\pos(368.01,924.32)}Jaguchi                               Jacuzzi
-Dialogue: 9,0:24:07.94,0:24:11.32,Main,preview,0,0,0,,Mà "vòi" với "bồn tắm sục" đọc nghe giống nhau nhở?
-Dialogue: 9,0:24:11.32,0:24:12.97,Main,preview,0,0,0,,Tìm hiểu thêm về Uji nào.
-Dialogue: 9,0:24:12.97,0:24:13.85,Main,preview,0,0,0,,Câu đố xem trước!
-Dialogue: 9,0:24:13.85,0:24:14.34,Main,preview,0,0,0,,Đố!
-Dialogue: 9,0:24:14.34,0:24:18.04,GT 2,preview,0,0,0,,(Izu là một thành phố, tương tự Uji, khác tỉnh thôi) (Uji—>Jiu—>Izu)
-Dialogue: 9,0:24:14.34,0:24:15.46,Main,preview,0,0,0,,Xem trước - Izu!
-Dialogue: 9,0:24:15.46,0:24:16.04,Main,preview,0,0,0,,Izu?
-Dialogue: 9,0:24:16.04,0:24:16.87,Main,preview,0,0,0,,Izu mang nghĩa câu đố ấy!
-Dialogue: 9,0:24:16.87,0:24:18.04,Main,preview,0,0,0,,Izu nghĩa là câu đố á?
-Dialogue: 9,0:24:18.47,0:24:20.48,Main,preview,0,0,150,,Kỳ tới, Khỉ Suruga, phần 3!
-Dialogue: 9,0:24:20.48,0:24:21.84,Main,preview,0,0,0,,IZU là qUIZ!
-Dialogue: 9,0:24:21.84,0:24:22.97,Main,preview,0,0,0,,BÍ ẨN!
+Dialogue: 9,0:23:55.78,0:23:56.48,Main,preview,0,0,0,,{\i1}Karen đây!
+Dialogue: 9,0:23:56.48,0:23:57.20,Main,preview,0,0,0,,{\i1}Tsukihi có!
+Dialogue: 9,0:23:57.20,0:23:58.82,Main,preview,0,0,0,,{\i1}Tsukihi-chan ở CLB Trà đạo nhở?
+Dialogue: 9,0:23:58.82,0:24:00.72,Main,preview,0,0,0,,{\i1}Ừm, Tsukihi-chan ở CLB Trà đạo đó~
+Dialogue: 9,0:24:00.72,0:24:03.47,Main,preview,0,0,0,,{\i1}Thế em có biết thành phố Uji ở Kyōto \Nnổi tiếng món trà nào không?
+Dialogue: 9,0:24:03.47,0:24:04.71,Main,preview,0,0,0,,{\i1}Biết chứ! Biết chứ!
+Dialogue: 9,0:24:04.71,0:24:07.30,Main,preview,0,0,0,,{\i1}Hình như ở Uji người ta làm cả "vòi trà" \Nnhư kiểu "vòi nước" ấy.
+Dialogue: 9,0:24:07.30,0:24:07.94,Main,preview,0,0,0,,{\i1}Thật á?
+Dialogue: 9,0:24:07.94,0:24:11.32,GT 2,preview,0,0,0,,{\an4\i1\pos(402.01,924.32)}Jaguchi                               Jacuzzi
+Dialogue: 9,0:24:07.94,0:24:11.32,Main,preview,0,0,0,,{\i1}Mà "vòi" với "bồn tắm sục" đọc nghe giống nhau nhở?
+Dialogue: 9,0:24:11.32,0:24:12.97,Main,preview,0,0,0,,{\i1}Tìm hiểu thêm về Uji nào.
+Dialogue: 9,0:24:12.97,0:24:13.85,Main,preview,0,0,0,,{\i1}Câu đố xem trước!
+Dialogue: 9,0:24:13.85,0:24:14.34,Main,preview,0,0,0,,{\i1}Đố!
+Dialogue: 9,0:24:14.34,0:24:18.04,GT 2,preview,0,0,0,,{\i1}(Izu là một thành phố, tương tự Uji, khác tỉnh thôi) (Uji—>Jiu—>Izu)
+Dialogue: 9,0:24:14.34,0:24:15.46,Main,preview,0,0,0,,{\i1}Xem trước - Izu!
+Dialogue: 9,0:24:15.46,0:24:16.04,Main,preview,0,0,0,,{\i1}Izu?
+Dialogue: 9,0:24:16.04,0:24:16.87,Main,preview,0,0,0,,{\i1}Izu mang nghĩa câu đố ấy!
+Dialogue: 9,0:24:16.87,0:24:18.04,Main,preview,0,0,0,,{\i1}Izu nghĩa là câu đố á?
+Dialogue: 9,0:24:18.47,0:24:20.48,Main,preview,0,0,150,,{\i1}Kỳ tới, Khỉ Suruga, phần 3!
+Dialogue: 9,0:24:20.48,0:24:21.84,Main,preview,0,0,0,,{\i1}IZU là qUIZ!
+Dialogue: 9,0:24:21.84,0:24:22.97,Main,preview,0,0,0,,{\i1}BÍ ẨN!
 Dialogue: 0,0:01:34.95,0:01:40.37,Kanbaru Op,,0,0,0,,{\c&HAF7227&\3c&HAF7227&\blur0.9}Khung cảnh mà ta vô thức bắt gặp...
 Dialogue: 1,0:01:34.95,0:01:40.37,Kanbaru Op,,0,0,0,,{\bord0\c&HA4F7FD&\blur0.75}Khung cảnh mà ta vô thức bắt gặp...
 Dialogue: 0,0:01:40.37,0:01:45.96,Kanbaru Op,,0,0,0,,{\c&HAF7227&\3c&HAF7227&\blur0.9}không phải tương lai mà ta hằng mong đợi.
