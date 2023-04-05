@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 178
-Active Line: 200
-Video Position: 2732
+Scroll Position: 37
+Active Line: 38
+Video Position: 4916
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,7 +70,7 @@ Dialogue: 9,0:03:08.57,0:03:14.25,Main,,0,0,0,,cho đến ngày thứ 3 trò chu
 Dialogue: 9,0:03:14.47,0:03:18.26,Main,,0,0,0,,Em đã được Senjōgahara-senpai chữa lành.
 Dialogue: 9,0:03:18.88,0:03:23.39,Main,,0,0,0,,{\i1}Kể từ đấy, Kanbaru dường như đã có thể loại bỏ\N cái tay xác ướp đó ra khỏi tâm trí.
 Dialogue: 9,0:03:23.39,0:03:24.52,Main,,0,0,0,,{\i1}Nhưng kể cả thế,
-Dialogue: 9,0:03:25.03,0:03:29.02,Main,,0,0,0,,{\i1}vẫn có những lúc bị nó cán dỗ muốn được dùng tiếp.
+Dialogue: 9,0:03:25.03,0:03:29.02,Main,,0,0,0,,{\i1}vẫn có những lúc bị nó cám dỗ muốn được dùng tiếp.
 Dialogue: 9,0:03:29.75,0:03:33.32,Main,,0,0,0,,{\i1}Như là khi có trận bóng rổ tầm cỡ với đối thủ mạnh.
 Dialogue: 9,0:03:33.32,0:03:35.51,Main,,0,0,0,,{\i1}Hay khi gây gổ mâu thuẫn với bạn bè.
 Dialogue: 9,0:03:36.18,0:03:37.29,Main,,0,0,0,,{\i1}Và...
@@ -219,10 +219,11 @@ Comment: 9,0:15:37.85,0:15:38.81,Main,,0,0,0,,Yo~
 Dialogue: 9,0:15:59.06,0:16:00.26,Main,,0,0,0,,Kanbaru! Thứ lỗi cho anh!
 Dialogue: 9,0:16:04.56,0:16:05.40,Main,,0,0,0,,{\i1}Được này!
 Dialogue: 9,0:16:12.03,0:16:12.82,Main,,0,0,0,,{\i1}Chân?
-Dialogue: 9,0:16:13.30,0:16:16.28,Main,,0,0,0,,{\i1}Ơ không phải chỉ dùng được tay trái sao?
+Dialogue: 9,0:16:13.30,0:16:16.28,Main,,0,0,0,,{\i1}Ơ không phải chỉ dùng được tay trái thôi sao?
 Dialogue: 9,0:16:19.75,0:16:25.42,Main,,0,0,0,,{\i1}Không chỉ cánh tay trái của Quỷ Mưa,\N bản thân Kanbaru cũng muốn đánh mình!
-Dialogue: 9,0:16:25.79,0:16:30.59,Main,,0,0,0,,{\i1}Trong tiềm thức, Kanbaru đang từ chối... \Nđể điều ước thứ 2 không được thực hiện,
-Dialogue: 9,0:16:30.59,0:16:32.30,Main,,0,0,0,,{\i1}để không giết mình.
+Dialogue: 9,0:16:25.79,0:16:28.43,Main,,0,0,0,,{\i1}Trong tiềm thức, Kanbaru đang từ chối,
+Dialogue: 9,0:16:28.43,0:16:30.59,Main,,0,0,0,,{\i1}từ chối việc điều ước thứ 2 không được thực hiện,
+Dialogue: 9,0:16:30.59,0:16:32.30,Main,,0,0,0,,{\i1}từ chối việc không giết mình.
 Dialogue: 9,0:16:32.30,0:16:35.43,Main,,0,0,0,,{\i1}Kanbaru không có ý định từ bỏ Senjōgahara.
 Dialogue: 9,0:16:38.39,0:16:39.55,Main,,0,0,0,,Chặt nó đi!
 Dialogue: 9,0:16:40.93,0:16:43.31,Main,,0,0,0,,Cánh tay trái mà thế này... em không cần!
@@ -392,17 +393,17 @@ Dialogue: 0,0:06:05.38,0:06:09.84,Kanbaru Op,,0,0,0,,{\c&H5E555B&\blur0.9}Vẫn 
 Dialogue: 1,0:06:05.38,0:06:09.84,Kanbaru Op,,0,0,0,,{\bord0\blur0.75}Vẫn có việc để làm mà.
 Dialogue: 0,0:06:09.84,0:06:12.64,Kanbaru Op,,0,0,0,,{\c&H5E555B&\blur0.9}Khẩn trương! Khẩn trương! \NKhẩn trương tới được nơi ấy!
 Dialogue: 1,0:06:09.84,0:06:12.64,Kanbaru Op,,0,0,0,,{\bord0\blur0.75}Khẩn trương! Khẩn trương! \NKhẩn trương tới được nơi ấy!
-Dialogue: 0,0:06:15.06,0:06:15.10,Signs,,0,0,0,,{\pos(965.715,846.09)\fscx173.65\blur1\fscy173.65\c&H44FE4A&\fnVL FertigoPro\fs40\fsp2}Suruga Monkey
+Dialogue: 0,0:06:15.06,0:06:15.10,Signs,,0,0,0,,{\pos(965.715,846.09)\fscx173.65\blur1\fscy173.65\c&H44FE4A&\fnVL FertigoPro\fs40\fsp2}Khỉ Suruga
 Dialogue: 0,0:06:15.06,0:06:15.10,Signs,,0,0,0,,{\pos(965.715,-8.28)\fscx229.21\fscy251.44\bord14.595\c&H0407EF&\3c&H4B3CEF&\blur20\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
 Dialogue: 1,0:06:15.06,0:06:15.10,Signs,,0,0,0,,{\pos(965.715,-8.28)\fscx229.21\fscy251.44\blur0.9\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
-Dialogue: 0,0:06:15.10,0:06:15.14,Signs,,0,0,0,,{\pos(966.21,896.31)\fscx213.9\blur1\fscy213.9\c&H44FE4A&\fnVL FertigoPro\fs40\fsp2}Suruga Monkey
-Dialogue: 0,0:06:15.14,0:06:15.18,Signs,,0,0,0,,{\pos(961.755,722.37)\fscx130.65\fscy130.65\c&H44FE4A&\blur1\fnVL FertigoPro\fs40\fsp2}Suruga Monkey
+Dialogue: 0,0:06:15.10,0:06:15.14,Signs,,0,0,0,,{\pos(966.21,896.31)\fscx213.9\blur1\fscy213.9\c&H44FE4A&\fnVL FertigoPro\fs40\fsp2}Khỉ Suruga
+Dialogue: 0,0:06:15.14,0:06:15.18,Signs,,0,0,0,,{\pos(961.755,722.37)\fscx130.65\fscy130.65\c&H44FE4A&\blur1\fnVL FertigoPro\fs40\fsp2}Khỉ Suruga
 Dialogue: 0,0:06:15.14,0:06:15.18,Signs,,0,0,0,,{\pos(961.755,79.59)\fscx172.45\fscy189.18\bord10.98\c&H0406EF&\3c&H4B3CEF&\blur20\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
 Dialogue: 1,0:06:15.14,0:06:15.18,Signs,,0,0,0,,{\pos(961.755,79.59)\fscx172.45\fscy189.18\blur0.825\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
-Dialogue: 0,0:06:15.18,0:06:15.22,Signs,,0,0,0,,{\pos(961.77,751.98)\fscx153.9\fscy153.9\c&H44FE4A&\blur1\fnVL FertigoPro\fs40\fsp2}Suruga Monkey
+Dialogue: 0,0:06:15.18,0:06:15.22,Signs,,0,0,0,,{\pos(961.77,751.98)\fscx153.9\fscy153.9\c&H44FE4A&\blur1\fnVL FertigoPro\fs40\fsp2}Khỉ Suruga
 Dialogue: 0,0:06:15.18,0:06:15.22,Signs,,0,0,0,,{\pos(961.77,-5.19)\fscx203.15\fscy222.84\bord12.93\c&H0408EF&\3c&H4B3CEF&\blur20\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
 Dialogue: 1,0:06:15.18,0:06:15.22,Signs,,0,0,0,,{\pos(961.77,-5.19)\fscx203.15\fscy222.84\blur0.825\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
-Dialogue: 0,0:06:15.22,0:06:20.94,Signs,,0,0,0,,{\pos(960,705)\fscx125\fscy125\c&H44FE4A&\blur1\fnVL FertigoPro\fs40\fsp2}Suruga Monkey
+Dialogue: 0,0:06:15.22,0:06:20.94,Signs,,0,0,0,,{\pos(960,705)\fscx125\fscy125\c&H44FE4A&\blur1\fnVL FertigoPro\fs40\fsp2}Khỉ Suruga
 Dialogue: 0,0:06:15.22,0:06:20.94,Signs,,0,0,0,,{\pos(960,90)\fscx165\fscy181\bord10.5\c&H0406EF&\3c&H4B3CEF&\blur20\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
 Dialogue: 1,0:06:15.22,0:06:20.94,Signs,,0,0,0,,{\pos(960,90)\fscx165\fscy181\blur0.825\fnVL TelingaterDisplay\fs90}Yêu Ma Quái Truyện
 Dialogue: 0,0:06:15.06,0:06:15.10,Signs,,0,0,0,,{\q2\pos(965.715,846.09)\blur1\c&H44FE4A&\fnVL FertigoPro\fs48\fsp2\fscx60\fscy60}\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\NDỊCH{\fs72} KiOZ {\fs48}TYPESET{\fs72} KiOZ/EAGLE/MOCHIOKA/MOCHIOKA {\fs48}TIMING{\fs72} KiOZ {\fs48}QC{\fs72} MOCHIOKA/KiOZ {\fs48}WORKFLOW{\fs72} TUILAKHANH\NGood Subs Good Anime | Thanks to MTBB {\fs48}(TYPESET,TIMING)
