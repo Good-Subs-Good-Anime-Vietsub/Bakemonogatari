@@ -16,9 +16,8 @@ Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1434
-Active Line: 1438
-Video Position: 3098
+Active Line: 1
+Video Position: 3797
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +32,7 @@ Style: EDvie,VL Harman Deco Inline,88,&H00FFFFFF,&H00FFFFFF,&H1E000000,&H0000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:29.55,0:02:30.80,Signs,,0,0,0,,{\fs25\blur1\fnVL FertigoPro\c&H5C6B63&\pos(1723.81,280.19)}Bốn             Mươi
-Dialogue: 0,0:02:38.35,0:02:39.97,Signs,,0,0,0,,{\fs68\blur1.2\fnVL FertigoPro\c&HBFC7C9&\pos(1245.2,490.6)}DỪNG\N LẠI
+Dialogue: 0,0:02:38.35,0:02:39.97,Signs,,0,0,0,,{\fs68\blur1.2\fnVL FertigoPro\c&HBFC7C9&\pos(1245.2,490.6)\fscx80\fscy80}DỪNG
 Dialogue: 1,0:02:45.77,0:02:46.65,Signs,,0,0,0,,{\an5\blur1.2\fs45\1c&H0423E8&\shad1\4c&HDADADA&\fnUVN Gia Dinh\pos(1442,191.67)\fscx95\fscy85}Khu Đất Được Chào Bán
 Dialogue: 1,0:02:45.77,0:02:46.65,Signs,,0,0,0,,{\an5\blur0.8\fs11\fnUVN Gia Dinh\1c&H455ADB&\shad0\4c&HFFFFFF&\pos(946,217)\fscx95\fscy85}Khu Đất Được Chào Bán
 Dialogue: 2,0:04:16.61,0:04:20.32,Signs,,0,0,0,,{\blur1\alpha&28&\fs37\fnVL DellaRobbia BT\c&H595F64&\1a&H12&\fsp1\pos(911.42,136.6)}Độ Phóng Đại
@@ -1289,30 +1288,30 @@ Dialogue: 1,0:02:05.44,0:02:05.48,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00
 Dialogue: 1,0:02:05.48,0:02:05.52,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.1\fs85\an4\c&H6E8DF3&\fnVL DellaRobbia BT\pos(1099.97,677.37)}tôi biến thành ma cà rồng.
 Dialogue: 1,0:02:05.52,0:02:05.56,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.1\fs85\an4\c&H6E8DF3&\fnVL DellaRobbia BT\pos(1100.17,677.88)}tôi biến thành ma cà rồng.
 Dialogue: 1,0:02:05.56,0:02:05.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\blur1.1\fs85\an4\c&H6E8DF3&\fnVL DellaRobbia BT\pos(1100.17,677.39)}tôi biến thành ma cà rồng.
-Dialogue: 1,0:02:05.61,0:02:05.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112,310.59)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.65,0:02:05.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.02,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.69,0:02:05.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.54,310.62)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.73,0:02:05.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.28,311.12)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.77,0:02:05.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.52,310.63)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.81,0:02:05.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.03,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.86,0:02:05.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.03,310.6)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.90,0:02:05.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.29,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.94,0:02:05.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.29,310.6)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:05.98,0:02:06.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.7,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:06.02,0:02:06.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.04,310.6)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 1,0:02:06.06,0:02:06.11,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.55,311.26)\alpha&HD0&}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.61,0:02:05.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112,310.59)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.65,0:02:05.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.02,311.1)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.69,0:02:05.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.54,310.62)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.73,0:02:05.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.28,311.12)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.77,0:02:05.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.52,310.63)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.81,0:02:05.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.03,311.1)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.86,0:02:05.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.03,310.6)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.90,0:02:05.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.29,311.1)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.94,0:02:05.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.29,310.6)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:05.98,0:02:06.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.7,311.1)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:06.02,0:02:06.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.04,310.6)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
-Dialogue: 2,0:02:06.06,0:02:06.11,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.55,311.26)}Và cái gã qua đường đã giải cứu khỏi địa ngục đó
+Dialogue: 1,0:02:05.61,0:02:05.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112,310.59)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.65,0:02:05.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.02,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.69,0:02:05.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.54,310.62)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.73,0:02:05.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.28,311.12)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.77,0:02:05.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.52,310.63)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.81,0:02:05.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.03,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.86,0:02:05.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.03,310.6)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.90,0:02:05.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.29,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.94,0:02:05.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.29,310.6)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:05.98,0:02:06.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.7,311.1)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:06.02,0:02:06.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.04,310.6)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 1,0:02:06.06,0:02:06.11,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.55,311.26)\alpha&HD0&}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.61,0:02:05.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112,310.59)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.65,0:02:05.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.02,311.1)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.69,0:02:05.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.54,310.62)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.73,0:02:05.77,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.28,311.12)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.77,0:02:05.81,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.52,310.63)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.81,0:02:05.86,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.03,311.1)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.86,0:02:05.90,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.03,310.6)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.90,0:02:05.94,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.29,311.1)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.94,0:02:05.98,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.29,310.6)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:05.98,0:02:06.02,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.7,311.1)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:06.02,0:02:06.06,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.04,310.6)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
+Dialogue: 2,0:02:06.06,0:02:06.11,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\an4\fsp3\blur1.1\fs75\fnVL DellaRobbia BT\pos(112.55,311.26)}Và cái gã qua đường đã giải cứu tôi khỏi địa ngục đó
 Dialogue: 1,0:02:05.61,0:02:05.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112,547.59)\alpha&HD0&}tên là Oshino Meme, một gã quái đản.
 Dialogue: 1,0:02:05.65,0:02:05.69,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.02,548.1)\alpha&HD0&}tên là Oshino Meme, một gã quái đản.
 Dialogue: 1,0:02:05.69,0:02:05.73,Signs,,0,0,0,,{\fscx100\fscy100\frz0\an4\fsp3\blur4\fs75\fnVL DellaRobbia BT\pos(112.54,547.62)\alpha&HD0&}tên là Oshino Meme, một gã quái đản.

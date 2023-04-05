@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 415
-Active Line: 453
-Video Position: 36645
+Scroll Position: 425
+Active Line: 479
+Video Position: 3184
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -510,7 +510,7 @@ Dialogue: 9,0:01:52.68,0:01:55.93,OPvie,,0,0,40,,{\c&H2380F8&\blur0.67\an2\fs72\
 Dialogue: 9,0:01:55.93,0:01:56.18,OPvie,,0,0,40,,{\c&H011AE3&\blur0.67\an2\fs72\b1}hãy tóm lấy em khi em nhảy vào trái tim chàng.
 Dialogue: 9,0:01:56.18,0:02:05.02,OPvie,,0,0,40,,{\an2\c&H0001FD&\blur0.67\fs72\b1}Sức nặng của thứ cảm xúc này là chẳng thể cân đo.
 Dialogue: 9,0:02:05.02,0:02:11.24,OPvie,,0,0,40,,{\fad(0,300)\an2\blur0.67\fs72\b1}Bởi chỉ mình chàng thôi, em tới nói ngay đây mà.
-Dialogue: 9,0:02:11.90,0:02:17.99,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs72\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE/MOCHIOKA {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
+Dialogue: 9,0:02:11.90,0:02:17.99,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs48\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE/MOCHIOKA {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
 Dialogue: 0,0:02:07.15,0:02:07.61,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL FertigoPro\blur1\fsp4\fs40\t(-13,487,\c&H090AF3&)\pos(960,706.67)}Cua Hitagi
 Dialogue: 0,0:02:07.61,0:02:07.65,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(960,706.67)}Cua Hitagi
 Dialogue: 0,0:02:07.65,0:02:07.69,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(959.99,706.58)}Cua Hitagi

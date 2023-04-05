@@ -16,9 +16,9 @@ Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 92
-Active Line: 93
-Video Position: 20092
+Scroll Position: 998
+Active Line: 1013
+Video Position: 4152
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -988,29 +988,29 @@ Dialogue: 1,0:02:50.56,0:02:50.60,Signs,,0,0,0,,{=81}{\fscx100\fscy100\frz0\alph
 Dialogue: 1,0:02:50.60,0:02:50.65,Signs,,0,0,0,,{=81}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.1\fs110\pos(901.86,350.24)}À.
 Dialogue: 1,0:02:50.65,0:02:50.69,Signs,,0,0,0,,{=81}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.1\fs110\pos(901.57,349.73)}À.
 Dialogue: 1,0:02:50.69,0:02:50.73,Signs,,0,0,0,,{=81}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.1\fs110\pos(902.21,350.17)}À.
-Dialogue: 1,0:02:50.73,0:02:50.77,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:50.77,0:02:50.81,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.74,823.51)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:50.81,0:02:50.85,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.31,823.12)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:50.85,0:02:50.90,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.01,823.58)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:50.90,0:02:50.94,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,822.98)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:50.94,0:02:50.98,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.25,823.61)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:50.98,0:02:51.02,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.73,823.08)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.02,0:02:51.06,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.73,823.62)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.06,0:02:51.10,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.72,822.98)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.10,0:02:51.15,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823.58)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.15,0:02:51.19,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.99,823.07)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.19,0:02:51.23,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.23,823.66)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.23,0:02:51.27,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.72,823.11)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.27,0:02:51.31,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.62,823.54)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.31,0:02:51.35,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823.07)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.35,0:02:51.40,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.67,823.61)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.40,0:02:51.44,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.69,822.97)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.44,0:02:51.48,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.73,823.63)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.48,0:02:51.52,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.01,823.04)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.52,0:02:51.56,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.25,823.64)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.56,0:02:51.60,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.60,0:02:51.65,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.01,823.52)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
-Dialogue: 1,0:02:51.65,0:02:51.69,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.7,823.07)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạp ập tới như sóng vỗ.
+Dialogue: 1,0:02:50.73,0:02:50.77,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:50.77,0:02:50.81,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.74,823.51)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:50.81,0:02:50.85,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.31,823.12)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:50.85,0:02:50.90,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.01,823.58)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:50.90,0:02:50.94,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,822.98)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:50.94,0:02:50.98,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.25,823.61)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:50.98,0:02:51.02,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.73,823.08)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.02,0:02:51.06,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.73,823.62)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.06,0:02:51.10,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.72,822.98)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.10,0:02:51.15,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823.58)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.15,0:02:51.19,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.99,823.07)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.19,0:02:51.23,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.23,823.66)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.23,0:02:51.27,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.72,823.11)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.27,0:02:51.31,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.62,823.54)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.31,0:02:51.35,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823.07)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.35,0:02:51.40,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.67,823.61)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.40,0:02:51.44,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.69,822.97)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.44,0:02:51.48,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.73,823.63)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.48,0:02:51.52,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.01,823.04)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.52,0:02:51.56,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.25,823.64)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.56,0:02:51.60,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596,823)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.60,0:02:51.65,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(596.01,823.52)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
+Dialogue: 1,0:02:51.65,0:02:51.69,Signs,,0,0,0,,{=80}{\fscx100\fscy100\frz0\alpha&H00&\pos(595.7,823.07)\c&H1433DF&\fnVL DellaRobbia BT\blur1.1\fs60}Cảm giác chán nản nặng nề \Nào ạt ập tới như sóng vỗ.
 Dialogue: 1,0:02:51.69,0:02:51.73,Signs,,0,0,0,,{=79}{\fscx100\fscy100\frz0\alpha&H00&\pos(945,437)\fnVL DellaRobbia BT\blur1.1\fs80\c&HFFFEFB&}Khi nhìn lên bầu trời,
 Dialogue: 1,0:02:51.73,0:02:51.77,Signs,,0,0,0,,{=79}{\fscx100\fscy100\frz0\alpha&H00&\pos(945.51,437.45)\fnVL DellaRobbia BT\blur1.1\fs80\c&HFFFEFB&}Khi nhìn lên bầu trời,
 Dialogue: 1,0:02:51.77,0:02:51.81,Signs,,0,0,0,,{=79}{\fscx100\fscy100\frz0\alpha&H00&\pos(945.28,436.83)\fnVL DellaRobbia BT\blur1.1\fs80\c&HFFFEFB&}Khi nhìn lên bầu trời,
@@ -1046,21 +1046,21 @@ Dialogue: 1,0:02:52.98,0:02:53.02,Signs,,0,0,0,,{=78}{\fscx100\fscy100\frz0\alph
 Dialogue: 1,0:02:53.02,0:02:53.06,Signs,,0,0,0,,{=78}{\fscx100\fscy100\frz0\alpha&H00&\c&H1D3BDF&\fnVL DellaRobbia BT\blur1.1\fs65\pos(457.01,536.52)}tôi từng cảm thấy thanh thản,
 Dialogue: 1,0:02:53.06,0:02:53.11,Signs,,0,0,0,,{=78}{\fscx100\fscy100\frz0\alpha&H00&\c&H1D3BDF&\fnVL DellaRobbia BT\blur1.1\fs65\pos(457.01,535.99)}tôi từng cảm thấy thanh thản,
 Dialogue: 1,0:02:53.11,0:02:53.15,Signs,,0,0,0,,{=78}{\fscx100\fscy100\frz0\alpha&H00&\c&H1D3BDF&\fnVL DellaRobbia BT\blur1.1\fs65\pos(457.01,536.5)}tôi từng cảm thấy thanh thản,
-Dialogue: 1,0:02:53.15,0:02:53.19,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.67,469.67)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.19,0:02:53.23,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.4,470.13)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.23,0:02:53.27,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.68,469.67)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.27,0:02:53.31,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.39,470.17)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.31,0:02:53.36,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.37,469.6)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.36,0:02:53.40,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.64,470.07)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.40,0:02:53.44,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.38,469.63)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.44,0:02:53.48,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.05,470.15)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.48,0:02:53.52,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.37,469.61)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.52,0:02:53.56,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.39,470.08)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.56,0:02:53.61,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.38,469.61)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.61,0:02:53.65,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.13,470.09)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.65,0:02:53.69,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.65,469.64)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.69,0:02:53.73,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.13,470.08)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
-Dialogue: 1,0:02:53.73,0:02:53.77,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.16,469.43)}nhưng giờ đây, tôi thấy ghét cái "con người nhỏ bé" trong mình.
+Dialogue: 1,0:02:53.15,0:02:53.19,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.67,469.67)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.19,0:02:53.23,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.4,470.13)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.23,0:02:53.27,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.68,469.67)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.27,0:02:53.31,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.39,470.17)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.31,0:02:53.36,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.37,469.6)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.36,0:02:53.40,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.64,470.07)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.40,0:02:53.44,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.38,469.63)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.44,0:02:53.48,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.05,470.15)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.48,0:02:53.52,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.37,469.61)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.52,0:02:53.56,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.39,470.08)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.56,0:02:53.61,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.38,469.61)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.61,0:02:53.65,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.13,470.09)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.65,0:02:53.69,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.65,469.64)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.69,0:02:53.73,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.13,470.08)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
+Dialogue: 1,0:02:53.73,0:02:53.77,Signs,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\fnGentium Basic\fs80\blur1.15\pos(956.16,469.43)}nhưng giờ đây, tôi thấy ghét mình thật tiểu nhân.
 Dialogue: 1,0:02:53.77,0:02:53.82,Signs,,0,0,0,,{=76}{\fscx100\fscy100\frz0\alpha&H00&\fs55\fnVL DellaRobbia BT\blur1.1\c&H708EF8&\pos(413.67,514.67)}Có thể gọi cái cảm giác này là\N sự ghê tởm chính bản thân mình.
 Dialogue: 1,0:02:53.82,0:02:53.86,Signs,,0,0,0,,{=76}{\fscx100\fscy100\frz0\alpha&H00&\fs55\fnVL DellaRobbia BT\blur1.1\c&H708EF8&\pos(413.67,515.15)}Có thể gọi cái cảm giác này là\N sự ghê tởm chính bản thân mình.
 Dialogue: 1,0:02:53.86,0:02:53.90,Signs,,0,0,0,,{=76}{\fscx100\fscy100\frz0\alpha&H00&\fs55\fnVL DellaRobbia BT\blur1.1\c&H708EF8&\pos(413.17,514.51)}Có thể gọi cái cảm giác này là\N sự ghê tởm chính bản thân mình.

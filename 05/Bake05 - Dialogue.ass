@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 05 (BD 1080p Hi10 Opus) [1E10A491].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 718
-Active Line: 730
-Video Position: 1023
+Scroll Position: 12
+Active Line: 13
+Video Position: 688
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +45,7 @@ Dialogue: 6,0:00:17.08,0:00:19.46,Main,,0,0,0,,Thích hết, miễn sao là th�
 Dialogue: 6,0:00:20.58,0:00:23.42,Main,,0,0,0,,Tay của Araragi-san cũng rất chi là ngon.
 Dialogue: 6,0:00:23.42,0:00:25.26,Main,,0,0,0,,Tay anh không phải thức ăn nhá.
 Dialogue: 6,0:00:25.26,0:00:28.68,Main,,0,0,0,,Thôi thôi ngại làm cái gì, ngon ơi là ngon luôn.
-Dialogue: 6,0:00:28.68,0:00:33.81,Main,,0,0,0,,{\i1}Mà chuẩn ra là nhóc đã nuốt kha khá cả máu lẫn thịt của anh rồi đấy.
+Dialogue: 6,0:00:28.68,0:00:33.81,Main,,0,0,0,,{\i1}Mà chuẩn ra là nhóc đã nuốt kha khá \Ncả máu lẫn thịt của anh rồi đấy.
 Dialogue: 6,0:00:33.81,0:00:36.35,Main,,0,0,0,,{\i1}Nên không dễ để coi đó là câu đùa đâu.
 Dialogue: 6,0:02:22.29,0:02:27.38,Main,,0,0,0,,Hachikuji, anh không rõ lắm cơ mà\Nem là em muốn gặp mẹ đúng không?
 Dialogue: 6,0:02:27.63,0:02:31.84,Main,,0,0,0,,Con muốn gặp mẹ thì là bình thường mà.
@@ -558,7 +558,7 @@ Dialogue: 6,0:13:32.67,0:13:34.59,Main,,0,0,0,,Tức là... Cuộc hành hương
 Dialogue: 6,0:13:36.55,0:13:37.25,Main,,0,0,0,,Nhưng mà...
 Dialogue: 6,0:13:38.67,0:13:42.09,Main,,0,0,0,,Thật sự là cậu không nhìn thấy Hachikuji sao?
 Dialogue: 6,0:13:42.09,0:13:44.72,Main,,0,0,0,,Không nhìn thấy, cũng không nghe thấy.
-Dialogue: 6,0:13:44.72,0:13:46.56,Main,,0,0,0,,Thế sao cậu chứ thản nhiên—
+Dialogue: 6,0:13:44.72,0:13:46.56,Main,,0,0,0,,Thế sao cậu cứ thản nhiên—
 Dialogue: 6,0:13:46.81,0:13:48.56,Main,,0,0,0,,{\i1}Có nhìn thấy gì đâu.{tập 3}
 Dialogue: 6,0:13:51.23,0:13:57.98,Main,,0,0,0,,Tất cả những gì tôi thấy là Araragi-kun lẩm bẩm một mình, \Nrồi cuối cùng lên cơn đấm đá cũng một mình.
 Dialogue: 6,0:13:57.98,0:14:00.86,Main,,0,0,0,,Thú thật tôi không biết là \Ncậu đang làm cái gì nữa.
@@ -583,7 +583,7 @@ Dialogue: 6,0:15:03.76,0:15:06.55,Main,,0,0,0,,{\i1}Gia đình bất hòa, lục
 Dialogue: 6,0:15:06.68,0:15:12.35,Main,,0,0,720,,Tuy nhiên Araragi-kun, \Nchính vì thế mới nói việc giải quyết Bò Lạc rất dễ dàng.
 Dialogue: 6,0:15:12.35,0:15:15.94,Main,,0,0,720,,Như đã nói lúc đầu,\N cứ không bám theo, tránh xa ra là được.
 Dialogue: 6,0:15:15.94,0:15:17.48,Main,,900,0,0,,Chỉ cần vậy thôi.
-Dialogue: 6,0:15:19.48,0:15:24.49,Main,,0,0,0,,"Đây không phải xấu xa gì, \Ncũng không mang sức mạnh to lớn."
+Dialogue: 6,0:15:19.48,0:15:24.49,Main,,0,0,0,,"Đây không phải Quái Dị xấu xa gì, \Ncũng không phải Quái Dị mang sức mạnh khủng khiếp."
 Dialogue: 6,0:15:24.49,0:15:26.41,Main,,0,0,0,,"Hơn hết là không gây thiệt hại nghiêm trọng."
 Dialogue: 6,0:15:26.41,0:15:27.36,Main,,0,0,0,,Ông ta nói thế.
 Dialogue: 6,0:15:27.36,0:15:28.41,Main,,0,0,0,,Nên là...
@@ -597,7 +597,7 @@ Dialogue: 6,0:15:50.72,0:15:54.02,Main,,0,0,0,,Không ở đó, chẳng ở đâ
 Dialogue: 6,0:15:54.02,0:15:57.69,Main,,0,0,0,,Hachikuji... Tên là Hachikuji Mayoi-chan nhỉ?
 Dialogue: 6,0:15:57.69,0:15:58.69,Main,,0,0,0,,Em ấy...
 Dialogue: 6,0:16:00.98,0:16:02.61,Main,,0,0,0,,...đã chết rồi.
-Dialogue: 6,0:16:02.61,0:16:07.28,Main,,0,0,0,,Thế nên em ấy không bị ma ám...\N mà chính em ấy là ma.
+Dialogue: 6,0:16:02.61,0:16:07.28,Main,,0,0,0,,Thế nên em ấy không bị Quái Dị ám...\N mà chính em ấy là Quái Dị.
 Dialogue: 6,0:16:08.11,0:16:09.49,Main,,0,0,0,,Thế thì sao nào?
 Dialogue: 6,0:16:09.49,0:16:11.91,Main,,0,0,0,,A-Araragi-san? Đau em ạ.
 Dialogue: 6,0:16:13.12,0:16:18.71,Main,,0,0,0,,A-Araragi-san ơi... \NChị ấy, Senjōgahara-san nói đúng đấy ạ.
@@ -647,7 +647,7 @@ Dialogue: 6,0:18:40.43,0:18:43.64,Main,,0,0,0,,Đương nhiên là nhà của Ts
 Dialogue: 6,0:18:43.64,0:18:45.73,Main,,0,0,0,,Và còn nữa, Araragi-kun...
 Dialogue: 6,0:18:46.10,0:18:47.02,Main,,0,0,0,,Sao?
 Dialogue: 6,0:18:57.53,0:19:00.24,Main,,0,0,0,,Cung hỷ lâm môn.
-Dialogue: 6,0:19:06.08,0:19:09.96,Main,,0,0,0,,{\i1}Bò Lạc... {trong các dạng Yêu Ma Quái}nếu mà thuộc dạng Ma...
+Dialogue: 6,0:19:06.08,0:19:09.96,Main,,0,0,0,,{\i1}Bò Lạc... trong các dạng Yêu Ma Quái \Nnếu mà thuộc dạng Ma...
 Dialogue: 6,0:19:09.96,0:19:13.34,Main,,0,0,0,,{\i1}thì sẽ không thể ghi lại "bộ nhớ ký ức".
 Dialogue: 6,0:19:13.34,0:19:16.22,Main,,0,0,0,,{\i1}"Bộ nhớ ký ức"... nói cách khác, là kiến thức.
 Dialogue: 6,0:19:18.72,0:19:19.72,Main,,0,0,0,,Đến nơi rồi.

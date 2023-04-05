@@ -14,10 +14,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mk
 Video File: ../raws/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 248
-Active Line: 256
-Video Position: 21783
+Video Zoom Percent: 0.375000
+Scroll Position: 288
+Active Line: 291
+Video Position: 24970
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -322,10 +322,10 @@ Dialogue: 7,0:17:01.63,0:17:08.09,Main,,0,0,720,,Mà hôm trước, \NAraragi-ku
 Dialogue: 7,0:17:12.64,0:17:15.18,Main,,0,0,0,,À, ra thế! Hiểu rồi!
 Dialogue: 7,0:17:15.51,0:17:19.73,Main,,0,0,0,,Trí tưởng tượng của cậu\N còn vượt xa cả đám vịt cuồng "yaoi" ha.
 Dialogue: 7,0:17:19.73,0:17:21.44,Main,,0,0,0,,Yaoi? Là gì thế?
-Dialogue: 7,0:17:21.44,0:17:24.77,Main,@@@@,0,0,880,,Là viết tắt của: {Ý nghĩa thâm sâm - Ao tù nước đọng - }
-Dialogue: 7,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnVL DellaRobbia BT\fs116\fsp4\1c&H009CE4&\pos(658.6,412.93)}No climax
-Dialogue: 7,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnVL DellaRobbia BT\fs116\fsp4\c&H009CE4&\pos(658.6,890.13)}No punch line{sync with ep3.ass}
-Dialogue: 7,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnVL DellaRobbia BT\fs116\fsp4\c&H009CE4&\pos(658.6,654.53)}Deep meaning{!}{it's a variation of classical yaoi abbreviation. classical one is やまなし、おちなし、意味なし No climax, no end, no meaning. Here is deep meaning.}{ksp: pretty certain this line gets mentioned again during kanbaru's arc}
+Dialogue: 7,0:17:21.44,0:17:24.77,Main,,0,0,880,,Là viết tắt của: {Ý nghĩa thâm sâm - Ao tù nước đọng - }
+Dialogue: 7,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnGentium\fs116\fsp4\c&H009CE4&\pos(658.6,420.93)\fscx79\fscy79\b1}Yama nashi (không cao trào)
+Dialogue: 7,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnGentium\fs116\fsp4\c&H009CE4&\pos(658.6,658.13)\fscx79\fscy79\b1}Ochi nashi (không điểm nhấn)
+Dialogue: 7,0:17:21.44,0:17:24.77,Signs,,0,0,0,,{\an4\blur1\fnGentium\fs116\fsp4\c&H009CE4&\pos(658.6,905.2)\fscx79\fscy79\b1}Imi shinchō (hàm ý sâu sắc)
 Dialogue: 7,0:17:24.77,0:17:26.44,Main,,0,0,0,,Nghe điêu lắm.
 Dialogue: 7,0:17:26.44,0:17:28.28,Main,,0,0,0,,Thôi được, để lần sau tớ kiểm tra.
 Dialogue: 7,0:17:28.28,0:17:29.57,Main,,0,0,0,,Nghiêm túc quá nhở.
@@ -349,7 +349,7 @@ Dialogue: 7,0:18:20.12,0:18:23.21,Main,,400,0,0,,{\i1}tôi đã có được \Ns
 Dialogue: 7,0:18:30.76,0:18:34.63,Main,,0,0,0,,Thật là! Sáng Chủ Nhật ngủ được giấc\Nmà bị phá mất rồi.
 Dialogue: 7,0:18:34.63,0:18:36.51,Main,,0,0,0,,Tsundere-chan tệ hết chỗ nói!
 Dialogue: 7,0:18:36.51,0:18:39.93,Main,,0,0,0,,Tsundere-chan? \NÀ, Senjōgahara ấy à.
-Dialogue: 7,0:18:39.93,0:18:46.27,Main,,0,0,0,,{\i1}Cơ mà, trong khoảng thời gian ngắn như thế mà bằng một cách nào đó\N Araragi-kun gặp biết bao nhiêu là chuyện Quái Dị.
+Dialogue: 7,0:18:39.93,0:18:46.27,Main,,0,0,0,,{\i1}Cơ mà, trong khoảng thời gian ngắn như thế mà bằng một cách nào đó\N Araragi-kun gặp biết bao nhiêu là Quái Dị.
 Dialogue: 7,0:18:46.27,0:18:48.40,Main,,0,0,0,,Có phải tôi bị đâu.
 Dialogue: 7,0:18:48.40,0:18:50.65,Main,,0,0,0,,{\i1}Hả? Thế à?
 Dialogue: 7,0:18:50.65,0:18:53.99,Main,,0,0,0,,Đụng phải Ốc Sên \Nlà một cô bé tên Hachikuji Mayoi.
@@ -396,14 +396,14 @@ Dialogue: 7,0:21:03.87,0:21:04.83,Main,,0,0,0,,Ma?
 Dialogue: 7,0:21:04.83,0:21:07.55,Main,,0,0,0,,{\i1}Mà thế này Araragi-kun, cậu có biết không nhở?
 Dialogue: 7,0:21:07.55,0:21:11.25,Main,,0,0,0,,{\i1}Về "Hành hương 88 đền ở Shikoku" hay\N "Hành hương 33 đền ở Saigoku" chẳng hạn.
 Dialogue: 7,0:21:11.25,0:21:14.46,Main,,0,0,0,,Ờ, cũng có biết qua.
-Dialogue: 7,0:21:14.46,0:21:18.05,Main,TLC,0,0,0,,{\i1}Thì Hachikuji ấy, cũng có thể hiểu theo cách đó.
-Dialogue: 7,0:21:14.46,0:21:18.05,GT 2,TLC,0,0,0,,{\i1\pos(582,946)} (Tám Chín - 89)
+Dialogue: 7,0:21:14.46,0:21:18.05,Main,,0,0,0,,{\i1}Thì Hachikuji ấy, cũng có thể hiểu theo cách đó.
+Dialogue: 7,0:21:14.46,0:21:18.05,GT 2,,0,0,0,,{\i1\pos(582,946)} (Tám Chín - 89)
 Dialogue: 7,0:21:19.17,0:21:25.18,Main,,0,0,0,,{\i1}Và cậu biết đấy, "89" còn được đọc là "yaku",\Nvà "yaku" thường mang nghĩa là "xui xẻo" còn gì.
 Dialogue: 7,0:21:25.18,0:21:30.39,Main,,0,0,0,,{\i1}Rồi lối giải thích này ngày một phổ biến, \Nđến mức "Hachikuji" không còn được dùng nữa.
 Dialogue: 7,0:21:31.85,0:21:33.61,Main,,0,0,0,,{\i1}Đó, chuyện là vậy.
-Dialogue: 7,0:21:33.61,0:21:38.78,Main,TLC; edit,0,0,0,,{\i1}Vậy sau khi nắm được lịch sử,\N còn chần chừ gì mà không xem lại cái tên Hachikuji Mayoi?
-Dialogue: 7,0:21:38.78,0:21:41.82,Main,TLC; edit,0,0,0,,{\i1}Liệu hàm ý sâu xa có khiến cậu nhức đầu không?
-Dialogue: 7,0:21:41.82,0:21:43.20,Main,TLC; edit,0,0,0,,Hàm ý gì cơ?
+Dialogue: 7,0:21:33.61,0:21:38.78,Main,,0,0,0,,{\i1}Vậy sau khi nắm được lịch sử,\N còn chần chừ gì mà không xem lại cái tên Hachikuji Mayoi?
+Dialogue: 7,0:21:38.78,0:21:41.82,Main,,0,0,0,,{\i1}Liệu hàm ý sâu xa có khiến cậu nhức đầu không?
+Dialogue: 7,0:21:41.82,0:21:43.20,Main,,0,0,0,,Hàm ý gì cơ?
 Dialogue: 7,0:21:43.20,0:21:48.12,Main,,0,0,0,,{\i1}Araragi-kun mà cảm nhận được ngay từ đầu \Nthì tốt biết mấy.
 Dialogue: 7,0:21:48.12,0:21:50.04,Main,,0,0,0,,Tốt biết mấy gì chứ? Rốt cuộc là sao?
 Dialogue: 7,0:21:50.04,0:21:52.87,Main,,0,0,0,,{\i1}Thôi, chi tiết cụ thể ta sẽ nói với Tsundere-chan.

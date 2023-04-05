@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 136
-Active Line: 142
-Video Position: 12384
+Scroll Position: 427
+Active Line: 439
+Video Position: 34325
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -471,7 +471,7 @@ Dialogue: 4,0:23:39.14,0:23:41.44,Main,,0,900,0,,À thì, bị lạc ạ.
 Dialogue: 4,0:23:41.44,0:23:43.53,Main,,0,0,0,,Ốc sên đi lạc ạ.
 Dialogue: 4,0:23:44.36,0:23:45.82,Main,,0,0,0,,Ốc sên?
 Dialogue: 4,0:23:46.43,0:23:48.78,Main,,1400,0,0,,À thì, em...
-Dialogue: 4,0:23:50.13,0:23:51.66,Main,TLC,0,0,0,,Mà không có gì đâu.
+Dialogue: 4,0:23:50.13,0:23:51.66,Main,,0,0,0,,Mà không có gì đâu.
 Comment: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,
 Comment: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,==========================================
 Comment: 4,0:25:25.66,0:25:26.41,Main,,0,0,0,,
