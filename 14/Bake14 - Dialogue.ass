@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 14 (BD 1080p Hi10 Opus) [A478DE50].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 357
-Active Line: 367
-Video Position: 35173
+Scroll Position: 296
+Active Line: 311
+Video Position: 28352
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,9 +40,9 @@ Comment: 0,0:04:45.01,0:04:45.01,Main,chptr,0,0,0,,{Episode}
 Comment: 0,0:22:25.03,0:22:25.04,Main,chptr,0,0,0,,{ED}
 Comment: 0,0:23:54.99,0:23:55.00,Main,chptr,0,0,0,,{Preview}
 Dialogue: 10,0:00:12.49,0:00:16.87,Main,,0,0,0,,Oshino, tại sao Hanekawa Đen lại xuất hiện trở lại?
-Dialogue: 10,0:00:18.64,0:00:20.79,Main,,0,0,0,,Meo~
+Dialogue: 10,0:00:18.64,0:00:20.79,Main,,0,0,0,,Nyaa~
 Dialogue: 10,0:00:20.79,0:00:22.96,Main,,0,0,0,,Hồi Tuần Lễ Vàng chưa bị phong ấn hoàn toàn sao?
-Dialogue: 10,0:00:24.09,0:00:25.83,Main,,0,0,0,,Chưa hề nói vậy bao giờ.
+Dialogue: 10,0:00:24.09,0:00:25.83,Main,,0,0,0,,Chưa từng nói vậy bao giờ.
 Dialogue: 10,0:00:26.33,0:00:28.06,Main,,0,0,0,,Trước đây chả bảo rồi còn.
 Dialogue: 10,0:00:28.06,0:00:31.06,Main,,0,0,0,,Chướng Miêu chỉ là chất xúc tác,
 Dialogue: 10,0:00:31.06,0:00:33.47,Main,,0,0,0,,vấn đề nằm ở căng thẳng bên trong bé lớp trưởng.
@@ -58,7 +58,7 @@ Dialogue: 10,0:00:56.62,0:00:59.39,Main,,0,0,0,,Thế là Chướng Miêu đư�
 Dialogue: 10,0:01:00.09,0:01:01.87,Main,,0,0,0,,Cái chuông ông bảo là sao?
 Dialogue: 10,0:01:03.50,0:01:04.80,Main,,0,0,0,,Là cơn đau đầu đấy.
 Dialogue: 10,0:01:04.80,0:01:06.29,Main,,0,0,0,,Cả ở hồi Tuần Lễ Vàng,
-Dialogue: 10,0:01:06.29,0:01:08.51,Main,,0,0,0,,bé lớp trưởng có kêu đau đầu mà đúng không.
+Dialogue: 10,0:01:06.29,0:01:08.51,Main,,0,0,0,,bé lớp trưởng có kêu đau đầu mà đúng không?
 Dialogue: 10,0:01:08.85,0:01:11.56,Main,,0,0,0,,Ta có tính đến nên đặt trước luôn.
 Dialogue: 10,0:01:11.56,0:01:14.89,Main,,0,0,0,,Cơ mà lẽ ra nên nói cho Araragi-kun biết ha.
 Dialogue: 10,0:01:15.76,0:01:18.26,Main,,0,0,0,,Dù sao thì vấn đề là sự căng thẳng,
@@ -274,7 +274,7 @@ Dialogue: 10,0:15:12.93,0:15:16.93,Main,,0,0,0,,{\i1}Quên mất tiêu! Nó có 
 Dialogue: 10,0:15:20.03,0:15:22.06,Main,,0,0,0,,{\i1}Nhưng mà phải thừa nhận.
 Dialogue: 10,0:15:22.06,0:15:23.94,Main,,0,0,0,,{\i1}Gục thế này thì còn gì bằng!
 Dialogue: 10,0:15:25.69,0:15:27.14,Main,cat,0,0,0,,Ồ~ Hiểu rồi!
-Dialogue: 10,0:15:27.14,0:15:31.41,Main,cat,0,0,0,,Này con sen, chạm ngực chủ nhân ta khiến mi sướng quá\N mà gục luôn đúng khem.
+Dialogue: 10,0:15:27.14,0:15:31.41,Main,cat,0,0,0,,Này con sen, chạm ngực chủ nhân ta khiến mi sướng quá\N mà gục luôn đúng khem?
 Dialogue: 10,0:15:31.43,0:15:34.62,Main,,0,0,0,,Ta đã ngáo, mi còn ngáo hơn.
 Dialogue: 10,0:15:35.07,0:15:37.37,Main,,0,0,0,,{\i1}Năng lực của mình mà còn cóc biết à?
 Dialogue: 10,0:15:39.29,0:15:42.00,Main,,0,0,0,,{\i1}Có nên trông chờ gì vào con ngáo này không đây?
@@ -283,7 +283,7 @@ Dialogue: 10,0:15:48.45,0:15:49.53,Main,,0,0,0,,Trông cậy vào mi đấy.
 Dialogue: 10,0:15:49.53,0:15:51.58,Main,cat,0,0,0,,Cứ trông cậy ở ta~
 Dialogue: 10,0:16:00.25,0:16:01.31,Main,cat,0,0,0,,Này! Con sen!
 Dialogue: 10,0:16:02.05,0:16:05.77,Main,cat,0,0,0,,Thé bây giờ ta cần phải lèm gì?
-Dialogue: 10,0:16:07.06,0:16:09.75,Main,,0,0,0,,{\i1}Thật sự có nên trông chờ không đây!
+Dialogue: 10,0:16:07.06,0:16:09.75,Main,,0,0,0,,{\i1}Thật sự có nên trông chờ gì không đây!
 Dialogue: 10,0:16:11.02,0:16:12.11,Main,cat,0,0,0,,Này, con sen!
 Dialogue: 10,0:16:12.11,0:16:13.77,Main,,0,0,0,,Gì hả yêu quái mèo?
 Dialogue: 10,0:16:14.34,0:16:18.73,Main,cat,0,0,0,,Mi sau trận chiến với ta\N thì có vẻ nảy sinh nhèo vấn đề nhỉ.
@@ -295,7 +295,7 @@ Dialogue: 10,0:16:29.59,0:16:32.10,Main,,0,0,0,,Đừng chỉ có phản ứng v
 Dialogue: 10,0:16:32.10,0:16:34.33,Main,,0,0,0,,vứt Cua với Ốc sên đi đâu hả.
 Dialogue: 10,0:16:34.33,0:16:37.20,Main,,0,0,0,,Mà nói chung đừng có nghĩ gì nói đấy.
 Dialogue: 10,0:16:38.18,0:16:40.58,Main,,0,0,0,,Ngoài ra thì ta... cũng là Quỷ.
-Dialogue: 10,0:16:43.04,0:16:47.62,Main,cat,0,0,0,,Con sen! Bọn mi gọi bọn ta là Quái Dị đúng khem.
+Dialogue: 10,0:16:43.04,0:16:47.62,Main,cat,0,0,0,,Con sen! Bọn mi gọi bọn ta là Quái Dị đúng khem?
 Dialogue: 10,0:16:47.62,0:16:50.44,Main,cat,0,0,0,,Thế bọn mi nghĩ seo?
 Dialogue: 10,0:16:50.44,0:16:51.94,Main,,0,0,0,,Nghĩ là nghĩ gì cơ?
 Dialogue: 10,0:16:51.94,0:16:54.13,Main,cat,0,0,0,,{\c&H35F7FF&}Là thế này con sen,
@@ -306,7 +306,7 @@ Dialogue: 10,0:17:10.09,0:17:14.48,Main,,0,0,0,,Không hiểu cho lắm.\N Rốt
 Dialogue: 10,0:17:14.48,0:17:17.72,Main,cat,0,0,0,,Khem hiểu được thì là do mi kém thôi.
 Dialogue: 10,0:17:17.74,0:17:20.69,Main,,0,0,0,,Ai chứ bị mi nói câu đó là xót nhất đấy!
 Dialogue: 10,0:17:20.69,0:17:23.90,Main,,0,0,0,,Hừm! Xót thế thì đúng là do mèo cào—
-Dialogue: 10,0:17:23.90,0:17:26.06,Main,,0,0,0,,Meo~ Phải khem nhở?
+Dialogue: 10,0:17:23.90,0:17:26.06,Main,,0,0,0,,Nyaa~ Phải khem nhở?
 Dialogue: 10,0:17:28.19,0:17:31.76,Main,,0,0,0,,{\c&H35F7FF&}Vậy ý mi là không thể thân quen được với Quái Dị à?
 Dialogue: 10,0:17:31.76,0:17:34.61,Main,,0,0,0,,{\c&H35F7FF&}Mà, đúng là ta cũng cảm thấy thế.
 Dialogue: 10,0:17:34.61,0:17:37.91,Main,cat,0,0,0,,{\c&H35F7FF&}Không! Ý ta khem phải thế.
@@ -317,7 +317,7 @@ Dialogue: 10,0:17:48.22,0:17:53.55,Main,cat,0,0,0,,{\c&H35F7FF&}Ý ta là nhữn
 Dialogue: 10,0:17:53.55,0:17:58.50,Main,,0,0,0,,{\c&H35F7FF&}Khả năng cũng vì thế mà cái tên mặc áo aloha kia\N lại phỏng đoén được kha khá.
 Dialogue: 10,0:17:58.50,0:18:01.15,Main,cat,0,0,0,,{\c&H35F7FF&}Bởi hắn ta cư xử có chừng mực.
 Dialogue: 10,0:18:01.15,0:18:02.42,Main,,0,0,0,,{\c&H35F7FF&}Có chừng mực?
-Dialogue: 10,0:18:02.42,0:18:04.39,Main,cat,0,0,0,,{\c&H35F7FF&}Biết thân biết phận... Meo~
+Dialogue: 10,0:18:02.42,0:18:04.39,Main,cat,0,0,0,,{\c&H35F7FF&}Biết thân biết phận... Nyaa~
 Dialogue: 10,0:18:05.89,0:18:07.10,Main,cat,0,0,0,,Bọn ta...
 Dialogue: 10,0:18:07.10,0:18:08.20,Main,cat,0,0,0,,được tin,
 Dialogue: 10,0:18:08.20,0:18:09.27,Main,,0,0,0,,biết e,
@@ -342,10 +342,10 @@ Dialogue: 10,0:19:02.99,0:19:08.17,Main,cat,0,0,0,,Nếu cô ta cứ thoắt ẩ
 Dialogue: 10,0:19:08.17,0:19:13.71,Main,,0,0,0,,Gần như không thể hiện ra nhiều, \N có thể hiện ra thì cũng phải có ta ở gần.
 Dialogue: 10,0:19:13.71,0:19:16.31,Main,,0,0,0,,Không có ta ở bên thì chỉ là đứa trẻ—
 Dialogue: 10,0:19:24.44,0:19:30.44,Main,cat,0,0,0,,Tóm lại thì con sen này, \Nviệc tìm ra con Ma cà rồng đó khem đơn giản đeo.
-Dialogue: 10,0:19:30.44,0:19:36.71,Main,,0,0,0,,Nhưng không thể khỏi rời thành phố được,\N hiện tại thì không thể cách xa ta đến thế.
-Dialogue: 10,0:19:36.71,0:19:39.45,Main,cat,0,0,0,,Ý là Ma cà rồng hút máu... meo~
+Dialogue: 10,0:19:30.44,0:19:36.71,Main,,0,0,0,,Nhưng không thể rời khỏi thành phố được,\N hiện tại thì không thể cách xa ta đến thế.
+Dialogue: 10,0:19:36.71,0:19:39.45,Main,cat,0,0,0,,Ý là Ma cà rồng hút máu... Nyaa~
 Dialogue: 10,0:19:40.20,0:19:42.51,Main,chptr,0,0,0,,Ma cà rồng hút máu người,
-Dialogue: 10,0:19:42.51,0:19:48.57,Main,cat,0,0,0,,nhưng ý nghĩa giữa việc hút máu để ăn \Nvà để hút máu để bầu bạn là khem giống nhau.
+Dialogue: 10,0:19:42.51,0:19:48.57,Main,cat,0,0,0,,nhưng ý nghĩa giữa việc hút máu để ăn \Nvà để hút máu để bầu bạn... khem giống nhau.
 Dialogue: 10,0:19:48.57,0:19:49.84,Main,,0,0,0,,Chuyện đó ta biết.
 Dialogue: 10,0:19:55.10,0:19:58.60,Main,cat,0,0,0,,Hoặc có lẽ đó mới đúng là lý do cô ta bỏ đi.
 Dialogue: 10,0:20:00.16,0:20:01.34,Main,,0,0,0,,Tức là sao?
@@ -355,7 +355,7 @@ Dialogue: 10,0:20:06.36,0:20:09.73,Main,,0,0,0,,Con Ma cà rồng đó, \Nchắc
 Dialogue: 10,0:20:09.73,0:20:14.64,Main,,0,0,0,,mi qua lại với bọn ta, \Nhết người này tới người khéc không phải sao?
 Dialogue: 10,0:20:15.72,0:20:20.73,Main,,0,0,0,,Ý mi là cô ấy cảm thấy ít đặc biệt hơn\N khi phải chia sẻ với những Quái Dị khác à?
 Dialogue: 10,0:20:20.73,0:20:23.15,Main,,0,0,0,,Thế nên không thể ở lại đó nữa?
-Dialogue: 10,0:20:23.15,0:20:24.66,Main,cat,0,0,0,,Vô cảm... meo~
+Dialogue: 10,0:20:23.15,0:20:24.66,Main,cat,0,0,0,,Vô cảm... Nyaa~
 Dialogue: 10,0:20:28.36,0:20:33.30,Main,cat,0,0,0,,Nhưng mà, cứ đà này mà khem tìm ra con Ma cà rồng đó\N thì mi tính sao?
 Dialogue: 10,0:20:33.30,0:20:35.82,Main,,0,0,0,,Tính sao là sao... Thế thì nguy to.
 Dialogue: 10,0:20:35.82,0:20:37.64,Main,,0,0,0,,Hanekawa sẽ không trở lại bình thường được.
