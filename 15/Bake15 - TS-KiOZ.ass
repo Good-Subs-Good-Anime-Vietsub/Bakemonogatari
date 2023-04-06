@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 15 (BD 1080p Hi10 Opus) [8BD05F5D].mk
 Video File: ../raws/[OZR] Bakemonogatari - 15 (BD 1080p Hi10 Opus) [8BD05F5D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1762
-Active Line: 1781
-Video Position: 20400
+Video Zoom Percent: 0.500000
+Scroll Position: 1763
+Active Line: 1775
+Video Position: 20376
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,6 +34,8 @@ Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:04:25.41,0:04:25.66,Signs,,0,0,0,add.sign,{\fnSVN-Effra\fs60\blur6\1a&H2F&\fsp24\i1\pos(965,367.44)\fscx133\fscy158}KIYOMI MA CÀ RỒNG.
+Dialogue: 1,0:04:25.41,0:04:25.66,Signs,,0,0,0,add.sign,{\fnSVN-Effra\fs60\blur1.1\c&HFFFFFF&\fsp24\i1\pos(965,367.44)\fscx133\fscy158}KIYOMI MA CÀ RỒNG.
 Dialogue: 0,0:00:11.99,0:00:12.03,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur6\1a&H2F&\pos(964.84,457.44)}Khung Hình Đen
 Dialogue: 1,0:00:11.99,0:00:12.03,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur1.1\c&HFFFFFF&\pos(964.84,457.44)}Khung Hình Đen
 Dialogue: 0,0:00:11.99,0:00:12.03,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs36\blur6\1a&H20&\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      Không Có
@@ -142,8 +144,8 @@ Dialogue: 0,0:00:13.03,0:00:13.07,Signs,,0,0,0,,{\c&H1E3CBC&\fnVL DellaRobbia BT
 Dialogue: 0,0:00:13.07,0:00:13.11,Signs,,0,0,0,,{\c&H1E3CBC&\fnVL DellaRobbia BT\blur6\fs40\alpha&HA0&\pos(250.214,495.31)}Hoạt Cảnh số      4
 Dialogue: 0,0:00:13.07,0:00:13.11,Signs,,0,0,0,,{\c&H001BAE&\fs255\blur5\alpha&HC0&\fnVL DellaRobbia BT\pos(762,512)}YÊU
 Dialogue: 0,0:00:13.07,0:00:13.11,Signs,,0,0,0,,{\c&H1E3CBC&\fnVL DellaRobbia BT\alpha&HA0&\blur6\fs35\pos(1728,496)\fscx115\fscy115}Kanji cổ    A
-Dialogue: 0,0:00:13.11,0:00:14.99,Signs,,0,0,0,,{\blur6\alpha&H40&\fs100\fnGentium Basic\pos(955,453.3)}YÊU là chiếm đoạt một cách tự do thoải mái—
-Dialogue: 1,0:00:13.11,0:00:14.99,Signs,,0,0,0,,{\blur1\fs100\fnGentium Basic\pos(955,453.3)}YÊU là chiếm đoạt một cách tự do thoải mái—
+Dialogue: 0,0:00:13.11,0:00:14.99,Signs,,0,0,0,,{\blur6\alpha&H40&\fs100\fnGentium Basic\pos(955,453.3)}YÊU là tự do thoải mái chiếm đoạt—
+Dialogue: 1,0:00:13.11,0:00:14.99,Signs,,0,0,0,,{\blur1\fs100\fnGentium Basic\pos(955,453.3)}YÊU là tự do thoải mái chiếm đoạt—
 Dialogue: 0,0:00:13.11,0:00:14.99,Signs,,0,0,0,,{\blur6\fnVL DellaRobbia BT\fs46\pos(962.2,850.8)}Hoạt Cảnh số      4
 Dialogue: 1,0:00:13.11,0:00:14.99,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\fs46\pos(962.2,850.8)}Hoạt Cảnh số      4
 Dialogue: 0,0:00:21.75,0:00:21.79,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur6\1a&H2F&\pos(964.84,457.44)}Khung Hình Xanh
@@ -954,8 +956,8 @@ Dialogue: 0,0:02:32.25,0:02:34.00,Signs,,0,0,0,,{\fnVL DellaRobbia BT\blur1.4\an
 Dialogue: 0,0:02:32.25,0:02:34.00,Signs,,0,0,0,,{\blur1.5\fnVL DellaRobbia BT\an5\fs52.5\c&H341DE1&\pos(968,300)}Tập Mười Lăm
 Dialogue: 0,0:04:03.97,0:04:04.01,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur6\fs40\pos(312.21,495.31)}Hoạt Cảnh số      62
 Dialogue: 1,0:04:03.97,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur1\fs40\pos(312.21,495.31)}Hoạt Cảnh số      62
-Dialogue: 0,0:04:03.97,0:04:04.01,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur5\fnVL DellaRobbia BT\pos(777,512)}Kawa\N{\fs120}(vũ)
-Dialogue: 1,0:04:03.97,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur1.4\fnVL DellaRobbia BT\pos(777,512)}Kawa\N{\fs120}(vũ)
+Dialogue: 0,0:04:03.97,0:04:04.01,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur5\fnVL DellaRobbia BT\pos(777,512)}Hane\N{\fs120}(vũ)
+Dialogue: 1,0:04:03.97,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur1.4\fnVL DellaRobbia BT\pos(777,512)}Hane\N{\fs120}(vũ)
 Dialogue: 0,0:04:03.97,0:04:04.01,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur6\fs35\pos(1728,496)\fscx117\fscy117}Kanji cổ    D
 Dialogue: 1,0:04:03.97,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur1\fs35\pos(1728,496)\fscx117\fscy117}Kanji cổ    D
 Dialogue: 0,0:04:04.01,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur6\alpha&H60&\fs40\pos(312.21,495.31)}Hoạt Cảnh số      62
@@ -963,7 +965,7 @@ Dialogue: 0,0:04:04.01,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur5\alpha&H
 Dialogue: 0,0:04:04.01,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\alpha&H60&\blur6\fs35\pos(1728,496)\fscx117\fscy117}Kanji cổ    D
 Dialogue: 0,0:04:04.05,0:04:05.97,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur6\1a&H60&\c&H353B3F&\pos(964.8,840)}Hoạt Cảnh số      62
 Dialogue: 1,0:04:04.05,0:04:05.97,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&H353B3F&\pos(964.8,840)}Hoạt Cảnh số      62
-Dialogue: 0,0:04:04.06,0:04:05.98,Signs,,0,0,0,,{\blur6\alpha&H80&\fs70\fnGentium Basic\an5\c&H323A41&\pos(954.8,469.1)}Hanekawa Tsubasa là người rất quan trọng đối với mình.
+Dialogue: 0,0:04:04.06,0:04:05.98,Signs,,0,0,0,,{\blur6\alpha&H80&\fs70\fnGentium Basic\an5\c&H323A41&\pos(954.8,469.1)\1a&H48&\t(0,180,\1a&HC0&)\t(180,360,\1a&H48&)\t(360,540,\1a&HC0&)\t(540,720,\1a&H48&)\t(720,900,\1a&HC0&)\t(900,1080,\1a&H48&)\t(1080,1260,\1a&HC0&)\t(1260,1440,\1a&H48&)\t(1440,1620,\1a&HC0&)\t(1620,1800,\1a&H48&)\t(1800,1980,\1a&HC0&)\t(0,120,\1a&HC0&)\t(120,240,\1a&H48&)\t(240,360,\1a&HC0&)\t(360,480,\1a&H48&)\t(480,600,\1a&HC0&)\t(600,720,\1a&H48&)\t(720,840,\1a&HC0&)\t(840,960,\1a&H48&)\t(960,1080,\1a&HC0&)\t(1080,1200,\1a&H48&)\t(1200,1320,\1a&HC0&)\t(1320,1440,\1a&H48&)\t(1440,1560,\1a&HC0&)\t(1560,1680,\1a&H48&)\t(1680,1800,\1a&HC0&)\t(1800,1920,\1a&H48&)}Hanekawa Tsubasa là người rất quan trọng đối với mình.
 Dialogue: 1,0:04:04.06,0:04:05.98,Signs,,0,0,0,,{\blur1.2\fs70\fnGentium Basic\an5\c&H323A41&\pos(954.8,469.1)}Hanekawa Tsubasa là người rất quan trọng đối với mình.
 Dialogue: 0,0:04:09.73,0:04:15.74,Signs,,0,0,0,,{\blur6\fnVL DellaRobbia BT\an8\fs80\frx90\t(0,1751,0.8,\frx0)\c&HF6F8F6&\pos(960,402)}Tập Cuối
 Dialogue: 1,0:04:09.73,0:04:15.74,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\an8\fs80\frx90\t(0,1751,0.8,\frx0)\c&HF6F8F6&\pos(960,402)}Tập Cuối
@@ -1445,8 +1447,8 @@ Dialogue: 0,0:10:58.55,0:11:00.55,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur6
 Dialogue: 1,0:10:58.55,0:11:00.55,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&H43444A&\pos(964.8,840)}Hoạt Cảnh số      190
 Dialogue: 0,0:11:02.05,0:11:03.80,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur6\1a&H40&\c&HFFFFFF&\pos(964.8,840)\t(0,120,\1a&HB0&)\t(120,240,\1a&H40&)\t(240,360,\1a&HB0&)\t(360,480,\1a&H40&)\t(480,600,\1a&HB0&)\t(600,720,\1a&H40&)\t(720,840,\1a&HB0&)\t(840,960,\1a&H40&)\t(960,1080,\1a&HB0&)\t(1080,1200,\1a&H40&)\t(1200,1320,\1a&HB0&)\t(1320,1440,\1a&H40&)\t(1440,1560,\1a&HB0&)\t(1560,1680,\1a&H40&)\t(1680,1800,\1a&HB0&)}Hoạt Cảnh số      191
 Dialogue: 1,0:11:02.05,0:11:03.80,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      191
-Dialogue: 1,0:11:02.06,0:11:03.81,Signs,,0,0,0,,{\1a&H4D&\blur6\fnGentium Basic\fs105\an5\c&HFFFFFF&\pos(942,421.5)\t(0,120,\1a&HB0&)\t(120,240,\1a&H4D&)\t(240,360,\1a&HB0&)\t(360,480,\1a&H4D&)\t(480,600,\1a&HB0&)\t(600,720,\1a&H4D&)\t(720,840,\1a&HB0&)\t(840,960,\1a&H4D&)\t(960,1080,\1a&HB0&)\t(1080,1200,\1a&H4D&)\t(1200,1320,\1a&HB0&)\t(1320,1440,\1a&H4D&)\t(1440,1560,\1a&HB0&)\t(1560,1680,\1a&H4D&)\t(1680,1800,\1a&HB0&)}Khao khát đau khổ.
-Dialogue: 0,0:11:02.06,0:11:03.81,Signs,,0,0,0,,{\blur1\fnGentium Basic\fs105\an5\c&HFFFFFF&\pos(942,421.5)}Khao khát đau khổ.
+Dialogue: 1,0:11:02.06,0:11:03.81,Signs,,0,0,0,,{\1a&H4D&\blur6\fnGentium Basic\fs105\an5\c&HFFFFFF&\pos(942,421.5)\t(0,120,\1a&HB0&)\t(120,240,\1a&H4D&)\t(240,360,\1a&HB0&)\t(360,480,\1a&H4D&)\t(480,600,\1a&HB0&)\t(600,720,\1a&H4D&)\t(720,840,\1a&HB0&)\t(840,960,\1a&H4D&)\t(960,1080,\1a&HB0&)\t(1080,1200,\1a&H4D&)\t(1200,1320,\1a&HB0&)\t(1320,1440,\1a&H4D&)\t(1440,1560,\1a&HB0&)\t(1560,1680,\1a&H4D&)\t(1680,1800,\1a&HB0&)}Nỗi khao khát khốn khổ.
+Dialogue: 0,0:11:02.06,0:11:03.81,Signs,,0,0,0,,{\blur1\fnGentium Basic\fs105\an5\c&HFFFFFF&\pos(942,421.5)}Nỗi khao khát khốn khổ.
 Dialogue: 0,0:11:35.71,0:11:35.75,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur6\1a&H2F&\pos(964.84,457.44)}Khung Hình Đen
 Dialogue: 1,0:11:35.71,0:11:35.75,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur1.1\c&HFFFFFF&\pos(964.84,457.44)}Khung Hình Đen
 Dialogue: 0,0:11:35.71,0:11:35.75,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs36\blur6\1a&H20&\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      Không Có
@@ -1544,9 +1546,9 @@ Dialogue: 1,0:11:36.67,0:11:37.34,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur1
 Dialogue: 0,0:11:36.67,0:11:37.34,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs36\blur6\1a&H20&\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      Không Có
 Dialogue: 1,0:11:36.67,0:11:37.34,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs36\blur1\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      Không Có
 Dialogue: 0,0:12:30.02,0:12:31.27,Signs,,0,0,0,,{\blur6\alpha&HA0&\fnVL DellaRobbia BT\fs50\an5\c&H484B50&\pos(478.8,540)\t(0,120,\alpha&H30&)\t(120,240,\alpha&HA0&)\t(240,360,\alpha&H30&)\t(360,480,\alpha&HA0&)\t(480,600,\alpha&H30&)\t(600,720,\alpha&HA0&)\t(720,840,\alpha&H30&)\t(840,960,\alpha&HA0&)\t(960,1080,\alpha&H30&)\t(1080,1200,\alpha&HA0&)\t(1200,1320,\alpha&H30&)}Mèo Tsubasa
-Dialogue: 0,0:12:30.02,0:12:31.27,Signs,,0,0,0,,{\blur6\alpha&HA0&\fnVL DellaRobbia BT\fs50\an5\c&H484B50&\pos(1454.8,540)\t(0,120,\alpha&H30&)\t(120,240,\alpha&HA0&)\t(240,360,\alpha&H30&)\t(360,480,\alpha&HA0&)\t(480,600,\alpha&H30&)\t(600,720,\alpha&HA0&)\t(720,840,\alpha&H30&)\t(840,960,\alpha&HA0&)\t(960,1080,\alpha&H30&)\t(1080,1200,\alpha&HA0&)\t(1200,1320,\alpha&H30&)}Tập Năm
+Dialogue: 0,0:12:30.02,0:12:31.27,Signs,,0,0,0,,{\blur6\alpha&HA0&\fnVL DellaRobbia BT\fs50\an5\c&H484B50&\pos(1454.8,540)\t(0,120,\alpha&H30&)\t(120,240,\alpha&HA0&)\t(240,360,\alpha&H30&)\t(360,480,\alpha&HA0&)\t(480,600,\alpha&H30&)\t(600,720,\alpha&HA0&)\t(720,840,\alpha&H30&)\t(840,960,\alpha&HA0&)\t(960,1080,\alpha&H30&)\t(1080,1200,\alpha&HA0&)\t(1200,1320,\alpha&H30&)}Phần Năm
 Dialogue: 1,0:12:30.02,0:12:31.27,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\fs50\an5\c&H484B50&\pos(478.8,540)}Mèo Tsubasa
-Dialogue: 1,0:12:30.02,0:12:31.27,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\fs50\an5\c&H484B50&\pos(1454.8,540)}Tập Năm
+Dialogue: 1,0:12:30.02,0:12:31.27,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\fs50\an5\c&H484B50&\pos(1454.8,540)}Phần Năm
 Dialogue: 1,0:12:43.03,0:12:43.53,Signs,,0,0,0,,{\1a&H62&\blur6\fnVL DellaRobbia BT\fs135\an5\c&H543F28&\pos(960,540)\t(0,120,\1a&HB0&)\t(120,240,\1a&H62&)\t(240,360,\1a&HB0&)\t(360,480,\1a&H62&)\t(480,600,\1a&HB0&)}Bắt Đầu
 Dialogue: 1,0:12:43.03,0:12:43.53,Signs,,0,0,0,,{\blur1.2\fnVL DellaRobbia BT\fs135\an5\c&H614426&\pos(960,540)}Bắt Đầu
 Dialogue: 0,0:12:43.03,0:12:43.53,Signs,,0,0,0,,{\blur6\fnVL DellaRobbia BT\an7\c&H543F28&\fs46\pos(115,856.1)\alpha&H80&\1aH00\t(0,120,\1a&HB0&)\t(120,240,\1aH00)\t(240,360,\1a&HB0&)\t(360,480,\1aH00)\t(480,600,\1a&HB0&)}Hoạt Cảnh số      225
@@ -1807,8 +1809,8 @@ Dialogue: 0,0:13:55.44,0:13:55.48,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs36\blur6
 Dialogue: 1,0:13:55.44,0:13:55.48,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs36\blur1\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      Không Có
 Dialogue: 0,0:14:09.82,0:14:10.32,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur6\c&H484A49&\pos(964.8,840)\alpha&HC0&\1a&H40&\t(0,80,\alpha&H30&)\t(80,160,\alpha&HC0&)\t(160,240,\alpha&H30&)\t(240,320,\alpha&HC0&)\t(320,400,\alpha&H30&)\t(400,480,\alpha&HC0&)\t(480,560,\alpha&H30&)}Hoạt Cảnh số      260
 Dialogue: 1,0:14:09.82,0:14:10.32,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&H484A49&\pos(964.8,840)}Hoạt Cảnh số      260
-Dialogue: 0,0:14:09.83,0:14:10.33,Signs,,0,0,0,,{\blur6\alpha&HC0&\fnVL DellaRobbia BT\fs105\fsp20\an5\c&H49494C&\pos(963.1,438)\t(0,80,\alpha&H30&)\t(80,160,\alpha&HC0&)\t(160,240,\alpha&H30&)\t(240,320,\alpha&HC0&)\t(320,400,\alpha&H30&)\t(400,480,\alpha&HC0&)\t(480,560,\alpha&H30&)}Kill
-Dialogue: 1,0:14:09.83,0:14:10.33,Signs,,0,0,0,,{\blur1.2\fnVL DellaRobbia BT\fs105\fsp20\an5\c&H49494C&\pos(963.1,438)}Kill
+Dialogue: 0,0:14:09.83,0:14:10.33,Signs,,0,0,0,,{\blur6\alpha&HC0&\fnVL DellaRobbia BT\fs105\fsp20\an5\c&H49494C&\pos(963.1,438)\t(0,80,\alpha&H30&)\t(80,160,\alpha&HC0&)\t(160,240,\alpha&H30&)\t(240,320,\alpha&HC0&)\t(320,400,\alpha&H30&)\t(400,480,\alpha&HC0&)\t(480,560,\alpha&H30&)}Giết
+Dialogue: 1,0:14:09.83,0:14:10.33,Signs,,0,0,0,,{\blur1.2\fnVL DellaRobbia BT\fs105\fsp20\an5\c&H49494C&\pos(963.1,438)}Giết
 Dialogue: 0,0:14:10.32,0:14:10.82,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur6\1a&H39&\c&HFFFFFF&\pos(964.8,840)\t(0,90,\1a&HC0&)\t(90,180,\1a&H39&)\t(180,270,\1a&HC0&)\t(270,360,\1a&H39&)\t(360,450,\1a&HC0&)\t(450,540,\1a&H39&)}Hoạt Cảnh số      260
 Dialogue: 1,0:14:10.32,0:14:10.82,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      260
 Dialogue: 1,0:14:10.33,0:14:10.83,Signs,,0,0,0,,{\1a&H39&\blur6\fnGentium Basic\fs100\an5\pos(942,433.5)\c&HFFFFFF&\t(0,90,\1a&HC0&)\t(90,180,\1a&H39&)\t(180,270,\1a&HC0&)\t(270,360,\1a&H39&)\t(360,450,\1a&HC0&)\t(450,540,\1a&H39&)}Nhất định, giết bằng được.
