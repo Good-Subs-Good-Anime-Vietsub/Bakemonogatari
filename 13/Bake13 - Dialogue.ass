@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 13 (BD 1080p Hi10 Opus) [1BD7BCE8].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 777
-Active Line: 792
-Video Position: 34113
+Scroll Position: 125
+Active Line: 140
+Video Position: 15712
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -142,7 +142,7 @@ Dialogue: 3,0:09:10.87,0:09:14.78,Main,,0,0,0,,Tớ đã nhờ Senjōgahara-san 
 Dialogue: 3,0:09:15.41,0:09:17.15,Main,,0,0,0,,Thế chả phải quá sai sao?
 Dialogue: 3,0:09:17.16,0:09:20.31,Main,,0,0,0,,Senjōgahara-san hôm qua đã không tham gia rồi.
 Dialogue: 3,0:09:20.31,0:09:21.66,Main,,0,0,0,,Nên nay coi như làm bù.
-Dialogue: 3,0:09:24.52,0:09:28.46,Main,,0,0,0,,{\i1}Có điều là, dù có nhìn thế nào\N thì đây rõ ràng là đồ ngủ ha.
+Dialogue: 3,0:09:24.52,0:09:28.46,Main,,0,0,0,,{\i1}Có điều là, dù nhìn thế nào\N thì đây rõ ràng là đồ ngủ ha.
 Dialogue: 3,0:09:29.96,0:09:31.25,Main,,800,0,0,,Này! Hanekawa.
 Dialogue: 3,0:09:31.70,0:09:32.55,Main,,0,0,0,,Gì thế?
 Dialogue: 3,0:09:32.90,0:09:34.76,Main,,0,0,0,,À không! Hanekawa-sama!
@@ -173,7 +173,7 @@ Dialogue: 3,0:10:41.61,0:10:48.91,Main,,0,0,0,,Nhưng mà này Hanekawa, không 
 Dialogue: 3,0:10:49.79,0:10:50.92,Main,,0,600,0,,Đúng rồi.
 Dialogue: 3,0:10:50.92,0:10:52.92,Main,,0,0,0,,Quái Dị à...?
 Dialogue: 3,0:10:53.87,0:10:54.73,Main,,0,0,0,,Phải.
-Dialogue: 3,0:10:55.30,0:10:59.92,Main,,0,0,0,,Thế nên tớ tính nên nhờ Araragi-kun \Nđưa đến chỗ Oshino-san.
+Dialogue: 3,0:10:55.30,0:10:59.92,Main,,0,0,0,,Thế nên tớ tính nhờ Araragi-kun \Nđưa đến chỗ Oshino-san.
 Dialogue: 3,0:11:00.63,0:11:03.13,Main,,0,0,0,,Cậu chỉ đường cho tớ được không?
 Dialogue: 3,0:11:03.13,0:11:04.43,Main,,0,0,0,,Được chứ.
 Dialogue: 3,0:11:04.88,0:11:08.86,Main,,0,0,0,,Đương nhiên là được cơ mà...\N trước đó tớ có thể hỏi cậu vài câu được không?
