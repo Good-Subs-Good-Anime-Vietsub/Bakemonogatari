@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 03 (BD 1080p Hi10 Opus) [282FE257].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 116
-Active Line: 117
-Video Position: 10739
+Scroll Position: 226
+Active Line: 244
+Video Position: 19994
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -263,20 +263,20 @@ Dialogue: 4,0:13:04.24,0:13:06.91,Main,,0,0,0,,Phiền não của tôi quá ấu
 Dialogue: 4,0:13:06.91,0:13:08.27,Main,,0,0,0,,Quá...
 Dialogue: 4,0:13:08.27,0:13:09.10,Main,,0,0,0,,Đáng ghét!
 Dialogue: 4,0:13:10.31,0:13:11.66,Main,,0,0,0,,Ấu trĩ?
-Dialogue: 4,0:13:11.66,0:13:13.71,Main,,0,0,0,,"Chán" chắc chuẩn hơn.
-Dialogue: 4,0:13:13.71,0:13:18.85,Main,,0,0,0,,Kiểu như là lúc rút thẻ Omikuji thì toàn được Tiểu Cát ấy,\N phát "chán" mà.
+Dialogue: 4,0:13:11.66,0:13:13.71,Main,,0,0,0,,{\i1}Chán đời{\i0} chắc chuẩn hơn.
+Dialogue: 4,0:13:13.71,0:13:18.85,Main,,0,0,0,,Kiểu như là lúc rút thẻ Omikuji thì toàn được Tiểu Cát ấy,\N {\i1}chán đời{\i0} mà.
 Dialogue: 4,0:13:18.85,0:13:21.70,Main,,0,0,0,,Đừng phàn nàn về điểm quyến rũ của mình chứ,\N Araragi-kun.
 Dialogue: 4,0:13:21.70,0:13:22.87,Main,,0,0,0,,Quyến rũ?
 Dialogue: 4,0:13:22.87,0:13:25.95,Main,,0,0,0,,Điểm quyến rũ của tôi \Nlà rút Omikuji toàn ra Tiểu Cát sao?
 Dialogue: 4,0:13:26.22,0:13:27.47,Main,,0,0,0,,Đùa thôi.
-Dialogue: 4,0:13:27.47,0:13:32.16,Main,,0,0,0,,Cái "chán" của Araragi-kun\N không giống với việc rút Omikuji toàn ra Tiểu Cát.
+Dialogue: 4,0:13:27.47,0:13:32.16,Main,,0,0,0,,Cái {\i1}chán đời{\i0} của Araragi-kun\N không giống với việc rút Omikuji toàn ra Tiểu Cát.
 Dialogue: 4,0:13:33.12,0:13:35.33,Main,,0,0,0,,Thế phải là toàn ra Đại Hung à?
 Dialogue: 4,0:13:35.33,0:13:36.64,Main,,0,0,0,,Đương nhiên không.
 Dialogue: 4,0:13:36.64,0:13:40.66,Main,,0,0,0,,Nhưng như thế cũng ấn tượng mà, \Nhay có thể nói là hấp dẫn đấy chứ.
-Dialogue: 4,0:13:40.66,0:13:42.80,Main,,0,0,0,,Cái "chán" của Araragi-kun ấy.
+Dialogue: 4,0:13:40.66,0:13:42.80,Main,,0,0,0,,Cái {\i1}chán đời{\i0} của Araragi-kun ấy.
 Dialogue: 4,0:13:45.72,0:13:48.01,Main,,0,0,0,,Dù là rút được Đại Cát,
-Dialogue: 4,0:13:48.01,0:13:53.19,Main,,0,0,0,,nhưng khi đọc kỹ thì cũng chẳng tốt đẹp gì cả,\N đấy mới gọi là "chán".
-Dialogue: 4,0:13:53.89,0:13:55.10,Main,,0,0,0,,{\i1}"Chán"?
+Dialogue: 4,0:13:48.01,0:13:53.19,Main,,0,0,0,,nhưng khi đọc kỹ thì cũng chẳng tốt đẹp gì cả,\N đấy mới gọi là {\i1}chán đời{\i0}.
+Dialogue: 4,0:13:53.89,0:13:55.10,Main,,0,0,0,,{\i1}Chán đời?!
 Dialogue: 4,0:13:55.45,0:13:59.74,Main,,0,0,0,,{\an5}Cơ mà Araragi-kun, \Ncậu có vẻ rất yêu quý em gái mình.
 Dialogue: 4,0:13:59.74,0:14:01.07,Main,,0,0,0,,{\an5}Chảnh chọe suốt ngày thôi.
 Dialogue: 2,0:14:02.19,0:14:07.28,GT,,0,0,0,,{\an7\pos(0,0)\blur0.6\shad0\1a&H00&\p1\bord0\c&H222222&}m 1595 145 l 331 145 l 331 15 l 1595 15 m 334 18 l 334 142 l 1592 142 l 1592 18
