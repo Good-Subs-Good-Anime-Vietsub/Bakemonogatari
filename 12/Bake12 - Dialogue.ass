@@ -15,9 +15,9 @@ Video File: ../../Bakemonogatari/raws/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 O
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 317
-Active Line: 332
-Video Position: 31708
+Scroll Position: 316
+Active Line: 331
+Video Position: 31517
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -94,7 +94,7 @@ Dialogue: 10,0:04:46.51,0:04:49.17,Main,,0,0,0,,Kanji của "hoàn cảnh" đư�
 Dialogue: 10,0:04:49.17,0:04:51.10,Main,,0,0,0,,Từ đó mà cũng không biết cơ à!
 Dialogue: 10,0:04:55.22,0:04:59.08,Main,,0,0,0,,{\i1}Buổi hẹn hò đầu tiên mà bố bạn gái kè kè đi cùng.
 Dialogue: 10,0:04:59.08,0:05:00.69,Main,,0,0,0,,{\i1}Hẹn hò nỗi gì, tra tấn thì có.
-Dialogue: 10,0:05:00.69,0:05:02.11,Main,,0,0,0,,{\i1}Thế này thì đáng nhớ cái quái gì!
+Dialogue: 10,0:05:00.69,0:05:02.11,Main,,0,0,0,,{\i1}Thế này thì đáng nhớ cái quái gì chứ!
 Dialogue: 10,0:05:02.11,0:05:03.50,Main,,0,0,0,,Araragi-kun...
 Dialogue: 10,0:05:03.50,0:05:07.10,Main,,0,0,0,,lần đầu hẹn hò thì khó tránh khỏi lo lắng...
 Dialogue: 10,0:05:07.10,0:05:09.56,Main,,0,0,0,,cơ mà cứ thư giãn đi.
@@ -295,7 +295,7 @@ Dialogue: 10,0:16:30.02,0:16:31.59,Main,,0,0,0,,Cảm ơn bố đã chở bọn 
 Dialogue: 10,0:16:31.98,0:16:35.72,Main,,1,1,0,,Bọn con sẽ quay về sau 2 tiếng, \Nbố cứ bận rộn với công việc tiếp đi.
 Dialogue: 10,0:16:38.26,0:16:40.10,Main,,0,0,0,,Nào! Araragi-kun!
 Dialogue: 10,0:16:51.74,0:16:53.86,Main,,0,0,0,,Con cảm ơn bố.
-Dialogue: 10,0:17:14.88,0:17:18.64,Main,,0,0,0,,Này! Senjōgahara! Còn phải như này tới bao giờ nữa.
+Dialogue: 10,0:17:14.88,0:17:18.64,Main,,0,0,0,,Này! Senjōgahara! Còn phải như này tới bao giờ nữa?
 Dialogue: 10,0:17:19.39,0:17:20.18,Main,,0,0,0,,Au ui!
 Dialogue: 10,0:17:20.57,0:17:23.31,Main,,0,0,0,,Araragi-kun, cấm nhìn lên!
 Dialogue: 10,0:17:38.95,0:17:41.20,Main,,0,0,0,,Nhắm mắt lại và nằm xuống đi.
@@ -339,13 +339,13 @@ Dialogue: 10,0:20:09.80,0:20:13.00,Main,,0,0,0,,Nhưng mà nhé, cuộc sống c
 Dialogue: 10,0:20:13.00,0:20:15.93,Main,,0,0,0,,không được hạnh phúc cho lắm,
 Dialogue: 10,0:20:15.93,0:20:19.36,Main,,0,0,0,,nhưng nếu vì thế mà được Araragi-kun để ý tới...
 Dialogue: 10,0:20:19.36,0:20:22.38,Main,,0,0,0,,...thì tớ cam lòng.
-Dialogue: 10,0:20:22.99,0:20:27.15,Main,,0,0,0,,Và đó là cái mức... mà tớ siêu lòng trước Araragi-kun.
+Dialogue: 10,0:20:22.99,0:20:27.15,Main,,0,0,0,,Và đó là mức độ... mà tớ xiêu lòng trước Araragi-kun.
 Dialogue: 10,0:20:28.05,0:20:31.40,Main,,0,0,0,,Vì thế, nhất định tớ sẽ tìm ra cách.
 Dialogue: 10,0:20:31.40,0:20:33.43,Main,,0,0,0,,Mong cậu kiên nhẫn một chút.
-Dialogue: 10,0:20:34.49,0:20:40.27,Main,,0,0,0,,Nên là, những gì tớ có thể cho Araragi-kun vào lúc này...
+Dialogue: 10,0:20:34.49,0:20:40.27,Main,,0,0,0,,Vì thế, những gì tớ có thể cho Araragi-kun vào lúc này...
 Dialogue: 10,0:20:40.81,0:20:42.84,Main,,0,0,0,,là bầu trời đầy sao này.
 Dialogue: 10,0:20:45.79,0:20:51.35,Main,,0,0,0,,Hồi nhỏ, bố mẹ có dẫn tớ tới đây một lần.
-Dialogue: 10,0:20:52.17,0:20:53.84,Main,,0,0,0,,Đây là kho báu.
+Dialogue: 10,0:20:52.17,0:20:53.84,Main,,0,0,0,,Đây là kho báu của tớ.
 Dialogue: 10,0:20:59.14,0:21:02.11,Main,,0,0,0,,Này Araragi-kun, {\i1}anh{\i0} có thích {\i1}em{\i0} không?
 Dialogue: 10,0:21:02.60,0:21:03.84,Main,,0,0,0,,Thích chứ.
 Dialogue: 10,0:21:03.84,0:21:06.62,Main,,0,0,0,,Em cũng thích Araragi-kun.
@@ -356,14 +356,14 @@ Dialogue: 10,0:21:14.45,0:21:16.22,Main,,0,0,0,,Vậy à, mát lòng mát dạ.
 Dialogue: 10,0:21:16.75,0:21:20.30,Main,,0,0,0,,Còn em? Thích anh ở điểm nào?
 Dialogue: 10,0:21:20.30,0:21:21.76,Main,,0,0,0,,Tốt bụng này.
 Dialogue: 10,0:21:21.76,0:21:23.30,Main,,0,0,0,,Đáng yêu này.
-Dialogue: 10,0:21:23.30,0:21:28.96,Main,,0,0,720,,Như chàng hoàng tử xuất hiện giải cứu tớ\N bất cứ khi nào tớ gặp khó khăn này.
+Dialogue: 10,0:21:23.30,0:21:28.96,Main,,0,0,720,,Như chàng hoàng tử xuất hiện giải cứu {\i1}em{\i0}\N bất cứ khi nào {\i1}em{\i0} gặp khó khăn này.
 Dialogue: 10,0:21:29.63,0:21:30.85,Main,,0,0,0,,Mát lòng mát dạ.
 Dialogue: 10,0:21:36.94,0:21:41.01,Main,,0,0,0,,Nghĩ lại thì hắn ta \Nchỉ cố chiếm được thân thể của em mà thôi.
 Dialogue: 10,0:21:41.01,0:21:44.62,Main,,0,0,0,,Chứ môi thì không.
 Dialogue: 10,0:21:46.77,0:21:49.12,Main,,0,0,0,,Araragi-kun, thế nên là...
 Dialogue: 10,0:21:49.12,0:21:50.49,Main,,0,0,0,,Hôn nào!
 Dialogue: 10,0:21:51.79,0:21:54.51,Main,,0,0,0,,Không phải... không phải thế... {nhất quán}
-Dialogue: 10,0:21:54.51,0:21:58.17,Main,,0,0,0,,Hôn... chúng mình đi hôn nhau đi?
+Dialogue: 10,0:21:54.51,0:21:58.17,Main,,0,0,0,,Hôn... chúng mình hôn nhau đi?
 Dialogue: 10,0:21:58.61,0:22:02.52,Main,,0,0,0,,Sao chúng mình không... hôn nhau... nhỉ?
 Dialogue: 10,0:22:04.18,0:22:07.05,Main,,0,0,0,,Hôn nhau nào! Araragi-kun!
 Dialogue: 10,0:22:07.05,0:22:10.80,Main,,0,0,0,,Vậy ra tính cả rồi à.
@@ -431,7 +431,7 @@ Dialogue: 9,0:03:24.64,0:03:27.90,OPvie,,0,0,40,,{\c&H2380F8&\blur0.67\an2\fs72\
 Dialogue: 9,0:03:27.90,0:03:28.15,OPvie,,0,0,40,,{\c&H011AE3&\blur0.67\an2\fs72\b1}hãy tóm lấy em khi em nhảy vào trái tim chàng.
 Dialogue: 9,0:03:28.15,0:03:36.99,OPvie,,0,0,40,,{\an2\c&H0001FD&\blur0.67\fs72\b1}Sức nặng của thứ cảm xúc này là chẳng thể cân đo.
 Dialogue: 9,0:03:36.99,0:03:43.20,OPvie,,0,0,40,,{\fad(0,300)\an2\blur0.67\fs72\b1}Bởi chỉ mình chàng thôi, em tới nói ngay đây mà.
-Dialogue: 9,0:03:43.87,0:03:49.96,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs72\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE/MOCHIOKA {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
+Dialogue: 9,0:03:43.87,0:03:49.96,Signs,credit.op,0,0,40,,{\an2\blur0.67\fs48\b1\fnVL Ample\fscx59\fscy59\2a&HFF&\ko24}DỊCH{\fs72} {\ko24}KiOZ {\fs48\ko24}TYPESET{\fs72} {\ko24}KiOZ/EAGLE/MOCHIOKA {\fs48\ko24}TIMING{\fs72} {\ko24}KiOZ {\fs48\ko24}QC{\fs72} {\ko24}MOCHIOKA/KiOZ {\fs48\ko24}WORKFLOW{\fs72} {\ko24}TUILAKHANH\NGood {\ko24}Subs {\ko24}Good {\ko24}Anime | {\ko24}Thanks {\ko24}to {\ko24}MTBB {\fs48\ko24}(TYPESET,TIMING)
 Dialogue: 0,0:03:39.11,0:03:39.57,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL FertigoPro\blur1\fsp4\fs40\t(-13,487,\c&H090AF3&)\pos(960,706.67)}Mèo Tsubasa
 Dialogue: 0,0:03:39.57,0:03:39.61,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(960,706.67)}Mèo Tsubasa
 Dialogue: 0,0:03:39.61,0:03:39.66,Signs,,0,0,0,,{\fscx99.96\fscy99.96\frz0\alpha&H00&\fnVL FertigoPro\blur1\fsp4\fs40\c&H090AF3&\pos(959.99,706.58)}Mèo Tsubasa
