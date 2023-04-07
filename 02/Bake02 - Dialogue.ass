@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 02 (BD 1080p Hi10 Opus) [51A8D005].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 425
-Active Line: 479
-Video Position: 3184
+Scroll Position: 312
+Active Line: 366
+Video Position: 28415
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,7 +361,7 @@ Dialogue: 12,0:17:11.08,0:17:12.76,Main,,0,0,0,,Mở mắt ra và nhìn đi.
 Dialogue: 12,0:17:26.37,0:17:28.63,Main,,0,0,0,,Tiểu thư có thấy gì không?
 Dialogue: 12,0:17:28.63,0:17:30.53,Main,,0,0,0,,C-Có.
 Dialogue: 12,0:17:30.53,0:17:32.07,Main,,0,0,0,,Giống lần đó...
-Dialogue: 12,0:17:32.48,0:17:35.53,Main,,0,0,0,,Giống con Cua khổng lổ lần đó...
+Dialogue: 12,0:17:32.48,0:17:35.53,Main,,0,0,0,,Giống con Cua khổng lồ lần đó...
 Dialogue: 12,0:17:36.34,0:17:38.07,Main,,0,0,0,,Tôi nhìn thấy con Cua.
 Dialogue: 12,0:17:39.54,0:17:40.80,Main,,0,0,0,,Vậy sao?
 Dialogue: 12,0:17:40.80,0:17:42.97,Main,,0,0,0,,Ta thì không thấy gì cả.
@@ -397,7 +397,7 @@ Dialogue: 12,0:19:30.15,0:19:31.91,Main,,0,0,0,,Vậy mời tiểu thư.
 Dialogue: 12,0:19:31.91,0:19:32.72,Main,,0,0,0,,Làm đi.
 Dialogue: 12,0:19:37.01,0:19:38.32,Main,,0,0,0,,Con xin tạ lỗi!
 Dialogue: 12,0:19:39.29,0:19:42.07,Main,,0,0,0,,Và còn... xin cảm tạ Ngài.
-Dialogue: 12,0:19:42.82,0:19:45.17,Main,,0,0,0,,Nhưng xin Ngài vậy là đủ rồi.
+Dialogue: 12,0:19:42.82,0:19:45.17,Main,,0,0,0,,Nhưng xin Ngài, vậy là đủ rồi.
 Dialogue: 12,0:19:45.17,0:19:50.23,Main,,0,0,0,,Chúng là suy nghĩ của con, cảm xúc của con, ký ức của con.
 Dialogue: 12,0:19:50.23,0:19:51.67,Main,,0,0,0,,Con sẽ gánh vác chúng.
 Dialogue: 12,0:19:52.33,0:19:54.46,Main,,0,0,0,,Con không thể đánh mất chúng được.

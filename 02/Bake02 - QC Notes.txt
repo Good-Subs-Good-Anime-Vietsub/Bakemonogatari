@@ -2,13 +2,15 @@
 Dia:
 ======================
 Giống con Cua khổng lổ lần đó...
-{FIX: lồ ~moca}
+{FIX: lồ ~moca} [Done]
 
 Nhưng xin Ngài vậy là đủ rồi.
-{FIX: nên thêm dấu phẩy vào giữa}
+{FIX: nên thêm dấu phẩy vào giữa} [Done]
 
 {\i1}Tự lừa đảo chính mình.
 {FIX: ''lừa dối'' chẳng hạn}
+[ở đây dùng từ ズル(zuru), dịch "lừa dối" cũng được, nhưng lúc trước trong cuộc trò chuyện ở nhà Hitagi, có 2 lần dùng từ ズル(zuru), ở đó lựa chọn dịch là "lừa đảo" là chính xác (và có thể liên quan tới sau này với Kaiki), nên ở đây cũng dịch là "lừa đảo". Ban đầu tính gạch chân nhưng về sau bỏ đi, ai nhận ra đc thì nhận ra]
+
 ======================
 TS:
 ======================
