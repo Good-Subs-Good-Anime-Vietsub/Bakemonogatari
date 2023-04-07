@@ -1,0 +1,18 @@
+======================
+Dia:
+======================
+Giống con Cua khổng lổ lần đó...
+{FIX: lồ ~moca}
+
+Nhưng xin Ngài vậy là đủ rồi.
+{FIX: nên thêm dấu phẩy vào giữa}
+
+{\i1}Tự lừa đảo chính mình.
+{FIX: ''lừa dối'' chẳng hạn}
+======================
+TS:
+======================
+không thể chung sống hòa thuận.\N\N\N\Nhọ dè bỉu chàng là cái thứ không có bóng, thật kinh tởm.
+{FIX: sau dấu chấm quên viết hoa}
+
+======================
