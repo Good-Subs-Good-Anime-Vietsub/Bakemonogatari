@@ -1,0 +1,24 @@
+======================
+Dia:
+======================
+
+Lỡ làm phí thì giờ \Nvào mấy chuyện đã chẳng thể cứu vãn mất rồi.
+{FIX: vế sau từ ''đã'' hơi thừa}
+
+Ơ, cậu chắc chứ?
+{FIX: câu này không cần thiết phải đẩy sang bên như vậy, 2 câu sau e nghĩ để tầm 500 sẽ đẹp hơn là 800}
+
+không cần biết là người hay không,\N tôi ghét cay ghét đắng.
+{FIX: ''tôi đều ghét cay ghét đắng'' chẳng hạn}
+
+======================
+TS:
+======================
+
+Eagle:0:21:51.54 - NGƯỜI\N YÊU
+{FIX: đoạn này bị mờ quá}
+
+Rạng sáng ngày 14, bị xe đâm trong tình trạn say khướt,
+{FIX: ''trạng''
+
+======================
