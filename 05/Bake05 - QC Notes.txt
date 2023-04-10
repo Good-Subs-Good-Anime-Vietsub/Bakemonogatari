@@ -1,0 +1,34 @@
+======================
+Dia:
+======================
+
+{\i1}Uớc gì hắn không phải là tôi.
+{FIX: ''Ước''}
+
+Và do trước giờ vẫn luôn con ngoan\N nên việc này đã tác động ngược.
+{FIX: ''vẫn luôn là con ngoan'' chẳng hạn.
+
+Mà vụ ẩu đả sẽ khép lại \Nkhi có một bên đứng ra lời xin lỗi ha.
+{FIX: đứng ra xin lỗi}
+
+Vừa là thừa tận 2 chữ "ra" đấy nhá!
+{FIX: Vừa rồi thừa
+
+Không phải đụng tay đụng chân đâu,\N là lời qua tiếng lại thôi.
+{FIX: chỉ lời qua tiếng lại thôi
+
+Em là con gái một nên nói thế này có hơi lạ nhưng...
+{FIX: có nhất thiết phải là ''con gái một'' không a ?
+
+thế nhưng bản thân em\N thì chưa bao giờ trông thấy điều đó.
+{FIX: từ ''thì'' đọc lên thấy hơi thừa
+
+Vừa là thiếu 1 chữ "ra" nhá.
+{FIX: vừa rồi
+======================
+TS:
+======================
+
+¯\_(ツ)_/¯
+
+======================
