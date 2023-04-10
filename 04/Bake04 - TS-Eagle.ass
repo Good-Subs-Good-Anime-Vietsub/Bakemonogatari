@@ -16,9 +16,9 @@ Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Bakemonogat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 76
-Active Line: 80
-Video Position: 9121
+Scroll Position: 117
+Active Line: 127
+Video Position: 31446
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -159,7 +159,7 @@ Dialogue: 0,0:21:09.29,0:21:11.25,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1
 Dialogue: 0,0:21:31.85,0:21:32.35,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b0\blur1.2\fs70\fscx80\pos(965.34,733.81)\c&HFFFFFF&}NÓI
 Dialogue: 1,0:21:31.85,0:21:32.35,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b0\blur10\fs70\fscx80\pos(965.34,733.81)}NÓI
 Dialogue: 0,0:21:51.54,0:21:52.92,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur1.2\fs60\fscx80\c&H574CFE&\pos(961.34,536.47)\1a&H64&}NGƯỜI\N YÊU
-Dialogue: 1,0:21:51.54,0:21:52.92,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur3\fs60\fscx80\c&HFFFFFF&\pos(961.34,536.47)\1a&H00&}NGƯỜI\N YÊU
+Dialogue: 1,0:21:51.54,0:21:52.92,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b1\blur2.5\fs60\fscx80\c&HFFFFFF&\pos(961.34,536.47)\1a&H00&}NGƯỜI\N YÊU
 Dialogue: 0,0:21:52.92,0:21:54.42,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp50\b1\blur1.2\fs120\pos(989.34,652.47)}NÓI
 Dialogue: 1,0:21:52.92,0:21:54.42,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp50\b1\blur10\fs120\pos(989.34,652.47)}NÓI
 Dialogue: 0,0:21:54.42,0:21:56.59,Signs,,0,0,0,nTS,{\fnSVN-Coder's Crux\fsp10\b0\blur1.2\fs70\fscx80\c&HFFFFFF&\pos(964.2,726.95)}NÓI

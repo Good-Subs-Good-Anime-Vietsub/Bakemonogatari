@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 288
-Active Line: 291
-Video Position: 24970
+Scroll Position: 37
+Active Line: 40
+Video Position: 4673
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,7 @@ Dialogue: 7,0:03:03.45,0:03:05.42,Main,,0,0,0,,vẫn cảm thấy khá là buồ
 Dialogue: 7,0:03:05.42,0:03:07.38,Main,,0,0,0,,Ừm, cũng hiểu phần nào.
 Dialogue: 7,0:03:09.59,0:03:12.92,Main,,0,0,0,,Lỡ làm phí thì giờ \Nvào mấy chuyện đã chẳng thể cứu vãn mất rồi.
 Dialogue: 7,0:03:12.92,0:03:14.88,Main,,0,0,0,,Đi thôi nào, Araragi-kun!
-Dialogue: 7,0:03:14.88,0:03:16.30,Main,,0,800,0,,Ơ, cậu chắc chứ?
+Dialogue: 7,0:03:14.88,0:03:16.30,Main,,0,0,0,,Ơ, cậu chắc chứ?
 Dialogue: 7,0:03:16.30,0:03:17.55,Main,,0,0,0,,Chắc.
 Dialogue: 7,0:03:17.55,0:03:19.14,Main,,0,800,0,,Thế à?
 Dialogue: 7,0:03:19.14,0:03:20.89,Main,,0,800,0,,Vậy đi thôi, Hachikuji!

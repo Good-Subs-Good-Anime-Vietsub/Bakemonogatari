@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Bakemonogatari - 05 (BD 1080p Hi10 Opus) [1E10A491].mk
 Video File: ../raws/[OZR] Bakemonogatari - 05 (BD 1080p Hi10 Opus) [1E10A491].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 13
-Video Position: 688
+Video Zoom Percent: 0.375000
+Scroll Position: 88
+Active Line: 90
+Video Position: 9802
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,7 +62,7 @@ Dialogue: 6,0:03:03.16,0:03:06.42,Main,,0,0,0,,Không bao giờ hỗn láo chố
 Dialogue: 6,0:03:06.42,0:03:08.88,Main,,0,0,0,,Anh rất biết ơn công lao dưỡng dục của bố mẹ.
 Dialogue: 6,0:03:09.84,0:03:10.96,Main,,0,0,0,,Thật đáng khen.
 Dialogue: 6,0:03:10.96,0:03:14.30,Main,,0,0,0,,Nhưng khi lên cấp 3 thì học hành sa sút.
-Dialogue: 6,0:03:15.34,0:03:19.85,Main,,0,0,0,,Và do trước giờ vẫn luôn con ngoan\N nên việc này đã tác động ngược.
+Dialogue: 6,0:03:15.34,0:03:19.85,Main,,0,0,0,,Và do trước giờ vẫn luôn là con ngoan\N nên việc này đã tác động ngược.
 Dialogue: 6,0:03:19.85,0:03:22.81,Main,,0,0,0,,Dẫn tới có một sự gượng gạo rất khó diễn tả.
 Dialogue: 6,0:03:25.10,0:03:27.40,Main,,0,0,0,,Nī-chan, chính vì {\u1}như thế{\u0}...
 Dialogue: 6,0:03:27.77,0:03:33.07,Main,,0,0,0,,chính vì {\u1}như thế{\u0} mà anh... \N không bao giờ trưởng thành được, kiểu vậy.
@@ -103,14 +103,14 @@ Dialogue: 6,0:05:24.69,0:05:28.27,Main,,0,0,0,,Để anh khiến nhóc không c�
 Dialogue: 6,0:05:35.65,0:05:38.28,Main,,0,0,0,,{\i1}Trước một nữ sinh tiểu học... hắn đánh mất mình...
 Dialogue: 6,0:05:38.28,0:05:42.39,Main,,0,0,0,,{\i1}hắn thu hết sức bình sinh lao vào cưỡng bức, giở trò đồi bại.
 Dialogue: 6,0:05:42.39,0:05:45.03,Main,,0,0,0,,{\i1}Chuyện kể nam sinh cấp 3.
-Dialogue: 6,0:05:45.03,0:05:47.95,Main,,0,0,0,,{\i1}Uớc gì hắn không phải là tôi.
+Dialogue: 6,0:05:45.03,0:05:47.95,Main,,0,0,0,,{\i1}Ước gì hắn không phải là tôi.
 Dialogue: 6,0:05:50.33,0:05:52.54,Main,,0,0,0,,Em xin lỗi ạ.
 Dialogue: 6,0:05:54.08,0:05:55.08,Main,,0,0,0,,À không.
 Dialogue: 6,0:05:56.29,0:05:58.38,Main,,0,0,0,,Là anh mới phải.
 Dialogue: 6,0:05:58.75,0:06:02.59,Main,,0,0,0,,Cơ mà ấy Hachikuji, \Nem có vẻ quen với việc đánh nhau nhở?
 Dialogue: 6,0:06:02.59,0:06:05.76,Main,,0,0,0,,Ở trường em đánh nhau khá nhiều,\N mà Araragi-san cũng đâu kém.
 Dialogue: 6,0:06:06.10,0:06:09.68,Main,,0,0,0,,Kiểu ẩu đả như này \Nở nhà anh với em gái choảng nhau suốt.
-Dialogue: 6,0:06:09.68,0:06:14.27,Main,,0,0,0,,Mà vụ ẩu đả sẽ khép lại \Nkhi có một bên đứng ra lời xin lỗi ha.
+Dialogue: 6,0:06:09.68,0:06:14.27,Main,,0,0,0,,Mà vụ ẩu đả sẽ khép lại \Nkhi có một bên đứng ra xin lỗi ha.
 Dialogue: 6,0:06:16.69,0:06:18.36,Main,,0,0,0,,Có chuyện gì sao?
 Dialogue: 6,0:06:18.65,0:06:20.07,Main,,0,0,0,,Ararararagi-san?
 Dialogue: 6,0:06:20.07,0:06:22.15,Main,,0,0,0,,Vừa là thừa tận 2 chữ "ra" đấy nhá!
@@ -122,7 +122,7 @@ Dialogue: 6,0:06:29.16,0:06:33.58,Main,,0,0,0,,Chấp nhận thôi anh.\N Ai mà
 Dialogue: 6,0:06:33.58,0:06:38.13,Main,,0,0,0,,Hay là Araragi-san từ lúc sinh ra đến giờ\N chưa bao giờ bị líu lưỡi?
 Dialogue: 6,0:06:38.13,0:06:42.59,Main,,0,0,0,,Thừa nhận cơ mà...\Nanh chưa bao giờ líu lưỡi tên của người khác.
 Dialogue: 2,0:06:43.80,0:06:46.97,Signs,,0,0,0,,{\an4\fscx100\fscy100\blur1.2\fs80\fnGentium\b1\c&H794036&\pos(817.16,781.62)}Một con rồng lộn, hai con l*n rộng.
-Dialogue: 1,0:06:48.80,0:06:49.64,Signs,,0,0,0,,{\fscx100\fscy100\blur1.2\fs85\fnGentium\b1\pos(960,520)\c&H6481F4&}lộn rồng
+Dialogue: 1,0:06:48.80,0:06:49.64,Signs,,0,0,0,,{\fscx100\fscy100\blur1.2\fs85\fnGentium\b1\pos(960,520)\c&H6481F4&}l*n rộng
 Dialogue: 1,0:06:53.02,0:06:53.89,Signs,,0,0,0,,{\fscx100\fscy100\blur1.2\fs85\fnGentium\b1\pos(964,502)\c&HEBEEF1&}rồng lộn
 Dialogue: 0,0:07:03.65,0:07:03.69,Signs,,0,0,0,,{\fscx100\fscy100\alpha&HE9&\c&H1B23E9&\blur1\fs40\shad5\4c&H92BBCF&\fnGentium Basic\frz40\pos(655.06,429.12)}rồng
 Dialogue: 0,0:07:03.69,0:07:03.74,Signs,,0,0,0,,{\fscx103.15\fscy103.15\alpha&HD7&\c&H1B23E9&\blur1.03\fs40\shad5.16\4c&H92BBCF&\fnGentium Basic\frz40\pos(649.12,413.21)}rồng
@@ -458,13 +458,13 @@ Dialogue: 6,0:07:18.54,0:07:21.75,Main,,0,0,0,,Anh phải xin lỗi vì đã s�
 Dialogue: 6,0:07:21.75,0:07:24.22,Main,,0,0,0,,Điên à mà đi sờ ngực em gái!
 Dialogue: 6,0:07:24.22,0:07:28.43,Main,,0,0,0,,Chuyện là hôm nay lúc ra ngoài,\N anh có cãi nhau với em gái.
 Dialogue: 6,0:07:28.89,0:07:32.97,Main,,0,0,0,,Nhà em thì bố mẹ toàn gây lộn với nhau.
-Dialogue: 6,0:07:32.97,0:07:35.60,Main,,0,0,0,,Không phải đụng tay đụng chân đâu,\N là lời qua tiếng lại thôi.
+Dialogue: 6,0:07:32.97,0:07:35.60,Main,,0,0,0,,Không phải đụng tay đụng chân đâu,\N lời qua tiếng lại thôi.
 Dialogue: 6,0:07:38.02,0:07:40.90,Main,,0,0,0,,Em là con gái một nên nói thế này có hơi lạ nhưng...
 Dialogue: 6,0:07:40.90,0:07:43.82,Main,,0,0,0,,theo em được biết thì ban đầu bố mẹ rất hòa hợp,
 Dialogue: 6,0:07:42.36,0:07:43.82,Signs,,0,0,0,,{\blur0.8\bord0\shad0\c&H0302DF&\fsp12\pos(960,645.6)\fscx111\fscy147}GIA ĐÌNH
 Dialogue: 6,0:07:43.82,0:07:48.36,Signs,,0,0,0,,{\blur1.4\bord0\shad0\c&HD6D7FC&\fsp12\fscx96\fscy127\pos(1045,632.6)}CON YÊU MẸ.
 Dialogue: 6,0:07:48.36,0:07:51.95,Signs,,0,0,0,,{\blur1.4\bord0\shad0\c&HF9E4D7&\fsp12\fscx96\fscy127\pos(583,636.6)}CON YÊU BỐ.
-Dialogue: 6,0:07:43.82,0:07:48.36,Main,,0,0,0,,thế nhưng bản thân em\N thì chưa bao giờ trông thấy điều đó.
+Dialogue: 6,0:07:43.82,0:07:48.36,Main,,0,0,0,,thế nhưng bản thân em chưa trông thấy vậy bao giờ.
 Dialogue: 6,0:07:49.03,0:07:51.95,Main,,0,0,0,,Hai người họ lúc nào cũng gây lộn với nhau.
 Dialogue: 6,0:07:55.12,0:07:58.92,Main,,0,0,0,,Em... yêu mẹ mình đúng không?
 Dialogue: 6,0:07:58.92,0:08:00.50,Main,,0,0,0,,Vâng, yêu chứ.
