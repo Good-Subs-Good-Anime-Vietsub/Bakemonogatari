@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mkv
-Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mkv
+Audio File: ../[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mkv
+Video File: ../[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1218
-Active Line: 1233
-Video Position: 5655
+Video Zoom Percent: 0.625000
+Scroll Position: 375
+Active Line: 380
+Video Position: 2170
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -412,7 +412,7 @@ Dialogue: 0,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\clip(1696,815,1701,938)\pos(16
 Dialogue: 0,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\clip(1701,815,1706,938)\pos(1639.688,823.57)\an7\blur1.5\bord0\shad0\fscx100\fscy100\p1\c&HC7D0D5&}m -6 -2 l 63 -2 64 107 -6 108
 Dialogue: 0,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\clip(1706,815,1711,938)\pos(1639.688,823.57)\an7\blur1.5\bord0\shad0\fscx100\fscy100\p1\c&HC7D0D5&}m -6 -2 l 63 -2 64 107 -6 108
 Dialogue: 1,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\an7\c&H2425C8&\blur4\fscy125\fnGentium\b1\fs11\fax0\frz0\pos(1641.734,837)\alpha&HB0&}Không để \Nhay ném \Nđất đá và \Nchướng ngại \Nvật lên\N đường ray
-Dialogue: 2,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\an7\c&H2425C8&\blur1.2\fscy125\fnGentium\b1\fs11\fax0\frz0\pos(1641.734,837)}- No rocks on \Nthe railway\N\N\N\N- No throwing\Njunk on trains\N\N\N\N\N{Don't putrocks onrailways,or throwanythingin trains.}
+Dialogue: 2,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\an7\c&H2425C8&\blur1.2\fscy125\fnGentium\b1\fs11\fax0\frz0\pos(1641.734,837)}Không để \Nhay ném \Nđất đá và \Nchướng ngại \Nvật lên\N đường ray
 Dialogue: 0,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\pos(1752,799.5)\p1\c&H7F624D&}m -9 -47 l 72 -44 68 132 -13 132
 Dialogue: 1,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\pos(1752,799.5)\p1\c&H7A5C46&\iclip(m 1737 933 l 1822 933 1821 936 1738 935)}m -4 -42 l 67 -40 66 21 63 135.5 -10 135.5
 Dialogue: 2,0:01:30.49,0:01:34.82,Signs,,0,0,0,,{\an8\blur4\fscy115\fnGentium Basic\fscx90\fs17.5\c&HC5CDCA&\frz-1.53\fax0\alpha&HB0&\pos(1782.699,805.232)}Nguy Hiểm!\NKhông băng \Nqua khi \Nrào chắn\Nđã hạ
