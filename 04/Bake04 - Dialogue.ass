@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 04 (BD 1080p Hi10 Opus) [92E91678].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 37
-Active Line: 40
-Video Position: 4673
+Scroll Position: 64
+Active Line: 87
+Video Position: 7981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,7 +118,7 @@ Dialogue: 7,0:05:30.73,0:05:32.14,Main,,0,0,0,,Với em vụ này chỉ ngang t�
 Dialogue: 3,0:05:32.85,0:05:37.94,GT,,0,0,0,,{\an7\pos(0,0)\blur1\bord0\shad0\p1\1a&H00&\c&H000000&\fscx100\fscy81}m 1901 219 l 21 219 l 21 15 l 1901 15 m 27 21 l 27 213 l 1895 213 l 1895 21
 Dialogue: 3,0:05:32.85,0:05:37.94,GT,,0,0,0,,{\an7\pos(0,0)\blur1\bord0\shad0\p1\1a&H83&\c&H000000&\fscx100\fscy81}m 1895 213 l 27 213 l 27 21 l 1895 21
 Dialogue: 6,0:05:32.85,0:05:37.94,GT,,50,0,0,,{\q2\an7\fs\shad0\fscx82\fscy82\pos(46.44,31.03)}Ở đây Hachikuji đọc sai thành ngữ, ám chỉ {\c&HFFD435&}chuyện vặt vãnh, dễ như ăn bánh{\c}:\N{\c&H3EFF35&}nichijō sahan{\c}{\c&HFFD435&} (chè cháo/ăn uống hàng ngày){\c} ---> {\c&H3EFF35&}nichijō jihanki{\c} {\c&HFFD435&}(máy bán hàng tự động hàng ngày){\c} và Araragi trả lời bằng 1 từ \Nkhá tối nghĩa nếu dịch đúng là {\c&H3EFF35&}teika hanbai{\c} {\c&HFFD435&}(giá niêm yết){\c}, liên quan tới việc {\c&H3DE1FF&}có nên mua nước ở máy bán hàng không {\c}(giá cố định).
-Dialogue: 7,0:05:32.85,0:05:34.81,Main,,0,0,0,,..."chuyện thường ở ngày ở xã" thôi!
+Dialogue: 7,0:05:32.85,0:05:34.81,Main,,0,0,0,,..."chuyện thường ngày ở xã" thôi!
 Dialogue: 7,0:05:35.88,0:05:37.19,Main,,0,0,0,,Hợp tác xã giờ khá đấy.
 Dialogue: 7,0:05:38.28,0:05:40.61,Main,,0,0,0,,Dạ vâng, thưa tiểu thư.
 Dialogue: 7,0:05:40.61,0:05:45.78,Main,,0,0,0,,Xin tiểu thư, hãy rộng lòng cho tiểu nhân biết \Nchính xác thì địa chỉ đó là gì được không ạ?

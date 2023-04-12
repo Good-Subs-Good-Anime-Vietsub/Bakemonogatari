@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 05 (BD 1080p Hi10 Opus) [1E10A491].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 88
-Active Line: 90
-Video Position: 9802
+Scroll Position: 36
+Active Line: 37
+Video Position: 5387
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,7 +69,7 @@ Dialogue: 6,0:03:27.77,0:03:33.07,Main,,0,0,0,,chính vì {\u1}như thế{\u0} m
 Dialogue: 6,0:03:33.07,0:03:36.99,Main,,0,0,0,,Không bao giờ trưởng thành,\N mãi mãi là con nít.
 Dialogue: 6,0:03:38.20,0:03:41.66,Main,,0,0,0,,Con nít à? Thế giống em rồi.
 Dialogue: 6,0:03:41.66,0:03:44.66,Main,,0,0,0,,Anh cho là không phải kiểu như em đâu.
-Dialogue: 6,0:03:44.66,0:03:48.62,Main,,0,0,0,,"Người thì to ra nhưng tâm trí thì không lớn kịp",\N nó kiểu vậy.
+Dialogue: 6,0:03:44.66,0:03:48.62,Main,,0,0,0,,Người thì to ra nhưng tâm trí thì không lớn kịp,\N nó kiểu vậy.
 Dialogue: 6,0:03:49.58,0:03:53.88,Main,,0,0,0,,Araragi-san, để em nói cho mà biết\N em đây là thuộc dạng phát triển sớm trong lớp đấy.
 Dialogue: 6,0:03:53.88,0:03:56.92,Main,,0,0,0,,Đúng thật, ngực em cũng ra gì đấy.
 Dialogue: 6,0:03:57.76,0:04:00.34,Main,,0,0,0,,Chạm vào rồi á?! Chạm khi nào?!
