@@ -11,13 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
-Video File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
+Audio File: ../[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
+Video File: ../[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 1
-Video Position: 2720
+Video Zoom Percent: 0.500000
+Scroll Position: 486
+Active Line: 497
+Video Position: 12968
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -529,7 +530,7 @@ Dialogue: 1,0:07:42.98,0:07:43.02,Signs,,0,0,0,,{=58}{\alpha&H00&\fscx100\fscy10
 Dialogue: 1,0:07:43.02,0:07:43.06,Signs,,0,0,0,,{=58}{\alpha&H00&\fscx100\fscy100\blur1\fs72.5\fnVL DellaRobbia BT\frz270\c&H97A1E4&\pos(1241.66,974.92)}Chặt tay trái
 Dialogue: 1,0:07:43.06,0:07:43.10,Signs,,0,0,0,,{=58}{\alpha&H00&\fscx100\fscy100\blur1\fs72.5\fnVL DellaRobbia BT\frz270\c&H97A1E4&\pos(1241.66,1100.08)}Chặt tay trái
 Dialogue: 1,0:07:43.10,0:07:43.15,Signs,,0,0,0,,{=58}{\alpha&H00&\fscx100\fscy100\blur1\fs72.5\fnVL DellaRobbia BT\frz270\c&H97A1E4&\pos(1241.7,1225.21)}Chặt tay trái
-Dialogue: 1,0:09:00.85,0:09:02.60,Signs,,0,0,0,,{\blur0.9\fs160\fnGentium\pos(702.951,418.476)\c&HF6F7F1&\fscx76\fscy76}Thoại của Oshino
+Dialogue: 1,0:09:00.85,0:09:02.60,Signs,,0,0,0,,{\blur0.9\fs160\fnGentium\pos(690.951,418.476)\c&HF6F7F1&\fscx76\fscy76}Thoại của Oshino
 Dialogue: 1,0:10:08.41,0:10:09.41,Signs,,0,0,0,,{\b0\blur0.9\fs120\fnGentium\b1\pos(476,452.714)\c&HFEFFFF&}Tay Khỉ
 Dialogue: 1,0:13:56.18,0:13:57.18,Signs,,0,0,0,,{\b0\blur0.9\fs150\fnGentium\pos(1421.714,500.572)}Và rồi
 Dialogue: 1,0:16:30.59,0:16:32.30,Signs,,0,0,0,,{\blur0.8\fs180\fnGentium Basic\b1\pos(1552,517.715)}Giết
