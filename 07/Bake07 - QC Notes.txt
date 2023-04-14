@@ -4,12 +4,15 @@ Dia:
 
 nếu anh chẳng thế nói chuyện đen tối với nữ sinh lớp dưới,\N thì sẽ chẳng thể nào bước ra đời được đâu.
 {chẳng thể}
+[Done]
 
 Là từ Sugura trong {\i1}Suruga-doi{\i0}.
 {Suruga}
+[Done]
 
 Nhưng em đã nhầm. \NTin đồn hãng còn nhẹ chán.
 {hẵng}
+[Done]
 
 
 ======================

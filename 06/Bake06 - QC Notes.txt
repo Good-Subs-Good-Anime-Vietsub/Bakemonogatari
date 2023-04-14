@@ -4,24 +4,31 @@ Dia:
 
 khoảng 3 ngày gần đây\N là em ấy cứ ngang nhiên theo dõi anh.
 {thừa từ "là"}
+[Done]
 
 Thế này nhé, anh không mấy ưa kiểu người ta cứ lôi yêu đương ra\N để giải thích cho mọi chuyện đâu.
 {thừa từ ''ta''}
+[Done] "kiểu -- cái kiểu"
 
 Araragi-kun mà bị kẻ nào đó giết không phải tớ,\N thì tớ sẽ giết chết kẻ đó.
 {''không phải tớ giết'' ổn hơn}
+[Done] "Cậu mà không phải do tớ giết,\N thì tớ sẽ giết chết kẻ đã giết cậu."
 
 Vì thế khi từ chối, tớ đã cẩn thận để sao cho \Nthật dứt khoát không để lại hậu quả.
 {câu này cần chỉnh sửa gì đó để mượt hơn}
+[Done]
 
 chốn linh thiêng của vị Thần Chiến tranh.
 {Thần Chiến Tranh nhìn cho đẹp}
+[Done]
 
 Vậy là được rồi chứ?\N Đây là điều mà Araragi-kun đang muốn hỏi đúng không?
 {rút từ ''đang'' đi cho câu gọn hơn, 20cps hơi ác''
+[Done]
 
 {\i1}Bởi đây là việc mà tôi nhất quyết không thể ló ngơ.
 {''ngó lơ''}
+[Done]
 ======================
 TS:
 ======================
