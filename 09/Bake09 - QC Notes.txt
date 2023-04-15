@@ -4,6 +4,7 @@ Dia:
 
 Định mời bạn bè người thân tới \Nlàm bữa tiệc nhẹ nhàng.
 {lặp từ ''Định'', dù nó ở câu trước}
+[DONE]
 
 ======================
 TS:

@@ -5,31 +5,40 @@ Dia:
 Bị trói là một chuyện, chịu được bị trói suốt như thế...
 cũng đỏi hỏi cơ thể phải dẻo dai ha.
 {đòi hỏi}
+[DONE]
 
 Làm gì có, anh có trách khứ gì em đâu.
 {trách cứ}
+[DONE]
 
 Chỉ là lo không biết em có ổn không thôi?
 {Chỉ lo là}
+[DONE]
 
 Gì ạ?
 {Sao ạ? nghe cho nó nhẹ nhàng :)))}
+[DONE]
 
 nhưng tất cả những kỷ niệm vui đùa với\N Koyomi-onīchan và Rara-chan rất quan trọng đối với em.
 {vui đùa\N với Koyomi}
+[DONE]
 
 Em có thể gọi anh là... Koyomi-onīchan... được không ạ?
 {được không ạ? có vẻ là bị chậm}
+[DONE]
 
 Kanbaru, có nhớ là anh từng bảo nơi này là nơi\N những thứ xấu xa tụ về không?
 {lặp từ ''là''}
+[DONE]
 
 Tốt nhất là không nên.
 {câu này nên chuyển sang trái luôn cho đồng bộ với câu sau}
+[DONE]
 
 {\i1}Anh đã... đối với kẻ nguyền rủa em...
 {\i1}thậm chí còn muốn cứu.
 {e nghĩ nên đảo lại 2 vế, không cần phải cứng nhắc như này đâu a}
+[DONE] (giữ nguyên)
 
 ======================
 TS:
@@ -37,5 +46,6 @@ TS:
 
 "Và hên hết, Rắn có sức sống mãnh liệt.
 {trên hết}
+[DONE]
 
 ======================
