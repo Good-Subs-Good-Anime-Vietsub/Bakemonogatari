@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 Opus) [9C477252].mkv
-Video File: ../raws/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 Opus) [9C477252].mkv
+Audio File: D:/bake ts/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 Opus) [9C477252].mkv
+Video File: D:/bake ts/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 Opus) [9C477252].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 218
-Active Line: 233
-Video Position: 5600
+Scroll Position: 618
+Active Line: 627
+Video Position: 34371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -644,16 +644,16 @@ Dialogue: 1,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{=20}{\fscx100\fscy100\frz0\alph
 Dialogue: 1,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{=20}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H4155EB&\pos(961.6,476.53)}Mèo
 Dialogue: 1,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{=20}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H4155EB&\pos(961.92,477.14)}Mèo
 Dialogue: 1,0:23:53.66,0:23:53.70,Signs,,0,0,0,,{=20}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\fs52.5\c&H4155EB&\pos(961.59,476.57)}Mèo
-Dialogue: 0,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(974.4,715)\alpha&HB0&}Mèo Tsubasa, Phần 3
-Dialogue: 0,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(973.88,715.57)\alpha&HB0&}Mèo Tsubasa, Phần 3
-Dialogue: 0,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(974.14,715.08)\alpha&HB0&}Mèo Tsubasa, Phần 3
-Dialogue: 0,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(973.91,715.53)\alpha&HB0&}Mèo Tsubasa, Phần 3
-Dialogue: 0,0:23:53.66,0:23:53.70,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(974.4,715.02)\alpha&HB0&}Mèo Tsubasa, Phần 3
-Dialogue: 1,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(974.4,715)}Mèo Tsubasa, Phần 3
-Dialogue: 1,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(973.88,715.57)}Mèo Tsubasa, Phần 3
-Dialogue: 1,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(974.14,715.08)}Mèo Tsubasa, Phần 3
-Dialogue: 1,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(973.91,715.53)}Mèo Tsubasa, Phần 3
-Dialogue: 1,0:23:53.66,0:23:53.70,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(974.4,715.02)}Mèo Tsubasa, Phần 3
+Dialogue: 0,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(974.4,715)\alpha&HB0&}Mèo Tsubasa, Phần 2
+Dialogue: 0,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(973.88,715.57)\alpha&HB0&}Mèo Tsubasa, Phần 2
+Dialogue: 0,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(974.14,715.08)\alpha&HB0&}Mèo Tsubasa, Phần 2
+Dialogue: 0,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(973.91,715.53)\alpha&HB0&}Mèo Tsubasa, Phần 2
+Dialogue: 0,0:23:53.66,0:23:53.70,Signs,,0,0,0,,{=17}{\fscx100\fscy100\frz0\fnVL DellaRobbia BT\blur6\an5\c&H4155EB&\fs70\pos(974.4,715.02)\alpha&HB0&}Mèo Tsubasa, Phần 2
+Dialogue: 1,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(974.4,715)}Mèo Tsubasa, Phần 2
+Dialogue: 1,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(973.88,715.57)}Mèo Tsubasa, Phần 2
+Dialogue: 1,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(974.14,715.08)}Mèo Tsubasa, Phần 2
+Dialogue: 1,0:23:53.62,0:23:53.66,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(973.91,715.53)}Mèo Tsubasa, Phần 2
+Dialogue: 1,0:23:53.66,0:23:53.70,Signs,,0,0,0,,{=16}{\fscx100\fscy100\frz0\alpha&H00&\fnVL DellaRobbia BT\blur1.2\an5\c&H4155EB&\fs70\pos(974.4,715.02)}Mèo Tsubasa, Phần 2
 Dialogue: 0,0:23:53.49,0:23:53.53,Signs,,0,0,0,,{=19}{\fscx100\fscy100\frz0\blur6\fnVL DellaRobbia BT\an5\fs60\c&H4155EB&\pos(966.4,205.6)\alpha&HB0&}Yêu Ma Quái Truyện
 Dialogue: 0,0:23:53.53,0:23:53.57,Signs,,0,0,0,,{=19}{\fscx100\fscy100\frz0\blur6\fnVL DellaRobbia BT\an5\fs60\c&H4155EB&\pos(966.18,206.04)\alpha&HB0&}Yêu Ma Quái Truyện
 Dialogue: 0,0:23:53.57,0:23:53.62,Signs,,0,0,0,,{=19}{\fscx100\fscy100\frz0\blur6\fnVL DellaRobbia BT\an5\fs60\c&H4155EB&\pos(966.18,205.56)\alpha&HB0&}Yêu Ma Quái Truyện
