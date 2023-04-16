@@ -4,39 +4,50 @@ Dia:
 
 Thành thật mà nói, tớ chả ham hô cũng chả ghen tị.
 {ham hố}
+[DONE]
 
 Có điều, với tư cách là người dạy kèm cho cậu \Nmà đi nói thế này thì có hơi kỳ,
 {nhanh quá :))}
+[DONE]
 
 Sau từng ấy thời gian cuối cùng Hitagi\N cũng nhờ chú một việc.
 {''thời gian cuối cùng'' nên tách nhau bằng từ ''thì'' hoặc dấu phẩy
+[DONE]
 
 ...thì tớ cam lòng.
 {e biết là để vậy nó link với line trước, nhưng hơi bị sớm quá}
+[DONE]
 
 Như chàng hoàng tử xuất hiện giải cứu {\i1}em{\i0}\N bất cứ khi nào {\i1}em{\i0} gặp khó khăn này.
 {line này không cần đẩy lên vẫn đẹp mà a, tự nhiên cả 1 đoạn dài có mỗi câu này lên lúc xem hơi bị nhảy :)))}
+[DONE]
 ======================
 TS:
 ======================
 
 THOẠI CỦA ARARAGI KOYOMI (NGỖ NGỊCH) !!
 {NGỖ NGHỊCH}
+[DONE]
 
 Trở lại lúc giờ nghỉ giải lao
 {''lúc'' hoặc ''giờ'' thôi, chứ ''lúc giờ'' hơi thừa}
+[DONE]
 
 
 Cậu ấy phơi bày ra toàn bộ các quân bài mà mình có,\N\N\N\N\N\Nrồi nhường sự quyết định lại cho tôi, bộ cậu ấy nghĩ cái đối sách kiểu cực đoạn \N\N\N\N\N\Nnhư tống tiền thế này là xác đáng cho mục tiêu \N\N\N\N\N\N tế nhị như là cưa đổ một ai đó sao?
 {Cậu ấy phơi bày ra toàn bộ các quân bài mà mình có,\N\N\N\N\N\Nrồi nhường sự quyết định lại cho tôi, bộ cậu ấy nghĩ \N\N\N\N\N\Ncái đối sách kiểu cực đoạn như tống tiền thế này \N\N\N\N\N\N là xác đáng cho mục tiêu tế nhị như là cưa đổ một ai đó sao?}
 {cực đoan}
+[DONE]
 
 Nếu cậu ấy tính đến cái mức tôi là \N\N\N\N\N\N\Nchàng trai sót lại duy nhất trong 100 chàng đó,
 {Nếu cậu ấy tính đến cái mức \N\N\N\N\N\N\Ntôi là chàng trai sót lại duy nhất trong 100 chàng đó,}
+[DONE]
 
 Thôi bỏ mẹ.\N\N\N\N\N moe quá đi mất thôi.
 {viết hoa đầu câu}
+[DONE] (giữ nguyên)
 
 nhưng cái kiểu mối quan hệ như này,
 {nhưng cái mối quan hệ kiểu như này,} thuận hơn
+[DONE]
 ======================
