@@ -16,8 +16,8 @@ Video File: ../raws/[OZR] Bakemonogatari - 14 (BD 1080p Hi10 Opus) [A478DE50].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 285
-Active Line: 289
+Scroll Position: 255
+Active Line: 265
 Video Position: 34758
 
 [V4+ Styles]
@@ -299,7 +299,7 @@ Dialogue: 1,0:13:08.80,0:13:08.85,Signs,,0,0,0,,{=294}{\fscx100\fscy100\alpha&H0
 Dialogue: 1,0:13:08.85,0:13:10.35,Signs,,0,0,0,,{=294}{\fscx100\fscy100\alpha&H00&\c&H1F22DA&\fnHira v8\blur0.8\fs37.5\pos(1521.5,386.69)\frz9.24}Yahoo
 Dialogue: 0,0:16:09.74,0:16:12.11,Signs,,0,0,0,,{\blur1\fnVL DellaRobbia BT\fs40\c&H0D20CD&\pos(557.4,677)\fscx93}Bã{\fscx95}i {*\fscx95}Đ{\fscx93}ậu{*\fscx93.333}\N {\fscx90}X{*\fscx93.333}e{*\fscx96.667} {\fscx100}{*\fscx96.667}Đ{*\fscx93.333}ạ{\fscx90}p
 Dialogue: 0,0:16:29.59,0:16:32.09,Signs,,0,0,0,,{\blur1\fnGentium\b1\fs105\fscx165\fscy165\pos(581.77,346.87)}Nue
-Dialogue: 0,0:16:29.59,0:16:32.09,Signs,,0,0,0,,{\an7\blur1\fs50\fnGentium Basic\c&HFFFFFF&\fscx87\fscy87\pos(1155.5,256.6)}Trong Chuyện kể Heike, nó được mô tả \Nlà một con chimera có đầu khỉ, tứ chi hổ, \Nthân chó gấu trúc Nhật Bản, và đuôi là\N nửa thân trước con rắn. \NTrong các tác phẩm khác, chi tiết về\N thân không được kể, vì vậy đôi khi\N nó được mô tả là mang mình hổ.
+Dialogue: 0,0:16:29.59,0:16:32.09,Signs,,0,0,0,,{\an7\blur1\fs50\fnGentium Basic\c&HFFFFFF&\fscx87\fscy87\pos(1155.5,256.6)}Trong Chuyện kể Heike, nó được mô tả \Nlà một con chimera có đầu khỉ, tứ chi hổ, \Nthân chó gấu trúc Nhật Bản, và đuôi là\N nửa thân trước của rắn. \NTrong các tác phẩm khác, chi tiết về\N thân không được kể, vì vậy đôi khi\N nó được mô tả là mang mình hổ.
 Dialogue: 0,0:19:16.30,0:19:17.17,Signs,,0,0,0,,{\fnGentium Basic\blur1\fscy90\fs70\c&HECF6F9&\pos(525.429,859.071)}Đứa trẻ
 Dialogue: 0,0:19:17.17,0:19:18.05,Signs,,0,0,0,,{\fnGentium Basic\blur4\fs70\c&HE8ECEC&\iclip(2,m 2598 1174 l 2940 1174 2952 1308 2530 1394)\alpha&H80&\fscx80\fscy80\pos(1381.03,581.87)}Đứa trẻ
 Dialogue: 0,0:19:17.17,0:19:18.05,Signs,,0,0,0,,{\fnGentium Basic\blur4\fs70\c&HE8ECEC&\clip(2,m 2600 1178 l 2936 1178 2950 1304 2534 1390 m 2530 1394 l 2952 1308 2940 1174 2598 1174)\alpha&HE6&\fscx80\fscy80\pos(1381.03,581.87)}Đứa trẻ
