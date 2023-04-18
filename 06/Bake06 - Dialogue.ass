@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 06 (BD 1080p Hi10 Opus) [6134A420].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 876
-Active Line: 891
-Video Position: 29918
+Scroll Position: 29
+Active Line: 33
+Video Position: 2423
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,10 +62,10 @@ Dialogue: 12,0:01:18.82,0:01:21.89,Main,,0,0,0,,Không khác gì tự sát, Arar
 Dialogue: 12,0:01:21.89,0:01:25.73,Main,,0,0,0,,Đúng nó phải là có thể tốt nghiệp hay không.
 Dialogue: 12,0:01:25.73,0:01:28.28,Main,,0,0,0,,Với cả, tự sát cái con khỉ.
 Dialogue: 12,0:01:28.28,0:01:30.48,Main,,0,0,0,,Rõ ràng là tự sát, sao mà nghĩ khác được.
-Dialogue: 12,0:01:30.48,0:01:37.57,GT,,0,0,20,,{\c&HFFFE35&}Deru Tokoro ni Deru{\c}: \Nlà 1 cụm từ về việc đưa ra {\c&H3EFF35&}tòa{\c}, {\c&H3EFF35&}cơ quan có thẩm quyền{\c}, {\c&H3EFF35&}công khai{\c},... nghĩa đen là {\c&H3EFF35&}nơi bên ngoài{\c}, {\c&H3EFF35&}nơi lộ ra{\c},...
+Dialogue: 12,0:01:30.48,0:01:37.57,GT,,0,0,20,,{\c&HFFFE35&\pos(960,32)}Deru Tokoro ni Deru{\c}: \Nlà 1 cụm từ về việc đưa ra {\c&H3EFF35&}tòa{\c}, {\c&H3EFF35&}cơ quan có thẩm quyền{\c}, {\c&H3EFF35&}công khai{\c},... nghĩa đen là {\c&H3EFF35&}nơi bên ngoài{\c}, {\c&H3EFF35&}nơi lộ ra{\c},...
 Dialogue: 12,0:01:30.48,0:01:34.82,Main,,0,0,0,,Xem chừng là phải "lôi em ra vạch rõ trắng đen" mới được.
 Dialogue: 12,0:01:35.78,0:01:37.57,Main,,0,0,0,,"Lôi em ra vạch" á?!
-Dialogue: 12,0:01:38.03,0:01:41.09,Main,,0,0,0,,Là ngực hay mông hả anh?
+Dialogue: 12,0:01:38.04,0:01:41.09,Main,,0,0,0,,Là ngực hay mông hả anh?
 Dialogue: 12,0:01:41.09,0:01:44.79,Main,,0,0,0,,Araragi-san muốn gì từ cơ thể của học sinh tiểu học cơ chứ?
 Dialogue: 12,0:01:44.79,0:01:47.55,Main,,0,0,0,,Im ngay! Còn chưa nắm thóp được anh mày đâu!
 Dialogue: 12,0:01:52.75,0:01:55.21,Main,,0,0,0,,Này, Hachikuji, em ấy—

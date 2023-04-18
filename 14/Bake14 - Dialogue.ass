@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 14 (BD 1080p Hi10 Opus) [A478DE50].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 296
-Active Line: 311
-Video Position: 28358
+Scroll Position: 303
+Active Line: 310
+Video Position: 28351
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -144,7 +144,7 @@ Dialogue: 10,0:07:30.63,0:07:33.78,Main,,0,0,0,,{\q2}Giọng nói với lối Ts
 Dialogue: 10,0:07:33.78,0:07:37.06,Main,,0,0,0,,{\i1}Lại chả thế! Mà Kanbaru này, giờ đang ở nhà à?
 Dialogue: 10,0:07:37.56,0:07:41.06,Main,,0,0,0,,Đâu có! Hiếm khi thấy Araragi-senpai đoán sai nhờ.
 Dialogue: 10,0:07:41.06,0:07:43.94,Main,,0,0,0,,Hiện em đang ở khu vui chơi tại siêu thị,
-Dialogue: 10,0:07:43.94,0:07:46.90,GT 2,,0,0,0,,(Phù thủy Sành điệu: Love and Berry)
+Comment: 10,0:07:43.94,0:07:46.90,GT 2,,0,0,0,,(Phù thủy Sành điệu: Love and Berry)
 Dialogue: 10,0:07:43.94,0:07:46.90,Main,,0,0,0,,và chơi trò "Oshare Majo: Love and Berry".
 Dialogue: 10,0:07:46.90,0:07:48.78,Main,,0,0,0,,{\i1}Thế đoán bằng niềm tin à!
 Dialogue: 10,0:07:49.48,0:07:52.20,Main,,0,0,0,,Nay em đã đốt gần 3000 yên rồi.
@@ -261,9 +261,9 @@ Dialogue: 10,0:14:15.75,0:14:20.35,Main,,0,0,0,,Vậy nên sẽ thuận tiện h
 Dialogue: 10,0:14:20.35,0:14:21.96,Main,,1200,0,0,,Choẻn rồi đấy!
 Dialogue: 10,0:14:22.63,0:14:25.09,Main,,0,0,0,,Được rồi! Ta sẽ để mi "giúp một tay".
 Dialogue: 10,0:14:26.23,0:14:29.84,Main,cat,0,0,0,,Thế này thì choẻn câu "Nhờ mèo giúp một tay" rồi ha.
-Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur0.6\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m 800 85 l -819 85 l -819 -28 l 800 -28 m -816 -25 l -816 82 l 797 82 l 797 -25
-Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur0.6\bord0\shad0\fscx100\fscy100\p1\c&H000000&\1a&H97&}m 797 82 l -816 82 l -816 -25 l 797 -25
-Dialogue: 10,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\bord0\shad0\pos(955.2,47.07)\c&H3EFF35&\fscx117\fscy117\blur0.6}Nhờ Mèo Giúp Một Tay{\c}, ám chỉ việc {\c&H3EFF35&}tối tăm mặt mũi{\c}, {\c&H3EFF35&}cực kỳ thiếu nhân lực{\c}.
+Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur0.6\bord0\shad0\p1\c&H000000&\fscx96\fscy88}m 800 85 l -819 85 l -819 -28 l 800 -28 m -816 -25 l -816 82 l 797 82 l 797 -25
+Dialogue: 6,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\an7\pos(960,48.67)\blur0.6\bord0\shad0\p1\c&H000000&\1a&H97&\fscx96\fscy88}m 797 82 l -816 82 l -816 -25 l 797 -25
+Dialogue: 10,0:14:26.23,0:14:29.84,GT,cat,0,0,0,,{\bord0\shad0\pos(955.2,49.07)\c&H3EFF35&\blur0.6\fscx125\fscy125}Nhờ Mèo Giúp Một Tay{\c}, ám chỉ việc {\c&H3EFF35&}tối tăm mặt mũi{\c}, {\c&H3EFF35&}cực kỳ thiếu nhân lực{\c}.
 Dialogue: 10,0:14:32.65,0:14:37.23,Main,,0,0,0,,{\i1}Hanekawa của thằng này, mấy trò đùa ngớ ngẩn như thế \Nkhông khiến cậu ấy buồn cười đâu nhá!
 Dialogue: 10,0:14:37.98,0:14:43.91,Main,,0,0,0,,Mà mi có thính giác và khứu giác tốt,\N có thể nhận ra được giọng và mùi của Shinobu đúng chứ?
 Dialogue: 10,0:14:43.91,0:14:45.45,Main,,0,0,0,,Cứ lần theo là được.
@@ -344,7 +344,7 @@ Dialogue: 10,0:19:13.71,0:19:16.31,Main,,0,0,0,,Không có ta ở bên thì ch�
 Dialogue: 10,0:19:24.44,0:19:30.44,Main,cat,0,0,0,,Tóm lại thì con sen này, \Nviệc tìm ra con Ma cà rồng đó khem đơn giản đeo.
 Dialogue: 10,0:19:30.44,0:19:36.71,Main,,0,0,0,,Nhưng không thể rời khỏi thành phố được,\N hiện tại thì không thể cách xa ta đến thế.
 Dialogue: 10,0:19:36.71,0:19:39.45,Main,cat,0,0,0,,Ý là Ma cà rồng hút máu... Nyaa~
-Dialogue: 10,0:19:40.20,0:19:42.51,Main,chptr,0,0,0,,Ma cà rồng hút máu người,
+Dialogue: 10,0:19:40.20,0:19:42.51,Main,,0,0,0,,Ma cà rồng hút máu người,
 Dialogue: 10,0:19:42.51,0:19:48.57,Main,cat,0,0,0,,nhưng ý nghĩa giữa việc hút máu để ăn \Nvà hút máu để bầu bạn... khem giống nhau.
 Dialogue: 10,0:19:48.57,0:19:49.84,Main,,0,0,0,,Chuyện đó ta biết.
 Dialogue: 10,0:19:55.10,0:19:58.60,Main,cat,0,0,0,,Hoặc có lẽ đó mới đúng là lý do cô ta bỏ đi.

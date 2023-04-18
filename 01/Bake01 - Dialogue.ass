@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 01 (BD 1080p Hi10 Opus) [37CAF088].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 182
-Active Line: 398
-Video Position: 19645
+Scroll Position: 240
+Active Line: 453
+Video Position: 24172
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -484,7 +484,7 @@ Dialogue: 12,0:16:35.85,0:16:37.80,Main,,0,0,0,,Đừng có hiểu nhầm.
 Dialogue: 12,0:16:37.80,0:16:41.23,Main,,0,0,0,,Tôi vẫn chưa hết cảnh giác với cậu đâu.
 Dialogue: 12,0:16:41.81,0:16:44.05,Main,,0,400,0,,"Chưa hết cảnh giác" cái gì chứ?
 Dialogue: 12,0:16:44.05,0:16:45.20,Main,,0,400,0,,Nghe đây.
-Dialogue: 12,0:16:48.16,0:16:52.82,GT,,60,0,0,,{\an7}(đúng thoại là 5000, ko phải 500)
+Dialogue: 12,0:16:48.16,0:16:52.82,GT 2,,0,400,0,,(đúng thoại là 5000, ko phải 500)
 Dialogue: 12,0:16:45.20,0:16:48.16,Main,,0,400,0,,Nếu không thể liên lạc được với tôi\N mỗi phút một lần...
 Dialogue: 12,0:16:48.16,0:16:52.82,Main,,0,400,0,,là 500 anh em máu chiến của tôi \Nsẽ tấn công gia đình cậu đấy.
 Dialogue: 12,0:16:52.82,0:16:55.82,Main,,0,400,0,,Không sao đâu mà, \Nkhỏi cần lo nhiều.

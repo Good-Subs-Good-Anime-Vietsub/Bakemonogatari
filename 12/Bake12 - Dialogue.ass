@@ -14,10 +14,10 @@ Audio File: ../../Bakemonogatari/raws/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 O
 Video File: ../../Bakemonogatari/raws/[OZR] Bakemonogatari - 12 (BD 1080p Hi10 Opus) [9C477252].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 301
-Active Line: 324
-Video Position: 30786
+Video Zoom Percent: 0.500000
+Scroll Position: 95
+Active Line: 96
+Video Position: 9533
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,10 +125,10 @@ Dialogue: 10,0:06:24.44,0:06:26.42,Main,,1,1,0,,Mong chờ đến vậy mà!
 Dialogue: 10,0:06:26.42,0:06:28.74,Main,,1,1,0,,Thiếu chút nữa là giấc mơ thành sự thật vậy mà!
 Dialogue: 10,0:06:29.08,0:06:31.11,Main,,0,0,0,,Mơ cơ à, nói quá rồi đấy.
 Dialogue: 10,0:06:31.11,0:06:33.00,Main,,0,0,0,,Biết gì không, Araragi-kun?
-Dialogue: 10,0:06:33.00,0:06:36.37,GT,,0,0,0,,{\bord0\shad0}Ở đây Hitagi {\c&H3EFF35&}cố tình đọc sai{\c}, đúng phải là: "Viết chữ Người với chữ Mơ, thì đọc là Phù Du"\Nám chỉ {\c&H3EFF35&}Giấc Mơ của Con Người chỉ là Phù Du/Chóng Vánh{\c}.
+Dialogue: 10,0:06:33.00,0:06:36.37,GT,,0,0,0,,{\bord0\shad0\pos(960,34)}Ở đây Hitagi {\c&H3EFF35&}cố tình đọc sai{\c}, đúng phải là: "Viết chữ Người với chữ Mơ, thì đọc là Phù Du"\Nám chỉ {\c&H3EFF35&}Giấc Mơ của Con Người chỉ là Phù Du/Chóng Vánh{\c}.
 Dialogue: 10,0:06:33.00,0:06:34.86,Main,,0,0,0,,Viết chữ Người với chữ Phù Du...
 Dialogue: 10,0:06:34.86,0:06:36.37,Main,,0,0,0,,Ơ?! Là gì ấy nhở?
-Dialogue: 10,0:06:37.59,0:06:39.08,GT,,0,0,0,,{\q2\bord0\shad0\c&H3EFF35&}Chữ Kanji{\c} bên dưới hoàn toàn {\c&H3536FF&}KHÔNG CÓ{\c}, ở đây nhắm vào sự {\c&H3EFF35&}LẶP LẠI{\c} trong cái tên {\c&HFFFE35&}Araragi với 2 chữ Ra{\c},\N tương ứng với {\c&HFFFE35&}2 chữ Người{\c}, vì ngay trong từ {\c&H3EFF35&}Phù Du{\c} đã tồn tại {\c&H3EFF35&}1 chữ Người{\c}.
+Dialogue: 10,0:06:37.59,0:06:39.08,GT,,0,0,0,,{\q2\bord0\shad0\c&H3EFF35&\pos(960,34)}Chữ Kanji{\c} bên dưới hoàn toàn {\c&H3536FF&}KHÔNG CÓ{\c}, ở đây nhắm vào sự {\c&H3EFF35&}LẶP LẠI{\c} trong cái tên {\c&HFFFE35&}Araragi với 2 chữ Ra{\c},\N tương ứng với {\c&HFFFE35&}2 chữ Người{\c}, vì ngay trong từ {\c&H3EFF35&}Phù Du{\c} đã tồn tại {\c&H3EFF35&}1 chữ Người{\c}.
 Dialogue: 10,0:06:37.59,0:06:39.08,Main,,0,0,0,,{\i1}Chắc là ám chỉ mình rồi.
 Dialogue: 10,0:06:41.40,0:06:43.54,Main,,0,0,0,,Này! Senjōgahara...
 Dialogue: 10,0:06:43.54,0:06:45.70,Main,,0,0,0,,Rốt cuộc thì cậu tính làm gì?

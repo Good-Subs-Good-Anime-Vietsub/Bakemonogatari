@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 07 (BD 1080p Hi10 Opus) [E46A0EDD].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 160
-Active Line: 161
-Video Position: 16109
+Scroll Position: 546
+Active Line: 554
+Video Position: 34716
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -586,7 +586,7 @@ Dialogue: 9,0:24:00.72,0:24:03.47,Main,preview,0,0,0,,{\i1}Thế em có biết t
 Dialogue: 9,0:24:03.47,0:24:04.71,Main,preview,0,0,0,,{\i1}Biết chứ! Biết chứ!
 Dialogue: 9,0:24:04.71,0:24:07.30,Main,preview,0,0,0,,{\i1}Hình như ở Uji người ta làm cả "vòi trà" \Nnhư kiểu "vòi nước" ấy.
 Dialogue: 9,0:24:07.30,0:24:07.94,Main,preview,0,0,0,,{\i1}Thật á?
-Dialogue: 9,0:24:07.94,0:24:11.32,GT 2,preview,0,0,0,,{\an4\i1\pos(402.01,924.32)}Jaguchi                               Jacuzzi
+Dialogue: 9,0:24:07.94,0:24:11.32,GT 2,preview,0,0,0,,{\an4\i1\pos(369.01,924.32)}(Jaguchi)                          (Jacuzzi)
 Dialogue: 9,0:24:07.94,0:24:11.32,Main,preview,0,0,0,,{\i1}Mà "vòi" với "bồn tắm sục" đọc nghe giống nhau nhở?
 Dialogue: 9,0:24:11.32,0:24:12.97,Main,preview,0,0,0,,{\i1}Tìm hiểu thêm về Uji nào.
 Dialogue: 9,0:24:12.97,0:24:13.85,Main,preview,0,0,0,,{\i1}Câu đố xem trước!

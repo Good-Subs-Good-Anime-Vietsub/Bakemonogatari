@@ -15,9 +15,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 08 (BD 1080p Hi10 Opus) [C6BC8067].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 161
-Active Line: 175
-Video Position: 21603
+Scroll Position: 306
+Active Line: 316
+Video Position: 34530
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -312,7 +312,7 @@ Dialogue: 9,0:21:53.66,0:21:58.59,Main,,0,0,0,,Em yêu Senjōgahara-senpai!
 Dialogue: 9,0:21:58.59,0:22:01.46,Main,,0,0,0,,Vậy à, chị thì không yêu em cho lắm.
 Dialogue: 9,0:22:02.16,0:22:04.46,Main,,0,0,0,,Nhưng kể cả thế em vẫn ở bên chị chứ?
 Dialogue: 9,0:22:05.51,0:22:08.21,Main,,0,0,0,,Để em chờ bấy lâu nay, cho chị xin lỗi nha!
-Dialogue: 9,0:22:09.22,0:22:12.90,GT,@@@,0,0,0,,{\fscx112\fscy112\an7\pos(60.67,30)}Kamaseinu: \N- Chiếu dưới trong đánh nhau, không có cơ hội thắng.\N- Tình tay 3, kamaseinu (C) là người ở dưới cùng. C yêu B, B yêu A, A không yêu B lẫn C.
+Dialogue: 9,0:22:09.22,0:22:12.90,GT,@@@,0,0,0,,{\an7\bord0\shad0\fscx99\fscy99\pos(40.67,34)}Kamaseinu: \N- Chiếu dưới trong đánh nhau, không có cơ hội thắng.\N- Tình tay 3, kamaseinu (C) là người ở dưới cùng. C yêu B, B yêu A, A không yêu B lẫn C.
 Dialogue: 9,0:22:09.22,0:22:12.90,Main,@@@,0,0,0,,{\i1}Chán luôn! Thôi coi như làm "kamaseinu" vậy!{かませ犬(kamaseinu)}
 Dialogue: 9,0:22:12.90,0:22:15.85,Main,,0,0,0,,{\i1}Dù sao tôi cũng đã đóng "vai hạng ba gây hài"\N cả đời mình rồi.
 Dialogue: 9,0:22:16.35,0:22:23.99,Main,,0,0,0,,{\i1}Lẽ ra tôi nên biết Senjōgahara là mẫu phụ nữ\N không chịu từ bỏ và tham lam từ lâu rồi mới phải.
@@ -346,7 +346,7 @@ Dialogue: 9,0:23:55.46,0:23:56.12,Main,,0,0,0,,{\i1}Karen đây!
 Dialogue: 9,0:23:56.12,0:23:57.14,Main,,0,0,0,,{\i1}Tsukihi có!
 Dialogue: 9,0:23:57.14,0:23:58.78,Main,,0,0,0,,{\i1}Chà, "Koyomi" rõ ràng là Onī-chan cơ mà...
 Dialogue: 9,0:23:58.78,0:23:59.59,Main,,0,0,0,,{\i1}Nii-chan ha!
-Dialogue: 9,0:23:59.59,0:24:01.24,GT 2,,0,0,0,,{\fs40\bord2\pos(836,951.34)\i1}(koyomi)
+Dialogue: 9,0:23:59.59,0:24:01.24,GT 2,,0,0,0,,{\pos(836,951.34)\i1}(koyomi)
 Comment: 9,0:23:59.59,0:24:01.24,GT 2,,0,0,0,,(Sanrinbō - Ngày kỵ cho xây nhà, cháy 3 nhà hàng xóm)
 Dialogue: 9,0:23:59.59,0:24:01.24,Main,,0,0,0,,{\i1}Chị biết 'ngày lịch' Sanrinbō không?
 Dialogue: 9,0:24:01.24,0:24:02.09,Main,,0,0,0,,{\i1}Sanrinbō?!

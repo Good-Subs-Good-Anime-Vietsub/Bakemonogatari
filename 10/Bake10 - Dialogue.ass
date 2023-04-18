@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 10 (BD 1080p Hi10 Opus) [620E8627].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 159
-Active Line: 173
-Video Position: 20546
+Scroll Position: 6
+Active Line: 10
+Video Position: 441
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Dialogue: 10,0:00:04.49,0:00:08.23,Main,,0,0,0,,Thế thì phải là Jagirinawa
 Dialogue: 10,0:00:08.73,0:00:11.61,Main,,0,0,0,,Jagiri, Janawa, Jagirinawa.
 Dialogue: 10,0:00:11.61,0:00:15.24,Main,,0,0,0,,Đôi khi còn được gọi là Chằn.
 Dialogue: 10,0:00:15.24,0:00:17.99,Main,,0,0,0,,Chằn? Tức là Rắn ấy à?
-Dialogue: 10,0:00:18.39,0:00:21.51,GT 2,,0,0,0,,{\pos(700,954)}(Jagirinawa)
+Dialogue: 10,0:00:18.39,0:00:21.51,GT 2,,0,0,0,,{\pos(700,948)}(Jagirinawa)
 Dialogue: 10,0:00:18.39,0:00:21.51,Main,,0,0,0,,Oshino, Rắn Xén Dây là thuộc dạng Quái Dị nào?
 Dialogue: 10,0:00:22.02,0:00:24.51,Main,,0,0,0,,Là dạng được sinh ra từ dã tâm của ai đó.
 Dialogue: 10,0:00:24.89,0:00:26.98,Main,,0,0,0,,Mà cũng không nhất thiết phải là dã tâm,

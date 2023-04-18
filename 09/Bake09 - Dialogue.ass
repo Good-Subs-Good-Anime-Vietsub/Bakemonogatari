@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 09 (BD 1080p Hi10 Opus) [578467C2].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 40
-Active Line: 47
-Video Position: 7905
+Scroll Position: 307
+Active Line: 330
+Video Position: 36694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -363,7 +363,7 @@ Dialogue: 5,0:25:26.47,0:25:27.15,Main,,0,0,0,,{\i1}Tsukihi có!
 Dialogue: 5,0:25:27.15,0:25:29.13,Main,,0,0,0,,{\i1}Mặc dù là nói bao nhiêu lần rồi!
 Dialogue: 5,0:25:29.13,0:25:30.43,Main,,0,0,0,,{\i1}Nói bao nhiêu lần rồi!
 Dialogue: 5,0:25:30.43,0:25:33.55,Main,,0,0,0,,{\i1}Mà vẫn còn nhiều người nghĩ tên tớ là Karen trong JunjōKaren.
-Dialogue: 5,0:25:30.43,0:25:33.55,GT,,0,0,0,,{\fscx112\fscy112\i1}JunjōKaren - Người Đẹp Tâm Thanh
+Dialogue: 5,0:25:30.43,0:25:33.55,GT,,0,0,0,,{\i1\pos(960,54)\fscx123\fscy123\bord0\shad0}JunjōKaren - Người Đẹp Tâm Thanh
 Dialogue: 5,0:25:33.55,0:25:34.31,Main,,0,0,0,,{\i1}Rất nhiều người!
 Dialogue: 5,0:25:34.31,0:25:36.79,Main,,0,0,0,,{\i1}Tên tớ là Karen, chứ không phải Karen, Karen nhá!
 Dialogue: 5,0:25:36.79,0:25:38.48,Main,,0,0,0,,{\i1}Ka ở đây là Lửa nhá, Karen nhá!

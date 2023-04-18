@@ -16,9 +16,9 @@ Video File: ../raws/[OZR] Bakemonogatari - 11 (BD 1080p Hi10 Opus) [01D6C8B9].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 179
-Active Line: 185
-Video Position: 21120
+Scroll Position: 57
+Active Line: 67
+Video Position: 10100
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -100,9 +100,9 @@ Dialogue: 10,0:06:47.92,0:06:50.93,Main,,0,0,0,,Có chuyện khẩn cấp chăng
 Dialogue: 10,0:06:51.49,0:06:53.18,Main,,0,0,0,,Như kiểu Takkyūdō ấy!
 Dialogue: 10,0:06:55.31,0:07:01.25,Main,,0,0,0,,Tại sao em lại so sánh em ấy với chiêu thức đặc biệt \Ncủa Hoàng tử Yamato, nhân vật chính trong Bikkuriman hả?
 Dialogue: 10,0:07:01.25,0:07:05.44,Main,,0,0,0,,Không chỉ gây khó hiểu, \Nmà còn ép anh đóng vai Tsukkomi để giải thích.
-Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H00&\c&H000000&\fscx107\fscy107}m 1538 126 l -49 126 l -49 -18 l 1538 -18 m -45 -14 l -45 122 l 1534 122 l 1534 -14
-Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H73&\c&H000000&\fscx107\fscy107}m 1534 122 l -45 122 l -45 -14 l 1534 -14
-Dialogue: 10,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\bord0\shad0\fscx107\fscy107\pos(52.67,48.26)}Trong {\c&H3EFF35&}Hài kịch Manzai{\c}, một loại hình nghệ thuật của Nhật gồm {\c&H3EFF35&}2 người nói chuyện qua lại{\c},\N vai {\c&H3EFF35&}Tsukkomi{\c} là {\c&HFFFE35&}người giải thích/bắt bẻ{\c} những câu đùa của vai {\c&H3EFF35&}Boke{\c}.
+Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H00&\c&H000000&\fscx105\fscy94}m 1538 126 l -49 126 l -49 -18 l 1538 -18 m -45 -14 l -45 122 l 1534 122 l 1534 -14
+Dialogue: 6,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\pos(68.67,46)\blur1\bord0\shad0\p1\1a&H73&\c&H000000&\fscx105\fscy94}m 1534 122 l -45 122 l -45 -14 l 1534 -14
+Dialogue: 10,0:07:01.25,0:07:05.44,GT,,0,0,0,,{\an7\bord0\shad0\pos(52.67,48.26)\fscx112\fscy112}Trong {\c&H3EFF35&}Hài kịch Manzai{\c}, một loại hình nghệ thuật của Nhật gồm {\c&H3EFF35&}2 người nói chuyện qua lại{\c},\N vai {\c&H3EFF35&}Tsukkomi{\c} là {\c&HFFFE35&}người giải thích/bắt bẻ{\c} những câu đùa của vai {\c&H3EFF35&}Boke{\c}.
 Dialogue: 10,0:07:05.44,0:07:09.07,Main,,0,0,0,,Ừm... thì Nadeko cũng đâu mong là anh hiểu đâu.
 Dialogue: 10,0:07:11.45,0:07:14.95,Main,,0,0,0,,Koyomi-onīchan, vẫn cứ là thú vị~
 Dialogue: 10,0:07:18.29,0:07:19.86,Main,,0,0,0,,Nhưng mà biết sao giờ?
