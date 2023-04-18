@@ -5,18 +5,24 @@ Dia:
 Mà mi có thính giác và khướu giác tốt,
 có thể nhận ra được giọng và mùi của Shinobu đúng chứ?
 {khứu giác}
+[DONE]
 
 Khướu Giác
 {Khứu Giác}
+[DONE]
 
 Dù sao thì vấn đề là sự căng thẳng,
 {chấm cuối câu}
+[DONE]
+
 
 Ví dụ thế này con sen,\Nmi có thể đoán tại sao con Ma cà rồng đó lại biến mất không?
 {biến mất khem} :))
+[DONE]
 
 nhưng ý nghĩa giữa việc hút máu để ăn \Nvà để hút máu để bầu bạn... khem giống nhau.
 {và hút máu để bầu bạn}
+[DONE]
 
 ======================
 TS:

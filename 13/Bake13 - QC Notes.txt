@@ -4,9 +4,11 @@ Dia:
 
 hôm qua, em có nhìn thấy Shinobu-san ở bên ngoài.
 {dòng này viết hoa đầu câu vẫn được}
+[DONE]
 
 Kể cả cuối cùng lại đến tay ông ấy,\N nhưng đầu tiên cứ phải hỏi cho rõ đã.
 {để lệch phải đẹp hơn là để ở giữa}
+[DONE]
 
 ======================
 TS:
