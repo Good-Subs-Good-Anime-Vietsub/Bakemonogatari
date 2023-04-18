@@ -17,10 +17,6 @@ jobs:
   merge:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        episodes: ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12" ,"13", "14", "15"]
-
     steps:
     - uses: actions/checkout@v3
     - name: Set up JDK 11
@@ -30,14 +26,12 @@ jobs:
         distribution: 'zulu'
         cache: gradle
     - name: Merge subtitle
-      run: ./gradlew merge.${{matrix.episodes}}
-    - name: Move merged subtitle
-      run: mv "${{matrix.episodes}}/Bake${{matrix.episodes}} - Merged.ass" "fonts/"
+      run: |
+        for episode in {01..15}; do
+          ./gradlew merge.${episode}
+          mv "Bake${episode} - Merged.ass" "fonts/"
+        done
 
-  compress:
-    runs-on: ubuntu-latest
-    needs: [merge]
-    steps:
     - name: Compress
       run: |
         cd fonts
