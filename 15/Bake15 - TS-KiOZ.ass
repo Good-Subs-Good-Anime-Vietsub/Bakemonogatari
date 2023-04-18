@@ -16,8 +16,8 @@ Video File: ../raws/[OZR] Bakemonogatari - 15 (BD 1080p Hi10 Opus) [8BD05F5D].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1763
-Active Line: 1775
+Scroll Position: 887
+Active Line: 927
 Video Position: 20376
 
 [V4+ Styles]
@@ -34,8 +34,8 @@ Style: OPvie,VL Ample,57,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:25.41,0:04:25.66,Signs,,0,0,0,add.sign,{\fnSVN-Effra\fs60\blur6\1a&H2F&\fsp24\i1\pos(965,367.44)\fscx133\fscy158}KIYOMI MA CÀ RỒNG.
-Dialogue: 1,0:04:25.41,0:04:25.66,Signs,,0,0,0,add.sign,{\fnSVN-Effra\fs60\blur1.1\c&HFFFFFF&\fsp24\i1\pos(965,367.44)\fscx133\fscy158}KIYOMI MA CÀ RỒNG.
+Dialogue: 0,0:04:25.41,0:04:25.66,Signs,,0,0,0,add.sign,{\fnSVN-Effra\fs60\blur6\1a&H2F&\fsp24\i1\pos(965,367.44)\fscx133\fscy158}KOYOMI MA CÀ RỒNG.
+Dialogue: 1,0:04:25.41,0:04:25.66,Signs,,0,0,0,add.sign,{\fnSVN-Effra\fs60\blur1.1\c&HFFFFFF&\fsp24\i1\pos(965,367.44)\fscx133\fscy158}KOYOMI MA CÀ RỒNG.
 Dialogue: 0,0:00:11.99,0:00:12.03,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur6\1a&H2F&\pos(964.84,457.44)}Khung Hình Đen
 Dialogue: 1,0:00:11.99,0:00:12.03,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs60\blur1.1\c&HFFFFFF&\pos(964.84,457.44)}Khung Hình Đen
 Dialogue: 0,0:00:11.99,0:00:12.03,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs36\blur6\1a&H20&\c&HFFFFFF&\pos(964.8,840)}Hoạt Cảnh số      Không Có
@@ -961,7 +961,7 @@ Dialogue: 1,0:04:03.97,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur1.4\fnVL 
 Dialogue: 0,0:04:03.97,0:04:04.01,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur6\fs35\pos(1728,496)\fscx117\fscy117}Kanji cổ    D
 Dialogue: 1,0:04:03.97,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur1\fs35\pos(1728,496)\fscx117\fscy117}Kanji cổ    D
 Dialogue: 0,0:04:04.01,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\blur6\alpha&H60&\fs40\pos(312.21,495.31)}Hoạt Cảnh số      62
-Dialogue: 0,0:04:04.01,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur5\alpha&H60&\fnVL DellaRobbia BT\pos(777,512)}Kawa\N{\fs120}(vũ)
+Dialogue: 0,0:04:04.01,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fs200\blur5\alpha&H60&\fnVL DellaRobbia BT\pos(777,512)}Hane\N{\fs120}(vũ)
 Dialogue: 0,0:04:04.01,0:04:04.05,Signs,,0,0,0,,{\c&HFFFFFF&\fnVL DellaRobbia BT\alpha&H60&\blur6\fs35\pos(1728,496)\fscx117\fscy117}Kanji cổ    D
 Dialogue: 0,0:04:04.05,0:04:05.97,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur6\1a&H60&\c&H353B3F&\pos(964.8,840)}Hoạt Cảnh số      62
 Dialogue: 1,0:04:04.05,0:04:05.97,Signs,,0,0,0,,{\fnVL DellaRobbia BT\fs46\blur1\c&H353B3F&\pos(964.8,840)}Hoạt Cảnh số      62
